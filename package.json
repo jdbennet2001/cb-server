@@ -1,0 +1,26 @@
+{
+  "name": "cb-server",
+  "version": "1.0.0",
+  "description": "Archive server code for cb-* family",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "debug": "node --inspect --debug-brk index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdbennet2001/cb-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdbennet2001/cb-server/issues"
+  },
+  "homepage": "https://github.com/jdbennet2001/cb-server#readme"
+}
