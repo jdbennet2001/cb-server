@@ -4,7 +4,9 @@ const nconf 	= require('nconf');
 const path 		= require('path');
 
 const config 	= path.join(__dirname, './config/app.json')
-nconf.file({ file: config });
+nconf.file(
+	{ file: config }
+);
 
 const app 		= express()
 app.use(cors())
