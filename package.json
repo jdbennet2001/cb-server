@@ -4,8 +4,20 @@
   "description": "Archive server code for cb-* family",
   "main": "index.js",
   "dependencies": {
+    "adm-zip": "^0.4.11",
+    "archive-type": "^4.0.0",
     "cors": "^2.8.4",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "jsonfile": "^4.0.0",
+    "lodash": "^4.17.4",
+    "nconf": "^0.8.5",
+    "node-unrar-js": "^0.8.1",
+    "pouchdb": "^6.3.4",
+    "promise-each": "^2.2.0",
+    "read-chunk": "^2.1.0",
+    "sharp": "^0.20.3",
+    "walkdir": "0.0.12"
   },
   "devDependencies": {},
   "scripts": {

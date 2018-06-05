@@ -5,6 +5,17 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#PouchDB files
+covers
+
+#Test Archives
+*.cbr
+*.cbz
+*.zip
+
+#Catalog information
+model.json
+
 # Runtime data
 pids
 *.pid
