@@ -2,6 +2,7 @@ const express 	= require('express')
 const cors 		= require('cors')
 const nconf 	= require('nconf');
 const path 		= require('path');
+const _ 		= require('lodash');
 
 const config 	= path.join(__dirname, './config/app.json')
 nconf.file(
@@ -16,7 +17,11 @@ let {cover, model, index} = require('./lib/library');
 
 /* Get catalog details */
 app.get('/model', function(req, res) {
-	res.json(model());
+
+	let source_dir = nconf.get('source_dir');
+	let data = _.assign({}, model(), {source_dir});
+
+	res.json(data);
 });
 
 app.post('/index', function(req, res){
