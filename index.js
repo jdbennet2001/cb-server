@@ -24,8 +24,13 @@ app.get('/model', function(req, res) {
 	res.json(data);
 });
 
+/* Scan the catalog */
 app.post('/index', function(req, res){
-	index();
+
+	let source_dir = nconf.get('source_dir');
+	index(source_dir).then(data =>{
+		res.json(data);
+	})
 })
 
 /*
