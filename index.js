@@ -37,17 +37,18 @@ app.post('/index', function(req, res){
 Return the cover for a given issue.
 @input the issue name (No path, example 'Spider-Man 01.cbr')
 */
-// app.get("/cover/:name", function(req, res) {
-// 	let name = decodeURIComponent(req.params.name);
-// 	cover(name).then(data => {
-// 		res.contentType('image/jpeg');
-// 		res.end(data, 'binary');
-// 	}, err => {
-// 		const path_to_balloon = process.cwd() + '/public/icons/balloon.png'
-// 		res.sendFile(path_to_balloon);
-// 	})
+app.get("/cover/:name", function(req, res) {
+	debugger;
+	let name = decodeURIComponent(req.params.name);
+	cover(name).then(data => {
+		res.contentType('image/jpeg');
+		res.end(data, 'binary');
+	}, err => {
+		const path_to_balloon = process.cwd() + '/public/speech_balloon.png'
+		res.sendFile(path_to_balloon);
+	})
 
-// });
+});
 
 
 /*
