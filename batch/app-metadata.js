@@ -78,7 +78,7 @@ setInterval(function() {
         metadata.push(archive);
         jsonfile.writeFileSync(metadata_path, metadata, {spaces:4})
 
-        console.log( `${archives.length} : ${name} -> ${description}`)
+        console.log( `${archives.length} of ${archives.length + metadata.length} : ${name} -> ${description}`)
     }, err =>{
         console.error(`Error calling CV ${err.message}`);
     })
