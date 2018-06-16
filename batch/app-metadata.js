@@ -83,8 +83,11 @@ setInterval(function() {
         console.error(`Error calling CV ${err.message}`);
     })
 
+    if ( archives.length === 0 ){
+        process.exit(0);
+    }
 
-}, 15000);
+}, 2500);
 
 
 
