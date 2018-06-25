@@ -28,6 +28,7 @@ app.get('/model', function(req, res) {
 app.post('/index', function(req, res){
 
 	let source_dir = nconf.get('source_dir');
+	console.log( `Indexing ${source_dir}`)
 	index(source_dir).then(data =>{
 		res.json(data);
 	})
