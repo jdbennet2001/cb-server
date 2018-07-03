@@ -56,7 +56,6 @@ app.get("/cover/:name", function(req, res) {
 app.get("/page", function(req, res) {
 
 	let archive = decodeURIComponent(req.query.archive);
-	debugger;
 	page(archive, req.query.number).then(data => {
 		res.contentType('image/jpeg');
 		res.end(data, 'binary');
