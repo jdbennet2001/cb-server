@@ -11,3 +11,14 @@ body {
 	font-size: 20px;
 	font-weight: bold;
 }
+
+.action{
+    margin-top: 25px;
+    margin-left: 25px;
+    background-color: dodgerblue;
+    width: 75px;
+    padding: 15px;
+    text-align: center;
+    color: white;
+    cursor: pointer; 
+}
