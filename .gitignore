@@ -73,3 +73,6 @@ typings/
 
 #Conversion - Tmp files
 batch/tmp/*
+
+#Local DB files
+data/comic-info/*
