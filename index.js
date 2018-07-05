@@ -68,4 +68,32 @@ app.get("/page", function(req, res) {
 
 });
 
+const {suggestions} = require('./lib/import/suggestions');
+
+/*
+ Return a list of suggestions for a new issue
+ @param: issue_number
+ @param: year
+ @volume_name
+ @response
+    [{
+        "description": "<p><em>“THE ROAD TO FLASH WAR!” Wally West is overwhelmed by fragments from his past! With his protégé’s psyche falling apart, Barry Allen races around the DCU calling in every favor possible to save his shattered family. Meanwhile, Hunter Zolomon’s sinister machinations tip over the first domino in what might prove to be the end of everything for The Flash!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Dan Panosian</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Francesco Mattina</td><td>2</td></tr></tbody></table>",
+        "id": 669430,
+        "cover_date": "2018-07-01",
+        "issue_number": "46",
+        "site_detail_url": "https://comicvine.gamespot.com/the-flash-46-road-to-flash-war/4000-669430/",
+        "image_url": "https://comicvine.gamespot.com/api/image/scale_small/6425116-46.jpg",
+        "volume_name": "The Flash",
+        "volume_id": 91750
+    }]
+ */
+app.get('/suggestions', function(req, res){
+	let issue_number = _.toNumber(req.query.issue_number);
+	let year 		 = _.toNumber(req.query.year);
+	let volume_name  = req.query.volume_name;
+	suggestions(issue_number, year, volume_name).then(data =>{
+		return res.json(data);
+	})
+})
+
 app.listen(2002, () => console.log('CORS-enabled web server listening on port 2002'))
