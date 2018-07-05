@@ -10,6 +10,7 @@ nconf.file(
 );
 
 const app 		= express()
+app.use(express.static('public'))
 app.use(cors())
 
 let {cover, model, index} = require('./lib/library');
