@@ -10,8 +10,11 @@
     "archiver": "^2.1.1",
     "cors": "^2.8.4",
     "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
     "fs": "0.0.1-security",
     "fs-extra": "^6.0.1",
+    "graphql": "^14.0.2",
+    "graphql-tools": "^4.0.0",
     "jsonfile": "^4.0.0",
     "lodash": "^4.17.4",
     "moment": "^2.22.2",
@@ -24,7 +27,9 @@
     "sharp": "^0.20.3",
     "walkdir": "0.0.12"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-plugin-react": "^7.11.1"
+  },
   "scripts": {
     "sudo-nstall": "sudo npm install --unsafe-perm=true --allow-root",
     "start": "node index.js",

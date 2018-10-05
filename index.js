@@ -96,4 +96,12 @@ app.get('/suggestions', function(req, res){
 	})
 })
 
+var graphqlHTTP = require('express-graphql');
+const {	schema,	root} = require('./schema');
+app.use('/graphql', graphqlHTTP({
+	schema: schema,
+	rootValue: root,
+	graphiql: true,
+}));
+
 app.listen(2002, () => console.log('CORS-enabled web server listening on port 2002'))
