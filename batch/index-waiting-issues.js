@@ -2,7 +2,7 @@ const _ 			= require('lodash');
 const fs            = require('fs');
 const {data} 		= require('../lib/import/metadata');
 
-const UNFILED_DIR	= '/Volumes/VIDEO/comics/unfiled';
+const UNFILED_DIR	= '/Volumes/Public/webbox/unfiled';
 let files = fs.readdirSync( UNFILED_DIR );
 
 
