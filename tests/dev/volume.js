@@ -1,16 +1,17 @@
 const assert = require('chai').assert;
 
-const {suggestions} = require('../../lib/import/suggestions');
+const {volume} = require('../../lib/import/suggestions');
 
 
-describe('Suggestions', function() {
+describe('Volumes', function() {
 
 	debugger;
-	it('can return information for Spiderman #004, 2018', async () => {
-		let results = await suggestions(4, 2018, "Spider-Man");
-		assert.isNotEmpty(results);
+	it('.. can return information for Flash #091', async () => {
+		let {count, location} = volume('3790');
+		assert.isNumber(count);
+		assert.isString(location);
 	});
 
-	
+
 
 });

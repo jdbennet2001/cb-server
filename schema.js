@@ -4,15 +4,21 @@ const { makeExecutableSchema } = require("graphql-tools");
 let schemaText =`
 
 # Suggest a possible target when filing a comic
-type Suggestion { 
+type Series{
+    name:String
+    id: String
+    count: Int
+    location: String
+}
+
+type Suggestion {
     id : String
-    volume : String
-    volume_id : String
     image : String
     name : String
     description : String
     store_date: String
     url : String
+    series: Series
  }
 
  #Describe a single file on disk
