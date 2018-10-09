@@ -15,6 +15,7 @@ type Suggestion {
     url : String
  }
 
+ #Describe a single file on disk
  type File {
     name : String
     location : String
