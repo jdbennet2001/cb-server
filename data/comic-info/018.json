@@ -2911,5 +2911,41 @@
                 "site_detail_url": "https://comicvine.gamespot.com/sekirei/4050-86207/"
             }
         }
-    ]
+    ],
+    "2018-10-01|2018-10-07": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-686800/",
+            "cover_date": "2018-10-02",
+            "date_added": "2018-10-02 03:26:09",
+            "date_last_updated": "2018-10-02 03:36:37",
+            "deck": " ",
+            "description": "<p><em>With the tri-city tour successfully wrapped up and Greatful Sound 7 over the horizon, this is shaping up to be a the greatest summer of all time for BECK. But behind closed doors, Japanese music industry mogul, Ran, orders Sato to drop BECK from the lineup. And just like that, the chance Koyuki and the gang worked so hard to grasp slips through their fingers. But the despair doesn’t end there. As if to twist the knife, one day, the guys receive even more tragic news …</em></p>",
+            "has_staff_review": false,
+            "id": 686800,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6631225-18.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6631225-18.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6631225-18.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6631225-18.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6631225-18.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6631225-18.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6631225-18.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6631225-18.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6631225-18.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "18",
+            "name": "Volume 18",
+            "site_detail_url": "https://comicvine.gamespot.com/beck-18-volume-18/4000-686800/",
+            "store_date": "2018-10-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-114029/",
+                "id": 114029,
+                "name": "BECK",
+                "site_detail_url": "https://comicvine.gamespot.com/beck/4050-114029/"
+            }
+        }
+    ],
+    "2018-10-08|2018-10-14": []
 }

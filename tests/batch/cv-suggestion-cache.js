@@ -1,4 +1,5 @@
 const assert = require('chai').assert;
+const _ 		 = require('lodash');
 
 const {data} = require('../../lib/import/metadata');
 
@@ -8,14 +9,10 @@ describe('Suggestions', function() {
 
 	it('..can pre-populate the cache', async () => {
 
-		let counter = 0;
-
 		for ( let year = 2018; year > 2010; year--){
-			for (let issue = 1; issue < 52; issue++){
-				debugger;
+			for (let issue = 1; issue < 26; issue++){
 				let results = await data(issue, year);
-				counter += results.length;
-				console.log( `Total cached: ${counter} results.`);
+				console.log( `Total cached: ${_.size(results)} results.`);
 			}
 		}
 
