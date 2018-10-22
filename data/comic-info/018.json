@@ -31267,5 +31267,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/naoki-urasawas-20th-century-boys/4050-34961/"
             }
         }
+    ],
+    "2018-10-15|2018-10-21": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689219/",
+            "cover_date": "2018-10-19",
+            "date_added": "2018-10-19 16:22:51",
+            "date_last_updated": "2018-10-19 16:45:22",
+            "deck": " ",
+            "description": "<p><em>Battle 18</em></p><p><em>While Dae and Penny have their reunion, Jason the Ref reminisces his early days at Tnemrot and his climb to his current position.</em></p>",
+            "has_staff_review": false,
+            "id": 689219,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6653675-18.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6653675-18.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6653675-18.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6653675-18.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6653675-18.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6653675-18.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6653675-18.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6653675-18.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6653675-18.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "18",
+            "name": "Battle 18",
+            "site_detail_url": "https://comicvine.gamespot.com/domain-tnemrot-18-battle-18/4000-689219/",
+            "store_date": "2018-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-84903/",
+                "id": 84903,
+                "name": "Domain Tnemrot",
+                "site_detail_url": "https://comicvine.gamespot.com/domain-tnemrot/4050-84903/"
+            }
+        }
     ]
 }

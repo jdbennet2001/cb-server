@@ -36802,5 +36802,73 @@
             }
         }
     ],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-15|2018-10-21": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689038/",
+            "cover_date": "2018-12-01",
+            "date_added": "2018-10-17 08:43:40",
+            "date_last_updated": "2018-10-17 20:15:14",
+            "deck": " ",
+            "description": "<p><em>Havok, leader of...the Reavers?!</em></p><p><em>What circumstances have led Havok to side with the bad guys once more?</em></p><p><em>And will it stick this time?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Greg Land &amp; Frank D'Armata</td><td>1</td></tr><tr><td>Var</td><td>Marvel Battle Lines Variant Cover (Thanos)</td><td>Yoon Lee</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 689038,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6651015-16.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6651015-16.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6651015-16.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6651015-16.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6651015-16.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6651015-16.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6651015-16.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6651015-16.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6651015-16.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "16",
+            "name": "Until Our Hearts Stop Part Four",
+            "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men-16-until-our-hearts-stop-part-fo/4000-689038/",
+            "store_date": "2018-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-102882/",
+                "id": 102882,
+                "name": "Astonishing X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/astonishing-xmen/4050-102882/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689111/",
+            "cover_date": "2018-10-19",
+            "date_added": "2018-10-17 09:21:30",
+            "date_last_updated": "2018-10-19 12:12:24",
+            "deck": " ",
+            "description": "<p><em><strong>AFTER THE END</strong></em></p><p><em>Kurorogi Rei won, erasing everything from existence and creating a new planet to rule. Now, the sole survivors of that annihilation–Kii, Tsukune, and the future Tsukune–must do the impossible: save a world that has already been destroyed.</em></p><p><em><strong>FINAL VOLUME</strong></em></p>",
+            "has_staff_review": false,
+            "id": 689111,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6651098-16.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6651098-16.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6651098-16.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6651098-16.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6651098-16.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6651098-16.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6651098-16.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6651098-16.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6651098-16.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "16",
+            "name": "After the End",
+            "site_detail_url": "https://comicvine.gamespot.com/magical-girl-apocalypse-16-after-the-end/4000-689111/",
+            "store_date": "2018-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77589/",
+                "id": 77589,
+                "name": "Magical Girl Apocalypse",
+                "site_detail_url": "https://comicvine.gamespot.com/magical-girl-apocalypse/4050-77589/"
+            }
+        }
+    ]
 }

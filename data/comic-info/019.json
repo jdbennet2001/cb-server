@@ -28447,5 +28447,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/dc-universe-online-legends/4050-38217/"
             }
         }
+    ],
+    "2018-10-15|2018-10-21": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-688683/",
+            "cover_date": "2018-10-17",
+            "date_added": "2018-10-15 05:30:13",
+            "date_last_updated": "2018-10-15 05:52:01",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 688683,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6647967-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6647967-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6647967-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6647967-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6647967-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6647967-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6647967-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6647967-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6647967-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/shin-kamen-rider-spirits-19-vol-19/4000-688683/",
+            "store_date": "2018-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99565/",
+                "id": 99565,
+                "name": "Shin Kamen Rider Spirits",
+                "site_detail_url": "https://comicvine.gamespot.com/shin-kamen-rider-spirits/4050-99565/"
+            }
+        }
     ]
 }

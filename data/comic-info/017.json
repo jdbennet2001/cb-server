@@ -33673,5 +33673,73 @@
                 "site_detail_url": "https://comicvine.gamespot.com/the-secret-history/4050-26991/"
             }
         }
+    ],
+    "2018-10-15|2018-10-21": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-688473/",
+            "cover_date": "2018-10-12",
+            "date_added": "2018-10-12 23:43:43",
+            "date_last_updated": "2018-10-12 23:49:49",
+            "deck": " ",
+            "description": "<p><em>After the dramatic events in London, Largo is on the hunt for the man who ordered the bombing that nearly killed him. But his enemy, whoever he is, has a lot of people working for him – and is always three moves ahead. And as the body count rises, Largo must also guide the Group W through the troubled waters of modern finance: high-frequency trading, anti-globalisation movements … and his own need to moralise his activities. Not an easy task among the sharks…</em></p>",
+            "has_staff_review": false,
+            "id": 688473,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6645267-17.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6645267-17.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6645267-17.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6645267-17.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6645267-17.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6645267-17.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6645267-17.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6645267-17.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6645267-17.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "17",
+            "name": "Morning Star",
+            "site_detail_url": "https://comicvine.gamespot.com/largo-winch-17-morning-star/4000-688473/",
+            "store_date": "2018-10-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-48215/",
+                "id": 48215,
+                "name": "Largo Winch",
+                "site_detail_url": "https://comicvine.gamespot.com/largo-winch/4050-48215/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-688954/",
+            "cover_date": "2018-10-17",
+            "date_added": "2018-10-17 07:55:30",
+            "date_last_updated": "2018-10-17 21:19:29",
+            "deck": " ",
+            "description": "<p><em>“THEM BLUE WIZARD BLUES,” Part Two</em></p><p><em>After his epic defeat in the last issue, Jacques Zacques has realized that winning a magical duel isn’t quite as easy as snapping your fingers and saying “abracadabra.” He’s off to wizard school! Meanwhile, Margaret seeks the truth, and Wizord and Ruby get caught up in the hottest new show of the season. Offered with yet another “magical” variant cover!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Ryan Browne</td><td>1</td></tr><tr><td>B</td><td>Sawn In Half Cover B</td><td>Ryan Browne</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 688954,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6650758-17a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6650758-17a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6650758-17a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6650758-17a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6650758-17a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6650758-17a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6650758-17a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6650758-17a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6650758-17a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "17",
+            "name": "Them Blue Wizard Blues, Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/curse-words-17-them-blue-wizard-blues-part-two/4000-688954/",
+            "store_date": "2018-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98047/",
+                "id": 98047,
+                "name": "Curse Words",
+                "site_detail_url": "https://comicvine.gamespot.com/curse-words/4050-98047/"
+            }
+        }
     ]
 }

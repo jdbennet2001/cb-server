@@ -21285,5 +21285,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/avengers-academy/4050-33633/"
             }
         }
+    ],
+    "2018-10-15|2018-10-21": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689035/",
+            "cover_date": "2018-12-01",
+            "date_added": "2018-10-17 07:56:43",
+            "date_last_updated": "2018-10-17 12:27:56",
+            "deck": " ",
+            "description": "<p><em>The Teen Titans head to Gotham City, where they must thwart a plot to assassinate Commissioner Gordon! So who is the mysterious figure giving Robin his intel, and how does he know so much? Speaking of Robin, is he developing real feelings for the magical Djinn, or is he falling under the spell of her mystical ring? Meanwhile, more secrets come to light and more drama unfolds, putting Kid Flash and Red Arrow at odds!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover (Foil)</td><td>Nick Derington</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Alex Garner</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 689035,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6650934-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6650934-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6650934-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6650934-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6650934-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6650934-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6650934-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6650934-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6650934-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "It's Like That",
+            "site_detail_url": "https://comicvine.gamespot.com/teen-titans-23-its-like-that/4000-689035/",
+            "store_date": "2018-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95242/",
+                "id": 95242,
+                "name": "Teen Titans",
+                "site_detail_url": "https://comicvine.gamespot.com/teen-titans/4050-95242/"
+            }
+        }
     ]
 }
