@@ -1,0 +1,21 @@
+.coverArea img {
+	max-width: 175px;
+	max-height: 250px;
+	display: block;
+	margin: 25px auto;
+}
+
+.coverArea .row{
+	width: 100%;
+	padding: 5px;
+}
+
+.coverArea label{
+	width: 50px;
+	display: inline-block;
+	
+}
+
+.coverArea input{
+	width: calc(100% - 75px);
+}

@@ -2,4 +2,64 @@
 	border: 1px solid blue;
 	height: 100%;
 	width: 100%;
+	display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-content: stretch;
+    align-items: stretch;
+}
+
+.contentArea{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: stretch;
+
+    flex: 1 1 auto;
+    align-self: auto;
+}
+
+.contentArea .pane {
+	flex: 1 1 50%;
+    align-self: auto;
+    border: 1px solid gray;
+}
+
+.issueArea{
+	flex: 1 1 auto;
+    align-self: auto;
+    background-color: green;
+}
+
+.controlArea{
+
+	display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    align-items: center; 
+
+	flex: 0 0 75px;
+    align-self: auto;   
+}
+
+.controlArea.right-align{
+	justify-content: flex-end;
+}
+
+.controlArea .button{
+	border-radius: 5px;
+	background-color: #1EAAF1;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	line-height: 25px;
+	margin: 15px;
+	width: 125px;
+	height: 25px;
+	cursor: pointer;
+	
 }
