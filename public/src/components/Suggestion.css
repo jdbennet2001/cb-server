@@ -1,0 +1,35 @@
+ .suggestion{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: flex-start;
+}
+
+
+.suggestion .left {
+	flex: 0 0 auto;
+	width: 125px;
+    align-self: auto;
+}
+
+.suggestion .left img {
+	width: 96px;
+	margin: 5px;
+	
+}
+
+
+.suggestion .right {
+   	flex: 1 1 auto;
+    align-self: auto;
+}
+
+.suggestion .right div {
+	margin: 5px;
+}
+
+.suggestion .name{
+	font-weight: bold;
+}

@@ -5,25 +5,29 @@ import { request } from 'graphql-request'
 
 
 import './SuggestionArea.css'
+import Suggestion from './Suggestion'
 
  
 class SuggestionArea extends React.Component {
 
   constructor(props) {
     super(props);
-    this.setState({suggestions:[]});
+    this.state = {suggestions:[]}
   }
 
   componentDidMount(){
 
-    debugger;
     let self = this;
+    let state = this.state;
 
     let {title, number, year} = this.props.issue;
     title = 'Blue';
+    debugger;
 
     getSuggestions(title, number, year).then(suggestions =>{
-        self.setState({suggestions});
+        
+        state = {suggestions: suggestions.suggestion};
+        self.setState(state);
     }, err =>{
         console.log( `Error getting suggestions: ${err.message}`)
     })
@@ -32,9 +36,20 @@ class SuggestionArea extends React.Component {
 
   render() {
 
-    return <div className='pane'>Suggestion Here...</div>
+    let {suggestions} = this.state;
+
+    let rows = suggestions.map(suggestion =>{
+      return <Suggestion record={suggestion}></Suggestion>
+    })
+
+
+    return <div className='pane'>
+            {rows}
+          </div>
     
   }
+
+
 }
 
 /*
@@ -48,6 +63,8 @@ function getSuggestions(name, issue_number, year){
 				name
 				description
 				url
+        image
+        store_date
 				series{
 					name
 					id
