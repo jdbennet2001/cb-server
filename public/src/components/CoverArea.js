@@ -18,7 +18,6 @@ class CoverArea extends React.Component {
 	let {location, name, year, number, title} = this.props.issue;
   	let cover = append_query( `/page`, {archive: location, number: 0} );
   	
-  	debugger;
     return <div className='coverArea pane'>
     	<img src={cover}></img>
 

@@ -24,7 +24,7 @@ class archive {
         let basename = this.name;
         let token = basename.split(' ').filter(token => !isNaN(Number(token)));
         let issue = _.toInteger(token);
-        return issue;
+        return _.toInteger(issue)   ;
     }
 
     get year() {
@@ -35,7 +35,7 @@ class archive {
             value = _.toNumber(value);
             return (value < 2050 && value > 1935);
         })
-        return number;
+        return _.toInteger(number);
     }
 }
 

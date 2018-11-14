@@ -63,7 +63,7 @@ class Filing extends React.Component {
             
         <div className='contentArea'>
           <CoverArea className='pane' issue={issue}></CoverArea>
-          <SuggestionArea className='pane'></SuggestionArea>
+          <SuggestionArea className='pane' issue={issue}></SuggestionArea>
         </div>
 
         <div className='controlArea right-align'>

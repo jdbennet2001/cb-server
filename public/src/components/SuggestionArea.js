@@ -11,11 +11,22 @@ class SuggestionArea extends React.Component {
 
   constructor(props) {
     super(props);
+    this.setState({suggestions:[]});
   }
 
   componentDidMount(){
 
-  getSuggestions();
+    debugger;
+    let self = this;
+
+    let {title, number, year} = this.props.issue;
+    title = 'Blue';
+
+    getSuggestions(title, number, year).then(suggestions =>{
+        self.setState({suggestions});
+    }, err =>{
+        console.log( `Error getting suggestions: ${err.message}`)
+    })
     
   }
 
@@ -29,11 +40,11 @@ class SuggestionArea extends React.Component {
 /*
  Get all queued comics from the download directory
  */
-function getSuggestions(name, issue){
+function getSuggestions(name, issue_number, year){
   
 	const endpoint = '/graphql';
-	const query = `{
-			suggestion(name:"Flash", issue_number:1, year:2018){
+	const query = `query getSuggestions($name:String, $issue_number:Int, $year:Int) {
+			suggestion(name:$name, issue_number:$issue_number, year:$year){
 				name
 				description
 				url
@@ -44,15 +55,12 @@ function getSuggestions(name, issue){
 					location
 				}
 			}
-		}`
+		
+	}`
 
-	const variables = {name: 'The Flash ', issue_number:91, year:1994};
+	const variables = {name, issue_number, year};
 
-	request(endpoint, query).then(data=>{
-		debugger;
-	}, err =>{
-		debugger;
-	})
+	return request(endpoint, query, variables);
 }
 
 
