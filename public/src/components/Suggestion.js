@@ -24,12 +24,14 @@ class Suggestion extends React.Component {
 
 
   render() {
-    debugger;
-    let {image, name, description, store_date} = this.props.record;
+
+    let {image, name, store_date, url} = this.props.record;
 
     return <div className='pane suggestion'>
               <div className='left'>
-                <img src={image}></img>
+                <a href={url}>
+                  <img src={image}></img>
+                </a>
               </div>
               <div className='right'>
                 <div className='name'>{name}</div>
