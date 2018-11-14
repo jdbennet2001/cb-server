@@ -21,7 +21,6 @@ class Filing extends React.Component {
     let self = this;
 
     get_comics().then(comics =>{
-      debugger;
       let state = {unfiled: comics.data.unfiled_comics, issue:{} };
       self.next(state);
     })

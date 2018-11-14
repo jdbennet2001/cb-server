@@ -22596,5 +22596,111 @@
                 "site_detail_url": "https://comicvine.gamespot.com/darth-vader/4050-101960/"
             }
         }
-    ]
+    ],
+    "2018-10-22|2018-10-28": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689827/",
+            "cover_date": "2018-10-24",
+            "date_added": "2018-10-24 00:38:29",
+            "date_last_updated": "2018-10-24 18:22:09",
+            "deck": " ",
+            "description": "<p><em>Of all the fabled swords of legend, none hold more power or mystery than Excalibur. Now, Skye Mathers will learn her connection to the legendary sword once wielded by King Arthur, when she falls under the spell of the magical and deadly Lady of the Lake.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Netho Diaz &amp; Ivan Nunes</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Igor Vitorino &amp; Ceci de la Cruz</td><td>2</td></tr><tr><td>C</td><td>Cover C</td><td>Mike Krome</td><td>3</td></tr><tr><td>D</td><td>Cover D</td><td>Sheldon Goh &amp; Sanju Nivangune</td><td>4</td></tr><tr><td>E</td><td>Kickstarter Exclusive Variant Cover</td><td>Jason Cardy</td><td>Missing</td></tr><tr><td>F</td><td>Kickstarter Exclusive Blank Sketch Edition Variant Cover</td><td>None</td><td>Missing</td></tr><tr><td>G</td><td>Secret Exclusive Variant Cover</td><td>Sun Khamunaki</td><td>Missing</td></tr><tr><td>H</td><td>Cosplay Exclusive Variant Cover, Limited to 350</td><td>Sabine Rich</td><td>Missing</td></tr><tr><td>I</td><td>Zenescope Wraparound Exclusive Variant Cover, Limited to 750</td><td>Geebo Vigonte (a) &amp; Ivan Nunes (c)</td><td>Missing</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 689827,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6659492-22a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6659492-22a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6659492-22a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6659492-22a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6659492-22a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6659492-22a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6659492-22a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6659492-22a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6659492-22a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Lady of the Lake",
+            "site_detail_url": "https://comicvine.gamespot.com/grimm-fairy-tales-22-lady-of-the-lake/4000-689827/",
+            "store_date": "2018-10-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97419/",
+                "id": 97419,
+                "name": "Grimm Fairy Tales",
+                "site_detail_url": "https://comicvine.gamespot.com/grimm-fairy-tales/4050-97419/"
+            }
+        }
+    ],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690587/",
+            "cover_date": "2018-11-02",
+            "date_added": "2018-10-30 03:29:56",
+            "date_last_updated": "2018-10-30 03:56:05",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 690587,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6666959-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6666959-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6666959-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6666959-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6666959-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6666959-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6666959-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6666959-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6666959-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/ao-no-exorcist-22-vol-22/4000-690587/",
+            "store_date": "2018-11-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42100/",
+                "id": 42100,
+                "name": "Ao no Exorcist",
+                "site_detail_url": "https://comicvine.gamespot.com/ao-no-exorcist/4050-42100/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691331/",
+            "cover_date": "2018-11-06",
+            "date_added": "2018-11-06 17:49:41",
+            "date_last_updated": "2018-11-06 18:26:02",
+            "deck": " ",
+            "description": "<p><em>Now that AJ Styles has officially joined the WWE Universe, it's time to face his greatest challenge yet-the man known as John Cena!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Marco D'Alfonso</td><td>1</td></tr><tr><td>Var</td><td>Yokozuna Action Figure Variant Cover</td><td>Adam Riches</td><td>2</td></tr><tr><td>Var</td><td>RAW 25th Anniversary Connecting Variant Cover</td><td>Brent Schoonover (a) &amp; Nick Filardi (c)</td><td>3</td></tr><tr><td>Var</td><td>1:15 The iron Sheik Variant Cover</td><td>Rahzzah</td><td>4</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 691331,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6676973-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6676973-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6676973-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6676973-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6676973-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6676973-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6676973-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6676973-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6676973-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "[Untitled]; Tales of the Swiss Cyborg",
+            "site_detail_url": "https://comicvine.gamespot.com/wwe-22-untitled-tales-of-the-swiss-cyborg/4000-691331/",
+            "store_date": "2018-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98079/",
+                "id": 98079,
+                "name": "WWE",
+                "site_detail_url": "https://comicvine.gamespot.com/w-w-e/4050-98079/"
+            }
+        }
+    ],
+    "2018-11-12|2018-11-18": []
 }

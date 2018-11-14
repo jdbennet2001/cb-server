@@ -15543,5 +15543,77 @@
     "2011-11-21|2011-11-27": [],
     "2011-11-28|2011-12-04": [],
     "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690580/",
+            "cover_date": "2018-10-30",
+            "date_added": "2018-10-30 02:33:39",
+            "date_last_updated": "2018-10-30 02:34:20",
+            "deck": " ",
+            "description": "<h4><em>La BD de tous les frères et soeurs !</em></h4><p><em>Nina, la célébrissime pire des pires soeurs, et son non moins fameux frère Tom sont de retour pour un album tout en quiétude, paix et amour.</em></p><p><em>VOUS NE ME CROYEZ PAS ???!</em></p><p><em>Bon, vous avez raison, planquez vos vases, vos livres, vos meubles, votre chat, Tom et Nina sont à nouveau là et ça va bouger.</em></p>",
+            "has_staff_review": false,
+            "id": 690580,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6666942-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6666942-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6666942-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6666942-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6666942-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6666942-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6666942-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6666942-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6666942-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "L'As en sœur",
+            "site_detail_url": "https://comicvine.gamespot.com/les-ptits-diables-26-las-en-soeur/4000-690580/",
+            "store_date": "2018-10-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91693/",
+                "id": 91693,
+                "name": "Les P'tits Diables",
+                "site_detail_url": "https://comicvine.gamespot.com/les-ptits-diables/4050-91693/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691373/",
+            "cover_date": "2019-01-01",
+            "date_added": "2018-11-07 02:02:05",
+            "date_last_updated": "2018-11-07 06:35:45",
+            "deck": " ",
+            "description": "<p><em>In a world of magic and glory, the Champions can take hold of what they desire, but not without a price...</em></p><p><em>Plus, how can Snowguard protect the North, when she's not even on planet Earth?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Sean Izaakse &amp; Marcio Menyz</td><td>1</td></tr><tr><td>Var</td><td>Uncanny X-Men Variant Cover</td><td>Rob Liefeld &amp; Romulo Fajardo</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 691373,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6677236-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6677236-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6677236-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6677236-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6677236-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6677236-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6677236-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6677236-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6677236-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Warriors of the Weird Part 2",
+            "site_detail_url": "https://comicvine.gamespot.com/champions-26-warriors-of-the-weird-part-2/4000-691373/",
+            "store_date": "2018-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94612/",
+                "id": 94612,
+                "name": "Champions",
+                "site_detail_url": "https://comicvine.gamespot.com/champions/4050-94612/"
+            }
+        }
+    ],
+    "2018-11-12|2018-11-18": []
 }

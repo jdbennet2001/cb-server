@@ -14,6 +14,7 @@
     "fs": "0.0.1-security",
     "fs-extra": "^6.0.1",
     "graphql": "^14.0.2",
+    "graphql-request": "^1.8.2",
     "graphql-tools": "^4.0.0",
     "jsonata": "^1.5.4",
     "jsonfile": "^4.0.0",

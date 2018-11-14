@@ -31302,5 +31302,76 @@
                 "site_detail_url": "https://comicvine.gamespot.com/domain-tnemrot/4050-84903/"
             }
         }
-    ]
+    ],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690588/",
+            "cover_date": "2018-11-02",
+            "date_added": "2018-10-30 03:29:57",
+            "date_last_updated": "2018-10-30 03:56:07",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 690588,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6666960-18.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6666960-18.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6666960-18.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6666960-18.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6666960-18.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6666960-18.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6666960-18.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6666960-18.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6666960-18.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "18",
+            "name": "Vol. 18",
+            "site_detail_url": "https://comicvine.gamespot.com/black-clover-18-vol-18/4000-690588/",
+            "store_date": "2018-11-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-87078/",
+                "id": 87078,
+                "name": "Black Clover",
+                "site_detail_url": "https://comicvine.gamespot.com/black-clover/4050-87078/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690804/",
+            "cover_date": "2018-12-01",
+            "date_added": "2018-10-31 00:27:32",
+            "date_last_updated": "2018-10-31 02:13:45",
+            "deck": " ",
+            "description": "<p><em>You can never go home again, but John Lynch needs to go somewhere to begin the last act of his life. Jack Hawksmoor never really had a home, especially since he became something other than human. As the war between IO and Skywatch gets hot, Marc Slayton has somewhere for Lynch to go, and Jenny Sparks may have a new home for Jack Hawksmoor...and Angela Spica.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Jon Davis-Hunt</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Daniel Warren Johnson &amp; Michael Spicer</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 690804,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6668494-18.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6668494-18.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6668494-18.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6668494-18.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6668494-18.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6668494-18.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6668494-18.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6668494-18.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6668494-18.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "18",
+            "name": "Chapter Eighteen",
+            "site_detail_url": "https://comicvine.gamespot.com/the-wild-storm-18-chapter-eighteen/4000-690804/",
+            "store_date": "2018-10-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98913/",
+                "id": 98913,
+                "name": "The Wild Storm",
+                "site_detail_url": "https://comicvine.gamespot.com/the-wild-storm/4050-98913/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }

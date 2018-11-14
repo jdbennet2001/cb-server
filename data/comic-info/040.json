@@ -7228,5 +7228,77 @@
     "2011-11-21|2011-11-27": [],
     "2011-11-28|2011-12-04": [],
     "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-687684/",
+            "cover_date": "2018-10-14",
+            "date_added": "2018-10-07 07:22:40",
+            "date_last_updated": "2018-10-14 18:43:08",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 687684,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6638115-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6638115-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6638115-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6638115-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6638115-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6638115-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6638115-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6638115-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6638115-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Vol. 40",
+            "site_detail_url": "https://comicvine.gamespot.com/jour-sister-40-vol-40/4000-687684/",
+            "store_date": "2018-10-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-111858/",
+                "id": 111858,
+                "name": "Jour Sister",
+                "site_detail_url": "https://comicvine.gamespot.com/jour-sister/4050-111858/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690972/",
+            "cover_date": "2018-11-13",
+            "date_added": "2018-11-02 20:21:07",
+            "date_last_updated": "2018-11-02 20:30:10",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 690972,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6671883-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6671883-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6671883-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6671883-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6671883-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6671883-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6671883-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6671883-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6671883-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Vol. 40",
+            "site_detail_url": "https://comicvine.gamespot.com/chihayafuru-40-vol-40/4000-690972/",
+            "store_date": "2018-11-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-49590/",
+                "id": 49590,
+                "name": "Chihayafuru",
+                "site_detail_url": "https://comicvine.gamespot.com/chihayafuru/4050-49590/"
+            }
+        }
+    ]
 }

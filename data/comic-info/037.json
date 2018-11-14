@@ -8397,5 +8397,76 @@
             }
         }
     ],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [],
+    "2018-11-05|2018-11-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691354/",
+            "cover_date": "2019-01-01",
+            "date_added": "2018-11-07 02:01:40",
+            "date_last_updated": "2018-11-07 22:07:38",
+            "deck": " ",
+            "description": "<p><em>“DEATHSTROKE: ARKHAM” continues! It’s Groundhog Day for Deathstroke. After experiencing a strange encounter with an inmate claiming to be an alien, Slade Wilson wakes up in Arkham Asylum as if nothing happened, and the only person who believes him is Harvey Dent, a.k.a. Two-Face! But can Two-Face be trusted? (Not likely.) And what machinations does Hugo Strange have in store for Deathstroke?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Tyler Kirkham &amp; Arif Prianto</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Francesco Mattina</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 691354,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6677221-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6677221-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6677221-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6677221-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6677221-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6677221-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6677221-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6677221-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6677221-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Arkham: Book Two: Twenty-Three",
+            "site_detail_url": "https://comicvine.gamespot.com/deathstroke-37-arkham-book-two-twenty-three/4000-691354/",
+            "store_date": "2018-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93375/",
+                "id": 93375,
+                "name": "Deathstroke",
+                "site_detail_url": "https://comicvine.gamespot.com/deathstroke/4050-93375/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691609/",
+            "cover_date": "2018-11-09",
+            "date_added": "2018-11-09 21:59:04",
+            "date_last_updated": "2018-11-09 22:07:10",
+            "deck": " ",
+            "description": "<p><em>Restitution</em></p><p><em>While trying to help a nearby survivors' colony and curbing the remaining Neo zombie population, our heroes run into Tess Raven. Both suffering from drained powers, Paige tries to take Tess back to the campus when they're attacked by Sanee?! A new threat has arrived and showing that your greatest enemy tends to be yourself!</em></p>",
+            "has_staff_review": false,
+            "id": 691609,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6680638-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6680638-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6680638-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6680638-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6680638-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6680638-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6680638-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6680638-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6680638-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Restitution",
+            "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies-37-restitut/4000-691609/",
+            "store_date": "2018-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29951/",
+                "id": 29951,
+                "name": "Chaos Campus: Sorority Girls Vs. Zombies",
+                "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies/4050-29951/"
+            }
+        }
+    ],
+    "2018-11-12|2018-11-18": []
 }

@@ -24316,5 +24316,43 @@
                 "site_detail_url": "https://comicvine.gamespot.com/steven-universe-ongoing/4050-98763/"
             }
         }
-    ]
+    ],
+    "2018-10-22|2018-10-28": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689417/",
+            "cover_date": "2018-10-23",
+            "date_added": "2018-10-21 07:59:31",
+            "date_last_updated": "2018-10-21 08:42:01",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 689417,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6655264-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6655264-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6655264-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6655264-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6655264-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6655264-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6655264-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6655264-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6655264-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/kabachi-21-vol-21/4000-689417/",
+            "store_date": "2018-10-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93266/",
+                "id": 93266,
+                "name": "Kabachi!!!",
+                "site_detail_url": "https://comicvine.gamespot.com/kabachi/4050-93266/"
+            }
+        }
+    ],
+    "2018-10-29|2018-11-04": [],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }

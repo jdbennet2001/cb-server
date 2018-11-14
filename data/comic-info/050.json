@@ -4443,5 +4443,43 @@
     "2010-12-20|2010-12-26": [],
     "2010-12-27|2011-01-02": [],
     "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": []
+    "2011-01-10|2011-01-16": [],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690817/",
+            "cover_date": "2018-12-01",
+            "date_added": "2018-10-31 00:27:44",
+            "date_last_updated": "2018-10-31 03:49:17",
+            "deck": " ",
+            "description": "<p><em>Logan came into this world the same way he's leaving it: IN PAIN!</em></p><p><em>Don't miss the end of an era as Old Man Logan's golden years are cut short!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Andrea Sorrentino &amp; Giada Marchisio</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Gerardo Zaffino</td><td>2</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mike Deodato Jr. &amp; Rain Beredo</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 690817,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6668502-50.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6668502-50.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6668502-50.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6668502-50.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6668502-50.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6668502-50.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6668502-50.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6668502-50.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6668502-50.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "50",
+            "name": "King of Nothing Conclusion",
+            "site_detail_url": "https://comicvine.gamespot.com/old-man-logan-50-king-of-nothing-conclusion/4000-690817/",
+            "store_date": "2018-10-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-87624/",
+                "id": 87624,
+                "name": "Old Man Logan",
+                "site_detail_url": "https://comicvine.gamespot.com/old-man-logan/4050-87624/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }

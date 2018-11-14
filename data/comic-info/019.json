@@ -28482,5 +28482,43 @@
                 "site_detail_url": "https://comicvine.gamespot.com/shin-kamen-rider-spirits/4050-99565/"
             }
         }
-    ]
+    ],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690649/",
+            "cover_date": "2018-10-30",
+            "date_added": "2018-10-30 12:46:35",
+            "date_last_updated": "2018-10-30 13:12:34",
+            "deck": " ",
+            "description": "<p><em>A clash of wills. A dark past revealed. The tale of Makina's regrets is told...and the truth is dancing in the palm of Maitreya's hand.</em></p>",
+            "has_staff_review": false,
+            "id": 690649,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6667647-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6667647-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6667647-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6667647-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6667647-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6667647-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6667647-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6667647-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6667647-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/corpse-princess-19-vol-19/4000-690649/",
+            "store_date": "2018-10-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85526/",
+                "id": 85526,
+                "name": "Corpse Princess",
+                "site_detail_url": "https://comicvine.gamespot.com/corpse-princess/4050-85526/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }

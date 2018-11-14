@@ -5947,5 +5947,43 @@
     ],
     "2011-11-28|2011-12-04": [],
     "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [],
+    "2018-11-05|2018-11-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691323/",
+            "cover_date": "2018-11-06",
+            "date_added": "2018-11-06 17:49:32",
+            "date_last_updated": "2018-11-06 17:56:19",
+            "deck": " ",
+            "description": "<p><em>Esther becomes fixated on Valentine's Day as a marker of her romantic failure, and decides to fully </em><em>activate her full drama field for the first time in a long time, in an attempt to \"Win Big At Love\". It's going to go </em><em>great.</em></p>",
+            "has_staff_review": false,
+            "id": 691323,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6676964-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6676964-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6676964-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6676964-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6676964-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6676964-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6676964-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6676964-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6676964-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/giant-days-44/4000-691323/",
+            "store_date": "2018-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80753/",
+                "id": 80753,
+                "name": "Giant Days",
+                "site_detail_url": "https://comicvine.gamespot.com/giant-days/4050-80753/"
+            }
+        }
+    ],
+    "2018-11-12|2018-11-18": []
 }

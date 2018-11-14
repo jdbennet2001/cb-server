@@ -4994,5 +4994,43 @@
             }
         }
     ],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689411/",
+            "cover_date": "2018-10-23",
+            "date_added": "2018-10-21 07:59:26",
+            "date_last_updated": "2018-10-21 08:32:16",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 689411,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6655258-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6655258-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6655258-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6655258-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6655258-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6655258-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6655258-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6655258-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6655258-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Vol. 49",
+            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-49-vol-49/4000-689411/",
+            "store_date": "2018-10-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
+                "id": 44126,
+                "name": "Giant Killing",
+                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
+            }
+        }
+    ],
+    "2018-10-29|2018-11-04": [],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }

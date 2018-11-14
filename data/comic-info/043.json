@@ -6136,5 +6136,77 @@
             }
         }
     ],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689853/",
+            "cover_date": "2018-12-01",
+            "date_added": "2018-10-24 03:13:39",
+            "date_last_updated": "2018-10-25 19:54:20",
+            "deck": " ",
+            "description": "<p><em>Scooby and the gang have teamed up with dozens of superheroes to face some of the world’s weirdest menaces. But the shoe’s on the other robotic foot when they have to team up with the world’s strangest heroes, the Doom Patrol! And if the heroes make Scooby and Shaggy nervous, just wait until they meet the Doom Patrol’s enemies…</em></p>",
+            "has_staff_review": false,
+            "id": 689853,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6658474-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6658474-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6658474-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6658474-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6658474-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6658474-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6658474-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6658474-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6658474-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Doomed!",
+            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-team-up-43-doomed/4000-689853/",
+            "store_date": "2018-10-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69374/",
+                "id": 69374,
+                "name": "Scooby-Doo Team-Up",
+                "site_detail_url": "https://comicvine.gamespot.com/scoobydoo-teamup/4050-69374/"
+            }
+        }
+    ],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690745/",
+            "cover_date": "2018-10-30",
+            "date_added": "2018-10-30 21:07:15",
+            "date_last_updated": "2018-10-31 19:55:43",
+            "deck": " ",
+            "description": "<p><em>In this very special issue of Rick and Morty, we meet the family's newest additions: Dick and Farty! Can Rick cope with an even more obnoxious version of himself? Will Morty make out with himself yet again? You gotta read this rad issue drawn by Rick and Morty TV show artist Sabrina Mati to find out bruh!</em></p><p><em>PLUS: MORE ADVENTURES IN THE PUBLIC DOMAIN WITH TINI HOWARD AND JARRETT WILLIAMS!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Marc Ellerby</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Sabrina Mati</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 690745,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6668355-43a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6668355-43a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6668355-43a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6668355-43a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6668355-43a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6668355-43a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6668355-43a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6668355-43a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6668355-43a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Dick and Farty; Adventures in The Public Domain Part 3",
+            "site_detail_url": "https://comicvine.gamespot.com/rick-and-morty-43-dick-and-farty-adventures-in-the/4000-690745/",
+            "store_date": "2018-10-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81059/",
+                "id": 81059,
+                "name": "Rick and Morty",
+                "site_detail_url": "https://comicvine.gamespot.com/rick-and-morty/4050-81059/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }

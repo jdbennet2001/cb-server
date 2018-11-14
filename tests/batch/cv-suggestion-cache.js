@@ -10,7 +10,7 @@ describe('Suggestions', function() {
 	it('..can pre-populate the cache', async () => {
 
 		for ( let year = 2018; year > 2008; year--){
-			for (let issue = 1; issue < 52; issue++){
+			for (let issue = 1; issue < 102; issue++){
 				let results = await data(issue, year);
 				console.log( `Total cached: ${_.size(results)} results.`);
 			}

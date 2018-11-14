@@ -13030,5 +13030,43 @@
                 "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
             }
         }
-    ]
+    ],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [],
+    "2018-11-05|2018-11-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691226/",
+            "cover_date": "2018-11-05",
+            "date_added": "2018-11-05 21:14:16",
+            "date_last_updated": "2018-11-05 22:19:22",
+            "deck": " ",
+            "description": "<p><em>The game with Inarizaki heats up as Saeko Tanaka and her taiko drum crew arrive to cheer on Karasuno! The nation’s best setter, Atsumu Miya, has even Nishinoya wincing when he’s up to serve, and the Miya twins’ version of the Freak Quick puts Hinata and Kageyama’s to shame! Does Karasuno have any hope of beating this powerhouse and tournament favorite?!</em></p><h2>Contents</h2><ul><li>Chapter 252: Support System</li><li>Chapter 253: Attacks of Opportunity</li><li>Chapter 254: Freaks, Monsters and Mutants</li><li>Chapter 255: Found</li><li>Chapter 256: The Evening Moon</li><li>Chapter 257: Proper</li><li>Chapter 258: Experience Levels</li><li>Chapter 259: Get 'Em! Get 'Em! Go! Go!</li><li>Chapter 260: Desperation</li><li>Bonus Story</li></ul>",
+            "has_staff_review": false,
+            "id": 691226,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6675939-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6675939-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6675939-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6675939-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6675939-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6675939-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6675939-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6675939-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6675939-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Found",
+            "site_detail_url": "https://comicvine.gamespot.com/haikyu-29-found/4000-691226/",
+            "store_date": "2018-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92005/",
+                "id": 92005,
+                "name": "Haikyu!!",
+                "site_detail_url": "https://comicvine.gamespot.com/haikyu/4050-92005/"
+            }
+        }
+    ],
+    "2018-11-12|2018-11-18": []
 }

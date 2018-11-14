@@ -7587,5 +7587,43 @@
     "2011-11-21|2011-11-27": [],
     "2011-11-28|2011-12-04": [],
     "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [],
+    "2018-10-29|2018-11-04": [],
+    "2018-11-05|2018-11-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691087/",
+            "cover_date": "2018-11-01",
+            "date_added": "2018-11-04 00:00:15",
+            "date_last_updated": "2018-11-04 00:01:41",
+            "deck": " ",
+            "description": "<p><em>Boule, c'est un petit garçon joyeux, espiègle, pas très travailleur mais extrêmement malin.</em></p><p><em>Bill, vous avez dit chien ? Oui, mais pas n'importe lequel. Ce coquin de cocker est aussi adorable, hilarant, menteur, parfois réfractaire au bain mais avec un coeur gros comme ça.</em></p><p><em>Entre Boule &amp; Bill, c'est une grande histoire d'amitié, de bêtises, d'aventures rocambolesques et surtout de complicité.</em></p>",
+            "has_staff_review": false,
+            "id": 691087,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6673782-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6673782-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6673782-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6673782-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6673782-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6673782-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6673782-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6673782-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6673782-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": "Y a d'la promenade dans l'air",
+            "site_detail_url": "https://comicvine.gamespot.com/boule-and-bill-39-y-a-dla-promenade-dans-lair/4000-691087/",
+            "store_date": "2018-11-09",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70187/",
+                "id": 70187,
+                "name": "Boule & Bill",
+                "site_detail_url": "https://comicvine.gamespot.com/boule-bill/4050-70187/"
+            }
+        }
+    ],
+    "2018-11-12|2018-11-18": []
 }

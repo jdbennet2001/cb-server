@@ -11,7 +11,7 @@ type Series{
     location: String
 }
 
-type Suggestion {
+type su {
     id : String
     image : String
     name : String

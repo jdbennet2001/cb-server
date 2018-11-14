@@ -9885,5 +9885,77 @@
     "2011-11-21|2011-11-27": [],
     "2011-11-28|2011-12-04": [],
     "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    "2011-12-12|2011-12-18": [],
+    "2018-10-22|2018-10-28": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-689955/",
+            "cover_date": "2018-10-24",
+            "date_added": "2018-10-24 18:51:43",
+            "date_last_updated": "2018-10-24 19:03:31",
+            "deck": " ",
+            "description": "<p><em>Higher Learning, Part 3 of 4</em></p><p><em>As our heroes prepare to breech the enemy stronghold to mount their rescue plan, Paige trains alongside the enemy forces to further develop her magical potential. Her drastic increase of power, skill, and morbid curiosity delights and horrifies her new companions. Is Paige still a hurt and confused victim needing rescue? Or has she become a greater threat than anyone ever imagined or anticipated?</em></p>",
+            "has_staff_review": false,
+            "id": 689955,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6659525-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6659525-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6659525-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6659525-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6659525-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6659525-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6659525-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6659525-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6659525-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "Higher Learning, Part 3 of 4",
+            "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies-35-higher-l/4000-689955/",
+            "store_date": "2018-10-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29951/",
+                "id": 29951,
+                "name": "Chaos Campus: Sorority Girls Vs. Zombies",
+                "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies/4050-29951/"
+            }
+        }
+    ],
+    "2018-10-29|2018-11-04": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690478/",
+            "cover_date": "2018-10-29",
+            "date_added": "2018-10-29 22:01:27",
+            "date_last_updated": "2018-10-29 22:31:03",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 690478,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6666701-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6666701-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6666701-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6666701-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6666701-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6666701-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6666701-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6666701-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6666701-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "Vol. 35",
+            "site_detail_url": "https://comicvine.gamespot.com/tenpai-gaiden-35-vol-35/4000-690478/",
+            "store_date": "2018-10-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99741/",
+                "id": 99741,
+                "name": "Tenpai Gaiden",
+                "site_detail_url": "https://comicvine.gamespot.com/tenpai-gaiden/4050-99741/"
+            }
+        }
+    ],
+    "2018-11-05|2018-11-11": [],
+    "2018-11-12|2018-11-18": []
 }
