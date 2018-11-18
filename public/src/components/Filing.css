@@ -20,12 +20,16 @@
 
     flex: 1 1 auto;
     align-self: auto;
+
+    min-height: 340px;
+
 }
 
 .contentArea .pane {
 	flex: 1 1 50%;
     align-self: auto;
     border: 1px solid gray;
+
 }
 
 .issueArea{

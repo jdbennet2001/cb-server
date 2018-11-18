@@ -29,7 +29,7 @@ class Suggestion extends React.Component {
 
     return <div className='pane suggestion'>
               <div className='left'>
-                <a href={url}>
+                <a href={url} target="_blank">
                   <img src={image}></img>
                 </a>
               </div>

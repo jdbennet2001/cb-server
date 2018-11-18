@@ -21,8 +21,6 @@ class SuggestionArea extends React.Component {
     let state = this.state;
 
     let {title, number, year} = this.props.issue;
-    title = 'Blue';
-    debugger;
 
     getSuggestions(title, number, year).then(suggestions =>{
         
@@ -37,11 +35,11 @@ class SuggestionArea extends React.Component {
   render() {
 
     let {suggestions} = this.state;
+    let key = JSON.stringify(this.props.issue);
 
     let rows = suggestions.map(suggestion =>{
-      return <Suggestion record={suggestion}></Suggestion>
+      return <Suggestion key={key} record={suggestion}></Suggestion>
     })
-
 
     return <div className='pane'>
             {rows}

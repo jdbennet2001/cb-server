@@ -9,26 +9,73 @@ import Header         from './Header';
 
 import Archive        from '../utils/archive';
  
+/*
+ Comic book filing:
+ State:
+
+  type FILE {
+    name : String
+    location : String
+  }  
+
+  type ISSUE{
+    name: String
+    location: String
+    title: String
+    number: Int
+    year: Int
+  }
+
+  type state{
+    unfiled: [FILE]  #Pending comics
+    issue:   ISSUE   #Archive being filed
+  }
+
+ */ 
 class Filing extends React.Component {
   constructor(props) {
     super(props);
 
     this.state = {unfiled: [], issue: {} };
+
   }
 
   componentDidMount(){
 
     let self = this;
 
+    //Load state from disk
     get_comics().then(comics =>{
       let state = {unfiled: comics.data.unfiled_comics, issue:{} };
-      self.next(state);
+      self.setState(state);
+      self.next();
     })
-    
+
+    //Use an internal message bus to communicate between components
+    // -- Redux would be a better choice, but this is a learning excercise --
+    window.bus.on('next', () =>{
+        self.next();
+    });
+
+    window.bus.on('file', data =>{
+        let {location} = data;
+        self.next();
+    });
+
+    window.bus.on('issue', update =>{
+      let state = self.state;
+      let {name, value} = update;
+      let {issue} = state;
+        issue = _.set(issue, name, value);
+      state = _.assign(state, {issue});
+      self.setState(state);
+    })
+
   }
 
-  next(state){
-    let {unfiled} = state || this.state;
+  next(){
+    let state = this.state;
+    let {unfiled} = state;
     let unfiled_item = unfiled.pop();
     let {name, location} = unfiled_item;
     let archive  = new Archive(unfiled_item);
@@ -40,35 +87,31 @@ class Filing extends React.Component {
     this.setState(state);
   }
 
-  refresh(issue){
-    let state = this.state;
-        state = _.assign({}, state, {issue});
-    this.setState(issue);
-  }
 
   render() {
     
     let {issue} = this.state;
     let next = this.next.bind(this);
-    let refresh = this.refresh.bind(this);
 
     if ( _.isEmpty(issue)){
       return <div>Loading...</div>
     }
+
+    let key = JSON.stringify(issue);
 
     return <div className='filing'>
           
         <Header className='controlArea'>
         </Header>
             
-        <div className='contentArea'>
-          <CoverArea className='pane' issue={issue}></CoverArea>
+        <div key={key} className='contentArea'>
+          <CoverArea className='pane'  issue={issue}></CoverArea>
           <SuggestionArea className='pane' issue={issue}></SuggestionArea>
         </div>
 
         <div className='controlArea right-align'>
-          <div className='button'>Skip</div> 
-          <div className='button'>File</div> 
+          <div className='button' onClick={next}>Skip</div> 
+          <div className='button' onClick={next}>File</div> 
         </div>
           
       </div>

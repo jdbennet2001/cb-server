@@ -20,6 +20,7 @@
     "jsonfile": "^4.0.0",
     "lodash": "^4.17.4",
     "moment": "^2.22.2",
+    "nanobus": "^4.3.5",
     "nconf": "^0.8.5",
     "node-unrar-js": "^0.8.1",
     "pouchdb": "^6.3.4",
