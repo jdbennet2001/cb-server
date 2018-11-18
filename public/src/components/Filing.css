@@ -30,6 +30,8 @@
     align-self: auto;
     border: 1px solid gray;
 
+    overflow-y: scroll;
+
 }
 
 .issueArea{
@@ -65,5 +67,27 @@
 	width: 125px;
 	height: 25px;
 	cursor: pointer;
-	
+}
+
+.actionArea{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: stretch;
+    align-items: center;
+}
+
+.actionArea .control{
+    flex: 0 1 auto;        
+}
+
+.actionArea .stretch{
+    flex: 1 1 auto;
+    align-self: auto;
+    padding:15px;
+}
+
+.actionArea .stretch input{
+    width: 100%;
 }

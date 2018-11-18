@@ -71,6 +71,10 @@ class Filing extends React.Component {
       self.setState(state);
     })
 
+    window.bus.on('target-dir', target =>{
+
+    })
+
   }
 
   next(){
@@ -87,11 +91,17 @@ class Filing extends React.Component {
     this.setState(state);
   }
 
+  target(args){
+    let {name, value} = args.target;
+    window.bus.emit('target-dir', value);
+  }
+
 
   render() {
     
     let {issue} = this.state;
-    let next = this.next.bind(this);
+    let next   = this.next.bind(this);
+    let target = this.target.bind(this);
 
     if ( _.isEmpty(issue)){
       return <div>Loading...</div>
@@ -109,7 +119,10 @@ class Filing extends React.Component {
           <SuggestionArea className='pane' issue={issue}></SuggestionArea>
         </div>
 
-        <div className='controlArea right-align'>
+        <div className='actionArea controlArea'>
+          <div className='stretch'>
+              <input type="text" onChange={target} name="target" value=""/>
+          </div>
           <div className='button' onClick={next}>Skip</div> 
           <div className='button' onClick={next}>File</div> 
         </div>
