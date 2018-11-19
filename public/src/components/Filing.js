@@ -94,7 +94,7 @@ class Filing extends React.Component {
     let {title, year, number} = archive;
 
     let issue = {name, location, title, year, number};
-        state = {unfiled, issue};
+        state = {unfiled, issue, target: undefined};
 
     this.setState(state);
   }
@@ -113,9 +113,7 @@ class Filing extends React.Component {
 
   render() {
 
-    let {issue} = this.state;
-
-    let {target} = this.state;
+    let {issue, target, unfiled} = this.state;
 
     let next   = this.next.bind(this);
     let onChangeTarget   = this.onChangeTarget.bind(this);
@@ -128,7 +126,7 @@ class Filing extends React.Component {
 
     return <div className='filing'>
 
-        <Header className='controlArea'>
+        <Header className='controlArea' count={_.size(unfiled)}>
         </Header>
 
         <div key={key} className='contentArea'>
@@ -138,7 +136,7 @@ class Filing extends React.Component {
 
         <div className='actionArea controlArea'>
           <div className='stretch'>
-              <input type="text" onChange={onChangeTarget} name="target" value={target}/>
+              <input type="text" onChange={onChangeTarget} key={target} name="target" value={target}/>
           </div>
           <div className='button' onClick={next}>Skip</div>
           <div className='button' onClick={next}>File</div>

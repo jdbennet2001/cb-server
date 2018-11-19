@@ -19,3 +19,20 @@
 	display: inline-block;
 	margin-left: 15px;
 }
+
+.header .spacer{
+	flex: 1 1 auto;
+	align-self: auto;
+}
+
+.header .count{
+	display: inline-block;;
+	float: right;
+	font-weight: bold;
+	color: black;
+	margin-right:15px;
+	padding: 5px;
+	line-height: 16px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
