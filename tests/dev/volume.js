@@ -1,15 +1,15 @@
 const assert = require('chai').assert;
 
-const {volume} = require('../../lib/import/suggestions');
+const {volume_info} = require('../../lib/import/volume');
 
 
 describe('Volumes', function() {
 
 	debugger;
 	it('.. can return information for Flash #091', async () => {
-		let {count, location} = volume('3790');
-		assert.isNumber(count);
-		assert.isString(location);
+		let {name, publisher, start_year, directory} = await volume_info('3790');
+		debugger;
+		assert.isDefined(name);
 	});
 
 

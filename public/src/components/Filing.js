@@ -8,7 +8,7 @@ import SuggestionArea from './SuggestionArea';
 import Header         from './Header';
 
 import Archive        from '../utils/archive';
- 
+
 /*
  Comic book filing:
  State:
@@ -16,7 +16,7 @@ import Archive        from '../utils/archive';
   type FILE {
     name : String
     location : String
-  }  
+  }
 
   type ISSUE{
     name: String
@@ -36,7 +36,7 @@ import Archive        from '../utils/archive';
     target:   TARGET
   }
 
- */ 
+ */
 class Filing extends React.Component {
   constructor(props) {
     super(props);
@@ -76,7 +76,10 @@ class Filing extends React.Component {
       self.setState(state);
     })
 
-    window.bus.on('target-dir', target =>{
+    window.bus.on('target', target =>{
+      let state = self.state;
+          state = _.assign(state, {target});
+      self.setState(state);
 
     })
 
@@ -101,12 +104,21 @@ class Filing extends React.Component {
     window.bus.emit('target-dir', value);
   }
 
+  onChangeTarget(args){
+      let {name, value} = args.target;
+      let state = this.state;
+      state.target = value;
+      this.setState(state);
+  }
 
   render() {
-    
+
     let {issue} = this.state;
+
+    let {target} = this.state;
+
     let next   = this.next.bind(this);
-    let target = this.target.bind(this);
+    let onChangeTarget   = this.onChangeTarget.bind(this);
 
     if ( _.isEmpty(issue)){
       return <div>Loading...</div>
@@ -115,10 +127,10 @@ class Filing extends React.Component {
     let key = JSON.stringify(issue);
 
     return <div className='filing'>
-          
+
         <Header className='controlArea'>
         </Header>
-            
+
         <div key={key} className='contentArea'>
           <CoverArea className='pane'  issue={issue}></CoverArea>
           <SuggestionArea className='pane' issue={issue}></SuggestionArea>
@@ -126,12 +138,12 @@ class Filing extends React.Component {
 
         <div className='actionArea controlArea'>
           <div className='stretch'>
-              <input type="text" onChange={target} name="target" value=""/>
+              <input type="text" onChange={onChangeTarget} name="target" value={target}/>
           </div>
-          <div className='button' onClick={next}>Skip</div> 
-          <div className='button' onClick={next}>File</div> 
+          <div className='button' onClick={next}>Skip</div>
+          <div className='button' onClick={next}>File</div>
         </div>
-          
+
       </div>
   }
 }
@@ -140,7 +152,7 @@ class Filing extends React.Component {
  Get all queued comics from the download directory
  */
 function get_comics(){
-  
+
   return fetch('/graphql', {
         method: 'POST',
         headers: {

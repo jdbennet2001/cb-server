@@ -19,6 +19,7 @@ type Suggestion {
     store_date: String
     url : String
     series: Series
+    issue_number: String
  }
 
  #Describe a single file on disk
@@ -27,10 +28,20 @@ type Suggestion {
     location : String
  }
 
+ #Information about a given Volume (identified by the id)
+ type Volume{
+   name: String
+   publisher: String
+   start_year: String
+   directory: String
+ }
+
+
 
   type Query {
     unfiled_comics: [File],
-    suggestion(name: String, issue_number:Int, year:Int): [Suggestion]
+    suggestion(name: String, issue_number:Int, year:Int): [Suggestion],
+    volume(id:String): Volume
   }
 `
 
@@ -45,6 +56,7 @@ module.exports.schema = makeExecutableSchema({
 
 let {waiting}     = require('./lib/waiting');
 let {suggestions} = require('./lib/import/suggestions');
+let {volume_info} = require('./lib/import/volume');
 
 //Scan the import directory to generate a list of all unfiled comics
 module.exports.root = {
@@ -55,6 +67,10 @@ module.exports.root = {
 
   unfiled_comics: () =>{
     return waiting();
+  },
+
+  volume: ({id}) => {
+    return volume_info(id);
   }
 
 };

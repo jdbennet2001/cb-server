@@ -7,7 +7,7 @@ import { request } from 'graphql-request'
 
 import './Suggestion.css'
 
- 
+
 class Suggestion extends React.Component {
 
   constructor(props) {
@@ -23,6 +23,22 @@ class Suggestion extends React.Component {
     return {__html: description};
   }
 
+  file(){
+    let {name:series_name, id, count, location} = this.props.record.series;
+    let {name:summary, issue_number, store_date} = this.props.record;
+
+    let basename = `${series_name}`;
+        basename = (issue_number) ? `${basename} #${_.padStart(issue_number, 3, '0')}` : basename;
+        basename = (store_date) ? `${basename} (${store_date})` : basename;
+        basename = (summary) ? `${basename} - ${summary}` : basename;
+
+    getSeriesLocation(id).then(data =>{
+      let {directory,name, publisher, start_year} = data.volume
+      window.bus.emit('target', `${directory}/${basename}`);
+    }, err =>{
+
+    })
+  }
 
   render() {
 
@@ -32,7 +48,9 @@ class Suggestion extends React.Component {
 
     let component_classes = ``;
 
-    return <div className={`pane suggestion exists_${exists}`}>
+    let file = this.file.bind(this);
+
+    return <div onClick={file} className={`pane suggestion exists_${exists}`}>
               <div className='left'>
                 <a href={url} target="_blank">
                   <img src={image}></img>
@@ -48,8 +66,28 @@ class Suggestion extends React.Component {
                 </div>
               </div>
            </div>
-    
+
   }
+}
+
+/*
+ Get all queued comics from the download directory
+ */
+function getSeriesLocation(id){
+
+	const endpoint = '/graphql';
+	const query = `query getVolume($id:String) {
+			volume(id:$id){
+        name
+        publisher
+        start_year
+        directory
+			}
+	}`
+
+	const variables = {id};
+
+	return request(endpoint, query, variables);
 }
 
 

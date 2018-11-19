@@ -6,10 +6,10 @@
     "debug-batch": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk batch/",
     "test-batch": "TEST_DIR=logs mocha -t 0 batch/",
     "debug": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk api/",
-    "test-dev": "TEST_DIR=logs mocha -t 0 api/"
+    "test-api": "TEST_DIR=logs mocha -t 0 api/"
 
   },
-  "devDependencies": {},
+  "apiDependencies": {},
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"

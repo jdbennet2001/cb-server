@@ -7,7 +7,7 @@ import { request } from 'graphql-request'
 import './SuggestionArea.css'
 import Suggestion from './Suggestion'
 
- 
+
 class SuggestionArea extends React.Component {
 
   constructor(props) {
@@ -23,13 +23,13 @@ class SuggestionArea extends React.Component {
     let {title, number, year} = this.props.issue;
 
     getSuggestions(title, number, year).then(suggestions =>{
-        
+
         state = {suggestions: suggestions.suggestion};
         self.setState(state);
     }, err =>{
         console.log( `Error getting suggestions: ${err.message}`)
     })
-    
+
   }
 
   render() {
@@ -44,7 +44,7 @@ class SuggestionArea extends React.Component {
     return <div className='pane'>
             {rows}
           </div>
-    
+
   }
 
 
@@ -54,7 +54,7 @@ class SuggestionArea extends React.Component {
  Get all queued comics from the download directory
  */
 function getSuggestions(name, issue_number, year){
-  
+
 	const endpoint = '/graphql';
 	const query = `query getSuggestions($name:String, $issue_number:Int, $year:Int) {
 			suggestion(name:$name, issue_number:$issue_number, year:$year){
@@ -63,6 +63,7 @@ function getSuggestions(name, issue_number, year){
 				url
         image
         store_date
+        issue_number
 				series{
 					name
 					id
@@ -70,7 +71,7 @@ function getSuggestions(name, issue_number, year){
 					location
 				}
 			}
-		
+
 	}`
 
 	const variables = {name, issue_number, year};
