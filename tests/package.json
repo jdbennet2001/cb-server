@@ -5,8 +5,8 @@
   "scripts": {
     "debug-batch": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk batch/",
     "test-batch": "TEST_DIR=logs mocha -t 0 batch/",
-    "debug": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk dev/",
-    "test-dev": "TEST_DIR=logs mocha -t 0 dev/"
+    "debug": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk api/",
+    "test-dev": "TEST_DIR=logs mocha -t 0 api/"
 
   },
   "devDependencies": {},

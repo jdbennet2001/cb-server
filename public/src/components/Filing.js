@@ -26,9 +26,14 @@ import Archive        from '../utils/archive';
     year: Int
   }
 
+  type TARGET{
+    location: String
+  }
+
   type state{
     unfiled: [FILE]  #Pending comics
-    issue:   ISSUE   #Archive being filed
+    issue:    ISSUE   #Archive being filed
+    target:   TARGET
   }
 
  */ 

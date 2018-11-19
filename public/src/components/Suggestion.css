@@ -33,3 +33,13 @@
 .suggestion .name{
 	font-weight: bold;
 }
+
+.suggestion .date{
+    float: left;
+    display: inline-block;
+}
+
+.suggestion .exists{
+    color: green;
+    float: right;
+}
