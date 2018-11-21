@@ -10,6 +10,7 @@ import Header         from './Header';
 
 import Archive        from '../utils/archive';
 import { request }    from 'graphql-request'
+import ReactTooltip   from 'react-tooltip'
 
 /*
  Comic book filing:
@@ -148,7 +149,7 @@ class Filing extends React.Component {
     let key = JSON.stringify(issue);
 
     return <div className='filing'>
-
+        <ReactTooltip />
         <Header className='controlArea' count={`${_.size(unfiled)}`}>
         </Header>
 
