@@ -1,0 +1,70 @@
+{
+    "1997-01-01|1997-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-43751/",
+            "cover_date": "1997-06-01",
+            "date_added": "2008-06-06 11:17:01",
+            "date_last_updated": "2016-05-01 16:07:09",
+            "deck": null,
+            "description": "<p><i>In the conclusion of a special 2-part story chronicling Cassidy's early adventures in the United States, the vampiric buddy of Jesse Custer bumps shoulders with hard-drinking writers and free-loving hippies.</i></p><p>Cassidy continues to tell his story of how he spent the 20th century; pledges his absolute gratitude and trust to Jesse.</p>",
+            "has_staff_review": false,
+            "id": 43751,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2032986-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2032986-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2032986-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2032986-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2032986-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2032986-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2032986-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2032986-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2032986-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "To the streets of Manhattan I wandered away",
+            "site_detail_url": "https://comicvine.gamespot.com/preacher-26-to-the-streets-of-manhattan-i-wandered/4000-43751/",
+            "store_date": "1997-04-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-5516/",
+                "id": 5516,
+                "name": "Preacher",
+                "site_detail_url": "https://comicvine.gamespot.com/preacher/4050-5516/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416745/",
+            "cover_date": "1997-05-06",
+            "date_added": "2013-07-06 09:34:26",
+            "date_last_updated": "2013-07-06 09:44:24",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416745,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3156035-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3156035-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3156035-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3156035-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3156035-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3156035-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3156035-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3156035-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3156035-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/yawara-26-vol-26/4000-416745/",
+            "store_date": "1997-05-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65006/",
+                "id": 65006,
+                "name": "Yawara!",
+                "site_detail_url": "https://comicvine.gamespot.com/yawara/4050-65006/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "1999-01-01|1999-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-131665/",
+            "cover_date": "1999-05-01",
+            "date_added": "2008-06-21 12:23:50",
+            "date_last_updated": "2016-04-30 16:29:51",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 131665,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/423290-24-1.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/423290-24-1.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/423290-24-1.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/423290-24-1.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/423290-24-1.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/423290-24-1.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/423290-24-1.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/423290-24-1.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/423290-24-1.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "24",
+            "name": "Dark Alliance, Part 3 \"Primary Evil\"",
+            "site_detail_url": "https://comicvine.gamespot.com/knuckles-the-echidna-24-dark-alliance-part-3-prima/4000-131665/",
+            "store_date": "1999-03-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-19227/",
+                "id": 19227,
+                "name": "Knuckles the Echidna",
+                "site_detail_url": "https://comicvine.gamespot.com/knuckles-the-echidna/4050-19227/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412626/",
+            "cover_date": "1999-11-20",
+            "date_added": "2013-06-20 19:56:33",
+            "date_last_updated": "2013-06-20 20:06:57",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412626,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121249-24.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121249-24.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121249-24.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121249-24.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121249-24.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121249-24.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121249-24.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121249-24.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3121249-24.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "24",
+            "name": "Vol. 24",
+            "site_detail_url": "https://comicvine.gamespot.com/rurouni-kenshin-24-vol-24/4000-412626/",
+            "store_date": "1999-11-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63971/",
+                "id": 63971,
+                "name": "Rurouni Kenshin",
+                "site_detail_url": "https://comicvine.gamespot.com/rurouni-kenshin/4050-63971/"
+            }
+        }
+    ]
+}

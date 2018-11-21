@@ -1,0 +1,70 @@
+{
+    "1996-01-01|1996-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-97050/",
+            "cover_date": "1997-02-01",
+            "date_added": "2008-06-06 11:20:05",
+            "date_last_updated": "2016-04-30 14:07:06",
+            "deck": null,
+            "description": "<p><i>While King Acorn undergoes treatment to stem his body from crystallizing, Sonic must enter his dreams to give him the will to live.</i></p><p>The Dream ZONE: sonic travel in King Acorn's dream in order to wake him</p>",
+            "has_staff_review": false,
+            "id": 97050,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/64053-11074-97050-1-sonic-the-hedgehog.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/sonic-the-hedgehog-43/4000-97050/",
+            "store_date": "1996-11-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-11074/",
+                "id": 11074,
+                "name": "Sonic the Hedgehog",
+                "site_detail_url": "https://comicvine.gamespot.com/sonic-the-hedgehog/4050-11074/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-400011/",
+            "cover_date": "1996-01-29",
+            "date_added": "2013-04-29 16:26:49",
+            "date_last_updated": "2013-04-29 19:03:03",
+            "deck": null,
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 400011,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3014897-043.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3014897-043.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3014897-043.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3014897-043.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3014897-043.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3014897-043.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3014897-043.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3014897-043.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3014897-043.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/cooking-papa-43-vol-43/4000-400011/",
+            "store_date": "1996-01-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60528/",
+                "id": 60528,
+                "name": "Cooking Papa",
+                "site_detail_url": "https://comicvine.gamespot.com/cooking-papa/4050-60528/"
+            }
+        }
+    ]
+}

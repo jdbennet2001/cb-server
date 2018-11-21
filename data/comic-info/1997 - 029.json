@@ -1,0 +1,70 @@
+{
+    "1997-01-01|1997-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-44063/",
+            "cover_date": "1997-09-01",
+            "date_added": "2008-06-06 11:17:01",
+            "date_last_updated": "2016-05-01 16:08:29",
+            "deck": null,
+            "description": "<p><i>As our heroes head south for New Orleans, Jesse decides to take the angel's advice to heart. Plus, the triumphant return of one of PREACHER's most requested characters.</i></p><p>Jesse, Tulip and Cassidy head west, hoping to find the secret that's been buried in Jesse's head by Genesis; the return of Arseface!</p>",
+            "has_staff_review": false,
+            "id": 44063,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2032989-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2032989-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2032989-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2032989-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2032989-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2032989-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2032989-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2032989-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2032989-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Old Familiar Faces",
+            "site_detail_url": "https://comicvine.gamespot.com/preacher-29-old-familiar-faces/4000-44063/",
+            "store_date": "1997-07-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-5516/",
+                "id": 5516,
+                "name": "Preacher",
+                "site_detail_url": "https://comicvine.gamespot.com/preacher/4050-5516/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559716/",
+            "cover_date": "1997-02-04",
+            "date_added": "2016-11-26 08:27:29",
+            "date_last_updated": "2017-04-16 03:19:43",
+            "deck": null,
+            "description": "<p>Act.291 - Act.300.</p>",
+            "has_staff_review": false,
+            "id": 559716,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551769-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551769-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551769-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551769-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551769-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551769-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551769-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551769-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551769-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Vol. 29",
+            "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2-29-vol-29/4000-559716/",
+            "store_date": "1997-02-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95892/",
+                "id": 95892,
+                "name": "Emblem Take 2",
+                "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2/4050-95892/"
+            }
+        }
+    ]
+}

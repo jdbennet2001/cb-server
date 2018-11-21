@@ -1,0 +1,70 @@
+{
+    "1996-01-01|1996-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561337/",
+            "cover_date": "1996-08-01",
+            "date_added": "2016-11-27 07:41:30",
+            "date_last_updated": "2018-09-02 01:07:18",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 561337,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5555342-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5555342-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5555342-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5555342-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5555342-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5555342-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5555342-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5555342-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5555342-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/ushio-to-tora-30-vol-30/4000-561337/",
+            "store_date": "1996-08-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95936/",
+                "id": 95936,
+                "name": "Ushio to Tora",
+                "site_detail_url": "https://comicvine.gamespot.com/ushio-to-tora/4050-95936/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-567588/",
+            "cover_date": "1996-07-03",
+            "date_added": "2016-12-16 04:05:25",
+            "date_last_updated": "2017-08-13 11:55:48",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 567588,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5593396-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5593396-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5593396-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5593396-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5593396-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5593396-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5593396-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5593396-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5593396-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/be-bop-high-school-30-vol-30/4000-567588/",
+            "store_date": "1996-07-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96785/",
+                "id": 96785,
+                "name": "Be-Bop High School",
+                "site_detail_url": "https://comicvine.gamespot.com/bebop-high-school/4050-96785/"
+            }
+        }
+    ]
+}

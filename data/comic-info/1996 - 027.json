@@ -1,0 +1,70 @@
+{
+    "1996-01-01|1996-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559714/",
+            "cover_date": "1996-09-04",
+            "date_added": "2016-11-26 08:27:24",
+            "date_last_updated": "2017-04-16 03:19:22",
+            "deck": null,
+            "description": "<p>Act.271 - Act.280.</p>",
+            "has_staff_review": false,
+            "id": 559714,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551767-27.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551767-27.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551767-27.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551767-27.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551767-27.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551767-27.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551767-27.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551767-27.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551767-27.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "27",
+            "name": "Vol. 27",
+            "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2-27-vol-27/4000-559714/",
+            "store_date": "1996-09-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95892/",
+                "id": 95892,
+                "name": "Emblem Take 2",
+                "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2/4050-95892/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561334/",
+            "cover_date": "1996-01-01",
+            "date_added": "2016-11-27 07:41:22",
+            "date_last_updated": "2018-09-02 01:07:17",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 561334,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5555339-27.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5555339-27.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5555339-27.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5555339-27.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5555339-27.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5555339-27.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5555339-27.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5555339-27.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5555339-27.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "27",
+            "name": "Vol. 27",
+            "site_detail_url": "https://comicvine.gamespot.com/ushio-to-tora-27-vol-27/4000-561334/",
+            "store_date": "1996-01-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95936/",
+                "id": 95936,
+                "name": "Ushio to Tora",
+                "site_detail_url": "https://comicvine.gamespot.com/ushio-to-tora/4050-95936/"
+            }
+        }
+    ]
+}

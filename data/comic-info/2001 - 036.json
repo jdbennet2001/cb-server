@@ -1,0 +1,70 @@
+{
+    "2001-01-01|2001-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-436550/",
+            "cover_date": "2002-02-01",
+            "date_added": "2013-12-13 00:12:53",
+            "date_last_updated": "2013-12-13 00:27:35",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 436550,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3499927-036.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3499927-036.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3499927-036.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3499927-036.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3499927-036.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3499927-036.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3499927-036.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3499927-036.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3499927-036.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/angel-club-36/4000-436550/",
+            "store_date": "2001-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67883/",
+                "id": 67883,
+                "name": "ANGEL Club",
+                "site_detail_url": "https://comicvine.gamespot.com/angel-club/4050-67883/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542155/",
+            "cover_date": "2001-06-04",
+            "date_added": "2016-07-30 21:53:58",
+            "date_last_updated": "2016-07-31 01:13:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 542155,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5351704-36.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5351704-36.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5351704-36.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5351704-36.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5351704-36.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5351704-36.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5351704-36.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5351704-36.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5351704-36.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": "Vol. 36",
+            "site_detail_url": "https://comicvine.gamespot.com/zero-the-man-of-the-creation-36-vol-36/4000-542155/",
+            "store_date": "2001-06-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92672/",
+                "id": 92672,
+                "name": "Zero: The Man of the Creation",
+                "site_detail_url": "https://comicvine.gamespot.com/zero-the-man-of-the-creation/4050-92672/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "2001-01-01|2001-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-113477/",
+            "cover_date": "2002-12-01",
+            "date_added": "2008-06-06 11:11:29",
+            "date_last_updated": "2018-11-15 06:08:58",
+            "deck": null,
+            "description": "<p><em>Doctor Strange visits a melancholy Peter Parker in a dream to warn him of a danger that he has brought back with him from the Astral Plane!</em></p><p>Taking inventory of his crummy life, Peter tries to get some sleep. He only succeeds when Dr. Strange induces sleep in order to talk to Spider-Man in his dreams. He warns Spidey that he made himself noticeable to mystical predators by leaving the path in the astral plane when he tackled Shade, then refers him to page 73 of his etymology book. Peter wakes and checks the book, finding an entry on the spider-wasp. Several days later, a spider-wasp-like creature calling herself Shathra attacks Spidey. She wants to toy with him before killing him but Spidey manages to get away, ducking into a subway station and maneuvering Shathra into being hit by a train. Before she is struck, she utters the name \"Parker\" and Spidey realizes she knows his secret. Later, playing a new game, Shathra takes human form, goes to the Daily Bugle, and tells them she and Spider-Man were lovers.</p>",
+            "has_staff_review": false,
+            "id": 113477,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/171238-2127-113477-1-amazing-spider-man.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/171238-2127-113477-1-amazing-spider-man.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/171238-2127-113477-1-amazing-spider-man.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/171238-2127-113477-1-amazing-spider-man.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/171238-2127-113477-1-amazing-spider-man.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/171238-2127-113477-1-amazing-spider-man.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/171238-2127-113477-1-amazing-spider-man.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/171238-2127-113477-1-amazing-spider-man.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/171238-2127-113477-1-amazing-spider-man.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Unnatural Enemies",
+            "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spider-man-46-unnatural-enemies/4000-113477/",
+            "store_date": "2001-06-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78701/",
+                "id": 78701,
+                "name": "The Amazing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spider-man/4050-78701/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560618/",
+            "cover_date": "2001-12-01",
+            "date_added": "2016-11-27 00:05:19",
+            "date_last_updated": "2017-12-31 06:30:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 560618,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5553977-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5553977-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5553977-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5553977-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5553977-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5553977-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5553977-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5553977-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5553977-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Vol. 46",
+            "site_detail_url": "https://comicvine.gamespot.com/ouke-no-monshou-46-vol-46/4000-560618/",
+            "store_date": "2001-12-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95917/",
+                "id": 95917,
+                "name": "Ouke no Monshou",
+                "site_detail_url": "https://comicvine.gamespot.com/ouke-no-monshou/4050-95917/"
+            }
+        }
+    ]
+}

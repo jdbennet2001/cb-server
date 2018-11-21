@@ -1,0 +1,70 @@
+{
+    "1998-01-01|1998-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-131660/",
+            "cover_date": "1998-12-01",
+            "date_added": "2008-06-21 12:19:36",
+            "date_last_updated": "2016-04-30 16:26:57",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 131660,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/423284-19-1.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/423284-19-1.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/423284-19-1.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/423284-19-1.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/423284-19-1.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/423284-19-1.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/423284-19-1.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/423284-19-1.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/423284-19-1.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "The Forbidden Zone, Part 1 \"What Ever Happened to Queen Alicia?\"",
+            "site_detail_url": "https://comicvine.gamespot.com/knuckles-the-echidna-19-the-forbidden-zone-part-1-/4000-131660/",
+            "store_date": "1998-09-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-19227/",
+                "id": 19227,
+                "name": "Knuckles the Echidna",
+                "site_detail_url": "https://comicvine.gamespot.com/knuckles-the-echidna/4050-19227/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412621/",
+            "cover_date": "1998-11-20",
+            "date_added": "2013-06-20 19:56:21",
+            "date_last_updated": "2013-06-20 20:06:54",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412621,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121244-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121244-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121244-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121244-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121244-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121244-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121244-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121244-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3121244-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/rurouni-kenshin-19-vol-19/4000-412621/",
+            "store_date": "1998-11-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63971/",
+                "id": 63971,
+                "name": "Rurouni Kenshin",
+                "site_detail_url": "https://comicvine.gamespot.com/rurouni-kenshin/4050-63971/"
+            }
+        }
+    ]
+}

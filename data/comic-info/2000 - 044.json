@@ -1,0 +1,70 @@
+{
+    "2000-01-01|2000-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559731/",
+            "cover_date": "2000-06-03",
+            "date_added": "2016-11-26 08:28:07",
+            "date_last_updated": "2017-04-16 03:49:52",
+            "deck": null,
+            "description": "<p>Act.444 - Act.454.</p>",
+            "has_staff_review": false,
+            "id": 559731,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551784-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551784-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551784-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551784-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551784-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551784-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551784-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551784-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551784-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2-44-vol-44/4000-559731/",
+            "store_date": "2000-06-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95892/",
+                "id": 95892,
+                "name": "Emblem Take 2",
+                "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2/4050-95892/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560616/",
+            "cover_date": "2000-12-01",
+            "date_added": "2016-11-27 00:05:14",
+            "date_last_updated": "2017-12-31 06:28:37",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 560616,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5553975-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5553975-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5553975-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5553975-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5553975-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5553975-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5553975-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5553975-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5553975-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/ouke-no-monshou-44-vol-44/4000-560616/",
+            "store_date": "2000-12-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95917/",
+                "id": 95917,
+                "name": "Ouke no Monshou",
+                "site_detail_url": "https://comicvine.gamespot.com/ouke-no-monshou/4050-95917/"
+            }
+        }
+    ]
+}

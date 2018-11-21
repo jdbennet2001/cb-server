@@ -1,0 +1,70 @@
+{
+    "1997-01-01|1997-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-44171/",
+            "cover_date": "1997-10-01",
+            "date_added": "2008-06-06 11:17:01",
+            "date_last_updated": "2016-05-01 16:08:47",
+            "deck": null,
+            "description": "<p><i>Jesse and his crew hit New Orleans on a hot Saturday night. Pale bloodsuckers creep from the shadows and a butt-ugly old favorite lines up his gunsights on Reverend Custer's head. And just what is that business with the photo of Cassidy all about?</i></p><p>Jesse, Tulip and Cassidy meet Xavier, an old friend of Cass' and a lord of Voodoo; Cassidy's history begins to catch up with him.</p>",
+            "has_staff_review": false,
+            "id": 44171,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2032990-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2032990-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2032990-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2032990-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2032990-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2032990-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2032990-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2032990-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2032990-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Good Times Rolling",
+            "site_detail_url": "https://comicvine.gamespot.com/preacher-30-good-times-rolling/4000-44171/",
+            "store_date": "1997-08-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-5516/",
+                "id": 5516,
+                "name": "Preacher",
+                "site_detail_url": "https://comicvine.gamespot.com/preacher/4050-5516/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559717/",
+            "cover_date": "1997-04-02",
+            "date_added": "2016-11-26 08:27:32",
+            "date_last_updated": "2017-04-16 03:19:59",
+            "deck": null,
+            "description": "<p>Act.301 - Act.310.</p>",
+            "has_staff_review": false,
+            "id": 559717,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551770-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551770-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551770-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551770-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551770-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551770-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551770-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551770-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551770-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2-30-vol-30/4000-559717/",
+            "store_date": "1997-04-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95892/",
+                "id": 95892,
+                "name": "Emblem Take 2",
+                "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2/4050-95892/"
+            }
+        }
+    ]
+}

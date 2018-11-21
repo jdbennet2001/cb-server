@@ -1,0 +1,70 @@
+{
+    "1996-01-01|1996-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-97045/",
+            "cover_date": "1996-09-01",
+            "date_added": "2008-06-06 11:20:04",
+            "date_last_updated": "2016-04-30 14:04:16",
+            "deck": null,
+            "description": "<p><i>The Rise Of Robotropolis, The Fall Of Sonic, script by Kent Taylor, pencils by Manny Galan, inks by Phil Sheehy; A confluence of circumstances dampens Sonic's speed; He and the Freedom Fighters go in search of Magic Rings to restore the speed, but instead fall into the hands of Dr. Robotnik's Swatbots, forcing Sonic to choose between saving his friends and restoring his speed. Bedtime Tails, script by Mike Kanterovich and Ken Penders, pencils by Ken Penders, inks by Jon D'Agostino; To entertain a convalescing Sonic, Tails reads him a story from the fan comic that he produced, a story that sounds suspiciously like the origin of the Fantastic Four and their battle with Galactus, but with Sonic and the Freedom Fighters as the leads.</i></p>",
+            "has_staff_review": false,
+            "id": 97045,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/64048-11074-97045-1-sonic-the-hedgehog.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "The Fall of Sonic",
+            "site_detail_url": "https://comicvine.gamespot.com/sonic-the-hedgehog-38-the-fall-of-sonic/4000-97045/",
+            "store_date": "1996-06-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-11074/",
+                "id": 11074,
+                "name": "Sonic the Hedgehog",
+                "site_detail_url": "https://comicvine.gamespot.com/sonic-the-hedgehog/4050-11074/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-543652/",
+            "cover_date": "1996-07-04",
+            "date_added": "2016-08-08 13:25:23",
+            "date_last_updated": "2016-08-08 13:59:02",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 543652,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5369266-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5369266-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5369266-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5369266-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5369266-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5369266-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5369266-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5369266-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5369266-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Vol. 38",
+            "site_detail_url": "https://comicvine.gamespot.com/kattobi-itto-38-vol-38/4000-543652/",
+            "store_date": "1996-07-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92981/",
+                "id": 92981,
+                "name": "Kattobi Itto",
+                "site_detail_url": "https://comicvine.gamespot.com/kattobi-itto/4050-92981/"
+            }
+        }
+    ]
+}

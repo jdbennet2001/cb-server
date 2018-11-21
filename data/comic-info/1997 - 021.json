@@ -1,0 +1,70 @@
+{
+    "1997-01-01|1997-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396090/",
+            "cover_date": "1997-09-05",
+            "date_added": "2013-04-05 14:22:15",
+            "date_last_updated": "2013-04-05 14:34:14",
+            "deck": "Contains : X-Universe #01 (1995)",
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 396090,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2964867-fabulosos-x-men-21_10.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2964867-fabulosos-x-men-21_10.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2964867-fabulosos-x-men-21_10.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2964867-fabulosos-x-men-21_10.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2964867-fabulosos-x-men-21_10.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2964867-fabulosos-x-men-21_10.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2964867-fabulosos-x-men-21_10.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2964867-fabulosos-x-men-21_10.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2964867-fabulosos-x-men-21_10.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men-21/4000-396090/",
+            "store_date": "1997-09-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59622/",
+                "id": 59622,
+                "name": "Os Fabulosos X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men/4050-59622/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542140/",
+            "cover_date": "1997-07-04",
+            "date_added": "2016-07-30 21:49:54",
+            "date_last_updated": "2016-07-31 00:24:23",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 542140,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5351654-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5351654-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5351654-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5351654-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5351654-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5351654-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5351654-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5351654-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5351654-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/zero-the-man-of-the-creation-21-vol-21/4000-542140/",
+            "store_date": "1997-07-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92672/",
+                "id": 92672,
+                "name": "Zero: The Man of the Creation",
+                "site_detail_url": "https://comicvine.gamespot.com/zero-the-man-of-the-creation/4050-92672/"
+            }
+        }
+    ]
+}

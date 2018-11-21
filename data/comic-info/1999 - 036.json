@@ -1,0 +1,37 @@
+{
+    "1999-01-01|1999-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-567594/",
+            "cover_date": "1999-03-03",
+            "date_added": "2016-12-16 04:05:41",
+            "date_last_updated": "2017-08-13 11:56:44",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 567594,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5593402-36.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5593402-36.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5593402-36.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5593402-36.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5593402-36.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5593402-36.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5593402-36.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5593402-36.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5593402-36.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": "Vol. 36",
+            "site_detail_url": "https://comicvine.gamespot.com/be-bop-high-school-36-vol-36/4000-567594/",
+            "store_date": "1999-03-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96785/",
+                "id": 96785,
+                "name": "Be-Bop High School",
+                "site_detail_url": "https://comicvine.gamespot.com/bebop-high-school/4050-96785/"
+            }
+        }
+    ]
+}

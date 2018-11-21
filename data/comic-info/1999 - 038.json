@@ -1,0 +1,70 @@
+{
+    "1999-01-01|1999-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396254/",
+            "cover_date": "1999-02-07",
+            "date_added": "2013-04-07 09:06:33",
+            "date_last_updated": "2013-04-07 09:09:54",
+            "deck": "Contains : X-Men (1991) #60-61",
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 396254,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2967707-fabulosos-x-men-38_10.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2967707-fabulosos-x-men-38_10.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2967707-fabulosos-x-men-38_10.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2967707-fabulosos-x-men-38_10.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2967707-fabulosos-x-men-38_10.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2967707-fabulosos-x-men-38_10.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2967707-fabulosos-x-men-38_10.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2967707-fabulosos-x-men-38_10.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2967707-fabulosos-x-men-38_10.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men-38/4000-396254/",
+            "store_date": "1999-02-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59622/",
+                "id": 59622,
+                "name": "Os Fabulosos X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men/4050-59622/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-567596/",
+            "cover_date": "1999-11-02",
+            "date_added": "2016-12-16 04:05:46",
+            "date_last_updated": "2017-08-13 11:57:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 567596,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5593404-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5593404-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5593404-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5593404-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5593404-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5593404-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5593404-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5593404-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5593404-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Vol. 38",
+            "site_detail_url": "https://comicvine.gamespot.com/be-bop-high-school-38-vol-38/4000-567596/",
+            "store_date": "1999-11-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96785/",
+                "id": 96785,
+                "name": "Be-Bop High School",
+                "site_detail_url": "https://comicvine.gamespot.com/bebop-high-school/4050-96785/"
+            }
+        }
+    ]
+}

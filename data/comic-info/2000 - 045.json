@@ -1,0 +1,70 @@
+{
+    "2000-01-01|2000-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416364/",
+            "cover_date": "2000-02-05",
+            "date_added": "2013-07-05 02:42:47",
+            "date_last_updated": "2013-07-05 04:02:05",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416364,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153287-045.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153287-045.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153287-045.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153287-045.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153287-045.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153287-045.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153287-045.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153287-045.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3153287-045.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "Vol. 45",
+            "site_detail_url": "https://comicvine.gamespot.com/kochikame-45-vol-45/4000-416364/",
+            "store_date": "2000-02-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64976/",
+                "id": 64976,
+                "name": "Kochikame",
+                "site_detail_url": "https://comicvine.gamespot.com/kochikame/4050-64976/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559732/",
+            "cover_date": "2000-08-02",
+            "date_added": "2016-11-26 08:28:10",
+            "date_last_updated": "2017-04-16 03:50:01",
+            "deck": null,
+            "description": "<p>Act.455 - Act.464.</p>",
+            "has_staff_review": false,
+            "id": 559732,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551785-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551785-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551785-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551785-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551785-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551785-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551785-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551785-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551785-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "Vol. 45",
+            "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2-45-vol-45/4000-559732/",
+            "store_date": "2000-08-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95892/",
+                "id": 95892,
+                "name": "Emblem Take 2",
+                "site_detail_url": "https://comicvine.gamespot.com/emblem-take-2/4050-95892/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "1999-01-01|1999-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-131670/",
+            "cover_date": "1999-10-01",
+            "date_added": "2008-06-21 12:28:41",
+            "date_last_updated": "2016-04-30 16:31:58",
+            "deck": null,
+            "description": "<i>\"My Special Friend\": Guest-starring the ever-popular Princess Sally! Princess Sally visits the Floating Island on a diplomatic mission on behalf of her father, and a personal mission for her mother. Will her mission of mercy succeed or fail? Will Knuckles' renewed commitment to his homeland conflict with his loyalty to his friends? Can things ever be the same again? Don't miss this issue-lenth epic!  </i>",
+            "has_staff_review": false,
+            "id": 131670,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/423298-29-1.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/423298-29-1.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/423298-29-1.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/423298-29-1.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/423298-29-1.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/423298-29-1.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/423298-29-1.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/423298-29-1.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/423298-29-1.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "My Special Friend\" Guest Starring... Princess Sally",
+            "site_detail_url": "https://comicvine.gamespot.com/knuckles-the-echidna-29-my-special-friend-guest-st/4000-131670/",
+            "store_date": "1999-08-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-19227/",
+                "id": 19227,
+                "name": "Knuckles the Echidna",
+                "site_detail_url": "https://comicvine.gamespot.com/knuckles-the-echidna/4050-19227/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542148/",
+            "cover_date": "1999-09-03",
+            "date_added": "2016-07-30 21:52:35",
+            "date_last_updated": "2016-07-31 01:11:12",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 542148,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5351690-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5351690-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5351690-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5351690-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5351690-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5351690-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5351690-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5351690-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5351690-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Vol. 29",
+            "site_detail_url": "https://comicvine.gamespot.com/zero-the-man-of-the-creation-29-vol-29/4000-542148/",
+            "store_date": "1999-09-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92672/",
+                "id": 92672,
+                "name": "Zero: The Man of the Creation",
+                "site_detail_url": "https://comicvine.gamespot.com/zero-the-man-of-the-creation/4050-92672/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "2000-01-01|2000-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-399331/",
+            "cover_date": "2000-07-24",
+            "date_added": "2013-04-24 21:53:29",
+            "date_last_updated": "2013-04-24 22:02:13",
+            "deck": null,
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 399331,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3004911-24.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3004911-24.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3004911-24.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3004911-24.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3004911-24.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3004911-24.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3004911-24.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3004911-24.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3004911-24.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "24",
+            "name": "Vol. 24",
+            "site_detail_url": "https://comicvine.gamespot.com/jaja-uma-grooming-up-24-vol-24/4000-399331/",
+            "store_date": "2000-07-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60378/",
+                "id": 60378,
+                "name": "Jaja Uma Grooming Up!",
+                "site_detail_url": "https://comicvine.gamespot.com/jaja-uma-grooming-up/4050-60378/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-436548/",
+            "cover_date": "2001-02-01",
+            "date_added": "2013-12-13 00:12:48",
+            "date_last_updated": "2013-12-13 00:27:33",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 436548,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3499925-024.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3499925-024.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3499925-024.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3499925-024.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3499925-024.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3499925-024.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3499925-024.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3499925-024.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3499925-024.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "24",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/angel-club-24/4000-436548/",
+            "store_date": "2000-12-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67883/",
+                "id": 67883,
+                "name": "ANGEL Club",
+                "site_detail_url": "https://comicvine.gamespot.com/angel-club/4050-67883/"
+            }
+        }
+    ]
+}

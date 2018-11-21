@@ -1,0 +1,70 @@
+{
+    "1996-01-01|1996-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561339/",
+            "cover_date": "1996-11-01",
+            "date_added": "2016-11-27 07:41:36",
+            "date_last_updated": "2018-09-02 01:07:18",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 561339,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5555344-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5555344-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5555344-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5555344-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5555344-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5555344-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5555344-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5555344-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5555344-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/ushio-to-tora-32-vol-32/4000-561339/",
+            "store_date": "1996-11-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95936/",
+                "id": 95936,
+                "name": "Ushio to Tora",
+                "site_detail_url": "https://comicvine.gamespot.com/ushio-to-tora/4050-95936/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-575376/",
+            "cover_date": "1996-04-04",
+            "date_added": "2017-01-06 05:19:30",
+            "date_last_updated": "2017-09-14 12:00:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 575376,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5633668-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5633668-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5633668-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5633668-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5633668-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5633668-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5633668-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5633668-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5633668-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/eleven-32-vol-32/4000-575376/",
+            "store_date": "1996-04-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97852/",
+                "id": 97852,
+                "name": "Eleven",
+                "site_detail_url": "https://comicvine.gamespot.com/eleven/4050-97852/"
+            }
+        }
+    ]
+}
