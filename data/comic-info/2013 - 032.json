@@ -1,7 +1,38 @@
 {
-    "2013-12-23|2013-12-29": [],
-    "2013-12-30|2014-01-05": [],
-    "2013-01-07|2013-01-13": [
+    "2013-01-01|2013-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-376656/",
+            "cover_date": "2013-01-01",
+            "date_added": "2013-01-01 00:53:01",
+            "date_last_updated": "2015-03-20 17:56:06",
+            "deck": null,
+            "description": "<p><i>John Ka, Earth Empire scout, has found little trace of mankind since her pod surfaced. However, when she finds a band of feral humans - and a Prophet clone who has gone native to protect them - she finds herself questioning what it means to be human.</i></p>",
+            "has_staff_review": false,
+            "id": 376656,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2781277-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2781277-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2781277-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2781277-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2781277-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2781277-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2781277-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2781277-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2781277-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "[untitled]",
+            "site_detail_url": "https://comicvine.gamespot.com/prophet-32-untitled/4000-376656/",
+            "store_date": "2013-01-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45269/",
+                "id": 45269,
+                "name": "Prophet",
+                "site_detail_url": "https://comicvine.gamespot.com/prophet/4050-45269/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-379553/",
@@ -34,11 +65,7 @@
                 "name": "Legends of the Dark Knight",
                 "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight/4050-49552/"
             }
-        }
-    ],
-    "2013-01-14|2013-01-20": [],
-    "2013-01-21|2013-01-27": [],
-    "2013-01-28|2013-02-03": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-382822/",
@@ -140,45 +167,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500840/",
-            "cover_date": "2013-02-28",
-            "date_added": "2015-09-20 21:51:33",
-            "date_last_updated": "2015-09-20 22:30:16",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 500840,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4813266-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4813266-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4813266-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4813266-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4813266-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4813266-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4813266-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4813266-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4813266-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Le caïd",
-            "site_detail_url": "https://comicvine.gamespot.com/jeremiah-32-le-caid/4000-500840/",
-            "store_date": "2013-02-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40682/",
-                "id": 40682,
-                "name": "Jeremiah",
-                "site_detail_url": "https://comicvine.gamespot.com/jeremiah/4050-40682/"
-            }
-        }
-    ],
-    "2013-02-04|2013-02-10": [],
-    "2013-02-11|2013-02-17": [],
-    "2013-02-18|2013-02-24": [],
-    "2013-02-25|2013-03-03": [],
-    "2013-03-04|2013-03-10": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-390455/",
             "cover_date": "2013-05-01",
             "date_added": "2013-03-05 00:01:56",
@@ -214,10 +202,7 @@
                 "name": "Venom",
                 "site_detail_url": "https://comicvine.gamespot.com/venom/4050-39301/"
             }
-        }
-    ],
-    "2013-03-11|2013-03-17": [],
-    "2013-03-18|2013-03-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-394818/",
@@ -253,46 +238,10 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550865/",
-            "cover_date": "2013-03-19",
-            "date_added": "2016-09-25 05:24:38",
-            "date_last_updated": "2016-09-25 07:22:28",
-            "deck": null,
-            "description": "<p>Act.189 - Act.194.</p>",
-            "has_staff_review": false,
-            "id": 550865,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5452216-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5452216-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5452216-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5452216-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5452216-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5452216-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5452216-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5452216-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5452216-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/skip-beat-32-vol-32/4000-550865/",
-            "store_date": "2013-03-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94359/",
-                "id": 94359,
-                "name": "Skip Beat!",
-                "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
-            }
-        }
-    ],
-    "2013-03-25|2013-03-31": [],
-    "2013-04-01|2013-04-07": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-395898/",
             "cover_date": "2013-06-03",
             "date_added": "2013-04-03 14:55:45",
-            "date_last_updated": "2015-03-17 10:56:05",
+            "date_last_updated": "2018-11-10 11:38:13",
             "deck": null,
             "description": "<p><em>Famed movie director Albert Hatchplot is being haunted by the greatest menaces from his most famous movies!</em></p><p><em>Can Scooby and the gang survive the crazed birds and killer crop dusters long enough to discover the truth?</em></p>",
             "has_staff_review": false,
@@ -310,8 +259,8 @@
                 "image_tags": "All Images"
             },
             "issue_number": "32",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-32/4000-395898/",
+            "name": "Dial \"E\" For EEEEEEEEEK!; Frankly? Freaky!",
+            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-32-dial-e-for-eeeeeeeeek-/4000-395898/",
             "store_date": "2013-04-03",
             "volume": {
                 "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35462/",
@@ -319,48 +268,7 @@
                 "name": "Scooby-Doo, Where Are You?",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you/4050-35462/"
             }
-        }
-    ],
-    "2013-04-08|2013-04-14": [],
-    "2013-04-15|2013-04-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408813/",
-            "cover_date": "2013-04-30",
-            "date_added": "2013-06-03 13:48:45",
-            "date_last_updated": "2018-03-21 20:22:30",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408813,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3085640-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3085640-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3085640-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3085640-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3085640-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3085640-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3085640-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3085640-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3085640-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-32-vol-32/4000-408813/",
-            "store_date": "2013-04-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62845/",
-                "id": 62845,
-                "name": "Hunter x Hunter",
-                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-62845/"
-            }
-        }
-    ],
-    "2013-04-22|2013-04-28": [],
-    "2013-04-29|2013-05-05": [],
-    "2013-05-06|2013-05-12": [],
-    "2013-05-13|2013-05-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403259/",
@@ -393,11 +301,40 @@
                 "name": "Arrow",
                 "site_detail_url": "https://comicvine.gamespot.com/arrow/4050-52931/"
             }
-        }
-    ],
-    "2013-05-20|2013-05-26": [],
-    "2013-05-27|2013-06-02": [],
-    "2013-06-03|2013-06-09": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408813/",
+            "cover_date": "2013-04-30",
+            "date_added": "2013-06-03 13:48:45",
+            "date_last_updated": "2018-03-21 20:22:30",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408813,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3085640-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3085640-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3085640-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3085640-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3085640-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3085640-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3085640-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3085640-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3085640-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-32-vol-32/4000-408813/",
+            "store_date": "2013-04-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62845/",
+                "id": 62845,
+                "name": "Hunter x Hunter",
+                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-62845/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-409254/",
@@ -429,6 +366,72 @@
                 "id": 22548,
                 "name": "The 99",
                 "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-22548/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-411890/",
+            "cover_date": "2013-06-30",
+            "date_added": "2013-06-18 00:06:53",
+            "date_last_updated": "2017-12-23 14:53:33",
+            "deck": null,
+            "description": "<p><em>Becky travels a spiritual crossroads that reveals the true power of the Six... what has come before and what might come to pass should the weapons fall into the wrong hands. Skinwalkers, forgotten kingdoms, knights, mythical creatures, and the most fearsome band of outlaws to ever roam the west - they're all set to collide as the strangest of The Sixth Gun adventures continues!</em></p>",
+            "has_staff_review": false,
+            "id": 411890,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3114781-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3114781-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3114781-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3114781-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3114781-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3114781-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3114781-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3114781-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3114781-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Ghost Dance, Part Three",
+            "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun-32-ghost-dance-part-three/4000-411890/",
+            "store_date": "2013-06-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33090/",
+                "id": 33090,
+                "name": "The Sixth Gun",
+                "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun/4050-33090/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-413671/",
+            "cover_date": "2013-08-01",
+            "date_added": "2013-06-25 00:03:56",
+            "date_last_updated": "2015-01-29 22:27:02",
+            "deck": null,
+            "description": "<p><em>HELLFIRE SAGA PART 2!</em></p><p><em>Wolverine has plans for the Bamfs...</em></p><p><em>Meet the new Hellions!</em></p>",
+            "has_staff_review": false,
+            "id": 413671,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3130960-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3130960-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3130960-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3130960-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3130960-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3130960-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3130960-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3130960-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3130960-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "The Hellfire Saga Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/wolverine-the-x-men-32-the-hellfire-saga-part-two/4000-413671/",
+            "store_date": "2013-06-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43539/",
+                "id": 43539,
+                "name": "Wolverine & the X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/wolverine-the-x-men/4050-43539/"
             }
         },
         {
@@ -466,179 +469,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425789/",
-            "cover_date": "2013-06-01",
-            "date_added": "2013-09-14 20:45:12",
-            "date_last_updated": "2013-09-14 21:36:46",
-            "deck": null,
-            "description": "<p><em>Meet Baseer the All-Seeing, German boy detective, as he joins THE 99 to search for a lost rocket, which mysteriously disappeared from radar moments after a successful launch. But can THE 99 trust someone they just met? Is Baseer all that he seems? And can the lost rocket be found, or will the whole project come crashing down?</em></p>",
-            "has_staff_review": false,
-            "id": 425789,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311568-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311568-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311568-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311568-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311568-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311568-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311568-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311568-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3311568-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-99-32/4000-425789/",
-            "store_date": "2013-06-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67392/",
-                "id": 67392,
-                "name": "THE 99",
-                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-67392/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438682/",
-            "cover_date": "2013-06-01",
-            "date_added": "2013-12-25 20:11:47",
-            "date_last_updated": "2013-12-25 20:27:41",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 128: Ode To The Fraffiti Covered Fortress</li><li>Chapter 129: This Is Suzuran</li></ul>",
-            "has_staff_review": false,
-            "id": 438682,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3526719-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3526719-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3526719-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3526719-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3526719-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3526719-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3526719-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3526719-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3526719-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/worst-32-vol-32/4000-438682/",
-            "store_date": "2013-06-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44223/",
-                "id": 44223,
-                "name": "Worst",
-                "site_detail_url": "https://comicvine.gamespot.com/worst/4050-44223/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474438/",
-            "cover_date": "2013-07-31",
-            "date_added": "2014-12-20 09:16:51",
-            "date_last_updated": "2014-12-20 10:07:54",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474438,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285678-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285678-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285678-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285678-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285678-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285678-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285678-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285678-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285678-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-32/4000-474438/",
-            "store_date": "2013-06-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2013-06-10|2013-06-16": [],
-    "2013-06-17|2013-06-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-411890/",
-            "cover_date": "2013-06-30",
-            "date_added": "2013-06-18 00:06:53",
-            "date_last_updated": "2017-12-23 14:53:33",
-            "deck": null,
-            "description": "<p><em>Becky travels a spiritual crossroads that reveals the true power of the Six... what has come before and what might come to pass should the weapons fall into the wrong hands. Skinwalkers, forgotten kingdoms, knights, mythical creatures, and the most fearsome band of outlaws to ever roam the west - they're all set to collide as the strangest of The Sixth Gun adventures continues!</em></p>",
-            "has_staff_review": false,
-            "id": 411890,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3114781-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3114781-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3114781-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3114781-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3114781-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3114781-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3114781-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3114781-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3114781-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Ghost Dance, Part Three",
-            "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun-32-ghost-dance-part-three/4000-411890/",
-            "store_date": "2013-06-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33090/",
-                "id": 33090,
-                "name": "The Sixth Gun",
-                "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun/4050-33090/"
-            }
-        }
-    ],
-    "2013-06-24|2013-06-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-413671/",
-            "cover_date": "2013-08-01",
-            "date_added": "2013-06-25 00:03:56",
-            "date_last_updated": "2015-01-29 22:27:02",
-            "deck": null,
-            "description": "<p><em>HELLFIRE SAGA PART 2!</em></p><p><em>Wolverine has plans for the Bamfs...</em></p><p><em>Meet the new Hellions!</em></p>",
-            "has_staff_review": false,
-            "id": 413671,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3130960-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3130960-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3130960-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3130960-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3130960-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3130960-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3130960-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3130960-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3130960-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "The Hellfire Saga Part Two",
-            "site_detail_url": "https://comicvine.gamespot.com/wolverine-the-x-men-32-the-hellfire-saga-part-two/4000-413671/",
-            "store_date": "2013-06-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43539/",
-                "id": 43539,
-                "name": "Wolverine & the X-Men",
-                "site_detail_url": "https://comicvine.gamespot.com/wolverine-the-x-men/4050-43539/"
-            }
-        }
-    ],
-    "2013-07-01|2013-07-07": [],
-    "2013-07-08|2013-07-14": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416979/",
             "cover_date": "2013-06-30",
             "date_added": "2013-07-09 00:09:39",
@@ -670,146 +500,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/crossed-badlands/4050-46576/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441819/",
-            "cover_date": "2013-07-12",
-            "date_added": "2014-01-09 21:40:14",
-            "date_last_updated": "2015-12-05 13:46:29",
-            "deck": null,
-            "description": "<p><em>In Black Jack: The Boy Who Came From the Sky, a father will stop at nothing to get his dying son help from the most skilled doctor in the world, Black Jack himself. But when he has to defect from his nation and commit treason to do it, Black Jack doesn't want a foreign nation's armed forces to see him as someone harboring a fugitive! As complications arise, the boy's life is in danger, but can Black Jack help him without getting himself in terrible trouble too? Can Black Jack help him at all? Also included in this issue are Astro Boy: Robot Land, Buddha, and Dororo.</em></p><h2>Story Titles</h2><ul><li>Astro Boy: Robot Land Chapter Three</li><li>Buddha Part Two: The Death of Bandaka Chapter One</li><li>Dororo: Sebame</li><li>Black Jack The Boy Who Came From the Sky</li></ul>",
-            "has_staff_review": false,
-            "id": 441819,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3562912-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3562912-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3562912-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3562912-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3562912-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3562912-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3562912-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3562912-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3562912-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine-32-vol-32/4000-441819/",
-            "store_date": "2013-07-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70818/",
-                "id": 70818,
-                "name": "Weekly Astro Boy Magazine",
-                "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine/4050-70818/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-568181/",
-            "cover_date": "2013-07-08",
-            "date_added": "2016-12-16 22:57:31",
-            "date_last_updated": "2017-11-20 06:29:13",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 568181,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5595105-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5595105-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5595105-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5595105-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5595105-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5595105-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5595105-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5595105-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5595105-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/clover-32-vol-32/4000-568181/",
-            "store_date": "2013-07-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96878/",
-                "id": 96878,
-                "name": "Clover",
-                "site_detail_url": "https://comicvine.gamespot.com/clover/4050-96878/"
-            }
-        }
-    ],
-    "2013-07-15|2013-07-21": [],
-    "2013-07-22|2013-07-28": [],
-    "2013-07-29|2013-08-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438661/",
-            "cover_date": "2013-08-07",
-            "date_added": "2013-12-25 17:04:25",
-            "date_last_updated": "2018-01-23 16:17:59",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 280: Last Dance (1) (ラストダンズ-① <i>Rasuto Dansu (Ichi)</i>)</li><li>Chapter 281: Last Dance (2) (ラストダンズ-② <i>Rasuto Dansu (Ni)</i>)</li><li>Chapter 282: Last Dance (3) (ラストダンズ-③ <i>Rasuto Dansu (San)</i>)</li><li>Chapter 283: Last Dance (4) (ラストダンズ-④ <i>Rasuto Dansu (Yon)</i>)</li><li>Chapter 284: Last Dance (5) (ラストダンズ-⑤ <i>Rasuto Dansu (Go)</i>)</li><li>Chapter 285: Last Dance (6) (ラストダンズ-⑥ <i>Rasuto Dansu (Roku)</i>)</li><li>Chapter 286: You Guys (キミ達を <i>Kimi Tachi o</i>)</li><li>Chapter 287: Graduation (卒業 <i>Sotsugyō</i>)</li><li>Chapter 288: Sket Dance (SKET DANCE <i>Suketto Dansu</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 438661,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3526496-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3526496-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3526496-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3526496-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3526496-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3526496-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3526496-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3526496-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3526496-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Last Dance",
-            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-32-last-dance/4000-438661/",
-            "store_date": "2013-08-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
-                "id": 43866,
-                "name": "Sket Dance",
-                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559276/",
-            "cover_date": "2013-07-30",
-            "date_added": "2016-11-26 05:34:48",
-            "date_last_updated": "2017-04-15 17:30:38",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 559276,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551086-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551086-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551086-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551086-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551086-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551086-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551086-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551086-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551086-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi-32-vol-32/4000-559276/",
-            "store_date": "2013-07-30",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95882/",
-                "id": 95882,
-                "name": "Area no Kishi",
-                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-95882/"
-            }
-        }
-    ],
-    "2013-08-05|2013-08-11": [],
-    "2013-08-12|2013-08-18": [],
-    "2013-08-19|2013-08-25": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422523/",
@@ -880,12 +570,40 @@
                 "name": "Injustice: Gods Among Us",
                 "site_detail_url": "https://comicvine.gamespot.com/injustice-gods-among-us/4050-55835/"
             }
-        }
-    ],
-    "2013-08-26|2013-09-01": [],
-    "2013-09-02|2013-09-08": [],
-    "2013-09-09|2013-09-15": [],
-    "2013-09-16|2013-09-22": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425789/",
+            "cover_date": "2013-06-01",
+            "date_added": "2013-09-14 20:45:12",
+            "date_last_updated": "2013-09-14 21:36:46",
+            "deck": null,
+            "description": "<p><em>Meet Baseer the All-Seeing, German boy detective, as he joins THE 99 to search for a lost rocket, which mysteriously disappeared from radar moments after a successful launch. But can THE 99 trust someone they just met? Is Baseer all that he seems? And can the lost rocket be found, or will the whole project come crashing down?</em></p>",
+            "has_staff_review": false,
+            "id": 425789,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311568-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311568-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311568-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311568-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311568-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311568-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311568-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311568-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3311568-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-99-32/4000-425789/",
+            "store_date": "2013-06-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67392/",
+                "id": 67392,
+                "name": "THE 99",
+                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-67392/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425988/",
@@ -918,9 +636,7 @@
                 "name": "World of Archie Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
             }
-        }
-    ],
-    "2013-09-23|2013-09-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-426926/",
@@ -1019,9 +735,7 @@
                 "name": "Archie Marries Veronica",
                 "site_detail_url": "https://comicvine.gamespot.com/archie-marries-veronica/4050-53275/"
             }
-        }
-    ],
-    "2013-09-30|2013-10-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-427805/",
@@ -1054,9 +768,7 @@
                 "name": "Morning Glories",
                 "site_detail_url": "https://comicvine.gamespot.com/morning-glories/4050-34852/"
             }
-        }
-    ],
-    "2013-10-07|2013-10-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-428301/",
@@ -1125,41 +837,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-462414/",
-            "cover_date": "2013-10-31",
-            "date_added": "2014-08-13 02:25:16",
-            "date_last_updated": "2014-08-13 02:26:05",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 462414,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "201310",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-32-201310/4000-462414/",
-            "store_date": "2013-10-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
-                "id": 76424,
-                "name": "Comic Earth Star Magazine",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
-            }
-        }
-    ],
-    "2013-10-14|2013-10-20": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-428872/",
             "cover_date": "2013-10-01",
             "date_added": "2013-10-15 00:02:52",
@@ -1191,41 +868,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/jennifer-blood/4050-39051/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-455592/",
-            "cover_date": "2013-10-23",
-            "date_added": "2014-06-03 00:51:28",
-            "date_last_updated": "2018-02-08 14:32:29",
-            "deck": null,
-            "description": "<p>Chapters 339 - 349.</p>",
-            "has_staff_review": false,
-            "id": 455592,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3867126-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3867126-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3867126-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3867126-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3867126-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3867126-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3867126-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3867126-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3867126-32.jpg",
-                "image_tags": "All Images,cover"
-            },
-            "issue_number": "32",
-            "name": "Hiraku Jōmon",
-            "site_detail_url": "https://comicvine.gamespot.com/kingdom-32-hiraku-jomon/4000-455592/",
-            "store_date": "2013-10-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-74502/",
-                "id": 74502,
-                "name": "Kingdom",
-                "site_detail_url": "https://comicvine.gamespot.com/kingdom/4050-74502/"
-            }
-        }
-    ],
-    "2013-10-21|2013-10-27": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-430752/",
@@ -1263,10 +905,7 @@
                 "name": "Daredevil",
                 "site_detail_url": "https://comicvine.gamespot.com/daredevil/4050-41410/"
             }
-        }
-    ],
-    "2013-10-28|2013-11-03": [],
-    "2013-11-04|2013-11-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-432449/",
@@ -1299,11 +938,7 @@
                 "name": "X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-43575/"
             }
-        }
-    ],
-    "2013-11-11|2013-11-17": [],
-    "2013-11-18|2013-11-24": [],
-    "2013-11-25|2013-12-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-435081/",
@@ -1402,9 +1037,7 @@
                 "name": "Fairy Tail",
                 "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-25073/"
             }
-        }
-    ],
-    "2013-12-02|2013-12-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-435488/",
@@ -1473,41 +1106,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560000/",
-            "cover_date": "2013-12-31",
-            "date_added": "2016-11-26 11:15:43",
-            "date_last_updated": "2017-04-22 02:26:45",
-            "deck": null,
-            "description": "<h2>Sommaire</h2><ul><li>N°331/ Jour J</li><li>N°332/ Ovation</li><li>N°333/ Beaucoup de bruit pour rien</li><li>N°334/ Défaite incontestable</li><li>N°335/ Décision</li><li>N°336/ Libération</li><li>N°337/ Confession</li><li>N°338/ Au sommet de l'arbre</li><li>N°339/ Silence</li><li>N°340/ Mission spéciale</li></ul>",
-            "has_staff_review": false,
-            "id": 560000,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552361-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552361-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552361-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552361-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552361-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552361-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552361-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552361-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5552361-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Tome 32",
-            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-32-tome-32/4000-560000/",
-            "store_date": "2013-12-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95899/",
-                "id": 95899,
-                "name": "Hunter × Hunter",
-                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-95899/"
-            }
-        }
-    ],
-    "2013-12-09|2013-12-15": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-436268/",
             "cover_date": "2014-03-31",
             "date_added": "2013-12-10 00:05:19",
@@ -1538,7 +1136,402 @@
                 "name": "Mega Man",
                 "site_detail_url": "https://comicvine.gamespot.com/mega-man/4050-40107/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438661/",
+            "cover_date": "2013-08-07",
+            "date_added": "2013-12-25 17:04:25",
+            "date_last_updated": "2018-01-23 16:17:59",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 280: Last Dance (1) (ラストダンズ-① <i>Rasuto Dansu (Ichi)</i>)</li><li>Chapter 281: Last Dance (2) (ラストダンズ-② <i>Rasuto Dansu (Ni)</i>)</li><li>Chapter 282: Last Dance (3) (ラストダンズ-③ <i>Rasuto Dansu (San)</i>)</li><li>Chapter 283: Last Dance (4) (ラストダンズ-④ <i>Rasuto Dansu (Yon)</i>)</li><li>Chapter 284: Last Dance (5) (ラストダンズ-⑤ <i>Rasuto Dansu (Go)</i>)</li><li>Chapter 285: Last Dance (6) (ラストダンズ-⑥ <i>Rasuto Dansu (Roku)</i>)</li><li>Chapter 286: You Guys (キミ達を <i>Kimi Tachi o</i>)</li><li>Chapter 287: Graduation (卒業 <i>Sotsugyō</i>)</li><li>Chapter 288: Sket Dance (SKET DANCE <i>Suketto Dansu</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 438661,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3526496-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3526496-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3526496-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3526496-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3526496-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3526496-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3526496-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3526496-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3526496-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Last Dance",
+            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-32-last-dance/4000-438661/",
+            "store_date": "2013-08-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
+                "id": 43866,
+                "name": "Sket Dance",
+                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438682/",
+            "cover_date": "2013-06-01",
+            "date_added": "2013-12-25 20:11:47",
+            "date_last_updated": "2013-12-25 20:27:41",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 128: Ode To The Fraffiti Covered Fortress</li><li>Chapter 129: This Is Suzuran</li></ul>",
+            "has_staff_review": false,
+            "id": 438682,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3526719-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3526719-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3526719-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3526719-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3526719-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3526719-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3526719-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3526719-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3526719-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/worst-32-vol-32/4000-438682/",
+            "store_date": "2013-06-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44223/",
+                "id": 44223,
+                "name": "Worst",
+                "site_detail_url": "https://comicvine.gamespot.com/worst/4050-44223/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441819/",
+            "cover_date": "2013-07-12",
+            "date_added": "2014-01-09 21:40:14",
+            "date_last_updated": "2015-12-05 13:46:29",
+            "deck": null,
+            "description": "<p><em>In Black Jack: The Boy Who Came From the Sky, a father will stop at nothing to get his dying son help from the most skilled doctor in the world, Black Jack himself. But when he has to defect from his nation and commit treason to do it, Black Jack doesn't want a foreign nation's armed forces to see him as someone harboring a fugitive! As complications arise, the boy's life is in danger, but can Black Jack help him without getting himself in terrible trouble too? Can Black Jack help him at all? Also included in this issue are Astro Boy: Robot Land, Buddha, and Dororo.</em></p><h2>Story Titles</h2><ul><li>Astro Boy: Robot Land Chapter Three</li><li>Buddha Part Two: The Death of Bandaka Chapter One</li><li>Dororo: Sebame</li><li>Black Jack The Boy Who Came From the Sky</li></ul>",
+            "has_staff_review": false,
+            "id": 441819,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3562912-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3562912-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3562912-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3562912-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3562912-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3562912-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3562912-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3562912-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3562912-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine-32-vol-32/4000-441819/",
+            "store_date": "2013-07-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70818/",
+                "id": 70818,
+                "name": "Weekly Astro Boy Magazine",
+                "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine/4050-70818/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-455592/",
+            "cover_date": "2013-10-23",
+            "date_added": "2014-06-03 00:51:28",
+            "date_last_updated": "2018-02-08 14:32:29",
+            "deck": null,
+            "description": "<p>Chapters 339 - 349.</p>",
+            "has_staff_review": false,
+            "id": 455592,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3867126-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3867126-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3867126-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3867126-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3867126-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3867126-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3867126-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3867126-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3867126-32.jpg",
+                "image_tags": "All Images,cover"
+            },
+            "issue_number": "32",
+            "name": "Hiraku Jōmon",
+            "site_detail_url": "https://comicvine.gamespot.com/kingdom-32-hiraku-jomon/4000-455592/",
+            "store_date": "2013-10-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-74502/",
+                "id": 74502,
+                "name": "Kingdom",
+                "site_detail_url": "https://comicvine.gamespot.com/kingdom/4050-74502/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-462414/",
+            "cover_date": "2013-10-31",
+            "date_added": "2014-08-13 02:25:16",
+            "date_last_updated": "2014-08-13 02:26:05",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 462414,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4026963-amazon.co.jp%EF%BC%9A%20%E6%9C%88%E5%88%8A%20%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%A2%E3%83%BC%E3%82%B9%E3%82%B9%E3%82%BF%E3%83%BC%202013%E5%B9%B4%2011%E6%9C%88%E5%8F%B7%20%5B%E9%9B%91%E8%AA%8C%5D%20%20%E6%9C%AC%20-%20main.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "201310",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-32-201310/4000-462414/",
+            "store_date": "2013-10-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
+                "id": 76424,
+                "name": "Comic Earth Star Magazine",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474438/",
+            "cover_date": "2013-07-31",
+            "date_added": "2014-12-20 09:16:51",
+            "date_last_updated": "2014-12-20 10:07:54",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474438,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285678-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285678-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285678-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285678-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285678-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285678-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285678-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285678-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285678-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-32/4000-474438/",
+            "store_date": "2013-06-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500840/",
+            "cover_date": "2013-02-28",
+            "date_added": "2015-09-20 21:51:33",
+            "date_last_updated": "2015-09-20 22:30:16",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 500840,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4813266-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4813266-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4813266-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4813266-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4813266-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4813266-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4813266-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4813266-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4813266-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Le caïd",
+            "site_detail_url": "https://comicvine.gamespot.com/jeremiah-32-le-caid/4000-500840/",
+            "store_date": "2013-02-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40682/",
+                "id": 40682,
+                "name": "Jeremiah",
+                "site_detail_url": "https://comicvine.gamespot.com/jeremiah/4050-40682/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550865/",
+            "cover_date": "2013-03-19",
+            "date_added": "2016-09-25 05:24:38",
+            "date_last_updated": "2016-09-25 07:22:28",
+            "deck": null,
+            "description": "<p>Act.189 - Act.194.</p>",
+            "has_staff_review": false,
+            "id": 550865,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5452216-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5452216-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5452216-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5452216-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5452216-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5452216-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5452216-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5452216-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5452216-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/skip-beat-32-vol-32/4000-550865/",
+            "store_date": "2013-03-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94359/",
+                "id": 94359,
+                "name": "Skip Beat!",
+                "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559276/",
+            "cover_date": "2013-07-30",
+            "date_added": "2016-11-26 05:34:48",
+            "date_last_updated": "2017-04-15 17:30:38",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 559276,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551086-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551086-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551086-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551086-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551086-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551086-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551086-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551086-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551086-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi-32-vol-32/4000-559276/",
+            "store_date": "2013-07-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95882/",
+                "id": 95882,
+                "name": "Area no Kishi",
+                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-95882/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560000/",
+            "cover_date": "2013-12-31",
+            "date_added": "2016-11-26 11:15:43",
+            "date_last_updated": "2017-04-22 02:26:45",
+            "deck": null,
+            "description": "<h2>Sommaire</h2><ul><li>N°331/ Jour J</li><li>N°332/ Ovation</li><li>N°333/ Beaucoup de bruit pour rien</li><li>N°334/ Défaite incontestable</li><li>N°335/ Décision</li><li>N°336/ Libération</li><li>N°337/ Confession</li><li>N°338/ Au sommet de l'arbre</li><li>N°339/ Silence</li><li>N°340/ Mission spéciale</li></ul>",
+            "has_staff_review": false,
+            "id": 560000,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552361-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552361-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552361-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552361-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552361-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552361-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552361-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552361-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5552361-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Tome 32",
+            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-32-tome-32/4000-560000/",
+            "store_date": "2013-12-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95899/",
+                "id": 95899,
+                "name": "Hunter × Hunter",
+                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-95899/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-564061/",
+            "cover_date": "2013-04-01",
+            "date_added": "2016-12-08 18:15:20",
+            "date_last_updated": "2018-11-03 18:55:35",
+            "deck": null,
+            "description": "<p><em>À Rome, la guerre civile est sur le point d’éclater entre Pompée, le général qui administre Rome depuis des années et son rival César, qui vient tout juste de rentrer de Gaule en conquérant victorieux, auréolé de gloire. La balance du pouvoir s’apprête à changer de camp…</em></p><p><em>Mais l’ambitieux César, à qui l’on prête le projet de transformer la république en Empire, ne veut pas se contenter de ses conquêtes occidentales. Fasciné par l’Orient, il confie une mission secrète à Alix : trouver et rapporter l’anneau réputé magique du plus grand conquérant que l’Histoire ait connu, Alexandre. César y voit à la fois une protection divine et l’instrument de ses desseins : quiconque sera porteur de l’anneau pourra légitimement revendiquer l’union politique de l’Orient et de l’Occident.</em></p><p><em>Pour retrouver l’anneau, Alix ne dispose que d’une piste : de mystérieuses pièces d’or frappées à l’effigie d’Alexandre. Sous la conduite d’un prisonnier, Asham, Alix, Enak et l’homme de confiance de César, le gaulois Luctérius, s’efforcent d’en retracer la provenance, direction le Levant. Affrontant mille dangers, ils ne savent pas encore qu’ils parviendront jusqu’à l’étrange et sauvage Bactriane – l’actuel Afghanistan –, ultime conquête d’Alexandre le Grand.</em></p>",
+            "has_staff_review": false,
+            "id": 564061,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5577108-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5577108-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5577108-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5577108-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5577108-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5577108-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5577108-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5577108-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5577108-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "La dernière conquête",
+            "site_detail_url": "https://comicvine.gamespot.com/alix-32-la-derniere-conquete/4000-564061/",
+            "store_date": "2013-04-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51194/",
+                "id": 51194,
+                "name": "Alix",
+                "site_detail_url": "https://comicvine.gamespot.com/alix/4050-51194/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-568181/",
+            "cover_date": "2013-07-08",
+            "date_added": "2016-12-16 22:57:31",
+            "date_last_updated": "2017-11-20 06:29:13",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 568181,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5595105-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5595105-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5595105-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5595105-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5595105-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5595105-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5595105-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5595105-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5595105-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/clover-32-vol-32/4000-568181/",
+            "store_date": "2013-07-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96878/",
+                "id": 96878,
+                "name": "Clover",
+                "site_detail_url": "https://comicvine.gamespot.com/clover/4050-96878/"
+            }
         }
-    ],
-    "2013-12-16|2013-12-22": []
+    ]
 }

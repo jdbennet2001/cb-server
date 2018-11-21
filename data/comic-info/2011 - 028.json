@@ -1,13 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [],
-    "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": [],
-    "2011-01-17|2011-01-23": [],
-    "2011-01-24|2011-01-30": [],
-    "2011-01-31|2011-02-06": [],
-    "2011-02-07|2011-02-13": [],
-    "2011-02-14|2011-02-20": [],
-    "2011-02-21|2011-02-27": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-264298/",
@@ -40,11 +32,7 @@
                 "name": "ECHO",
                 "site_detail_url": "https://comicvine.gamespot.com/echo/4050-20806/"
             }
-        }
-    ],
-    "2011-02-28|2011-03-06": [],
-    "2011-03-07|2011-03-13": [],
-    "2011-03-14|2011-03-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-265713/",
@@ -77,118 +65,7 @@
                 "name": "HorrorHound",
                 "site_detail_url": "https://comicvine.gamespot.com/horrorhound/4050-36493/"
             }
-        }
-    ],
-    "2011-03-21|2011-03-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-404253/",
-            "cover_date": "2011-03-18",
-            "date_added": "2013-05-18 18:59:36",
-            "date_last_updated": "2013-05-18 19:26:59",
-            "deck": null,
-            "description": "<p> </p>",
-            "has_staff_review": false,
-            "id": 404253,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3053852-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3053852-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3053852-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3053852-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3053852-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3053852-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3053852-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3053852-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3053852-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku-28-vol-28/4000-404253/",
-            "store_date": "2011-03-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61717/",
-                "id": 61717,
-                "name": "Kami no Shizuku",
-                "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
-            }
-        }
-    ],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370031/",
-            "cover_date": "2011-04-01",
-            "date_added": "2012-11-24 21:30:42",
-            "date_last_updated": "2013-08-25 19:58:28",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 370031,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2720265-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2720265-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2720265-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2720265-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2720265-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2720265-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2720265-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2720265-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2720265-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/baki-son-of-ogre-28-vol-28/4000-370031/",
-            "store_date": "2011-04-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50228/",
-                "id": 50228,
-                "name": "Hanma Baki",
-                "site_detail_url": "https://comicvine.gamespot.com/hanma-baki/4050-50228/"
-            }
-        }
-    ],
-    "2011-04-11|2011-04-17": [],
-    "2011-04-18|2011-04-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441309/",
-            "cover_date": "2011-04-20",
-            "date_added": "2014-01-05 04:32:19",
-            "date_last_updated": "2014-01-05 08:42:45",
-            "deck": null,
-            "description": "<p><em>The ultimate guide to the adventures of the Doctor’s most enduring companion!</em></p><p><em>Written and researched by Andrew Pixley.</em></p><p><em>Sarah Jane Smith – journalist, mother and friend of the Doctor's! Over the last few years, Sarah Jane has been responsible for saving the Earth on countless occasions. With the help of her robot dog K9, her computer Mr Smith, her son Luke, and her young friends Clyde Langer and Rani Chandra, she’s faced a multitude of menaces including Judoon, Shansheeth, Slitheen, the Trickster … even the Mona Lisa! And twice recently, she was visited by the last of the Time Lords, in remarkable adventures that would test her courage to the limit.</em></p><p><em>Now, Doctor Who Magazine takes you behind the scenes of The Sarah Jane Adventures with an in-depth episode guide – including original storylines, deleted scenes, media appearances, ratings information and thousands of facts about the day-to-day life of the making of the award-winning programme - all illustrated with gorgeous, never-before-seen photographs. This collector's edition examines Prisoner of the Judoon, The Mad Woman in the Attic, The Wedding of Sarah Jane Smith, The Eternity Trap, Mona Lisa's Revenge, The Gift, The Nightmare Man, The Vault of Secrets, Death of the Doctor, The Empty Planet, Lost in Time and Goodbye, Sarah Jane Smith, as well as The Alien Files, the specially-made trailers and more!</em></p><p><em>Get ready to discover a whole universe of adventure – right here on your doorstep!</em></p>",
-            "has_staff_review": false,
-            "id": 441309,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3552618-3538437458-Dwm_s.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3552618-3538437458-Dwm_s.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3552618-3538437458-Dwm_s.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3552618-3538437458-Dwm_s.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3552618-3538437458-Dwm_s.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3552618-3538437458-Dwm_s.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3552618-3538437458-Dwm_s.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3552618-3538437458-Dwm_s.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3552618-3538437458-Dwm_s.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "The Sarah Jane Companion: Volume Two",
-            "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition-28-the-sarah-j/4000-441309/",
-            "store_date": "2011-04-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46363/",
-                "id": 46363,
-                "name": "Doctor Who Magazine Special Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition/4050-46363/"
-            }
-        }
-    ],
-    "2011-04-25|2011-05-01": [],
-    "2011-05-02|2011-05-08": [],
-    "2011-05-09|2011-05-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269950/",
@@ -254,9 +131,7 @@
                 "name": "Vincent Price Presents",
                 "site_detail_url": "https://comicvine.gamespot.com/vincent-price-presents/4050-24672/"
             }
-        }
-    ],
-    "2011-05-16|2011-05-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-270765/",
@@ -289,84 +164,7 @@
                 "name": "Sonic Universe",
                 "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
             }
-        }
-    ],
-    "2011-05-23|2011-05-29": [],
-    "2011-05-30|2011-06-05": [],
-    "2011-06-06|2011-06-12": [],
-    "2011-06-13|2011-06-19": [],
-    "2011-06-20|2011-06-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550861/",
-            "cover_date": "2011-06-20",
-            "date_added": "2016-09-25 05:24:27",
-            "date_last_updated": "2016-09-25 07:21:38",
-            "deck": null,
-            "description": "<p>Act.164 - Act.170.</p>",
-            "has_staff_review": false,
-            "id": 550861,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5452212-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5452212-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5452212-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5452212-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5452212-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5452212-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5452212-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5452212-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5452212-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/skip-beat-28-vol-28/4000-550861/",
-            "store_date": "2011-06-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94359/",
-                "id": 94359,
-                "name": "Skip Beat!",
-                "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
-            }
-        }
-    ],
-    "2011-06-27|2011-07-03": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423576/",
-            "cover_date": "2011-06-01",
-            "date_added": "2013-08-26 09:38:57",
-            "date_last_updated": "2013-08-26 09:50:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 423576,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267995-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267995-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267995-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267995-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267995-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267995-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267995-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267995-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3267995-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-28-vol-28/4000-423576/",
-            "store_date": "2011-06-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66764/",
-                "id": 66764,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-66764/"
-            }
-        }
-    ],
-    "2011-07-04|2011-07-10": [],
-    "2011-07-11|2011-07-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278562/",
@@ -399,10 +197,7 @@
                 "name": "The Walking Dead Weekly",
                 "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
             }
-        }
-    ],
-    "2011-07-18|2011-07-24": [],
-    "2011-07-25|2011-07-31": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-281714/",
@@ -473,9 +268,7 @@
                 "name": "Secret Warriors",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-warriors/4050-25640/"
             }
-        }
-    ],
-    "2011-08-01|2011-08-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-283196/",
@@ -511,41 +304,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-415024/",
-            "cover_date": "2011-08-01",
-            "date_added": "2013-07-01 02:23:06",
-            "date_last_updated": "2017-08-12 01:02:10",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 415024,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002857-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002857-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002857-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002857-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002857-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002857-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002857-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002857-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6002857-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-28/4000-415024/",
-            "store_date": "2011-08-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
-                "id": 67886,
-                "name": "Comic Magnum",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
-            }
-        }
-    ],
-    "2011-08-08|2011-08-14": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-285347/",
             "cover_date": "2011-10-01",
             "date_added": "2011-08-09 12:51:41",
@@ -576,119 +334,7 @@
                 "name": "The Unwritten",
                 "site_detail_url": "https://comicvine.gamespot.com/the-unwritten/4050-2626/"
             }
-        }
-    ],
-    "2011-08-15|2011-08-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-332617/",
-            "cover_date": "2011-08-01",
-            "date_added": "2012-04-19 20:13:56",
-            "date_last_updated": "2013-12-23 15:04:15",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 231: Ender (終わらせる者 <i>Owaraserumono</i>)</li><li>Chapter 232: The One Thing I Couldn't Say (言えなかった一言 <i>Ienakatta Hitokoto</i>)</li><li>Chapter 233: Fairy Glitter (妖精の輝き（フェアリーグリッター） <i>Fearī Gurittā</i>)</li><li>Chapter 234: The Boy Who Stares at the Sea (海を見つめる少年 <i>Umi o Mitsumeru Shōnen</i>)</li><li>Chapter 235: Tenrou Tree (天狼樹 <i>Tenrō-ju</i>)</li><li>Chapter 236: Erza vs. Azuma (エルザ vs. アズマ <i>Eruza vs. Azuma</i>)</li><li>Chapter 237: What a Guild (なんてギルドだ <i>Nante Girudo da</i>)</li><li>Chapter 238: At One Time</li><li>Chapter 239: Freezing Fighting Spirit (凍える闘志 <i>Kogoeru Tōshi</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 332617,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2304424-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2304424-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2304424-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2304424-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2304424-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2304424-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2304424-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2304424-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2304424-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-28-vol-28/4000-332617/",
-            "store_date": "2011-08-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46777/",
-                "id": 46777,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
-            }
-        }
-    ],
-    "2011-08-22|2011-08-28": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-459545/",
-            "cover_date": "2011-08-26",
-            "date_added": "2014-07-13 10:56:20",
-            "date_last_updated": "2016-08-27 13:27:35",
-            "deck": null,
-            "description": "<p> </p><h2>Chapter Titles</h2><ul><li>Chapter 174 - COMING TOGETHER OF SHADOWS</li><li>Chapter 175 - AGITO, AND THEN SHIZU</li><li>Chapter 176 - CLASH!! GUYVER I VS GUYVER III</li><li>Chapter 177 - DOMINANCE IN THE MOONLIGHT</li><li>Chapter 178 - THE RESULT OF A DEATHMATCH</li></ul>",
-            "has_staff_review": false,
-            "id": 459545,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3957922-7015429589-428px.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3957922-7015429589-428px.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3957922-7015429589-428px.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3957922-7015429589-428px.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3957922-7015429589-428px.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3957922-7015429589-428px.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3957922-7015429589-428px.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3957922-7015429589-428px.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3957922-7015429589-428px.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Gigantomakhia",
-            "site_detail_url": "https://comicvine.gamespot.com/bio-booster-armor-guyver-28-gigantomakhia/4000-459545/",
-            "store_date": "2011-08-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-38305/",
-                "id": 38305,
-                "name": "Bio-Booster Armor Guyver",
-                "site_detail_url": "https://comicvine.gamespot.com/bio-booster-armor-guyver/4050-38305/"
-            }
-        }
-    ],
-    "2011-08-29|2011-09-04": [],
-    "2011-09-05|2011-09-11": [],
-    "2011-09-12|2011-09-18": [],
-    "2011-09-19|2011-09-25": [],
-    "2011-09-26|2011-10-02": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554368/",
-            "cover_date": "2011-09-30",
-            "date_added": "2016-10-18 13:39:35",
-            "date_last_updated": "2017-04-13 21:29:54",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 554368,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491075-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491075-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491075-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491075-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491075-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491075-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491075-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491075-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491075-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-28-vol-28/4000-554368/",
-            "store_date": "2011-09-30",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
-                "id": 93693,
-                "name": "Mogura no Uta",
-                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
-            }
-        }
-    ],
-    "2011-10-03|2011-10-09": [],
-    "2011-10-10|2011-10-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-294927/",
@@ -721,9 +367,7 @@
                 "name": "Kekkaishi",
                 "site_detail_url": "https://comicvine.gamespot.com/kekkaishi/4050-27951/"
             }
-        }
-    ],
-    "2011-10-17|2011-10-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-297812/",
@@ -792,77 +436,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438287/",
-            "cover_date": "2011-10-01",
-            "date_added": "2013-12-22 06:29:44",
-            "date_last_updated": "2014-12-30 05:33:04",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 238: This Generation</li><li>Chapter 239: Stumbingly</li><li>Chapter 240: Another Dimension</li><li>Chapter 241: That Sound Like A</li><li>Chapter 242: After Summer</li><li>Chapter 243: Keyman</li><li>Chapter 244: New Enemy</li><li>Chapter 245: Cold Rain</li><li>Chapter 246: After Restart</li></ul>",
-            "has_staff_review": false,
-            "id": 438287,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3519534-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3519534-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3519534-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3519534-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3519534-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3519534-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3519534-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3519534-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3519534-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Volume 28",
-            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-28-volume-28/4000-438287/",
-            "store_date": "2011-10-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44294/",
-                "id": 44294,
-                "name": "Daiya no A",
-                "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
-            }
-        }
-    ],
-    "2011-10-24|2011-10-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416218/",
-            "cover_date": "2011-10-04",
-            "date_added": "2013-07-04 21:45:38",
-            "date_last_updated": "2013-07-04 22:06:24",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416218,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3152527-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3152527-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3152527-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3152527-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3152527-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3152527-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3152527-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3152527-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3152527-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-28-vol-28/4000-416218/",
-            "store_date": "2011-10-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
-                "id": 64966,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
-            }
-        }
-    ],
-    "2011-10-31|2011-11-06": [],
-    "2011-11-07|2011-11-13": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-300588/",
             "cover_date": "2011-12-21",
             "date_added": "2011-10-28 22:45:23",
@@ -893,80 +466,7 @@
                 "name": "X-Men Sonderheft",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men-sonderheft/4050-43677/"
             }
-        }
-    ],
-    "2011-11-14|2011-11-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-343479/",
-            "cover_date": "2011-11-01",
-            "date_added": "2012-06-29 06:28:01",
-            "date_last_updated": "2013-12-25 19:56:47",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 343479,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2436442-28_cropped.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2436442-28_cropped.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2436442-28_cropped.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2436442-28_cropped.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2436442-28_cropped.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2436442-28_cropped.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2436442-28_cropped.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2436442-28_cropped.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2436442-28_cropped.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Volume 28",
-            "site_detail_url": "https://comicvine.gamespot.com/the-knight-in-the-area-28-volume-28/4000-343479/",
-            "store_date": "2011-11-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50089/",
-                "id": 50089,
-                "name": "Area no Kishi",
-                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-50089/"
-            }
-        }
-    ],
-    "2011-11-21|2011-11-27": [],
-    "2011-11-28|2011-12-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408809/",
-            "cover_date": "2011-12-31",
-            "date_added": "2013-06-03 13:48:25",
-            "date_last_updated": "2018-03-21 20:22:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408809,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3085635-28.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3085635-28.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3085635-28.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3085635-28.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3085635-28.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3085635-28.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3085635-28.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3085635-28.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3085635-28.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "28",
-            "name": "Vol. 28",
-            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-28-vol-28/4000-408809/",
-            "store_date": "2011-12-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62845/",
-                "id": 62845,
-                "name": "Hunter x Hunter",
-                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-62845/"
-            }
-        }
-    ],
-    "2011-12-05|2011-12-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-305688/",
@@ -999,9 +499,370 @@
                 "name": "Sweet Tooth",
                 "site_detail_url": "https://comicvine.gamespot.com/sweet-tooth/4050-27671/"
             }
-        }
-    ],
-    "2011-12-12|2011-12-18": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-332617/",
+            "cover_date": "2011-08-01",
+            "date_added": "2012-04-19 20:13:56",
+            "date_last_updated": "2013-12-23 15:04:15",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 231: Ender (終わらせる者 <i>Owaraserumono</i>)</li><li>Chapter 232: The One Thing I Couldn't Say (言えなかった一言 <i>Ienakatta Hitokoto</i>)</li><li>Chapter 233: Fairy Glitter (妖精の輝き（フェアリーグリッター） <i>Fearī Gurittā</i>)</li><li>Chapter 234: The Boy Who Stares at the Sea (海を見つめる少年 <i>Umi o Mitsumeru Shōnen</i>)</li><li>Chapter 235: Tenrou Tree (天狼樹 <i>Tenrō-ju</i>)</li><li>Chapter 236: Erza vs. Azuma (エルザ vs. アズマ <i>Eruza vs. Azuma</i>)</li><li>Chapter 237: What a Guild (なんてギルドだ <i>Nante Girudo da</i>)</li><li>Chapter 238: At One Time</li><li>Chapter 239: Freezing Fighting Spirit (凍える闘志 <i>Kogoeru Tōshi</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 332617,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2304424-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2304424-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2304424-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2304424-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2304424-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2304424-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2304424-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2304424-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2304424-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-28-vol-28/4000-332617/",
+            "store_date": "2011-08-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46777/",
+                "id": 46777,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-343479/",
+            "cover_date": "2011-11-01",
+            "date_added": "2012-06-29 06:28:01",
+            "date_last_updated": "2013-12-25 19:56:47",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 343479,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2436442-28_cropped.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2436442-28_cropped.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2436442-28_cropped.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2436442-28_cropped.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2436442-28_cropped.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2436442-28_cropped.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2436442-28_cropped.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2436442-28_cropped.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2436442-28_cropped.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Volume 28",
+            "site_detail_url": "https://comicvine.gamespot.com/the-knight-in-the-area-28-volume-28/4000-343479/",
+            "store_date": "2011-11-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50089/",
+                "id": 50089,
+                "name": "Area no Kishi",
+                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-50089/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370031/",
+            "cover_date": "2011-04-01",
+            "date_added": "2012-11-24 21:30:42",
+            "date_last_updated": "2013-08-25 19:58:28",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 370031,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2720265-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2720265-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2720265-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2720265-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2720265-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2720265-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2720265-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2720265-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2720265-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/baki-son-of-ogre-28-vol-28/4000-370031/",
+            "store_date": "2011-04-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50228/",
+                "id": 50228,
+                "name": "Hanma Baki",
+                "site_detail_url": "https://comicvine.gamespot.com/hanma-baki/4050-50228/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-404253/",
+            "cover_date": "2011-03-18",
+            "date_added": "2013-05-18 18:59:36",
+            "date_last_updated": "2013-05-18 19:26:59",
+            "deck": null,
+            "description": "<p> </p>",
+            "has_staff_review": false,
+            "id": 404253,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3053852-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3053852-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3053852-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3053852-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3053852-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3053852-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3053852-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3053852-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3053852-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku-28-vol-28/4000-404253/",
+            "store_date": "2011-03-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61717/",
+                "id": 61717,
+                "name": "Kami no Shizuku",
+                "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408809/",
+            "cover_date": "2011-12-31",
+            "date_added": "2013-06-03 13:48:25",
+            "date_last_updated": "2018-03-21 20:22:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408809,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3085635-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3085635-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3085635-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3085635-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3085635-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3085635-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3085635-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3085635-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3085635-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-28-vol-28/4000-408809/",
+            "store_date": "2011-12-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62845/",
+                "id": 62845,
+                "name": "Hunter x Hunter",
+                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-62845/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-415024/",
+            "cover_date": "2011-08-01",
+            "date_added": "2013-07-01 02:23:06",
+            "date_last_updated": "2017-08-12 01:02:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 415024,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002857-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002857-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002857-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002857-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002857-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002857-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002857-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002857-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6002857-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-28/4000-415024/",
+            "store_date": "2011-08-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
+                "id": 67886,
+                "name": "Comic Magnum",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416218/",
+            "cover_date": "2011-10-04",
+            "date_added": "2013-07-04 21:45:38",
+            "date_last_updated": "2013-07-04 22:06:24",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416218,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3152527-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3152527-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3152527-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3152527-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3152527-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3152527-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3152527-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3152527-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3152527-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-28-vol-28/4000-416218/",
+            "store_date": "2011-10-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
+                "id": 64966,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423576/",
+            "cover_date": "2011-06-01",
+            "date_added": "2013-08-26 09:38:57",
+            "date_last_updated": "2013-08-26 09:50:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 423576,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267995-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267995-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267995-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267995-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267995-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267995-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267995-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267995-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3267995-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-28-vol-28/4000-423576/",
+            "store_date": "2011-06-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66764/",
+                "id": 66764,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-66764/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438287/",
+            "cover_date": "2011-10-01",
+            "date_added": "2013-12-22 06:29:44",
+            "date_last_updated": "2014-12-30 05:33:04",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 238: This Generation</li><li>Chapter 239: Stumbingly</li><li>Chapter 240: Another Dimension</li><li>Chapter 241: That Sound Like A</li><li>Chapter 242: After Summer</li><li>Chapter 243: Keyman</li><li>Chapter 244: New Enemy</li><li>Chapter 245: Cold Rain</li><li>Chapter 246: After Restart</li></ul>",
+            "has_staff_review": false,
+            "id": 438287,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3519534-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3519534-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3519534-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3519534-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3519534-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3519534-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3519534-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3519534-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3519534-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Volume 28",
+            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-28-volume-28/4000-438287/",
+            "store_date": "2011-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44294/",
+                "id": 44294,
+                "name": "Daiya no A",
+                "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441309/",
+            "cover_date": "2011-04-20",
+            "date_added": "2014-01-05 04:32:19",
+            "date_last_updated": "2014-01-05 08:42:45",
+            "deck": null,
+            "description": "<p><em>The ultimate guide to the adventures of the Doctor’s most enduring companion!</em></p><p><em>Written and researched by Andrew Pixley.</em></p><p><em>Sarah Jane Smith – journalist, mother and friend of the Doctor's! Over the last few years, Sarah Jane has been responsible for saving the Earth on countless occasions. With the help of her robot dog K9, her computer Mr Smith, her son Luke, and her young friends Clyde Langer and Rani Chandra, she’s faced a multitude of menaces including Judoon, Shansheeth, Slitheen, the Trickster … even the Mona Lisa! And twice recently, she was visited by the last of the Time Lords, in remarkable adventures that would test her courage to the limit.</em></p><p><em>Now, Doctor Who Magazine takes you behind the scenes of The Sarah Jane Adventures with an in-depth episode guide – including original storylines, deleted scenes, media appearances, ratings information and thousands of facts about the day-to-day life of the making of the award-winning programme - all illustrated with gorgeous, never-before-seen photographs. This collector's edition examines Prisoner of the Judoon, The Mad Woman in the Attic, The Wedding of Sarah Jane Smith, The Eternity Trap, Mona Lisa's Revenge, The Gift, The Nightmare Man, The Vault of Secrets, Death of the Doctor, The Empty Planet, Lost in Time and Goodbye, Sarah Jane Smith, as well as The Alien Files, the specially-made trailers and more!</em></p><p><em>Get ready to discover a whole universe of adventure – right here on your doorstep!</em></p>",
+            "has_staff_review": false,
+            "id": 441309,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3552618-3538437458-Dwm_s.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3552618-3538437458-Dwm_s.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3552618-3538437458-Dwm_s.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3552618-3538437458-Dwm_s.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3552618-3538437458-Dwm_s.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3552618-3538437458-Dwm_s.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3552618-3538437458-Dwm_s.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3552618-3538437458-Dwm_s.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3552618-3538437458-Dwm_s.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "The Sarah Jane Companion: Volume Two",
+            "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition-28-the-sarah-j/4000-441309/",
+            "store_date": "2011-04-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46363/",
+                "id": 46363,
+                "name": "Doctor Who Magazine Special Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition/4050-46363/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-459545/",
+            "cover_date": "2011-08-26",
+            "date_added": "2014-07-13 10:56:20",
+            "date_last_updated": "2016-08-27 13:27:35",
+            "deck": null,
+            "description": "<p> </p><h2>Chapter Titles</h2><ul><li>Chapter 174 - COMING TOGETHER OF SHADOWS</li><li>Chapter 175 - AGITO, AND THEN SHIZU</li><li>Chapter 176 - CLASH!! GUYVER I VS GUYVER III</li><li>Chapter 177 - DOMINANCE IN THE MOONLIGHT</li><li>Chapter 178 - THE RESULT OF A DEATHMATCH</li></ul>",
+            "has_staff_review": false,
+            "id": 459545,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3957922-7015429589-428px.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3957922-7015429589-428px.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3957922-7015429589-428px.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3957922-7015429589-428px.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3957922-7015429589-428px.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3957922-7015429589-428px.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3957922-7015429589-428px.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3957922-7015429589-428px.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3957922-7015429589-428px.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Gigantomakhia",
+            "site_detail_url": "https://comicvine.gamespot.com/bio-booster-armor-guyver-28-gigantomakhia/4000-459545/",
+            "store_date": "2011-08-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-38305/",
+                "id": 38305,
+                "name": "Bio-Booster Armor Guyver",
+                "site_detail_url": "https://comicvine.gamespot.com/bio-booster-armor-guyver/4050-38305/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500712/",
@@ -1033,6 +894,105 @@
                 "id": 45292,
                 "name": "Zettai Karen Children",
                 "site_detail_url": "https://comicvine.gamespot.com/zettai-karen-children/4050-45292/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-541123/",
+            "cover_date": "2011-12-19",
+            "date_added": "2016-07-26 15:57:41",
+            "date_last_updated": "2016-07-26 15:58:09",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 541123,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5342580-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5342580-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5342580-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5342580-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5342580-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5342580-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5342580-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5342580-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5342580-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-nisei-kyukyoku-no-chojin-tag-hen-28-vol/4000-541123/",
+            "store_date": "2011-12-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92597/",
+                "id": 92597,
+                "name": "Kinnikuman Nisei: Kyūkyoku no Chōjin Tag Hen",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-nisei-kyukyoku-no-chojin-tag-hen/4050-92597/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550861/",
+            "cover_date": "2011-06-20",
+            "date_added": "2016-09-25 05:24:27",
+            "date_last_updated": "2016-09-25 07:21:38",
+            "deck": null,
+            "description": "<p>Act.164 - Act.170.</p>",
+            "has_staff_review": false,
+            "id": 550861,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5452212-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5452212-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5452212-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5452212-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5452212-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5452212-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5452212-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5452212-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5452212-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/skip-beat-28-vol-28/4000-550861/",
+            "store_date": "2011-06-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94359/",
+                "id": 94359,
+                "name": "Skip Beat!",
+                "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554368/",
+            "cover_date": "2011-09-30",
+            "date_added": "2016-10-18 13:39:35",
+            "date_last_updated": "2017-04-13 21:29:54",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554368,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491075-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491075-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491075-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491075-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491075-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491075-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491075-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491075-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491075-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Vol. 28",
+            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-28-vol-28/4000-554368/",
+            "store_date": "2011-09-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
+                "id": 93693,
+                "name": "Mogura no Uta",
+                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
             }
         }
     ]

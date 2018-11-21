@@ -1,10 +1,5 @@
 {
-    "2017-12-25|2017-12-31": [],
-    "2017-01-02|2017-01-08": [],
-    "2017-01-09|2017-01-15": [],
-    "2017-01-16|2017-01-22": [],
-    "2017-01-23|2017-01-29": [],
-    "2017-01-30|2017-02-05": [
+    "2017-01-01|2017-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-579420/",
@@ -37,82 +32,7 @@
                 "name": "Teen Titans Go!",
                 "site_detail_url": "https://comicvine.gamespot.com/teen-titans-go/4050-69512/"
             }
-        }
-    ],
-    "2017-02-06|2017-02-12": [],
-    "2017-02-13|2017-02-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600543/",
-            "cover_date": "2017-02-28",
-            "date_added": "2017-06-07 08:16:28",
-            "date_last_updated": "2017-06-08 15:19:52",
-            "deck": null,
-            "description": "<p><em>Chapter 29</em></p><p><em>Danny’s old sorcery teacher comes to help the newbie wolves.</em></p>",
-            "has_staff_review": false,
-            "id": 600543,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887004-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887004-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887004-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887004-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887004-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887004-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887004-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887004-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5887004-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Chapter 29: Warning Signs",
-            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-40-chapter-29-warning-signs/4000-600543/",
-            "store_date": "2017-02-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
-                "id": 70796,
-                "name": "Sorcery 101",
-                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
-            }
-        }
-    ],
-    "2017-02-20|2017-02-26": [],
-    "2017-02-27|2017-03-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588045/",
-            "cover_date": "2017-04-30",
-            "date_added": "2017-03-18 15:27:36",
-            "date_last_updated": "2017-03-19 10:57:38",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 588045,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5756051-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5756051-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5756051-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5756051-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5756051-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5756051-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5756051-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5756051-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5756051-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei-40/4000-588045/",
-            "store_date": "2017-03-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89106/",
-                "id": 89106,
-                "name": "Comic Mugen Tensei",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
-            }
-        }
-    ],
-    "2017-03-06|2017-03-12": [],
-    "2017-03-13|2017-03-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-587624/",
@@ -145,18 +65,40 @@
                 "name": "Skip Beat!",
                 "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
             }
-        }
-    ],
-    "2017-03-20|2017-03-26": [],
-    "2017-03-27|2017-04-02": [],
-    "2017-04-03|2017-04-09": [],
-    "2017-04-10|2017-04-16": [],
-    "2017-04-17|2017-04-23": [],
-    "2017-04-24|2017-04-30": [],
-    "2017-05-01|2017-05-07": [],
-    "2017-05-08|2017-05-14": [],
-    "2017-05-15|2017-05-21": [],
-    "2017-05-22|2017-05-28": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588045/",
+            "cover_date": "2017-04-30",
+            "date_added": "2017-03-18 15:27:36",
+            "date_last_updated": "2017-03-19 10:57:38",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 588045,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5756051-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5756051-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5756051-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5756051-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5756051-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5756051-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5756051-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5756051-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5756051-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei-40/4000-588045/",
+            "store_date": "2017-03-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89106/",
+                "id": 89106,
+                "name": "Comic Mugen Tensei",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600202/",
@@ -189,17 +131,40 @@
                 "name": "Kaze Hikaru",
                 "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-66545/"
             }
-        }
-    ],
-    "2017-05-29|2017-06-04": [],
-    "2017-06-05|2017-06-11": [],
-    "2017-06-12|2017-06-18": [],
-    "2017-06-19|2017-06-25": [],
-    "2017-06-26|2017-07-02": [],
-    "2017-07-03|2017-07-09": [],
-    "2017-07-10|2017-07-16": [],
-    "2017-07-17|2017-07-23": [],
-    "2017-07-24|2017-07-30": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600543/",
+            "cover_date": "2017-02-28",
+            "date_added": "2017-06-07 08:16:28",
+            "date_last_updated": "2017-06-08 15:19:52",
+            "deck": null,
+            "description": "<p><em>Chapter 29</em></p><p><em>Danny’s old sorcery teacher comes to help the newbie wolves.</em></p>",
+            "has_staff_review": false,
+            "id": 600543,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887004-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887004-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887004-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887004-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887004-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887004-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887004-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887004-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5887004-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Chapter 29: Warning Signs",
+            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-40-chapter-29-warning-signs/4000-600543/",
+            "store_date": "2017-02-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
+                "id": 70796,
+                "name": "Sorcery 101",
+                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-610545/",
@@ -298,54 +263,7 @@
                 "name": "Dengeki G's Comic",
                 "site_detail_url": "https://comicvine.gamespot.com/dengeki-gs-comic/4050-98478/"
             }
-        }
-    ],
-    "2017-07-31|2017-08-06": [],
-    "2017-08-07|2017-08-13": [],
-    "2017-08-14|2017-08-20": [],
-    "2017-08-21|2017-08-27": [],
-    "2017-08-28|2017-09-03": [],
-    "2017-09-04|2017-09-10": [],
-    "2017-09-11|2017-09-17": [],
-    "2017-09-18|2017-09-24": [],
-    "2017-09-25|2017-10-01": [],
-    "2017-10-02|2017-10-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657536/",
-            "cover_date": "2017-10-31",
-            "date_added": "2018-02-03 03:03:13",
-            "date_last_updated": "2018-02-09 22:03:40",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 657536,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261185-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261185-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261185-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261185-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261185-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261185-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261185-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261185-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6261185-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/itan-40/4000-657536/",
-            "store_date": "2017-10-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
-                "id": 108375,
-                "name": "ITAN",
-                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
-            }
-        }
-    ],
-    "2017-10-09|2017-10-15": [],
-    "2017-10-16|2017-10-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-631073/",
@@ -378,9 +296,7 @@
                 "name": "Inhumanos",
                 "site_detail_url": "https://comicvine.gamespot.com/inhumanos/4050-92271/"
             }
-        }
-    ],
-    "2017-10-23|2017-10-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-632517/",
@@ -413,10 +329,7 @@
                 "name": "Zombie Tramp",
                 "site_detail_url": "https://comicvine.gamespot.com/zombie-tramp/4050-75908/"
             }
-        }
-    ],
-    "2017-10-30|2017-11-05": [],
-    "2017-11-06|2017-11-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-636586/",
@@ -449,13 +362,7 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-39219/"
             }
-        }
-    ],
-    "2017-11-13|2017-11-19": [],
-    "2017-11-20|2017-11-26": [],
-    "2017-11-27|2017-12-03": [],
-    "2017-12-04|2017-12-10": [],
-    "2017-12-11|2017-12-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-646200/",
@@ -488,9 +395,7 @@
                 "name": "Star Wars",
                 "site_detail_url": "https://comicvine.gamespot.com/star-wars/4050-79398/"
             }
-        }
-    ],
-    "2017-12-18|2017-12-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-656183/",
@@ -523,40 +428,38 @@
                 "name": "Comic MILF",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-milf/4050-68872/"
             }
-        }
-    ],
-    "2016-12-26|2017-01-01": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571845/",
-            "cover_date": "2016-12-27",
-            "date_added": "2016-12-27 10:51:19",
-            "date_last_updated": "2017-01-08 12:44:23",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657536/",
+            "cover_date": "2017-10-31",
+            "date_added": "2018-02-03 03:03:13",
+            "date_last_updated": "2018-02-09 22:03:40",
             "deck": null,
-            "description": "<p><em>Oto finds out that Konoe, the vice president on Momonozono Academy's student council, was the mastermind behind all the attacks on Eitoku students. And he did it all for Tenma's sake! But when Oto tries to tell Tenma the truth, he doesn't believe her! She runs off only to run into Kaguragi!</em></p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 571845,
+            "id": 657536,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614458-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614458-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614458-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614458-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614458-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614458-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614458-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614458-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5614458-40.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261185-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261185-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261185-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261185-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261185-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261185-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261185-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261185-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6261185-40.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "40",
-            "name": "Chapter 40",
-            "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2-40-chapter-40/4000-571845/",
-            "store_date": "2016-12-27",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/itan-40/4000-657536/",
+            "store_date": "2017-10-06",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81328/",
-                "id": 81328,
-                "name": "Boys Over Flowers Season 2",
-                "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2/4050-81328/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
+                "id": 108375,
+                "name": "ITAN",
+                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
             }
         }
     ]

@@ -1,8 +1,5 @@
 {
-    "2014-12-22|2014-12-28": [],
-    "2014-12-29|2015-01-04": [],
-    "2014-01-06|2014-01-12": [],
-    "2014-01-13|2014-01-19": [
+    "2014-01-01|2014-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-442217/",
@@ -38,41 +35,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-522207/",
-            "cover_date": "2014-01-31",
-            "date_added": "2016-03-28 15:50:33",
-            "date_last_updated": "2016-03-28 16:37:17",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445090/",
+            "cover_date": "2014-02-01",
+            "date_added": "2014-02-09 03:34:14",
+            "date_last_updated": "2014-02-20 20:21:12",
             "deck": null,
-            "description": null,
+            "description": "<p><em>When Sugar and Spike need a babysitter, this looks like a job for—Clark Kent? But when an explosion at Star Labs threatens the city, Clark must find a way to balance his newfound responsibilities with his duty to Metropolis as the Man of Steel!</em></p>",
             "has_staff_review": false,
-            "id": 522207,
+            "id": 445090,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5120885-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5120885-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5120885-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5120885-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5120885-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5120885-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5120885-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5120885-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5120885-42.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3631001-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3631001-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3631001-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3631001-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3631001-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3631001-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3631001-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3631001-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3631001-42.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "42",
-            "name": "Vol. 42",
-            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-42-vol-42/4000-522207/",
-            "store_date": "2014-01-15",
+            "name": "The Coming of... Sugar and Spike--? Part 1 of 1",
+            "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman-42-the-coming-of-sugar-and-/4000-445090/",
+            "store_date": "2014-02-10",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45080/",
-                "id": 45080,
-                "name": "Ah! My Goddess",
-                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-45080/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60518/",
+                "id": 60518,
+                "name": "Adventures of Superman",
+                "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman/4050-60518/"
             }
-        }
-    ],
-    "2014-01-20|2014-01-26": [],
-    "2014-01-27|2014-02-02": [],
-    "2014-02-03|2014-02-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445620/",
@@ -105,51 +98,13 @@
                 "name": "Le Scrameustache",
                 "site_detail_url": "https://comicvine.gamespot.com/le-scrameustache/4050-71730/"
             }
-        }
-    ],
-    "2014-02-10|2014-02-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445090/",
-            "cover_date": "2014-02-01",
-            "date_added": "2014-02-09 03:34:14",
-            "date_last_updated": "2014-02-20 20:21:12",
-            "deck": null,
-            "description": "<p><em>When Sugar and Spike need a babysitter, this looks like a job for—Clark Kent? But when an explosion at Star Labs threatens the city, Clark must find a way to balance his newfound responsibilities with his duty to Metropolis as the Man of Steel!</em></p>",
-            "has_staff_review": false,
-            "id": 445090,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3631001-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3631001-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3631001-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3631001-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3631001-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3631001-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3631001-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3631001-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3631001-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "The Coming of... Sugar and Spike--? Part 1 of 1",
-            "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman-42-the-coming-of-sugar-and-/4000-445090/",
-            "store_date": "2014-02-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60518/",
-                "id": 60518,
-                "name": "Adventures of Superman",
-                "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman/4050-60518/"
-            }
-        }
-    ],
-    "2014-02-17|2014-02-23": [],
-    "2014-02-24|2014-03-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-446475/",
             "cover_date": "2014-04-01",
             "date_added": "2014-02-25 00:05:22",
-            "date_last_updated": "2015-03-17 11:07:29",
+            "date_last_updated": "2018-11-10 12:14:21",
             "deck": null,
             "description": "<p><em>Is the Lady in Pink haunting Pollard House the ghost of Sarah Pollard herself, or the kindly cookie-baking housekeeper? Mystery Inc. and a reality TV crew have competing theories, but Shaggy and Scooby are sticking around for the baked goods!</em></p>",
             "has_staff_review": false,
@@ -167,8 +122,8 @@
                 "image_tags": "All Images"
             },
             "issue_number": "42",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-42/4000-446475/",
+            "name": "Viral Villain; Sleeper's Peepers",
+            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-42-viral-villain-sleepers/4000-446475/",
             "store_date": "2014-02-26",
             "volume": {
                 "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35462/",
@@ -209,11 +164,7 @@
                 "name": "Wolverine & the X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/wolverine-the-x-men/4050-43539/"
             }
-        }
-    ],
-    "2014-03-03|2014-03-09": [],
-    "2014-03-10|2014-03-16": [],
-    "2014-03-17|2014-03-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450248/",
@@ -246,119 +197,7 @@
                 "name": "Fairy Tail",
                 "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
             }
-        }
-    ],
-    "2014-03-24|2014-03-30": [],
-    "2014-03-31|2014-04-06": [],
-    "2014-04-07|2014-04-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474448/",
-            "cover_date": "2014-05-31",
-            "date_added": "2014-12-20 09:17:13",
-            "date_last_updated": "2014-12-20 10:08:02",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474448,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285689-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285689-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285689-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285689-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285689-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285689-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285689-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285689-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285689-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-42/4000-474448/",
-            "store_date": "2014-04-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2014-04-14|2014-04-20": [],
-    "2014-04-21|2014-04-27": [],
-    "2014-04-28|2014-05-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524569/",
-            "cover_date": "2014-05-31",
-            "date_added": "2016-04-11 12:25:16",
-            "date_last_updated": "2016-05-05 11:35:15",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524569,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146261-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146261-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146261-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146261-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146261-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146261-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146261-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146261-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146261-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Vol. 42",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-42-vol-42/4000-524569/",
-            "store_date": "2014-05-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
-                "id": 64966,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
-            }
-        }
-    ],
-    "2014-05-05|2014-05-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517500/",
-            "cover_date": "2014-05-31",
-            "date_added": "2016-02-28 08:52:28",
-            "date_last_updated": "2016-02-28 09:48:43",
-            "deck": null,
-            "description": "<h2> Story Titles</h2><ul><li>Herzlichen Glückwunsch zum Geburtstag!</li><li>Riesenspaß im Grandhotel</li><li>Der Pirat, der aus dem Nebel kam</li><li>Kalle Kabeljaus Vermächtnis</li><li>Wie in alten Zeiten</li><li>Donalds glücklichste Stunde</li><li>Tor oder nicht Tor?</li><li>In der Traummatte</li><li>Wo ist Donald Duck?</li><li>An alles gedacht!</li><li>Ein ganzer Stern zu Valentin</li><li>Alter schützt vor Torheit nicht</li></ul><p> </p><p> </p>",
-            "has_staff_review": false,
-            "id": 517500,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073525-42%20img.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073525-42%20img.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073525-42%20img.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073525-42%20img.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073525-42%20img.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073525-42%20img.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073525-42%20img.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073525-42%20img.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5073525-42%20img.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Ein bewegtes Leben",
-            "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-enten-edition-42-ein-bewegtes/4000-517500/",
-            "store_date": "2014-05-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88447/",
-                "id": 88447,
-                "name": "Lustiges Taschenbuch Enten-Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
-            }
-        }
-    ],
-    "2014-05-12|2014-05-18": [],
-    "2014-05-19|2014-05-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457063/",
@@ -391,13 +230,7 @@
                 "name": "Kami no Shizuku",
                 "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
             }
-        }
-    ],
-    "2014-05-26|2014-06-01": [],
-    "2014-06-02|2014-06-08": [],
-    "2014-06-09|2014-06-15": [],
-    "2014-06-16|2014-06-22": [],
-    "2014-06-23|2014-06-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457588/",
@@ -435,11 +268,7 @@
                 "name": "Chew",
                 "site_detail_url": "https://comicvine.gamespot.com/chew/4050-26611/"
             }
-        }
-    ],
-    "2014-06-30|2014-07-06": [],
-    "2014-07-07|2014-07-13": [],
-    "2014-07-14|2014-07-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461448/",
@@ -472,12 +301,7 @@
                 "name": "Daiya no A",
                 "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
             }
-        }
-    ],
-    "2014-07-21|2014-07-27": [],
-    "2014-07-28|2014-08-03": [],
-    "2014-08-04|2014-08-10": [],
-    "2014-08-11|2014-08-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-462478/",
@@ -513,41 +337,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-464333/",
-            "cover_date": "2014-08-31",
-            "date_added": "2014-09-05 01:18:24",
-            "date_last_updated": "2014-12-18 00:09:04",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 464333,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4079207-earth%20star%208%202014.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4079207-earth%20star%208%202014.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4079207-earth%20star%208%202014.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4079207-earth%20star%208%202014.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4079207-earth%20star%208%202014.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4079207-earth%20star%208%202014.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4079207-earth%20star%208%202014.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4079207-earth%20star%208%202014.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4079207-earth%20star%208%202014.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "201408",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-42-201408/4000-464333/",
-            "store_date": "2014-08-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
-                "id": 76424,
-                "name": "Comic Earth Star Magazine",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
-            }
-        }
-    ],
-    "2014-08-18|2014-08-24": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-462945/",
             "cover_date": "2014-10-31",
             "date_added": "2014-08-19 00:04:18",
@@ -578,9 +367,7 @@
                 "name": "World of Archie Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
             }
-        }
-    ],
-    "2014-08-25|2014-08-31": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-463570/",
@@ -613,9 +400,7 @@
                 "name": "The Sixth Gun",
                 "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun/4050-33090/"
             }
-        }
-    ],
-    "2014-09-01|2014-09-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-464144/",
@@ -648,10 +433,40 @@
                 "name": "Batman '66",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-66/4050-64763/"
             }
-        }
-    ],
-    "2014-09-08|2014-09-14": [],
-    "2014-09-15|2014-09-21": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-464333/",
+            "cover_date": "2014-08-31",
+            "date_added": "2014-09-05 01:18:24",
+            "date_last_updated": "2014-12-18 00:09:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 464333,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4079207-earth%20star%208%202014.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4079207-earth%20star%208%202014.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4079207-earth%20star%208%202014.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4079207-earth%20star%208%202014.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4079207-earth%20star%208%202014.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4079207-earth%20star%208%202014.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4079207-earth%20star%208%202014.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4079207-earth%20star%208%202014.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4079207-earth%20star%208%202014.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "201408",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-42-201408/4000-464333/",
+            "store_date": "2014-08-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
+                "id": 76424,
+                "name": "Comic Earth Star Magazine",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-466127/",
@@ -720,6 +535,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467110/",
+            "cover_date": "2014-10-31",
+            "date_added": "2014-09-30 00:54:03",
+            "date_last_updated": "2014-10-17 18:11:07",
+            "deck": null,
+            "description": "<p><em>FIGHT LIKE A DEMON</em></p><p><em>The town of giants is saved, but rekindling its flame has brought to light an even greater evil! The members of the dark guild of demons, Tartaros, move against the entire Magic Council, and start targeting former Council members. Fairy Tail rises up against this new threat, but they’re facing powers they’ve never seen before! The battle against the world's last great dark guild begins!</em></p><h2>Chapter Titles</h2><ul><li>Chapter 354: Kyôka</li><li>Chapter 355: Song of the Fairies</li><li>Chapter 356: Tartaros Arc Prologue</li><li>Chapter 357: The Nine Demon Gates</li><li>Chapter 358: The Devil Particles</li><li>Chapter 359: Fairies vs the Underworld</li><li>Chapter 360: The White Inheritance</li><li>Chapter 361: Two Bombs</li></ul>",
+            "has_staff_review": false,
+            "id": 467110,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4129818-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4129818-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4129818-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4129818-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4129818-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4129818-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4129818-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4129818-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4129818-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Volume 42",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-42-volume-42/4000-467110/",
+            "store_date": "2014-10-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25073/",
+                "id": 25073,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-25073/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-468819/",
             "cover_date": "2014-09-15",
             "date_added": "2014-10-26 15:39:51",
@@ -750,41 +598,236 @@
                 "name": "Disenchanted",
                 "site_detail_url": "https://comicvine.gamespot.com/disenchanted/4050-68702/"
             }
-        }
-    ],
-    "2014-09-22|2014-09-28": [],
-    "2014-09-29|2014-10-05": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467110/",
-            "cover_date": "2014-10-31",
-            "date_added": "2014-09-30 00:54:03",
-            "date_last_updated": "2014-10-17 18:11:07",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-468954/",
+            "cover_date": "2014-12-31",
+            "date_added": "2014-10-28 00:49:13",
+            "date_last_updated": "2018-04-29 06:13:26",
             "deck": null,
-            "description": "<p><em>FIGHT LIKE A DEMON</em></p><p><em>The town of giants is saved, but rekindling its flame has brought to light an even greater evil! The members of the dark guild of demons, Tartaros, move against the entire Magic Council, and start targeting former Council members. Fairy Tail rises up against this new threat, but they’re facing powers they’ve never seen before! The battle against the world's last great dark guild begins!</em></p><h2>Chapter Titles</h2><ul><li>Chapter 354: Kyôka</li><li>Chapter 355: Song of the Fairies</li><li>Chapter 356: Tartaros Arc Prologue</li><li>Chapter 357: The Nine Demon Gates</li><li>Chapter 358: The Devil Particles</li><li>Chapter 359: Fairies vs the Underworld</li><li>Chapter 360: The White Inheritance</li><li>Chapter 361: Two Bombs</li></ul>",
+            "description": "<p><em>The battle RAGES ON! Based on the legendary game Mega Man 3 comes \"Legends of the Blue Bomber\" Part Two: We’ve seen Mega Man battle Robot Masters before, but now see the fight unfold from the perspectives of the villainous robot adversaries themselves! Shadow Man recalls his humble beginnings and how they brought him to his deadly duel with Mega Man! Gemini Man is ready to ambush our hero with his hologram copies! But while the battle rages on, Break Man is behind the scenes on a mission of his own—why is he hunting down Dr. Wily’s first set of Robot Masters?! Featuring all-new cover art from Patrick \"SPAZ\" Spaziante, and part 2 of a 3-part connecting \"SUPER SMASH\" collector cover set! Collect all 3 covers with Sonic the Hedgehog #266 and Sonic Universe #69!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\" class=\"mceItemTable\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Patrick Spaziante</td><td>1</td></tr><tr><td>Var</td><td>Super Smash Variant Cover (2 of 3)</td><td>Rafa Knight</td><td>2</td></tr></tbody></table><p><br /></p>",
             "has_staff_review": false,
-            "id": 467110,
+            "id": 468954,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4129818-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4129818-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4129818-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4129818-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4129818-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4129818-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4129818-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4129818-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4129818-42.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4191110-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4191110-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4191110-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4191110-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4191110-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4191110-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4191110-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4191110-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4191110-42.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "42",
-            "name": "Volume 42",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-42-volume-42/4000-467110/",
-            "store_date": "2014-10-01",
+            "name": "Legends of the Blue Bomber Part Two: With Loyalty, With Reflection",
+            "site_detail_url": "https://comicvine.gamespot.com/mega-man-42-legends-of-the-blue-bomber-part-two-wi/4000-468954/",
+            "store_date": "2014-10-29",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25073/",
-                "id": 25073,
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40107/",
+                "id": 40107,
+                "name": "Mega Man",
+                "site_detail_url": "https://comicvine.gamespot.com/mega-man/4050-40107/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470473/",
+            "cover_date": "2014-11-30",
+            "date_added": "2014-11-18 00:33:23",
+            "date_last_updated": "2015-08-05 20:34:30",
+            "deck": null,
+            "description": "<p><em>\"Declaration.\"</em></p>",
+            "has_staff_review": false,
+            "id": 470473,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4235012-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4235012-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4235012-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4235012-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4235012-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4235012-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4235012-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4235012-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4235012-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/morning-glories-42/4000-470473/",
+            "store_date": "2014-11-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-34852/",
+                "id": 34852,
+                "name": "Morning Glories",
+                "site_detail_url": "https://comicvine.gamespot.com/morning-glories/4050-34852/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474448/",
+            "cover_date": "2014-05-31",
+            "date_added": "2014-12-20 09:17:13",
+            "date_last_updated": "2014-12-20 10:08:02",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474448,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285689-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285689-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285689-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285689-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285689-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285689-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285689-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285689-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285689-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-42/4000-474448/",
+            "store_date": "2014-04-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-489729/",
+            "cover_date": "2014-11-30",
+            "date_added": "2015-05-23 04:27:57",
+            "date_last_updated": "2015-05-23 05:40:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 489729,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4580871-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4580871-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4580871-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4580871-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4580871-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4580871-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4580871-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4580871-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4580871-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Tome 42",
+            "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story-42-tome-42/4000-489729/",
+            "store_date": "2014-11-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45084/",
+                "id": 45084,
+                "name": "Step Up Love Story",
+                "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517500/",
+            "cover_date": "2014-05-31",
+            "date_added": "2016-02-28 08:52:28",
+            "date_last_updated": "2016-02-28 09:48:43",
+            "deck": null,
+            "description": "<h2> Story Titles</h2><ul><li>Herzlichen Glückwunsch zum Geburtstag!</li><li>Riesenspaß im Grandhotel</li><li>Der Pirat, der aus dem Nebel kam</li><li>Kalle Kabeljaus Vermächtnis</li><li>Wie in alten Zeiten</li><li>Donalds glücklichste Stunde</li><li>Tor oder nicht Tor?</li><li>In der Traummatte</li><li>Wo ist Donald Duck?</li><li>An alles gedacht!</li><li>Ein ganzer Stern zu Valentin</li><li>Alter schützt vor Torheit nicht</li></ul><p> </p><p> </p>",
+            "has_staff_review": false,
+            "id": 517500,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073525-42%20img.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073525-42%20img.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073525-42%20img.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073525-42%20img.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073525-42%20img.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073525-42%20img.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073525-42%20img.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073525-42%20img.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073525-42%20img.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Ein bewegtes Leben",
+            "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-enten-edition-42-ein-bewegtes/4000-517500/",
+            "store_date": "2014-05-09",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88447/",
+                "id": 88447,
+                "name": "Lustiges Taschenbuch Enten-Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-522207/",
+            "cover_date": "2014-01-31",
+            "date_added": "2016-03-28 15:50:33",
+            "date_last_updated": "2016-03-28 16:37:17",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 522207,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5120885-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5120885-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5120885-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5120885-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5120885-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5120885-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5120885-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5120885-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5120885-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Vol. 42",
+            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-42-vol-42/4000-522207/",
+            "store_date": "2014-01-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45080/",
+                "id": 45080,
+                "name": "Ah! My Goddess",
+                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-45080/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524569/",
+            "cover_date": "2014-05-31",
+            "date_added": "2016-04-11 12:25:16",
+            "date_last_updated": "2016-05-05 11:35:15",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524569,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146261-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146261-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146261-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146261-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146261-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146261-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146261-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146261-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146261-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Vol. 42",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-42-vol-42/4000-524569/",
+            "store_date": "2014-05-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
+                "id": 64966,
                 "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-25073/"
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
             }
         },
         {
@@ -820,118 +863,5 @@
                 "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
             }
         }
-    ],
-    "2014-10-06|2014-10-12": [],
-    "2014-10-13|2014-10-19": [],
-    "2014-10-20|2014-10-26": [],
-    "2014-10-27|2014-11-02": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-468954/",
-            "cover_date": "2014-12-31",
-            "date_added": "2014-10-28 00:49:13",
-            "date_last_updated": "2018-04-29 06:13:26",
-            "deck": null,
-            "description": "<p><em>The battle RAGES ON! Based on the legendary game Mega Man 3 comes \"Legends of the Blue Bomber\" Part Two: We’ve seen Mega Man battle Robot Masters before, but now see the fight unfold from the perspectives of the villainous robot adversaries themselves! Shadow Man recalls his humble beginnings and how they brought him to his deadly duel with Mega Man! Gemini Man is ready to ambush our hero with his hologram copies! But while the battle rages on, Break Man is behind the scenes on a mission of his own—why is he hunting down Dr. Wily’s first set of Robot Masters?! Featuring all-new cover art from Patrick \"SPAZ\" Spaziante, and part 2 of a 3-part connecting \"SUPER SMASH\" collector cover set! Collect all 3 covers with Sonic the Hedgehog #266 and Sonic Universe #69!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\" class=\"mceItemTable\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Patrick Spaziante</td><td>1</td></tr><tr><td>Var</td><td>Super Smash Variant Cover (2 of 3)</td><td>Rafa Knight</td><td>2</td></tr></tbody></table><p><br /></p>",
-            "has_staff_review": false,
-            "id": 468954,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4191110-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4191110-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4191110-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4191110-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4191110-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4191110-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4191110-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4191110-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4191110-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Legends of the Blue Bomber Part Two: With Loyalty, With Reflection",
-            "site_detail_url": "https://comicvine.gamespot.com/mega-man-42-legends-of-the-blue-bomber-part-two-wi/4000-468954/",
-            "store_date": "2014-10-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40107/",
-                "id": 40107,
-                "name": "Mega Man",
-                "site_detail_url": "https://comicvine.gamespot.com/mega-man/4050-40107/"
-            }
-        }
-    ],
-    "2014-11-03|2014-11-09": [],
-    "2014-11-10|2014-11-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-489729/",
-            "cover_date": "2014-11-30",
-            "date_added": "2015-05-23 04:27:57",
-            "date_last_updated": "2015-05-23 05:40:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 489729,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4580871-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4580871-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4580871-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4580871-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4580871-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4580871-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4580871-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4580871-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4580871-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Tome 42",
-            "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story-42-tome-42/4000-489729/",
-            "store_date": "2014-11-13",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45084/",
-                "id": 45084,
-                "name": "Step Up Love Story",
-                "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
-            }
-        }
-    ],
-    "2014-11-17|2014-11-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470473/",
-            "cover_date": "2014-11-30",
-            "date_added": "2014-11-18 00:33:23",
-            "date_last_updated": "2015-08-05 20:34:30",
-            "deck": null,
-            "description": "<p><em>\"Declaration.\"</em></p>",
-            "has_staff_review": false,
-            "id": 470473,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4235012-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4235012-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4235012-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4235012-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4235012-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4235012-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4235012-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4235012-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4235012-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/morning-glories-42/4000-470473/",
-            "store_date": "2014-11-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-34852/",
-                "id": 34852,
-                "name": "Morning Glories",
-                "site_detail_url": "https://comicvine.gamespot.com/morning-glories/4050-34852/"
-            }
-        }
-    ],
-    "2014-11-24|2014-11-30": [],
-    "2014-12-01|2014-12-07": [],
-    "2014-12-08|2014-12-14": [],
-    "2014-12-15|2014-12-21": []
+    ]
 }

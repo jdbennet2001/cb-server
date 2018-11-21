@@ -1,76 +1,38 @@
 {
-    "2012-12-24|2012-12-30": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-387070/",
-            "cover_date": "2012-12-31",
-            "date_added": "2013-02-18 08:13:32",
-            "date_last_updated": "2017-10-10 22:03:57",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-295796/",
+            "cover_date": "2010-10-12",
+            "date_added": "2011-10-14 04:12:35",
+            "date_last_updated": "2013-06-12 08:25:05",
             "deck": null,
-            "description": "<p><strong>Proper Japanese Title</strong>: <i>Kanpai</i> (完敗)</p><h2>Chapter Titles</h2><ul><li>Chapter 331: X-Day (X日 <i>Ekkusu Dē</i>)</li><li>Chapter 332: Applause (喝采 <i>Kassai</i>)</li><li>Chapter 333: Rumble (鳴動 <i>Meidō</i>)</li><li>Chapter 334: Complete Defeat (完敗 <i>Kanpai</i>)</li><li>Chapter 335: Decision (決定 <i>Kettei</i>)</li><li>Chapter 336: Cancellation (解除 <i>Kaijo</i>)</li><li>Chapter 337: Repentance (懺悔 <i>Zange</i>)</li><li>Chapter 338: Up In The Tree (樹上 <i>Jujō</i>)</li><li>Chapter 339: Silence (静寂 <i>Seijaku</i>)</li><li>Chapter 340: Special Assignment (特命 <i>Tokumei</i>)</li></ul>",
+            "description": "<p>Translates <a href=\"/the-new-avengers/4050-11497/\" data-ref-id=\"4050-11497\">The New Avengers</a> #59-60.</p>",
             "has_staff_review": false,
-            "id": 387070,
+            "id": 295796,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6093824-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6093824-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6093824-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6093824-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6093824-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6093824-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6093824-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6093824-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6093824-32.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2043243-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2043243-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2043243-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2043243-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2043243-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2043243-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2043243-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2043243-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2043243-32.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "32",
-            "name": "Kanpai",
-            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-32-kanpai/4000-387070/",
-            "store_date": "2012-12-28",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/spider-man-und-die-neuen-racher-32/4000-295796/",
+            "store_date": "2012-09-28",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45109/",
-                "id": 45109,
-                "name": "Hunter × Hunter",
-                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-45109/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43272/",
+                "id": 43272,
+                "name": "Spider-Man und die neuen Rächer",
+                "site_detail_url": "https://comicvine.gamespot.com/spider-man-und-die-neuen-racher/4050-43272/"
             }
-        }
-    ],
-    "2012-12-31|2013-01-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-376656/",
-            "cover_date": "2013-01-01",
-            "date_added": "2013-01-01 00:53:01",
-            "date_last_updated": "2015-03-20 17:56:06",
-            "deck": null,
-            "description": "<p><i>John Ka, Earth Empire scout, has found little trace of mankind since her pod surfaced. However, when she finds a band of feral humans - and a Prophet clone who has gone native to protect them - she finds herself questioning what it means to be human.</i></p>",
-            "has_staff_review": false,
-            "id": 376656,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2781277-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2781277-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2781277-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2781277-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2781277-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2781277-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2781277-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2781277-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2781277-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "[untitled]",
-            "site_detail_url": "https://comicvine.gamespot.com/prophet-32-untitled/4000-376656/",
-            "store_date": "2013-01-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45269/",
-                "id": 45269,
-                "name": "Prophet",
-                "site_detail_url": "https://comicvine.gamespot.com/prophet/4050-45269/"
-            }
-        }
-    ],
-    "2012-01-02|2012-01-08": [],
-    "2012-01-09|2012-01-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-318208/",
@@ -103,122 +65,7 @@
                 "name": "X-Men Sonderheft",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men-sonderheft/4050-43677/"
             }
-        }
-    ],
-    "2012-01-16|2012-01-22": [],
-    "2012-01-23|2012-01-29": [],
-    "2012-01-30|2012-02-05": [],
-    "2012-02-06|2012-02-12": [],
-    "2012-02-13|2012-02-19": [],
-    "2012-02-20|2012-02-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-404257/",
-            "cover_date": "2012-02-18",
-            "date_added": "2013-05-18 18:59:49",
-            "date_last_updated": "2013-05-18 19:27:02",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 404257,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3053856-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3053856-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3053856-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3053856-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3053856-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3053856-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3053856-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3053856-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3053856-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku-32-vol-32/4000-404257/",
-            "store_date": "2012-02-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61717/",
-                "id": 61717,
-                "name": "Kami no Shizuku",
-                "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
-            }
-        }
-    ],
-    "2012-02-27|2012-03-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423580/",
-            "cover_date": "2012-03-01",
-            "date_added": "2013-08-26 09:39:06",
-            "date_last_updated": "2013-08-26 09:51:30",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 423580,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267999-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267999-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267999-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267999-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267999-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267999-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267999-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267999-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3267999-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-32-vol-32/4000-423580/",
-            "store_date": "2012-03-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66764/",
-                "id": 66764,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-66764/"
-            }
-        }
-    ],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [],
-    "2012-03-26|2012-04-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425813/",
-            "cover_date": "2012-03-31",
-            "date_added": "2013-09-15 15:26:10",
-            "date_last_updated": "2017-06-30 10:35:55",
-            "deck": null,
-            "description": "<p><em>Buffy is being hunted by a monster which wants to kill her and initiate the end of the world. This is nothing new to Buffy yet it seems like the only person who can save her is a previous Slayer who has been in the ground a long time.</em></p>",
-            "has_staff_review": false,
-            "id": 425813,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "The Heart of A Slayer",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-32-the-heart-of-a/4000-425813/",
-            "store_date": "2012-03-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
-                "id": 56135,
-                "name": "Buffy the Vampire Slayer Classic",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
-            }
-        }
-    ],
-    "2012-04-02|2012-04-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-326780/",
@@ -251,52 +98,7 @@
                 "name": "Sweet Tooth",
                 "site_detail_url": "https://comicvine.gamespot.com/sweet-tooth/4050-27671/"
             }
-        }
-    ],
-    "2012-04-09|2012-04-15": [],
-    "2012-04-16|2012-04-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-345722/",
-            "cover_date": "2012-04-30",
-            "date_added": "2012-07-12 07:54:33",
-            "date_last_updated": "2016-12-13 16:31:45",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 267: New Guild (新規ギルド <i>Shinki Girudo</i>)</li><li>Chapter 268: The B-Team (特攻野郎Bチーム <i>Tokkō Yarō Bī-Chīmu</i>)</li><li>Chapter 269: Disappear into the Stillness (消えよ 静寂の中に <i>Kieyo, Shijima no Naka ni</i>)</li><li>Chapter 270: In the Night of Falling Stars (星降ル夜ニ <i>Hoshi Furu Yoru ni</i>)</li><li>Chapter 271: Lucy vs. Flare (ルーシィ vs. フレア <i>Rūshi vs. Furea</i>)</li><li>Chapter 272: The Noble Loser (気高き敗北者 <i>Kedakaki Haibokusha</i>)</li><li>Chapter 273: Orga the Black Lightning (黒雷のオルガ <i>Kurorai no Oruga</i>)</li><li>Chapter 274: Bad Omen (凶瑞 <i>Kyōzui</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 345722,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2462939-32_cropped.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2462939-32_cropped.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2462939-32_cropped.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2462939-32_cropped.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2462939-32_cropped.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2462939-32_cropped.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2462939-32_cropped.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2462939-32_cropped.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2462939-32_cropped.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-32-vol-32/4000-345722/",
-            "store_date": "2012-04-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46777/",
-                "id": 46777,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
-            }
-        }
-    ],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [],
-    "2012-05-14|2012-05-20": [],
-    "2012-05-21|2012-05-27": [],
-    "2012-05-28|2012-06-03": [],
-    "2012-06-04|2012-06-10": [],
-    "2012-06-11|2012-06-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-341080/",
@@ -329,9 +131,7 @@
                 "name": "Kekkaishi",
                 "site_detail_url": "https://comicvine.gamespot.com/kekkaishi/4050-27951/"
             }
-        }
-    ],
-    "2012-06-18|2012-06-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-341837/",
@@ -364,44 +164,7 @@
                 "name": "Avengers Academy",
                 "site_detail_url": "https://comicvine.gamespot.com/avengers-academy/4050-33633/"
             }
-        }
-    ],
-    "2012-06-25|2012-07-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422334/",
-            "cover_date": "2012-06-01",
-            "date_added": "2013-08-18 12:31:01",
-            "date_last_updated": "2013-08-18 12:52:15",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 422334,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3249700-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3249700-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3249700-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3249700-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3249700-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3249700-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3249700-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3249700-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3249700-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru-32-vol-32/4000-422334/",
-            "store_date": "2012-06-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66545/",
-                "id": 66545,
-                "name": "Kaze Hikaru",
-                "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-66545/"
-            }
-        }
-    ],
-    "2012-07-02|2012-07-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-344121/",
@@ -434,10 +197,40 @@
                 "name": "Batman: Arkham Unhinged",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-unhinged/4050-43361/"
             }
-        }
-    ],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-345722/",
+            "cover_date": "2012-04-30",
+            "date_added": "2012-07-12 07:54:33",
+            "date_last_updated": "2016-12-13 16:31:45",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 267: New Guild (新規ギルド <i>Shinki Girudo</i>)</li><li>Chapter 268: The B-Team (特攻野郎Bチーム <i>Tokkō Yarō Bī-Chīmu</i>)</li><li>Chapter 269: Disappear into the Stillness (消えよ 静寂の中に <i>Kieyo, Shijima no Naka ni</i>)</li><li>Chapter 270: In the Night of Falling Stars (星降ル夜ニ <i>Hoshi Furu Yoru ni</i>)</li><li>Chapter 271: Lucy vs. Flare (ルーシィ vs. フレア <i>Rūshi vs. Furea</i>)</li><li>Chapter 272: The Noble Loser (気高き敗北者 <i>Kedakaki Haibokusha</i>)</li><li>Chapter 273: Orga the Black Lightning (黒雷のオルガ <i>Kurorai no Oruga</i>)</li><li>Chapter 274: Bad Omen (凶瑞 <i>Kyōzui</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 345722,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2462939-32_cropped.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2462939-32_cropped.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2462939-32_cropped.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2462939-32_cropped.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2462939-32_cropped.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2462939-32_cropped.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2462939-32_cropped.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2462939-32_cropped.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2462939-32_cropped.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-32-vol-32/4000-345722/",
+            "store_date": "2012-04-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46777/",
+                "id": 46777,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-346264/",
@@ -473,42 +266,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416222/",
-            "cover_date": "2012-07-04",
-            "date_added": "2013-07-04 21:46:01",
-            "date_last_updated": "2013-07-04 22:06:27",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416222,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3152532-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3152532-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3152532-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3152532-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3152532-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3152532-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3152532-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3152532-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3152532-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-32-vol-32/4000-416222/",
-            "store_date": "2012-07-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
-                "id": 64966,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
-            }
-        }
-    ],
-    "2012-07-23|2012-07-29": [],
-    "2012-07-30|2012-08-05": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356178/",
             "cover_date": "2012-09-30",
             "date_added": "2012-09-06 14:43:31",
@@ -538,115 +295,6 @@
                 "id": 51911,
                 "name": "COMIC Hotmilk",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
-            }
-        }
-    ],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369779/",
-            "cover_date": "2012-08-01",
-            "date_added": "2012-11-23 20:24:13",
-            "date_last_updated": "2013-12-25 19:56:49",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 369779,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2718292-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2718292-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2718292-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2718292-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2718292-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2718292-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2718292-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2718292-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2718292-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Volume 32",
-            "site_detail_url": "https://comicvine.gamespot.com/the-knight-in-the-area-32-volume-32/4000-369779/",
-            "store_date": "2012-08-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50089/",
-                "id": 50089,
-                "name": "Area no Kishi",
-                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-50089/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438291/",
-            "cover_date": "2012-08-01",
-            "date_added": "2013-12-22 06:29:54",
-            "date_last_updated": "2014-12-30 05:30:18",
-            "deck": null,
-            "description": "<p>Chapter 275-283.</p>",
-            "has_staff_review": false,
-            "id": 438291,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3519539-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3519539-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3519539-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3519539-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3519539-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3519539-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3519539-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3519539-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3519539-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Volume 32",
-            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-32-volume-32/4000-438291/",
-            "store_date": "2012-08-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44294/",
-                "id": 44294,
-                "name": "Daiya no A",
-                "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
-            }
-        }
-    ],
-    "2012-08-20|2012-08-26": [],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [],
-    "2012-09-10|2012-09-16": [],
-    "2012-09-17|2012-09-23": [],
-    "2012-09-24|2012-09-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-295796/",
-            "cover_date": "2010-10-12",
-            "date_added": "2011-10-14 04:12:35",
-            "date_last_updated": "2013-06-12 08:25:05",
-            "deck": null,
-            "description": "<p>Translates <a href=\"/the-new-avengers/4050-11497/\" data-ref-id=\"4050-11497\">The New Avengers</a> #59-60.</p>",
-            "has_staff_review": false,
-            "id": 295796,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2043243-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2043243-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2043243-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2043243-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2043243-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2043243-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2043243-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2043243-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2043243-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/spider-man-und-die-neuen-racher-32/4000-295796/",
-            "store_date": "2012-09-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43272/",
-                "id": 43272,
-                "name": "Spider-Man und die neuen Rächer",
-                "site_detail_url": "https://comicvine.gamespot.com/spider-man-und-die-neuen-racher/4050-43272/"
             }
         },
         {
@@ -684,41 +332,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554372/",
-            "cover_date": "2012-09-28",
-            "date_added": "2016-10-18 13:39:45",
-            "date_last_updated": "2017-04-13 21:30:28",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 554372,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491079-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491079-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491079-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491079-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491079-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491079-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491079-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491079-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491079-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Vol. 32",
-            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-32-vol-32/4000-554372/",
-            "store_date": "2012-09-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
-                "id": 93693,
-                "name": "Mogura no Uta",
-                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
-            }
-        }
-    ],
-    "2012-10-01|2012-10-07": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-360030/",
             "cover_date": "2012-12-01",
             "date_added": "2012-10-03 08:03:24",
@@ -754,9 +367,7 @@
                 "name": "Uncanny X-Force",
                 "site_detail_url": "https://comicvine.gamespot.com/uncanny-x-force/4050-35835/"
             }
-        }
-    ],
-    "2012-10-08|2012-10-14": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-360927/",
@@ -789,10 +400,7 @@
                 "name": "Secret Avengers",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-avengers/4050-33350/"
             }
-        }
-    ],
-    "2012-10-15|2012-10-21": [],
-    "2012-10-22|2012-10-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-363151/",
@@ -830,9 +438,7 @@
                 "name": "Avengers",
                 "site_detail_url": "https://comicvine.gamespot.com/avengers/4050-33227/"
             }
-        }
-    ],
-    "2012-10-29|2012-11-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-364096/",
@@ -898,9 +504,7 @@
                 "name": "Bloodstrike",
                 "site_detail_url": "https://comicvine.gamespot.com/bloodstrike/4050-47354/"
             }
-        }
-    ],
-    "2012-11-05|2012-11-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-366197/",
@@ -936,77 +540,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-374674/",
-            "cover_date": "2012-12-31",
-            "date_added": "2012-12-24 23:45:15",
-            "date_last_updated": "2015-12-24 05:18:11",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369779/",
+            "cover_date": "2012-08-01",
+            "date_added": "2012-11-23 20:24:13",
+            "date_last_updated": "2013-12-25 19:56:49",
             "deck": null,
-            "description": "<p> Translates Green Lantern: New Guardians #5-8 &amp; Larfleeze Christmas Special #1.</p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 374674,
+            "id": 369779,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4968089-8534504016-GREEN.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4968089-8534504016-GREEN.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4968089-8534504016-GREEN.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4968089-8534504016-GREEN.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4968089-8534504016-GREEN.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4968089-8534504016-GREEN.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4968089-8534504016-GREEN.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4968089-8534504016-GREEN.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4968089-8534504016-GREEN.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2718292-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2718292-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2718292-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2718292-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2718292-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2718292-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2718292-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2718292-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2718292-32.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "32",
-            "name": "Part 32",
-            "site_detail_url": "https://comicvine.gamespot.com/green-lantern-sonderband-32-part-32/4000-374674/",
-            "store_date": "2012-11-06",
+            "name": "Volume 32",
+            "site_detail_url": "https://comicvine.gamespot.com/the-knight-in-the-area-32-volume-32/4000-369779/",
+            "store_date": "2012-08-17",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42400/",
-                "id": 42400,
-                "name": "Green Lantern Sonderband",
-                "site_detail_url": "https://comicvine.gamespot.com/green-lantern-sonderband/4050-42400/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50089/",
+                "id": 50089,
+                "name": "Area no Kishi",
+                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-50089/"
             }
-        }
-    ],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519489/",
-            "cover_date": "2012-11-30",
-            "date_added": "2016-03-12 13:22:39",
-            "date_last_updated": "2016-04-11 02:24:39",
-            "deck": null,
-            "description": "<p><em>It's Jughead's dog, HOT DOG! What's that scamp up to now?</em></p>",
-            "has_staff_review": false,
-            "id": 519489,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5145153-32.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5145153-32.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5145153-32.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5145153-32.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5145153-32.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5145153-32.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5145153-32.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5145153-32.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5145153-32.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "32",
-            "name": "Jughead's Pal Hot Dog",
-            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-32-jugheads-pal-hot-dog/4000-519489/",
-            "store_date": "2012-11-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
-                "id": 86278,
-                "name": "PEP Digital",
-                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
-            }
-        }
-    ],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [],
-    "2012-12-10|2012-12-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-372431/",
@@ -1039,9 +603,7 @@
                 "name": "Age of Bronze",
                 "site_detail_url": "https://comicvine.gamespot.com/age-of-bronze/4050-9440/"
             }
-        }
-    ],
-    "2012-12-17|2012-12-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373332/",
@@ -1077,6 +639,270 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-374674/",
+            "cover_date": "2012-12-31",
+            "date_added": "2012-12-24 23:45:15",
+            "date_last_updated": "2015-12-24 05:18:11",
+            "deck": null,
+            "description": "<p> Translates Green Lantern: New Guardians #5-8 &amp; Larfleeze Christmas Special #1.</p>",
+            "has_staff_review": false,
+            "id": 374674,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4968089-8534504016-GREEN.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4968089-8534504016-GREEN.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4968089-8534504016-GREEN.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4968089-8534504016-GREEN.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4968089-8534504016-GREEN.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4968089-8534504016-GREEN.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4968089-8534504016-GREEN.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4968089-8534504016-GREEN.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4968089-8534504016-GREEN.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Part 32",
+            "site_detail_url": "https://comicvine.gamespot.com/green-lantern-sonderband-32-part-32/4000-374674/",
+            "store_date": "2012-11-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42400/",
+                "id": 42400,
+                "name": "Green Lantern Sonderband",
+                "site_detail_url": "https://comicvine.gamespot.com/green-lantern-sonderband/4050-42400/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-387070/",
+            "cover_date": "2012-12-31",
+            "date_added": "2013-02-18 08:13:32",
+            "date_last_updated": "2017-10-10 22:03:57",
+            "deck": null,
+            "description": "<p><strong>Proper Japanese Title</strong>: <i>Kanpai</i> (完敗)</p><h2>Chapter Titles</h2><ul><li>Chapter 331: X-Day (X日 <i>Ekkusu Dē</i>)</li><li>Chapter 332: Applause (喝采 <i>Kassai</i>)</li><li>Chapter 333: Rumble (鳴動 <i>Meidō</i>)</li><li>Chapter 334: Complete Defeat (完敗 <i>Kanpai</i>)</li><li>Chapter 335: Decision (決定 <i>Kettei</i>)</li><li>Chapter 336: Cancellation (解除 <i>Kaijo</i>)</li><li>Chapter 337: Repentance (懺悔 <i>Zange</i>)</li><li>Chapter 338: Up In The Tree (樹上 <i>Jujō</i>)</li><li>Chapter 339: Silence (静寂 <i>Seijaku</i>)</li><li>Chapter 340: Special Assignment (特命 <i>Tokumei</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 387070,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6093824-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6093824-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6093824-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6093824-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6093824-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6093824-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6093824-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6093824-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6093824-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Kanpai",
+            "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter-32-kanpai/4000-387070/",
+            "store_date": "2012-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45109/",
+                "id": 45109,
+                "name": "Hunter × Hunter",
+                "site_detail_url": "https://comicvine.gamespot.com/hunter-x-hunter/4050-45109/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-404257/",
+            "cover_date": "2012-02-18",
+            "date_added": "2013-05-18 18:59:49",
+            "date_last_updated": "2013-05-18 19:27:02",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 404257,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3053856-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3053856-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3053856-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3053856-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3053856-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3053856-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3053856-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3053856-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3053856-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku-32-vol-32/4000-404257/",
+            "store_date": "2012-02-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61717/",
+                "id": 61717,
+                "name": "Kami no Shizuku",
+                "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416222/",
+            "cover_date": "2012-07-04",
+            "date_added": "2013-07-04 21:46:01",
+            "date_last_updated": "2013-07-04 22:06:27",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416222,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3152532-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3152532-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3152532-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3152532-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3152532-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3152532-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3152532-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3152532-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3152532-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-32-vol-32/4000-416222/",
+            "store_date": "2012-07-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
+                "id": 64966,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422334/",
+            "cover_date": "2012-06-01",
+            "date_added": "2013-08-18 12:31:01",
+            "date_last_updated": "2013-08-18 12:52:15",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 422334,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3249700-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3249700-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3249700-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3249700-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3249700-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3249700-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3249700-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3249700-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3249700-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru-32-vol-32/4000-422334/",
+            "store_date": "2012-06-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66545/",
+                "id": 66545,
+                "name": "Kaze Hikaru",
+                "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-66545/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423580/",
+            "cover_date": "2012-03-01",
+            "date_added": "2013-08-26 09:39:06",
+            "date_last_updated": "2013-08-26 09:51:30",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 423580,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267999-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267999-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267999-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267999-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267999-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267999-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267999-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267999-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3267999-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-32-vol-32/4000-423580/",
+            "store_date": "2012-03-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66764/",
+                "id": 66764,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-66764/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425813/",
+            "cover_date": "2012-03-31",
+            "date_added": "2013-09-15 15:26:10",
+            "date_last_updated": "2017-06-30 10:35:55",
+            "deck": null,
+            "description": "<p><em>Buffy is being hunted by a monster which wants to kill her and initiate the end of the world. This is nothing new to Buffy yet it seems like the only person who can save her is a previous Slayer who has been in the ground a long time.</em></p>",
+            "has_staff_review": false,
+            "id": 425813,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3312761-buffy%20the%20vampire%20slayer%20classic%20%20-%20the%20heart%20of%20a%20slayer%20%2332%20%282012%29%20-%20page%201.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "The Heart of A Slayer",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-32-the-heart-of-a/4000-425813/",
+            "store_date": "2012-03-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
+                "id": 56135,
+                "name": "Buffy the Vampire Slayer Classic",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438291/",
+            "cover_date": "2012-08-01",
+            "date_added": "2013-12-22 06:29:54",
+            "date_last_updated": "2014-12-30 05:30:18",
+            "deck": null,
+            "description": "<p>Chapter 275-283.</p>",
+            "has_staff_review": false,
+            "id": 438291,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3519539-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3519539-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3519539-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3519539-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3519539-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3519539-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3519539-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3519539-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3519539-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Volume 32",
+            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-32-volume-32/4000-438291/",
+            "store_date": "2012-08-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44294/",
+                "id": 44294,
+                "name": "Daiya no A",
+                "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500716/",
             "cover_date": "2012-12-18",
             "date_added": "2015-09-19 09:19:22",
@@ -1106,6 +932,72 @@
                 "id": 45292,
                 "name": "Zettai Karen Children",
                 "site_detail_url": "https://comicvine.gamespot.com/zettai-karen-children/4050-45292/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519489/",
+            "cover_date": "2012-11-30",
+            "date_added": "2016-03-12 13:22:39",
+            "date_last_updated": "2016-04-11 02:24:39",
+            "deck": null,
+            "description": "<p><em>It's Jughead's dog, HOT DOG! What's that scamp up to now?</em></p>",
+            "has_staff_review": false,
+            "id": 519489,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5145153-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5145153-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5145153-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5145153-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5145153-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5145153-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5145153-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5145153-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5145153-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Jughead's Pal Hot Dog",
+            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-32-jugheads-pal-hot-dog/4000-519489/",
+            "store_date": "2012-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
+                "id": 86278,
+                "name": "PEP Digital",
+                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554372/",
+            "cover_date": "2012-09-28",
+            "date_added": "2016-10-18 13:39:45",
+            "date_last_updated": "2017-04-13 21:30:28",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554372,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491079-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491079-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491079-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491079-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491079-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491079-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491079-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491079-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491079-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-32-vol-32/4000-554372/",
+            "store_date": "2012-09-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
+                "id": 93693,
+                "name": "Mogura no Uta",
+                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
             }
         },
         {

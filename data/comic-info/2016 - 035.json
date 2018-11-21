@@ -1,50 +1,5 @@
 {
-    "2016-12-26|2017-01-01": [],
-    "2016-01-04|2016-01-10": [],
-    "2016-01-11|2016-01-17": [],
-    "2016-01-18|2016-01-24": [],
-    "2016-01-25|2016-01-31": [],
-    "2016-02-01|2016-02-07": [],
-    "2016-02-08|2016-02-14": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521114/",
-            "cover_date": "2016-03-31",
-            "date_added": "2016-03-20 15:53:39",
-            "date_last_updated": "2016-03-20 15:54:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 521114,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108099-wwwww.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108099-wwwww.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108099-wwwww.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108099-wwwww.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108099-wwwww.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108099-wwwww.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108099-wwwww.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108099-wwwww.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5108099-wwwww.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "35",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium-35/4000-521114/",
-            "store_date": "2016-02-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67387/",
-                "id": 67387,
-                "name": "Comic Anthurium",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
-            }
-        }
-    ],
-    "2016-02-15|2016-02-21": [],
-    "2016-02-22|2016-02-28": [],
-    "2016-02-29|2016-03-06": [],
-    "2016-03-07|2016-03-13": [],
-    "2016-03-14|2016-03-20": [
+    "2016-01-01|2016-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-520527/",
@@ -77,10 +32,40 @@
                 "name": "DC Comics Bombshells",
                 "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells/4050-83493/"
             }
-        }
-    ],
-    "2016-03-21|2016-03-27": [],
-    "2016-03-28|2016-04-03": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521114/",
+            "cover_date": "2016-03-31",
+            "date_added": "2016-03-20 15:53:39",
+            "date_last_updated": "2016-03-20 15:54:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 521114,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108099-wwwww.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108099-wwwww.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108099-wwwww.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108099-wwwww.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108099-wwwww.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108099-wwwww.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108099-wwwww.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108099-wwwww.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5108099-wwwww.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium-35/4000-521114/",
+            "store_date": "2016-02-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67387/",
+                "id": 67387,
+                "name": "Comic Anthurium",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-522448/",
@@ -113,47 +98,7 @@
                 "name": "Saga",
                 "site_detail_url": "https://comicvine.gamespot.com/saga/4050-46568/"
             }
-        }
-    ],
-    "2016-04-04|2016-04-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562078/",
-            "cover_date": "2016-04-01",
-            "date_added": "2016-11-28 06:17:33",
-            "date_last_updated": "2018-09-15 19:38:50",
-            "deck": "Tra le mura di un'oscura fortezza si nasconde un terribile segreto...",
-            "description": "<p><em>Ian, Gmor e Sera sono inviati nelle foreste alle pendici del Margondár Occidentale per indagare sulla scomparsa di una piccola spedizione esplorativa imperiale. Giunti a destinazione, si trovano a combattere contro gli omuncoli selvaggi che popolano la foresta e vengono aiutati da Anya, una cartografa che conduce i nostri eroi all'interno di una oscura fortezza. Il luogo, però, nasconde un terribile segreto e si rivelerà una trappola mortale…</em></p>",
-            "has_staff_review": false,
-            "id": 562078,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557451-35.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557451-35.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557451-35.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557451-35.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557451-35.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557451-35.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557451-35.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557451-35.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5557451-35.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "35",
-            "name": "I guardiani di Malagart",
-            "site_detail_url": "https://comicvine.gamespot.com/dragonero-35-i-guardiani-di-malagart/4000-562078/",
-            "store_date": "2016-04-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
-                "id": 67599,
-                "name": "Dragonero",
-                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
-            }
-        }
-    ],
-    "2016-04-11|2016-04-17": [],
-    "2016-04-18|2016-04-24": [],
-    "2016-04-25|2016-05-01": [],
-    "2016-05-02|2016-05-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-528299/",
@@ -222,6 +167,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530697/",
+            "cover_date": "2016-07-31",
+            "date_added": "2016-05-17 01:06:39",
+            "date_last_updated": "2017-02-09 07:44:07",
+            "deck": null,
+            "description": "<p><em>A spotlight on three generations of Jack-in-the-Box, as the second Jack-in-the-Box’s son must decide whether to follow in the family footsteps or take another path. Also featuring the Trouble Boys, Mister Drama, the Weirdies and more. And featuring guest artist Ron Randall (CONVERGENCE: CATWOMAN, Trekker).</em></p>",
+            "has_staff_review": false,
+            "id": 530697,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5215404-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5215404-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5215404-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5215404-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5215404-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5215404-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5215404-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5215404-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5215404-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "What I Did on My Vacation...",
+            "site_detail_url": "https://comicvine.gamespot.com/astro-city-35-what-i-did-on-my-vacation/4000-530697/",
+            "store_date": "2016-05-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62857/",
+                "id": 62857,
+                "name": "Astro City",
+                "site_detail_url": "https://comicvine.gamespot.com/astro-city/4050-62857/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-531030/",
             "cover_date": null,
             "date_added": "2016-05-19 13:00:05",
@@ -252,41 +230,38 @@
                 "name": "The Astonishing Spider-Man",
                 "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spiderman/4050-79511/"
             }
-        }
-    ],
-    "2016-05-09|2016-05-15": [],
-    "2016-05-16|2016-05-22": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530697/",
-            "cover_date": "2016-07-31",
-            "date_added": "2016-05-17 01:06:39",
-            "date_last_updated": "2017-02-09 07:44:07",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535243/",
+            "cover_date": "2016-06-30",
+            "date_added": "2016-06-13 05:57:53",
+            "date_last_updated": "2016-06-20 13:45:52",
             "deck": null,
-            "description": "<p><em>A spotlight on three generations of Jack-in-the-Box, as the second Jack-in-the-Box’s son must decide whether to follow in the family footsteps or take another path. Also featuring the Trouble Boys, Mister Drama, the Weirdies and more. And featuring guest artist Ron Randall (CONVERGENCE: CATWOMAN, Trekker).</em></p>",
+            "description": "<h4><em>THE DARK TOWER STANDS</em></h4><p><em>At last, the stage is set for the final battle! When the Tower of Trophaeum finally takes its true form, only one competition is left: a winnertakeall Parts War with Ikki and Ringo on one side, and Sora and Rika on the other! And nothing less than the fate of the world may be at stake…</em></p><p><strong>Note</strong>: The digital edition (6/14/2016) for this volume was released before the print edition.</p>",
             "has_staff_review": false,
-            "id": 530697,
+            "id": 535243,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5215404-35.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5215404-35.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5215404-35.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5215404-35.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5215404-35.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5215404-35.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5215404-35.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5215404-35.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5215404-35.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5263454-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5263454-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5263454-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5263454-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5263454-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5263454-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5263454-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5263454-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5263454-35.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "35",
-            "name": "What I Did on My Vacation...",
-            "site_detail_url": "https://comicvine.gamespot.com/astro-city-35-what-i-did-on-my-vacation/4000-530697/",
-            "store_date": "2016-05-18",
+            "name": "The Dark Tower Stands",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-35-the-dark-tower-stands/4000-535243/",
+            "store_date": "2016-06-22",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62857/",
-                "id": 62857,
-                "name": "Astro City",
-                "site_detail_url": "https://comicvine.gamespot.com/astro-city/4050-62857/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25071/",
+                "id": 25071,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
             }
         },
         {
@@ -321,50 +296,7 @@
                 "name": "Die Neuen X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men/4050-65646/"
             }
-        }
-    ],
-    "2016-05-23|2016-05-29": [],
-    "2016-05-30|2016-06-05": [],
-    "2016-06-06|2016-06-12": [],
-    "2016-06-13|2016-06-19": [],
-    "2016-06-20|2016-06-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535243/",
-            "cover_date": "2016-06-30",
-            "date_added": "2016-06-13 05:57:53",
-            "date_last_updated": "2016-06-20 13:45:52",
-            "deck": null,
-            "description": "<h4><em>THE DARK TOWER STANDS</em></h4><p><em>At last, the stage is set for the final battle! When the Tower of Trophaeum finally takes its true form, only one competition is left: a winnertakeall Parts War with Ikki and Ringo on one side, and Sora and Rika on the other! And nothing less than the fate of the world may be at stake…</em></p><p><strong>Note</strong>: The digital edition (6/14/2016) for this volume was released before the print edition.</p>",
-            "has_staff_review": false,
-            "id": 535243,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5263454-35.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5263454-35.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5263454-35.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5263454-35.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5263454-35.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5263454-35.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5263454-35.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5263454-35.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5263454-35.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "35",
-            "name": "The Dark Tower Stands",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-35-the-dark-tower-stands/4000-535243/",
-            "store_date": "2016-06-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25071/",
-                "id": 25071,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
-            }
-        }
-    ],
-    "2016-06-27|2016-07-03": [],
-    "2016-07-04|2016-07-10": [],
-    "2016-07-11|2016-07-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539199/",
@@ -397,11 +329,7 @@
                 "name": "Abe Sapien",
                 "site_detail_url": "https://comicvine.gamespot.com/abe-sapien/4050-59507/"
             }
-        }
-    ],
-    "2016-07-18|2016-07-24": [],
-    "2016-07-25|2016-07-31": [],
-    "2016-08-01|2016-08-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542492/",
@@ -434,10 +362,7 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-39219/"
             }
-        }
-    ],
-    "2016-08-08|2016-08-14": [],
-    "2016-08-15|2016-08-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-544681/",
@@ -470,12 +395,7 @@
                 "name": "Injustice: Gods Among Us Year Five",
                 "site_detail_url": "https://comicvine.gamespot.com/injustice-gods-among-us-year-five/4050-86759/"
             }
-        }
-    ],
-    "2016-08-22|2016-08-28": [],
-    "2016-08-29|2016-09-04": [],
-    "2016-09-05|2016-09-11": [],
-    "2016-09-12|2016-09-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-549443/",
@@ -508,10 +428,7 @@
                 "name": "The Maxx: Maxximized",
                 "site_detail_url": "https://comicvine.gamespot.com/the-maxx-maxximized/4050-69578/"
             }
-        }
-    ],
-    "2016-09-19|2016-09-25": [],
-    "2016-09-26|2016-10-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-551280/",
@@ -610,9 +527,7 @@
                 "name": "Boys Over Flowers Season 2",
                 "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2/4050-81328/"
             }
-        }
-    ],
-    "2016-10-03|2016-10-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-552431/",
@@ -678,17 +593,139 @@
                 "name": "Comic Mugen Tensei",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
             }
-        }
-    ],
-    "2016-10-10|2016-10-16": [],
-    "2016-10-17|2016-10-23": [],
-    "2016-10-24|2016-10-30": [],
-    "2016-10-31|2016-11-06": [],
-    "2016-11-07|2016-11-13": [],
-    "2016-11-14|2016-11-20": [],
-    "2016-11-21|2016-11-27": [],
-    "2016-11-28|2016-12-04": [],
-    "2016-12-05|2016-12-11": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562078/",
+            "cover_date": "2016-04-01",
+            "date_added": "2016-11-28 06:17:33",
+            "date_last_updated": "2018-09-15 19:38:50",
+            "deck": "Tra le mura di un'oscura fortezza si nasconde un terribile segreto...",
+            "description": "<p><em>Ian, Gmor e Sera sono inviati nelle foreste alle pendici del Margondár Occidentale per indagare sulla scomparsa di una piccola spedizione esplorativa imperiale. Giunti a destinazione, si trovano a combattere contro gli omuncoli selvaggi che popolano la foresta e vengono aiutati da Anya, una cartografa che conduce i nostri eroi all'interno di una oscura fortezza. Il luogo, però, nasconde un terribile segreto e si rivelerà una trappola mortale…</em></p>",
+            "has_staff_review": false,
+            "id": 562078,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557451-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557451-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557451-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557451-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557451-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557451-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557451-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557451-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557451-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "I guardiani di Malagart",
+            "site_detail_url": "https://comicvine.gamespot.com/dragonero-35-i-guardiani-di-malagart/4000-562078/",
+            "store_date": "2016-04-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
+                "id": 67599,
+                "name": "Dragonero",
+                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562267/",
+            "cover_date": "2016-06-01",
+            "date_added": "2016-11-28 08:13:45",
+            "date_last_updated": "2018-10-28 13:43:51",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 562267,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557867-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557867-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557867-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557867-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557867-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557867-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557867-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557867-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557867-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou-35/4000-562267/",
+            "store_date": "2016-06-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68505/",
+                "id": 68505,
+                "name": "Les Trésors de Picsou",
+                "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou/4050-68505/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-564064/",
+            "cover_date": "2016-10-01",
+            "date_added": "2016-12-08 18:15:31",
+            "date_last_updated": "2018-11-03 18:57:51",
+            "deck": " ",
+            "description": "<p><em>Nouvelle aventure d'Alix aux allures de chasse au trésor.</em></p>",
+            "has_staff_review": false,
+            "id": 564064,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5577113-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5577113-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5577113-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5577113-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5577113-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5577113-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5577113-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5577113-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5577113-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "L'Or de Saturne",
+            "site_detail_url": "https://comicvine.gamespot.com/alix-35-lor-de-saturne/4000-564064/",
+            "store_date": "2016-10-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51194/",
+                "id": 51194,
+                "name": "Alix",
+                "site_detail_url": "https://comicvine.gamespot.com/alix/4050-51194/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-566584/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-12 15:48:32",
+            "date_last_updated": "2017-02-02 13:22:11",
+            "deck": null,
+            "description": "<p><em>Twilight Sparkle and Starlight Glimmer tidy up the library in the Castle of the Two Sisters. What begins as a friendly activity soon turns into magic-based battle of egos and starts to transform the castle into a very dangerous place!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Tony Fleecs</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Jay Fosgitt</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Nidhi Chanani</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 566584,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5585994-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5585994-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5585994-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5585994-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5585994-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5585994-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5585994-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5585994-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5585994-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friends-forever-35/4000-566584/",
+            "store_date": "2016-12-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71074/",
+                "id": 71074,
+                "name": "My Little Pony: Friends Forever",
+                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friends-forever/4050-71074/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600538/",
@@ -753,41 +790,6 @@
                 "id": 108375,
                 "name": "ITAN",
                 "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
-            }
-        }
-    ],
-    "2016-12-12|2016-12-18": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-566584/",
-            "cover_date": "2016-12-31",
-            "date_added": "2016-12-12 15:48:32",
-            "date_last_updated": "2017-02-02 13:22:11",
-            "deck": null,
-            "description": "<p><em>Twilight Sparkle and Starlight Glimmer tidy up the library in the Castle of the Two Sisters. What begins as a friendly activity soon turns into magic-based battle of egos and starts to transform the castle into a very dangerous place!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Tony Fleecs</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Jay Fosgitt</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Nidhi Chanani</td><td>3</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 566584,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5585994-35.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5585994-35.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5585994-35.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5585994-35.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5585994-35.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5585994-35.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5585994-35.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5585994-35.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5585994-35.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "35",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friends-forever-35/4000-566584/",
-            "store_date": "2016-12-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71074/",
-                "id": 71074,
-                "name": "My Little Pony: Friends Forever",
-                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friends-forever/4050-71074/"
             }
         }
     ]

@@ -1,7 +1,5 @@
 {
-    "2014-12-22|2014-12-28": [],
-    "2014-12-29|2015-01-04": [],
-    "2014-01-06|2014-01-12": [
+    "2014-01-01|2014-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441450/",
@@ -34,13 +32,7 @@
                 "name": "Crossed Badlands",
                 "site_detail_url": "https://comicvine.gamespot.com/crossed-badlands/4050-46576/"
             }
-        }
-    ],
-    "2014-01-13|2014-01-19": [],
-    "2014-01-20|2014-01-26": [],
-    "2014-01-27|2014-02-02": [],
-    "2014-02-03|2014-02-09": [],
-    "2014-02-10|2014-02-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445394/",
@@ -73,10 +65,7 @@
                 "name": "Ultimate Marvel",
                 "site_detail_url": "https://comicvine.gamespot.com/ultimate-marvel/4050-53463/"
             }
-        }
-    ],
-    "2014-02-17|2014-02-23": [],
-    "2014-02-24|2014-03-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-446378/",
@@ -109,20 +98,13 @@
                 "name": "Adventures of Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman/4050-60518/"
             }
-        }
-    ],
-    "2014-03-03|2014-03-09": [],
-    "2014-03-10|2014-03-16": [],
-    "2014-03-17|2014-03-23": [],
-    "2014-03-24|2014-03-30": [],
-    "2014-03-31|2014-04-06": [],
-    "2014-04-07|2014-04-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450061/",
             "cover_date": "2014-06-01",
             "date_added": "2014-04-08 00:02:26",
-            "date_last_updated": "2015-03-17 11:14:50",
+            "date_last_updated": "2018-11-10 12:18:53",
             "deck": null,
             "description": "<p><em>The gang is trying to take a nice, peaceful vacation at an island resort, but the Jabberwocky infestation at the nature preserve next door isn't making that easy! Shaggy and Scooby could be scared off by red-eyed monsters with lion-like paws, unless Velma's keen eye for clues puts an end to the mysterious beasts!</em></p>",
             "has_staff_review": false,
@@ -140,7 +122,7 @@
                 "image_tags": "All Images"
             },
             "issue_number": "44",
-            "name": "Island of the Jabberwockies",
+            "name": "Island of the Jabberwockies; The Phantom of the Opal!",
             "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-44-island-of-the-jabberwo/4000-450061/",
             "store_date": "2014-04-09",
             "volume": {
@@ -149,14 +131,7 @@
                 "name": "Scooby-Doo, Where Are You?",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you/4050-35462/"
             }
-        }
-    ],
-    "2014-04-14|2014-04-20": [],
-    "2014-04-21|2014-04-27": [],
-    "2014-04-28|2014-05-04": [],
-    "2014-05-05|2014-05-11": [],
-    "2014-05-12|2014-05-18": [],
-    "2014-05-19|2014-05-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-453455/",
@@ -189,85 +164,7 @@
                 "name": "Prophet",
                 "site_detail_url": "https://comicvine.gamespot.com/prophet/4050-45269/"
             }
-        }
-    ],
-    "2014-05-26|2014-06-01": [],
-    "2014-06-02|2014-06-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474450/",
-            "cover_date": "2014-07-31",
-            "date_added": "2014-12-20 09:17:17",
-            "date_last_updated": "2014-12-20 10:08:04",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474450,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285691-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285691-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285691-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285691-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285691-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285691-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285691-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285691-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285691-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-44/4000-474450/",
-            "store_date": "2014-06-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2014-06-09|2014-06-15": [],
-    "2014-06-16|2014-06-22": [],
-    "2014-06-23|2014-06-29": [],
-    "2014-06-30|2014-07-06": [],
-    "2014-07-07|2014-07-13": [],
-    "2014-07-14|2014-07-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461457/",
-            "cover_date": "2014-07-31",
-            "date_added": "2014-08-02 23:09:07",
-            "date_last_updated": "2014-08-02 23:27:41",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 370: The Reincarnated Devil (悪魔転生 <i>Akuma Tensei</i>)</li><li>Chapter 371: Tartarus Arc, Part 2: Song of the Sky Dragon (冥府の門（タルタロス）編【二章：天竜の歌】 <i>Tarutarosu-hen (Nishō: Tenryū no Uta)</i>)</li><li>Chapter 372: Breakthrough (突破口 <i>Toppakō</i>)</li><li>Chapter 373: To Kill or Let Live (生かすか殺すか <i>Ikasu ka Korosu ka</i>)</li><li>Chapter 374: Revolution (レボリューション <i>Reboryūshon</i>)</li><li>Chapter 375: Herculean Madness (怪力乱神 <i>Kairyoku Ranshin</i>)</li><li>Chapter 376: Wendy vs. Ezel (ウェンディ vs. エゼル <i>Wendi vs. Ezeru</i>)</li><li>Chapter 377: The Sky Dragon's Rage (天竜の逆鱗 <i>Tenryū no Gekirin</i>)</li><li>Chapter 378: Friends Forever (ずっと友達で <i>Zutto Tomodachi de</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 461457,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4004878-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4004878-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4004878-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4004878-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4004878-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4004878-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4004878-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4004878-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4004878-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Volume 44",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-44-volume-44/4000-461457/",
-            "store_date": "2014-07-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46777/",
-                "id": 46777,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
-            }
-        }
-    ],
-    "2014-07-21|2014-07-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-460381/",
@@ -336,6 +233,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461457/",
+            "cover_date": "2014-07-31",
+            "date_added": "2014-08-02 23:09:07",
+            "date_last_updated": "2014-08-02 23:27:41",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 370: The Reincarnated Devil (悪魔転生 <i>Akuma Tensei</i>)</li><li>Chapter 371: Tartarus Arc, Part 2: Song of the Sky Dragon (冥府の門（タルタロス）編【二章：天竜の歌】 <i>Tarutarosu-hen (Nishō: Tenryū no Uta)</i>)</li><li>Chapter 372: Breakthrough (突破口 <i>Toppakō</i>)</li><li>Chapter 373: To Kill or Let Live (生かすか殺すか <i>Ikasu ka Korosu ka</i>)</li><li>Chapter 374: Revolution (レボリューション <i>Reboryūshon</i>)</li><li>Chapter 375: Herculean Madness (怪力乱神 <i>Kairyoku Ranshin</i>)</li><li>Chapter 376: Wendy vs. Ezel (ウェンディ vs. エゼル <i>Wendi vs. Ezeru</i>)</li><li>Chapter 377: The Sky Dragon's Rage (天竜の逆鱗 <i>Tenryū no Gekirin</i>)</li><li>Chapter 378: Friends Forever (ずっと友達で <i>Zutto Tomodachi de</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 461457,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4004878-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4004878-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4004878-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4004878-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4004878-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4004878-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4004878-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4004878-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4004878-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Volume 44",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-44-volume-44/4000-461457/",
+            "store_date": "2014-07-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46777/",
+                "id": 46777,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461471/",
             "cover_date": "2014-07-31",
             "date_added": "2014-08-02 23:09:37",
@@ -366,10 +296,7 @@
                 "name": "Kami no Shizuku",
                 "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
             }
-        }
-    ],
-    "2014-07-28|2014-08-03": [],
-    "2014-08-04|2014-08-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461842/",
@@ -402,50 +329,7 @@
                 "name": "Knights of the Dinner Table: Bundle of Trouble",
                 "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
             }
-        }
-    ],
-    "2014-08-11|2014-08-17": [],
-    "2014-08-18|2014-08-24": [],
-    "2014-08-25|2014-08-31": [],
-    "2014-09-01|2014-09-07": [],
-    "2014-09-08|2014-09-14": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524571/",
-            "cover_date": "2014-09-30",
-            "date_added": "2016-04-11 12:25:21",
-            "date_last_updated": "2016-05-05 11:36:09",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524571,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146265-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146265-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146265-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146265-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146265-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146265-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146265-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146265-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146265-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Vol. 44",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-44-vol-44/4000-524571/",
-            "store_date": "2014-09-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
-                "id": 64966,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
-            }
-        }
-    ],
-    "2014-09-15|2014-09-21": [],
-    "2014-09-22|2014-09-28": [],
-    "2014-09-29|2014-10-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467011/",
@@ -481,77 +365,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470225/",
-            "cover_date": "2014-09-29",
-            "date_added": "2014-11-16 08:56:36",
-            "date_last_updated": "2014-11-16 09:00:49",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 470225,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4222304-dis-ch-44-0-title.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4222304-dis-ch-44-0-title.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4222304-dis-ch-44-0-title.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4222304-dis-ch-44-0-title.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4222304-dis-ch-44-0-title.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4222304-dis-ch-44-0-title.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4222304-dis-ch-44-0-title.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4222304-dis-ch-44-0-title.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4222304-dis-ch-44-0-title.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Episode 44",
-            "site_detail_url": "https://comicvine.gamespot.com/disenchanted-44-episode-44/4000-470225/",
-            "store_date": "2014-09-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68702/",
-                "id": 68702,
-                "name": "Disenchanted",
-                "site_detail_url": "https://comicvine.gamespot.com/disenchanted/4050-68702/"
-            }
-        }
-    ],
-    "2014-10-06|2014-10-12": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474063/",
-            "cover_date": "2014-11-30",
-            "date_added": "2014-12-19 04:50:10",
-            "date_last_updated": "2018-08-23 01:34:10",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474063,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4283274-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4283274-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4283274-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4283274-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4283274-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4283274-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4283274-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4283274-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4283274-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "201411",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-44-201411/4000-474063/",
-            "store_date": "2014-10-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
-                "id": 76424,
-                "name": "Comic Earth Star Magazine",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
-            }
-        }
-    ],
-    "2014-10-13|2014-10-19": [],
-    "2014-10-20|2014-10-26": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-468516/",
             "cover_date": "2014-12-31",
             "date_added": "2014-10-21 00:27:14",
@@ -582,10 +395,7 @@
                 "name": "World of Archie Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
             }
-        }
-    ],
-    "2014-10-27|2014-11-02": [],
-    "2014-11-03|2014-11-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-469439/",
@@ -659,6 +469,204 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470225/",
+            "cover_date": "2014-09-29",
+            "date_added": "2014-11-16 08:56:36",
+            "date_last_updated": "2014-11-16 09:00:49",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 470225,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4222304-dis-ch-44-0-title.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4222304-dis-ch-44-0-title.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4222304-dis-ch-44-0-title.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4222304-dis-ch-44-0-title.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4222304-dis-ch-44-0-title.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4222304-dis-ch-44-0-title.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4222304-dis-ch-44-0-title.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4222304-dis-ch-44-0-title.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4222304-dis-ch-44-0-title.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Episode 44",
+            "site_detail_url": "https://comicvine.gamespot.com/disenchanted-44-episode-44/4000-470225/",
+            "store_date": "2014-09-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68702/",
+                "id": 68702,
+                "name": "Disenchanted",
+                "site_detail_url": "https://comicvine.gamespot.com/disenchanted/4050-68702/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-471387/",
+            "cover_date": "2014-11-30",
+            "date_added": "2014-11-25 02:22:41",
+            "date_last_updated": "2018-11-15 06:49:30",
+            "deck": null,
+            "description": "<p><em>THE WRATH OF ZEREF</em></p><p><em>The Council's wizard pulse bomb threatens to obliterate the magic of every wizard on the continent! Fairy Tail’s figured out how to neutralize it, but it won’t be an easy task. Now that they’ve made it out of Tartaros’s prison, Natsu, Erza, Mira, and Lisanna will start their counterattack against the Nine Demon Gates, and execute a daring raid on the Tartaros guild! Then, as if they don’t already have enough problems, Natsu suddenly encounters Zeref the Black Wizard himself! Past the gates of Hell, it’s a desperate battle between fairies and demons to decide the fate of the world!</em></p><h2>Chapter Titles</h2><ul><li>Chapter 370: Devil Reincarnation</li><li>Chapter 371: Tartaros Arc, Part 2: Song of the Sky Dragon</li><li>Chapter 372: Breakthrough</li><li>Chapter 373: Kill or Let Live</li><li>Chapter 374: Revolution</li><li>Chapter 375: Herculean Madness</li><li>Chapter 376: Wendy vs. Ezel</li><li>Chapter 377: The Sky Dragon's Rage</li><li>Chapter 378: Friends Forever</li></ul>",
+            "has_staff_review": false,
+            "id": 471387,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4240430-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4240430-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4240430-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4240430-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4240430-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4240430-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4240430-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4240430-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4240430-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Volume 44",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-44-volume-44/4000-471387/",
+            "store_date": "2014-11-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25073/",
+                "id": 25073,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-25073/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-473713/",
+            "cover_date": "2015-02-01",
+            "date_added": "2014-12-16 00:48:46",
+            "date_last_updated": "2015-01-20 23:15:01",
+            "deck": null,
+            "description": "<p><em>The blue-BOMBastic conclusion to \"Legends of the Blue Bomber\" is here! The battle is about to reach its shocking conclusion - or will it? Hard Man is all set to destroy Mega Man, so why is he offering his enemy a free recharge? Spark Man won't hold back as he sets out to avenge his fallen brothers! Meanwhile, Dr. Wily puts the finishing touches on his greatest creation to date, meaning this isn't the end of Mega Man's battles! Featuring new cover art from Mega Man art legend Patrick \"SPAZ\" Spaziante and variant cover by Ben Bates!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Pat Spaziante</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Ben Bates</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 473713,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285826-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285826-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285826-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285826-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285826-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285826-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285826-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285826-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285826-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Legends of the Blue Bomber Finale: With Honor, Without Restraint",
+            "site_detail_url": "https://comicvine.gamespot.com/mega-man-44-legends-of-the-blue-bomber-finale-with/4000-473713/",
+            "store_date": "2014-12-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40107/",
+                "id": 40107,
+                "name": "Mega Man",
+                "site_detail_url": "https://comicvine.gamespot.com/mega-man/4050-40107/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474063/",
+            "cover_date": "2014-11-30",
+            "date_added": "2014-12-19 04:50:10",
+            "date_last_updated": "2018-08-23 01:34:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474063,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4283274-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4283274-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4283274-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4283274-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4283274-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4283274-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4283274-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4283274-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4283274-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "201411",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-44-201411/4000-474063/",
+            "store_date": "2014-10-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
+                "id": 76424,
+                "name": "Comic Earth Star Magazine",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474450/",
+            "cover_date": "2014-07-31",
+            "date_added": "2014-12-20 09:17:17",
+            "date_last_updated": "2014-12-20 10:08:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474450,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285691-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285691-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285691-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285691-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285691-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285691-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285691-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285691-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285691-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-44/4000-474450/",
+            "store_date": "2014-06-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-475101/",
+            "cover_date": "2014-11-17",
+            "date_added": "2014-12-30 05:12:43",
+            "date_last_updated": "2014-12-30 05:36:25",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 384: The best straight fastball</li><li>Chapter 385: Not like himself</li><li>Chapter 386: Scary place</li><li>Chapter 387: Focus on the First Pitch</li><li>Chapter 388: What do you have to say?</li><li>Chapter 389: Those who stand here</li><li>Chapter 390: By way of greeting</li><li>Chapter 391: The meeting at the mound</li><li>Chapter 392: False Start</li></ul>",
+            "has_staff_review": false,
+            "id": 475101,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4301188-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4301188-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4301188-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4301188-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4301188-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4301188-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4301188-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4301188-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4301188-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Volume 44",
+            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-44-volume-44/4000-475101/",
+            "store_date": "2014-11-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44294/",
+                "id": 44294,
+                "name": "Daiya no A",
+                "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-510051/",
             "cover_date": "2014-12-31",
             "date_added": "2015-12-30 12:44:45",
@@ -722,113 +730,38 @@
                 "name": "Lustiges Taschenbuch Enten-Edition",
                 "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
             }
-        }
-    ],
-    "2014-11-10|2014-11-16": [],
-    "2014-11-17|2014-11-23": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-475101/",
-            "cover_date": "2014-11-17",
-            "date_added": "2014-12-30 05:12:43",
-            "date_last_updated": "2014-12-30 05:36:25",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524571/",
+            "cover_date": "2014-09-30",
+            "date_added": "2016-04-11 12:25:21",
+            "date_last_updated": "2016-05-05 11:36:09",
             "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 384: The best straight fastball</li><li>Chapter 385: Not like himself</li><li>Chapter 386: Scary place</li><li>Chapter 387: Focus on the First Pitch</li><li>Chapter 388: What do you have to say?</li><li>Chapter 389: Those who stand here</li><li>Chapter 390: By way of greeting</li><li>Chapter 391: The meeting at the mound</li><li>Chapter 392: False Start</li></ul>",
+            "description": null,
             "has_staff_review": false,
-            "id": 475101,
+            "id": 524571,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4301188-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4301188-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4301188-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4301188-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4301188-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4301188-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4301188-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4301188-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4301188-44.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146265-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146265-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146265-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146265-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146265-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146265-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146265-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146265-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146265-44.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "44",
-            "name": "Volume 44",
-            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-44-volume-44/4000-475101/",
-            "store_date": "2014-11-17",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-44-vol-44/4000-524571/",
+            "store_date": "2014-09-12",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44294/",
-                "id": 44294,
-                "name": "Daiya no A",
-                "site_detail_url": "https://comicvine.gamespot.com/daiya-no-a/4050-44294/"
-            }
-        }
-    ],
-    "2014-11-24|2014-11-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-471387/",
-            "cover_date": "2014-11-30",
-            "date_added": "2014-11-25 02:22:41",
-            "date_last_updated": "2014-12-26 08:02:38",
-            "deck": null,
-            "description": "<p><em>THE WRATH OF ZEREF</em></p><p><em>The Council's wizard pulse bomb threatens to obliterate the magic of every wizard on the continent! Fairy Tail’s figured out how to neutralize it, but it won’t be an easy task. Now that they’ve made it out of Tartaros’s prison, Natsu, Erza, Mira, and Lisanna will start their counterattack against the Nine Demon Gates, and execute a daring raid on the Tartaros guild! Then, as if they don’t already have enough problems, Natsu suddenly encounters Zeref the Black Wizard himself! Past the gates of Hell, it’s a desperate battle between fairies and demons to decide the fate of the world!</em></p><h2>Chapter Titles</h2><ul><li>Chapter 370: Devil Reincarnation</li><li>Chapter 371: Tartaros Arc, Part 2: Song of the Sky Dragon</li><li>Chapter 372: Breakthrough</li><li>Chapter 373: Kill or Let Live</li><li>Chapter 374: Revolution</li><li>Chapter 375: Herculean Madness</li><li>Chapter 376: Wendy vs. Ezel</li><li>Chapter 377: The Sky Dragon's Rage</li><li>Chapter 378: Friends Forever</li></ul>",
-            "has_staff_review": false,
-            "id": 471387,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4240430-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4240430-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4240430-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4240430-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4240430-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4240430-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4240430-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4240430-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4240430-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Volume 44",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-44-volume-44/4000-471387/",
-            "store_date": "2014-11-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25073/",
-                "id": 25073,
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
+                "id": 64966,
                 "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-25073/"
-            }
-        }
-    ],
-    "2014-12-01|2014-12-07": [],
-    "2014-12-08|2014-12-14": [],
-    "2014-12-15|2014-12-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-473713/",
-            "cover_date": "2015-02-01",
-            "date_added": "2014-12-16 00:48:46",
-            "date_last_updated": "2015-01-20 23:15:01",
-            "deck": null,
-            "description": "<p><em>The blue-BOMBastic conclusion to \"Legends of the Blue Bomber\" is here! The battle is about to reach its shocking conclusion - or will it? Hard Man is all set to destroy Mega Man, so why is he offering his enemy a free recharge? Spark Man won't hold back as he sets out to avenge his fallen brothers! Meanwhile, Dr. Wily puts the finishing touches on his greatest creation to date, meaning this isn't the end of Mega Man's battles! Featuring new cover art from Mega Man art legend Patrick \"SPAZ\" Spaziante and variant cover by Ben Bates!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Pat Spaziante</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Ben Bates</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 473713,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285826-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285826-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285826-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285826-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285826-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285826-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285826-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285826-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285826-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Legends of the Blue Bomber Finale: With Honor, Without Restraint",
-            "site_detail_url": "https://comicvine.gamespot.com/mega-man-44-legends-of-the-blue-bomber-finale-with/4000-473713/",
-            "store_date": "2014-12-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40107/",
-                "id": 40107,
-                "name": "Mega Man",
-                "site_detail_url": "https://comicvine.gamespot.com/mega-man/4050-40107/"
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
             }
         }
     ]

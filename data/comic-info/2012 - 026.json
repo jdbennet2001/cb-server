@@ -1,7 +1,38 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [
+    "2012-01-01|2012-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-267814/",
+            "cover_date": "2012-06-10",
+            "date_added": "2011-04-10 14:27:19",
+            "date_last_updated": "2013-04-10 21:02:09",
+            "deck": null,
+            "description": "<p><em>Deep beneath the Artic Circle a researcher is trapped in a small submarine and running out of air. It's cold, dark and extremely dangerous with an underwater volcano that is about to blow as Dr. Ramzi sends two triad teams beneath the surface. Introducing the newest member of The 99, Mukit the Nourisher.</em></p>",
+            "has_staff_review": false,
+            "id": 267814,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1765193-the_99_issue_26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1765193-the_99_issue_26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1765193-the_99_issue_26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1765193-the_99_issue_26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1765193-the_99_issue_26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1765193-the_99_issue_26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1765193-the_99_issue_26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1765193-the_99_issue_26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1765193-the_99_issue_26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Boiling Cold",
+            "site_detail_url": "https://comicvine.gamespot.com/the-99-26-boiling-cold/4000-267814/",
+            "store_date": "2012-06-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-22548/",
+                "id": 22548,
+                "name": "The 99",
+                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-22548/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-309575/",
@@ -34,11 +65,7 @@
                 "name": "Skip Beat!",
                 "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-26275/"
             }
-        }
-    ],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [],
-    "2012-01-23|2012-01-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-312653/",
@@ -104,113 +131,7 @@
                 "name": "Incorruptible",
                 "site_detail_url": "https://comicvine.gamespot.com/incorruptible/4050-30514/"
             }
-        }
-    ],
-    "2012-01-30|2012-02-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356172/",
-            "cover_date": "2012-03-31",
-            "date_added": "2012-09-06 14:38:17",
-            "date_last_updated": "2015-02-28 10:41:32",
-            "deck": null,
-            "description": "<h2>Cover Illustration</h2><ul><li>織田non</li></ul><h2>Color Comics</h2><ul><li>[発恋期 case:AFTER] 久川ちん</li><li>[彼女フレンド その3] 稍日向</li><li>[いもうとトラップ] 桐山</li></ul><h2>Original Comics</h2><ul><li>[胸いっぱいの好き] Hisasi</li><li>[Don't touch me!] 三巷文</li><li>[常春荘へようこそ] 如月群真</li><li>[とある酒屋の裏のサービス] 月野定規</li><li>[シンシアリーアフェクション] Hamao</li><li>[STAY SEEDS] ゆきみ</li><li>[オッドマン11] 道満晴明</li><li>[私のお仕事取らないで！] 大守春雨</li><li>[冬に吹くゆきにゃっ！] てりてりお</li><li>[シノビのビ] 小柳ロイヤル</li><li>[先生のヒミツ] 神代竜</li><li>[大人の階段＋（プラス）] すめらぎ琥珀</li></ul>",
-            "has_staff_review": false,
-            "id": 356172,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2576620-comic_hot_milk_v_30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2576620-comic_hot_milk_v_30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2576620-comic_hot_milk_v_30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2576620-comic_hot_milk_v_30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2576620-comic_hot_milk_v_30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2576620-comic_hot_milk_v_30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2576620-comic_hot_milk_v_30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2576620-comic_hot_milk_v_30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2576620-comic_hot_milk_v_30.jpg",
-                "image_tags": "All Images,COMIC Hotmilk"
-            },
-            "issue_number": "26",
-            "name": "COMIC Hotmilk Mar. 2012",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk-26-comic-hotmilk-mar-2012/4000-356172/",
-            "store_date": "2012-02-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51911/",
-                "id": 51911,
-                "name": "COMIC Hotmilk",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
-            }
-        }
-    ],
-    "2012-02-06|2012-02-12": [],
-    "2012-02-13|2012-02-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-400985/",
-            "cover_date": "2012-02-03",
-            "date_added": "2013-05-03 19:44:42",
-            "date_last_updated": "2013-05-03 19:57:49",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 400985,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3023785-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3023785-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3023785-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3023785-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3023785-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3023785-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3023785-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3023785-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3023785-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Band 26",
-            "site_detail_url": "https://comicvine.gamespot.com/fullmetal-alchemist-26-band-26/4000-400985/",
-            "store_date": "2012-02-13",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42347/",
-                "id": 42347,
-                "name": "Fullmetal Alchemist",
-                "site_detail_url": "https://comicvine.gamespot.com/fullmetal-alchemist/4050-42347/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-523956/",
-            "cover_date": "2012-02-17",
-            "date_added": "2016-04-10 14:42:12",
-            "date_last_updated": "2016-04-10 17:43:51",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 523956,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5144448-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5144448-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5144448-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5144448-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5144448-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5144448-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5144448-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5144448-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5144448-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/countach-26-vol-26/4000-523956/",
-            "store_date": "2012-02-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42238/",
-                "id": 42238,
-                "name": "Countach",
-                "site_detail_url": "https://comicvine.gamespot.com/countach/4050-42238/"
-            }
-        }
-    ],
-    "2012-02-20|2012-02-26": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-316708/",
@@ -243,10 +164,7 @@
                 "name": "Avengers Academy",
                 "site_detail_url": "https://comicvine.gamespot.com/avengers-academy/4050-33633/"
             }
-        }
-    ],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-319374/",
@@ -282,42 +200,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416088/",
-            "cover_date": "2012-03-04",
-            "date_added": "2013-07-04 17:58:21",
-            "date_last_updated": "2013-07-04 18:07:55",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416088,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3151830-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3151830-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3151830-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3151830-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3151830-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3151830-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3151830-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3151830-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3151830-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-26-vol-26/4000-416088/",
-            "store_date": "2012-03-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64952/",
-                "id": 64952,
-                "name": "Ace of Diamond",
-                "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond/4050-64952/"
-            }
-        }
-    ],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-322944/",
             "cover_date": "2012-05-01",
             "date_added": "2012-03-20 12:32:36",
@@ -348,9 +230,7 @@
                 "name": "DC Universe Online Legends",
                 "site_detail_url": "https://comicvine.gamespot.com/dc-universe-online-legends/4050-38217/"
             }
-        }
-    ],
-    "2012-03-26|2012-04-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-324938/",
@@ -383,80 +263,7 @@
                 "name": "Bloodstrike",
                 "site_detail_url": "https://comicvine.gamespot.com/bloodstrike/4050-47354/"
             }
-        }
-    ],
-    "2012-04-02|2012-04-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-568175/",
-            "cover_date": "2012-04-06",
-            "date_added": "2016-12-16 22:57:15",
-            "date_last_updated": "2017-11-20 06:28:28",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 568175,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5595098-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5595098-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5595098-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5595098-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5595098-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5595098-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5595098-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5595098-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5595098-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/clover-26-vol-26/4000-568175/",
-            "store_date": "2012-04-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96878/",
-                "id": 96878,
-                "name": "Clover",
-                "site_detail_url": "https://comicvine.gamespot.com/clover/4050-96878/"
-            }
-        }
-    ],
-    "2012-04-09|2012-04-15": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559270/",
-            "cover_date": "2012-04-12",
-            "date_added": "2016-11-26 05:34:33",
-            "date_last_updated": "2017-04-15 17:22:46",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 559270,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551079-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551079-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551079-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551079-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551079-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551079-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551079-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551079-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551079-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi-26-vol-26/4000-559270/",
-            "store_date": "2012-04-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95882/",
-                "id": 95882,
-                "name": "Area no Kishi",
-                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-95882/"
-            }
-        }
-    ],
-    "2012-04-16|2012-04-22": [],
-    "2012-04-23|2012-04-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-333400/",
@@ -522,10 +329,7 @@
                 "name": "Secret Avengers",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-avengers/4050-33350/"
             }
-        }
-    ],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-335284/",
@@ -559,41 +363,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/new-avengers/4050-33777/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-466241/",
-            "cover_date": "2012-05-12",
-            "date_added": "2014-09-21 04:48:00",
-            "date_last_updated": "2014-09-21 04:52:44",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 466241,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4112487-rl001.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4112487-rl001.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4112487-rl001.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4112487-rl001.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4112487-rl001.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4112487-rl001.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4112487-rl001.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4112487-rl001.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4112487-rl001.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "De Vloek Van De Amethist",
-            "site_detail_url": "https://comicvine.gamespot.com/yoko-tsuno-26-de-vloek-van-de-amethist/4000-466241/",
-            "store_date": "2012-05-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-52890/",
-                "id": 52890,
-                "name": "Yoko Tsuno",
-                "site_detail_url": "https://comicvine.gamespot.com/yoko-tsuno/4050-52890/"
-            }
-        }
-    ],
-    "2012-05-14|2012-05-20": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-335925/",
@@ -662,41 +431,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-455586/",
-            "cover_date": "2012-05-23",
-            "date_added": "2014-06-03 00:34:50",
-            "date_last_updated": "2018-01-30 05:35:42",
-            "deck": null,
-            "description": "<p>Chapters 273 - 283.</p>",
-            "has_staff_review": false,
-            "id": 455586,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3867119-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3867119-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3867119-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3867119-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3867119-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3867119-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3867119-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3867119-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3867119-26.jpg",
-                "image_tags": "All Images,cover"
-            },
-            "issue_number": "26",
-            "name": "Wang Yi ga Shitatameta Otoko",
-            "site_detail_url": "https://comicvine.gamespot.com/kingdom-26-wang-yi-ga-shitatameta-otoko/4000-455586/",
-            "store_date": "2012-05-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-74502/",
-                "id": 74502,
-                "name": "Kingdom",
-                "site_detail_url": "https://comicvine.gamespot.com/kingdom/4050-74502/"
-            }
-        }
-    ],
-    "2012-05-21|2012-05-27": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-336584/",
             "cover_date": "2012-05-31",
             "date_added": "2012-05-22 01:27:56",
@@ -726,42 +460,6 @@
                 "id": 26611,
                 "name": "Chew",
                 "site_detail_url": "https://comicvine.gamespot.com/chew/4050-26611/"
-            }
-        }
-    ],
-    "2012-05-28|2012-06-03": [],
-    "2012-06-04|2012-06-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-267814/",
-            "cover_date": "2012-06-10",
-            "date_added": "2011-04-10 14:27:19",
-            "date_last_updated": "2013-04-10 21:02:09",
-            "deck": null,
-            "description": "<p><em>Deep beneath the Artic Circle a researcher is trapped in a small submarine and running out of air. It's cold, dark and extremely dangerous with an underwater volcano that is about to blow as Dr. Ramzi sends two triad teams beneath the surface. Introducing the newest member of The 99, Mukit the Nourisher.</em></p>",
-            "has_staff_review": false,
-            "id": 267814,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1765193-the_99_issue_26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1765193-the_99_issue_26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1765193-the_99_issue_26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1765193-the_99_issue_26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1765193-the_99_issue_26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1765193-the_99_issue_26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1765193-the_99_issue_26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1765193-the_99_issue_26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1765193-the_99_issue_26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Boiling Cold",
-            "site_detail_url": "https://comicvine.gamespot.com/the-99-26-boiling-cold/4000-267814/",
-            "store_date": "2012-06-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-22548/",
-                "id": 22548,
-                "name": "The 99",
-                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-22548/"
             }
         },
         {
@@ -829,9 +527,7 @@
                 "name": "iZombie",
                 "site_detail_url": "https://comicvine.gamespot.com/izombie/4050-32937/"
             }
-        }
-    ],
-    "2012-06-11|2012-06-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-340176/",
@@ -869,10 +565,7 @@
                 "name": "Uncanny X-Force",
                 "site_detail_url": "https://comicvine.gamespot.com/uncanny-x-force/4050-35835/"
             }
-        }
-    ],
-    "2012-06-18|2012-06-24": [],
-    "2012-06-25|2012-07-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-342856/",
@@ -905,9 +598,7 @@
                 "name": "Prophet",
                 "site_detail_url": "https://comicvine.gamespot.com/prophet/4050-45269/"
             }
-        }
-    ],
-    "2012-07-02|2012-07-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-344544/",
@@ -940,83 +631,7 @@
                 "name": "Green Hornet",
                 "site_detail_url": "https://comicvine.gamespot.com/green-hornet/4050-31728/"
             }
-        }
-    ],
-    "2012-07-09|2012-07-15": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-431880/",
-            "cover_date": "2012-08-01",
-            "date_added": "2013-11-03 02:21:28",
-            "date_last_updated": "2013-11-03 02:29:48",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 431880,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419727-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419727-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419727-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419727-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419727-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419727-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419727-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419727-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3419727-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk-26/4000-431880/",
-            "store_date": "2012-07-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68871/",
-                "id": 68871,
-                "name": "Comic Megamilk",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk/4050-68871/"
-            }
-        }
-    ],
-    "2012-07-16|2012-07-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425783/",
-            "cover_date": "2012-07-01",
-            "date_added": "2013-09-14 20:44:58",
-            "date_last_updated": "2013-09-14 21:30:43",
-            "deck": null,
-            "description": "<p><em>Deep beneath the Artic Circle a researcher is trapped in a small submarine and running out of air. It's cold, dark and extremely dangerous with an underwater volcano that is about to blow as Dr. Ramzi sends two triad teams beneath the surface. Introducing the newest member of The 99, Mukit the Nourisher.</em></p>",
-            "has_staff_review": false,
-            "id": 425783,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311563-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311563-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311563-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311563-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311563-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311563-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311563-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311563-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3311563-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-99-26/4000-425783/",
-            "store_date": "2012-07-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67392/",
-                "id": 67392,
-                "name": "THE 99",
-                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-67392/"
-            }
-        }
-    ],
-    "2012-07-23|2012-07-29": [],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [],
-    "2012-08-20|2012-08-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-352585/",
@@ -1049,45 +664,40 @@
                 "name": "Glamourpuss",
                 "site_detail_url": "https://comicvine.gamespot.com/glamourpuss/4050-23362/"
             }
-        }
-    ],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-392935/",
-            "cover_date": "2012-09-30",
-            "date_added": "2013-03-14 20:54:04",
-            "date_last_updated": "2018-01-08 19:44:32",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356172/",
+            "cover_date": "2012-03-31",
+            "date_added": "2012-09-06 14:38:17",
+            "date_last_updated": "2015-02-28 10:41:32",
             "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: トラブル・トラベルー <em>(Toraburu toraberū)</em></p><h2><span>Chapters Titles</span></h2><ul><li>Chapter 226: A Rival Appears!? An Extremely Hot-Headed Contest! (ライバル登場!?　激アツ真っ向勝負!, <i>Raibaru tōjou!? Geki atsu makkō shōbu!</i>)</li><li>Chapter 227: Trouble Travel (1) (トラブル・トラベルー①, <i>Toraburu toraberū 1</i>)</li><li>Chapter 228: Trouble Travel (2) (トラブル・トラベルー②, <i>Toraburu toraberū 2</i>)</li><li>Chapter 229: Trouble Travel (3) (トラブル・トラベルー③, <i>Toraburu toraberū 3</i>)</li><li>Chapter 230: Trouble Travel (4) (トラブル・トラベルー④, <i>Toraburu toraberū 4</i>)</li><li>Chapter 231: Trouble Travel (5) (トラブル・トラベルー⑤, <i>Toraburu toraberū 5</i>)</li><li>Chapter 232: Trouble Travel (6) (トラブル・トラベルー⑥, <i>Toraburu toraberū 6</i>)</li><li>Chapter 233: Milk Fujisaki Magic Show (ミルク・フジサキ・マジックショー, <i>Miruku fujisaki majikkushō</i>)</li><li>Chapter 234: Takuto *****'s Weak Point (〇〇タクトのウィークポイント, <i>〇〇 takuto no uikku pointo</i>)</li></ul>",
+            "description": "<h2>Cover Illustration</h2><ul><li>織田non</li></ul><h2>Color Comics</h2><ul><li>[発恋期 case:AFTER] 久川ちん</li><li>[彼女フレンド その3] 稍日向</li><li>[いもうとトラップ] 桐山</li></ul><h2>Original Comics</h2><ul><li>[胸いっぱいの好き] Hisasi</li><li>[Don't touch me!] 三巷文</li><li>[常春荘へようこそ] 如月群真</li><li>[とある酒屋の裏のサービス] 月野定規</li><li>[シンシアリーアフェクション] Hamao</li><li>[STAY SEEDS] ゆきみ</li><li>[オッドマン11] 道満晴明</li><li>[私のお仕事取らないで！] 大守春雨</li><li>[冬に吹くゆきにゃっ！] てりてりお</li><li>[シノビのビ] 小柳ロイヤル</li><li>[先生のヒミツ] 神代竜</li><li>[大人の階段＋（プラス）] すめらぎ琥珀</li></ul>",
             "has_staff_review": false,
-            "id": 392935,
+            "id": 356172,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2929131-10426_v26_front.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2929131-10426_v26_front.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2929131-10426_v26_front.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2929131-10426_v26_front.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2929131-10426_v26_front.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2929131-10426_v26_front.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2929131-10426_v26_front.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2929131-10426_v26_front.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2929131-10426_v26_front.jpg",
-                "image_tags": "All Images"
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2576620-comic_hot_milk_v_30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2576620-comic_hot_milk_v_30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2576620-comic_hot_milk_v_30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2576620-comic_hot_milk_v_30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2576620-comic_hot_milk_v_30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2576620-comic_hot_milk_v_30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2576620-comic_hot_milk_v_30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2576620-comic_hot_milk_v_30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2576620-comic_hot_milk_v_30.jpg",
+                "image_tags": "All Images,COMIC Hotmilk"
             },
             "issue_number": "26",
-            "name": "Trouble Travel",
-            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-26-trouble-travel/4000-392935/",
-            "store_date": "2012-09-04",
+            "name": "COMIC Hotmilk Mar. 2012",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk-26-comic-hotmilk-mar-2012/4000-356172/",
+            "store_date": "2012-02-02",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
-                "id": 43866,
-                "name": "Sket Dance",
-                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51911/",
+                "id": 51911,
+                "name": "COMIC Hotmilk",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
             }
-        }
-    ],
-    "2012-09-10|2012-09-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356759/",
@@ -1120,114 +730,7 @@
                 "name": "Haunt",
                 "site_detail_url": "https://comicvine.gamespot.com/haunt/4050-28398/"
             }
-        }
-    ],
-    "2012-09-17|2012-09-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481277/",
-            "cover_date": "2012-11-30",
-            "date_added": "2015-02-28 14:43:19",
-            "date_last_updated": "2015-02-28 14:51:57",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 481277,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4421317-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4421317-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4421317-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4421317-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4421317-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4421317-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4421317-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4421317-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4421317-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/mcaxis-26-vol-26/4000-481277/",
-            "store_date": "2012-09-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80402/",
-                "id": 80402,
-                "name": "MC☆Axis",
-                "site_detail_url": "https://comicvine.gamespot.com/m-caxis/4050-80402/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-520711/",
-            "cover_date": "2012-09-19",
-            "date_added": "2016-03-18 14:16:39",
-            "date_last_updated": "2016-10-09 19:16:34",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 520711,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5476865-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5476865-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5476865-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5476865-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5476865-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5476865-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5476865-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5476865-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5476865-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/81diver-26-vol-26/4000-520711/",
-            "store_date": "2012-09-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41871/",
-                "id": 41871,
-                "name": "81diver",
-                "site_detail_url": "https://comicvine.gamespot.com/81diver/4050-41871/"
-            }
-        }
-    ],
-    "2012-09-24|2012-09-30": [],
-    "2012-10-01|2012-10-07": [],
-    "2012-10-08|2012-10-14": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519482/",
-            "cover_date": "2012-10-31",
-            "date_added": "2016-03-12 13:21:58",
-            "date_last_updated": "2016-04-11 02:24:24",
-            "deck": null,
-            "description": "<p><em>Since her creation in 1962, Sabrina the Teenage Witch has become one of the most popular and endearing characters in American pop culture. To celebrate her 50-year anniversary, Archie Comics presents 50 of Sabrina's most spellbinding stories! This Digital Exclusive collects OVER 350 PAGES of content spanning Sabrina's history, including a NEVER-BEFORE-SEEN origin story, written by Sabrina creator George Gladir himself. So join Sabrina, Salem, Aunties Hilda and Zelda, and many more for the most magical book of the year!</em></p>",
-            "has_staff_review": false,
-            "id": 519482,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5145149-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5145149-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5145149-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5145149-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5145149-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5145149-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5145149-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5145149-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5145149-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Sabrina the Teenage Witch 50 Magical Stories",
-            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-26-sabrina-the-teenage-witch-50-magica/4000-519482/",
-            "store_date": "2012-10-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
-                "id": 86278,
-                "name": "PEP Digital",
-                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
-            }
-        }
-    ],
-    "2012-10-15|2012-10-21": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-362202/",
@@ -1301,40 +804,235 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532724/",
-            "cover_date": "2012-10-19",
-            "date_added": "2016-05-29 11:32:49",
-            "date_last_updated": "2016-05-29 18:40:12",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-365804/",
+            "cover_date": "2012-11-30",
+            "date_added": "2012-11-06 04:35:00",
+            "date_last_updated": "2016-02-22 06:13:56",
+            "deck": null,
+            "description": "<p><i>HUNGRY FOR LOVE</i></p><p><i>Desperate to help Ikki by building him his own Storm Regalia, Kururu launches a risky heist of a super-rare alloy. But her quest for her crush's affections is cut short when Ringo, Ikki's longtime friend and foster sister, reveals her love for him. But before Ikki has any time to process this shock, Kogarasumaru must rush off to face their next foe: a team straight from the pages of Norse mythology!</i></p><p><i>This volume of Air Gear includes special extras after the story!</i></p>",
+            "has_staff_review": false,
+            "id": 365804,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2687924-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2687924-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2687924-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2687924-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2687924-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2687924-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2687924-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2687924-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2687924-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Hungry For Love",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-26-hungry-for-love/4000-365804/",
+            "store_date": "2012-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25071/",
+                "id": 25071,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370652/",
+            "cover_date": "2012-11-29",
+            "date_added": "2012-11-29 06:50:12",
+            "date_last_updated": "2012-12-05 08:26:25",
+            "deck": null,
+            "description": "<p><i>Bruce Wayne has begun to accept his new reality, but that comes at a price. Will Batman emerge from the Scarecrow's plot a broken man, or a stronger hero than before? \"Dreaming He is a Butterfly\" part 2 of 2.</i></p>",
+            "has_staff_review": false,
+            "id": 370652,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2726476-img_1299.png",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2726476-img_1299.png",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2726476-img_1299.png",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2726476-img_1299.png",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2726476-img_1299.png",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2726476-img_1299.png",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2726476-img_1299.png",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2726476-img_1299.png",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2726476-img_1299.png",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Dreaming He is a Butterfly, Part 2 of 2",
+            "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight-26-dreaming-he-is-a-but/4000-370652/",
+            "store_date": "2012-11-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-49552/",
+                "id": 49552,
+                "name": "Legends of the Dark Knight",
+                "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight/4050-49552/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373883/",
+            "cover_date": "2012-12-21",
+            "date_added": "2012-12-21 06:50:32",
+            "date_last_updated": "2013-05-27 16:29:20",
+            "deck": null,
+            "description": "<p><i>In part two of \"Haunted,\" Lois Lane puts her investigative skills to excellent use in a charged one-on-one interview with Lex regarding his past deeds. But Lex's bizarre behavior and a mysterious message that Lois is able to escape with prove even more interesting than the discussion!</i></p>",
+            "has_staff_review": false,
+            "id": 373883,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2763967-smallville_season_11_26.png",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2763967-smallville_season_11_26.png",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2763967-smallville_season_11_26.png",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2763967-smallville_season_11_26.png",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2763967-smallville_season_11_26.png",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2763967-smallville_season_11_26.png",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2763967-smallville_season_11_26.png",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2763967-smallville_season_11_26.png",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2763967-smallville_season_11_26.png",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Haunted Part 2",
+            "site_detail_url": "https://comicvine.gamespot.com/smallville-season-eleven-26-haunted-part-2/4000-373883/",
+            "store_date": "2012-12-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-47896/",
+                "id": 47896,
+                "name": "Smallville: Season Eleven",
+                "site_detail_url": "https://comicvine.gamespot.com/smallville-season-eleven/4050-47896/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-392935/",
+            "cover_date": "2012-09-30",
+            "date_added": "2013-03-14 20:54:04",
+            "date_last_updated": "2018-01-08 19:44:32",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: トラブル・トラベルー <em>(Toraburu toraberū)</em></p><h2><span>Chapters Titles</span></h2><ul><li>Chapter 226: A Rival Appears!? An Extremely Hot-Headed Contest! (ライバル登場!?　激アツ真っ向勝負!, <i>Raibaru tōjou!? Geki atsu makkō shōbu!</i>)</li><li>Chapter 227: Trouble Travel (1) (トラブル・トラベルー①, <i>Toraburu toraberū 1</i>)</li><li>Chapter 228: Trouble Travel (2) (トラブル・トラベルー②, <i>Toraburu toraberū 2</i>)</li><li>Chapter 229: Trouble Travel (3) (トラブル・トラベルー③, <i>Toraburu toraberū 3</i>)</li><li>Chapter 230: Trouble Travel (4) (トラブル・トラベルー④, <i>Toraburu toraberū 4</i>)</li><li>Chapter 231: Trouble Travel (5) (トラブル・トラベルー⑤, <i>Toraburu toraberū 5</i>)</li><li>Chapter 232: Trouble Travel (6) (トラブル・トラベルー⑥, <i>Toraburu toraberū 6</i>)</li><li>Chapter 233: Milk Fujisaki Magic Show (ミルク・フジサキ・マジックショー, <i>Miruku fujisaki majikkushō</i>)</li><li>Chapter 234: Takuto *****'s Weak Point (〇〇タクトのウィークポイント, <i>〇〇 takuto no uikku pointo</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 392935,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2929131-10426_v26_front.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2929131-10426_v26_front.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2929131-10426_v26_front.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2929131-10426_v26_front.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2929131-10426_v26_front.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2929131-10426_v26_front.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2929131-10426_v26_front.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2929131-10426_v26_front.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2929131-10426_v26_front.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Trouble Travel",
+            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-26-trouble-travel/4000-392935/",
+            "store_date": "2012-09-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
+                "id": 43866,
+                "name": "Sket Dance",
+                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-400985/",
+            "cover_date": "2012-02-03",
+            "date_added": "2013-05-03 19:44:42",
+            "date_last_updated": "2013-05-03 19:57:49",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 532724,
+            "id": 400985,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5236114-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5236114-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5236114-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5236114-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5236114-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5236114-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5236114-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5236114-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5236114-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3023785-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3023785-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3023785-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3023785-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3023785-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3023785-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3023785-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3023785-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3023785-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Band 26",
+            "site_detail_url": "https://comicvine.gamespot.com/fullmetal-alchemist-26-band-26/4000-400985/",
+            "store_date": "2012-02-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42347/",
+                "id": 42347,
+                "name": "Fullmetal Alchemist",
+                "site_detail_url": "https://comicvine.gamespot.com/fullmetal-alchemist/4050-42347/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416088/",
+            "cover_date": "2012-03-04",
+            "date_added": "2013-07-04 17:58:21",
+            "date_last_updated": "2013-07-04 18:07:55",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416088,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3151830-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3151830-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3151830-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3151830-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3151830-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3151830-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3151830-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3151830-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3151830-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
             "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/usogui-26-vol-26/4000-532724/",
-            "store_date": "2012-10-19",
+            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-26-vol-26/4000-416088/",
+            "store_date": "2012-03-08",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90827/",
-                "id": 90827,
-                "name": "Usogui",
-                "site_detail_url": "https://comicvine.gamespot.com/usogui/4050-90827/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64952/",
+                "id": 64952,
+                "name": "Ace of Diamond",
+                "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond/4050-64952/"
             }
-        }
-    ],
-    "2012-10-22|2012-10-28": [],
-    "2012-10-29|2012-11-04": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425783/",
+            "cover_date": "2012-07-01",
+            "date_added": "2013-09-14 20:44:58",
+            "date_last_updated": "2013-09-14 21:30:43",
+            "deck": null,
+            "description": "<p><em>Deep beneath the Artic Circle a researcher is trapped in a small submarine and running out of air. It's cold, dark and extremely dangerous with an underwater volcano that is about to blow as Dr. Ramzi sends two triad teams beneath the surface. Introducing the newest member of The 99, Mukit the Nourisher.</em></p>",
+            "has_staff_review": false,
+            "id": 425783,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311563-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311563-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311563-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311563-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311563-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311563-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311563-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311563-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3311563-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-99-26/4000-425783/",
+            "store_date": "2012-07-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67392/",
+                "id": 67392,
+                "name": "THE 99",
+                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-67392/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-426501/",
@@ -1367,77 +1065,38 @@
                 "name": "Canopri Comic",
                 "site_detail_url": "https://comicvine.gamespot.com/canopri-comic/4050-52747/"
             }
-        }
-    ],
-    "2012-11-05|2012-11-11": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-365804/",
-            "cover_date": "2012-11-30",
-            "date_added": "2012-11-06 04:35:00",
-            "date_last_updated": "2016-02-22 06:13:56",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-431880/",
+            "cover_date": "2012-08-01",
+            "date_added": "2013-11-03 02:21:28",
+            "date_last_updated": "2013-11-03 02:29:48",
             "deck": null,
-            "description": "<p><i>HUNGRY FOR LOVE</i></p><p><i>Desperate to help Ikki by building him his own Storm Regalia, Kururu launches a risky heist of a super-rare alloy. But her quest for her crush's affections is cut short when Ringo, Ikki's longtime friend and foster sister, reveals her love for him. But before Ikki has any time to process this shock, Kogarasumaru must rush off to face their next foe: a team straight from the pages of Norse mythology!</i></p><p><i>This volume of Air Gear includes special extras after the story!</i></p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 365804,
+            "id": 431880,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2687924-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2687924-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2687924-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2687924-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2687924-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2687924-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2687924-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2687924-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2687924-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419727-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419727-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419727-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419727-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419727-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419727-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419727-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419727-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3419727-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
-            "name": "Hungry For Love",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-26-hungry-for-love/4000-365804/",
-            "store_date": "2012-11-07",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk-26/4000-431880/",
+            "store_date": "2012-07-10",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25071/",
-                "id": 25071,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
-            }
-        }
-    ],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [],
-    "2012-11-26|2012-12-02": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370652/",
-            "cover_date": "2012-11-29",
-            "date_added": "2012-11-29 06:50:12",
-            "date_last_updated": "2012-12-05 08:26:25",
-            "deck": null,
-            "description": "<p><i>Bruce Wayne has begun to accept his new reality, but that comes at a price. Will Batman emerge from the Scarecrow's plot a broken man, or a stronger hero than before? \"Dreaming He is a Butterfly\" part 2 of 2.</i></p>",
-            "has_staff_review": false,
-            "id": 370652,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2726476-img_1299.png",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2726476-img_1299.png",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2726476-img_1299.png",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2726476-img_1299.png",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2726476-img_1299.png",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2726476-img_1299.png",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2726476-img_1299.png",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2726476-img_1299.png",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2726476-img_1299.png",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Dreaming He is a Butterfly, Part 2 of 2",
-            "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight-26-dreaming-he-is-a-but/4000-370652/",
-            "store_date": "2012-11-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-49552/",
-                "id": 49552,
-                "name": "Legends of the Dark Knight",
-                "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight/4050-49552/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68871/",
+                "id": 68871,
+                "name": "Comic Megamilk",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk/4050-68871/"
             }
         },
         {
@@ -1475,39 +1134,103 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550253/",
-            "cover_date": "2012-11-30",
-            "date_added": "2016-09-20 10:06:26",
-            "date_last_updated": "2016-09-23 10:13:42",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-448552/",
+            "cover_date": "2012-03-01",
+            "date_added": "2014-03-22 11:53:59",
+            "date_last_updated": "2018-11-04 01:50:13",
             "deck": null,
-            "description": "<p>Chapter 273 - 285.</p>",
+            "description": "<p><em>Que faire pour attirer l'attention de la jolie Chen, quand on a tout essayé (ou presque) ? Devenir la rock star de l'école, pardi ! Et comme le mot \"impossible\" n'appartient pas vraiment au vocabulaire de Cédric, sitôt dit, sitôt fait, qu'on sache jouer de la guitare électrique ou pas... Gare aux larsens, surtout quand pépé est dans la salle ! Observateur amusé et volontiers complice des facéties de Cédric, il est tour à tour conteur et acteur des aventures du petit garçon. Avec son franc parler et son caractère de cochon, le pépé est le premier allié de Cédric à la maison, quand il ne se chamaille pas avec son petit-fils, évidemment ! Laudec et Cauvin poursuivent leur chronique tendre et drôle du quotidien d'un petit garçon d'aujourd'hui.</em></p>",
             "has_staff_review": false,
-            "id": 550253,
+            "id": 448552,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5443490-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5443490-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5443490-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5443490-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5443490-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5443490-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5443490-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5443490-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5443490-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6673826-9312522902-97828.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6673826-9312522902-97828.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6673826-9312522902-97828.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6673826-9312522902-97828.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6673826-9312522902-97828.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6673826-9312522902-97828.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6673826-9312522902-97828.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6673826-9312522902-97828.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6673826-9312522902-97828.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijima-kun-26-vol-26/4000-550253/",
-            "store_date": "2012-11-30",
+            "name": "Graine de star",
+            "site_detail_url": "https://comicvine.gamespot.com/cedric-26-graine-de-star/4000-448552/",
+            "store_date": "2012-03-16",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93691/",
-                "id": 93691,
-                "name": "Yamikin Ushijima-kun",
-                "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijimakun/4050-93691/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29461/",
+                "id": 29461,
+                "name": "Cédric",
+                "site_detail_url": "https://comicvine.gamespot.com/cedric/4050-29461/"
             }
-        }
-    ],
-    "2012-12-03|2012-12-09": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-455586/",
+            "cover_date": "2012-05-23",
+            "date_added": "2014-06-03 00:34:50",
+            "date_last_updated": "2018-01-30 05:35:42",
+            "deck": null,
+            "description": "<p>Chapters 273 - 283.</p>",
+            "has_staff_review": false,
+            "id": 455586,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3867119-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3867119-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3867119-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3867119-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3867119-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3867119-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3867119-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3867119-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3867119-26.jpg",
+                "image_tags": "All Images,cover"
+            },
+            "issue_number": "26",
+            "name": "Wang Yi ga Shitatameta Otoko",
+            "site_detail_url": "https://comicvine.gamespot.com/kingdom-26-wang-yi-ga-shitatameta-otoko/4000-455586/",
+            "store_date": "2012-05-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-74502/",
+                "id": 74502,
+                "name": "Kingdom",
+                "site_detail_url": "https://comicvine.gamespot.com/kingdom/4050-74502/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-466241/",
+            "cover_date": "2012-05-12",
+            "date_added": "2014-09-21 04:48:00",
+            "date_last_updated": "2014-09-21 04:52:44",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 466241,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4112487-rl001.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4112487-rl001.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4112487-rl001.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4112487-rl001.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4112487-rl001.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4112487-rl001.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4112487-rl001.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4112487-rl001.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4112487-rl001.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "De Vloek Van De Amethist",
+            "site_detail_url": "https://comicvine.gamespot.com/yoko-tsuno-26-de-vloek-van-de-amethist/4000-466241/",
+            "store_date": "2012-05-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-52890/",
+                "id": 52890,
+                "name": "Yoko Tsuno",
+                "site_detail_url": "https://comicvine.gamespot.com/yoko-tsuno/4050-52890/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467471/",
@@ -1573,41 +1296,269 @@
                 "name": "good! Afternoon",
                 "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
             }
-        }
-    ],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373883/",
-            "cover_date": "2012-12-21",
-            "date_added": "2012-12-21 06:50:32",
-            "date_last_updated": "2013-05-27 16:29:20",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481277/",
+            "cover_date": "2012-11-30",
+            "date_added": "2015-02-28 14:43:19",
+            "date_last_updated": "2015-02-28 14:51:57",
             "deck": null,
-            "description": "<p><i>In part two of \"Haunted,\" Lois Lane puts her investigative skills to excellent use in a charged one-on-one interview with Lex regarding his past deeds. But Lex's bizarre behavior and a mysterious message that Lois is able to escape with prove even more interesting than the discussion!</i></p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 373883,
+            "id": 481277,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2763967-smallville_season_11_26.png",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2763967-smallville_season_11_26.png",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2763967-smallville_season_11_26.png",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2763967-smallville_season_11_26.png",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2763967-smallville_season_11_26.png",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2763967-smallville_season_11_26.png",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2763967-smallville_season_11_26.png",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2763967-smallville_season_11_26.png",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2763967-smallville_season_11_26.png",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4421317-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4421317-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4421317-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4421317-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4421317-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4421317-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4421317-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4421317-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4421317-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
-            "name": "Haunted Part 2",
-            "site_detail_url": "https://comicvine.gamespot.com/smallville-season-eleven-26-haunted-part-2/4000-373883/",
-            "store_date": "2012-12-19",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/mcaxis-26-vol-26/4000-481277/",
+            "store_date": "2012-09-21",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-47896/",
-                "id": 47896,
-                "name": "Smallville: Season Eleven",
-                "site_detail_url": "https://comicvine.gamespot.com/smallville-season-eleven/4050-47896/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80402/",
+                "id": 80402,
+                "name": "MC☆Axis",
+                "site_detail_url": "https://comicvine.gamespot.com/m-caxis/4050-80402/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519482/",
+            "cover_date": "2012-10-31",
+            "date_added": "2016-03-12 13:21:58",
+            "date_last_updated": "2016-04-11 02:24:24",
+            "deck": null,
+            "description": "<p><em>Since her creation in 1962, Sabrina the Teenage Witch has become one of the most popular and endearing characters in American pop culture. To celebrate her 50-year anniversary, Archie Comics presents 50 of Sabrina's most spellbinding stories! This Digital Exclusive collects OVER 350 PAGES of content spanning Sabrina's history, including a NEVER-BEFORE-SEEN origin story, written by Sabrina creator George Gladir himself. So join Sabrina, Salem, Aunties Hilda and Zelda, and many more for the most magical book of the year!</em></p>",
+            "has_staff_review": false,
+            "id": 519482,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5145149-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5145149-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5145149-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5145149-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5145149-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5145149-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5145149-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5145149-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5145149-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Sabrina the Teenage Witch 50 Magical Stories",
+            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-26-sabrina-the-teenage-witch-50-magica/4000-519482/",
+            "store_date": "2012-10-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
+                "id": 86278,
+                "name": "PEP Digital",
+                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-520711/",
+            "cover_date": "2012-09-19",
+            "date_added": "2016-03-18 14:16:39",
+            "date_last_updated": "2016-10-09 19:16:34",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 520711,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5476865-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5476865-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5476865-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5476865-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5476865-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5476865-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5476865-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5476865-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5476865-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/81diver-26-vol-26/4000-520711/",
+            "store_date": "2012-09-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41871/",
+                "id": 41871,
+                "name": "81diver",
+                "site_detail_url": "https://comicvine.gamespot.com/81diver/4050-41871/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-523956/",
+            "cover_date": "2012-02-17",
+            "date_added": "2016-04-10 14:42:12",
+            "date_last_updated": "2016-04-10 17:43:51",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 523956,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5144448-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5144448-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5144448-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5144448-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5144448-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5144448-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5144448-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5144448-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5144448-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/countach-26-vol-26/4000-523956/",
+            "store_date": "2012-02-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42238/",
+                "id": 42238,
+                "name": "Countach",
+                "site_detail_url": "https://comicvine.gamespot.com/countach/4050-42238/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532724/",
+            "cover_date": "2012-10-19",
+            "date_added": "2016-05-29 11:32:49",
+            "date_last_updated": "2016-05-29 18:40:12",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 532724,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5236114-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5236114-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5236114-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5236114-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5236114-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5236114-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5236114-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5236114-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5236114-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/usogui-26-vol-26/4000-532724/",
+            "store_date": "2012-10-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90827/",
+                "id": 90827,
+                "name": "Usogui",
+                "site_detail_url": "https://comicvine.gamespot.com/usogui/4050-90827/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550253/",
+            "cover_date": "2012-11-30",
+            "date_added": "2016-09-20 10:06:26",
+            "date_last_updated": "2016-09-23 10:13:42",
+            "deck": null,
+            "description": "<p>Chapter 273 - 285.</p>",
+            "has_staff_review": false,
+            "id": 550253,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5443490-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5443490-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5443490-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5443490-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5443490-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5443490-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5443490-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5443490-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5443490-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijima-kun-26-vol-26/4000-550253/",
+            "store_date": "2012-11-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93691/",
+                "id": 93691,
+                "name": "Yamikin Ushijima-kun",
+                "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijimakun/4050-93691/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559270/",
+            "cover_date": "2012-04-12",
+            "date_added": "2016-11-26 05:34:33",
+            "date_last_updated": "2017-04-15 17:22:46",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 559270,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551079-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551079-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551079-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551079-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551079-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551079-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551079-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551079-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551079-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi-26-vol-26/4000-559270/",
+            "store_date": "2012-04-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95882/",
+                "id": 95882,
+                "name": "Area no Kishi",
+                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-95882/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-568175/",
+            "cover_date": "2012-04-06",
+            "date_added": "2016-12-16 22:57:15",
+            "date_last_updated": "2017-11-20 06:28:28",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 568175,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5595098-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5595098-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5595098-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5595098-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5595098-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5595098-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5595098-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5595098-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5595098-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/clover-26-vol-26/4000-568175/",
+            "store_date": "2012-04-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96878/",
+                "id": 96878,
+                "name": "Clover",
+                "site_detail_url": "https://comicvine.gamespot.com/clover/4050-96878/"
             }
         }
     ]

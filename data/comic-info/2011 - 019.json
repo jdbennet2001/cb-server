@@ -1,41 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554123/",
-            "cover_date": "2011-12-27",
-            "date_added": "2016-10-18 12:02:28",
-            "date_last_updated": "2017-04-13 17:24:03",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 554123,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5490760-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5490760-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5490760-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5490760-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5490760-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5490760-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5490760-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5490760-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5490760-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/danchi-tomoo-19-vol-19/4000-554123/",
-            "store_date": "2011-12-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93712/",
-                "id": 93712,
-                "name": "Danchi Tomoo",
-                "site_detail_url": "https://comicvine.gamespot.com/danchi-tomoo/4050-93712/"
-            }
-        }
-    ],
-    "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-255869/",
@@ -101,9 +65,7 @@
                 "name": "Batman and Robin",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-and-robin/4050-26584/"
             }
-        }
-    ],
-    "2011-01-17|2011-01-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-258317/",
@@ -136,10 +98,7 @@
                 "name": "Batman: Streets of Gotham",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-streets-of-gotham/4050-26754/"
             }
-        }
-    ],
-    "2011-01-24|2011-01-30": [],
-    "2011-01-31|2011-02-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-259834/",
@@ -205,9 +164,7 @@
                 "name": "Brightest Day",
                 "site_detail_url": "https://comicvine.gamespot.com/brightest-day/4050-32561/"
             }
-        }
-    ],
-    "2011-02-07|2011-02-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-261122/",
@@ -240,9 +197,7 @@
                 "name": "Justice League: Generation Lost",
                 "site_detail_url": "https://comicvine.gamespot.com/justice-league-generation-lost/4050-33082/"
             }
-        }
-    ],
-    "2011-02-14|2011-02-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-262587/",
@@ -275,10 +230,7 @@
                 "name": "Doom Patrol",
                 "site_detail_url": "https://comicvine.gamespot.com/doom-patrol/4050-27258/"
             }
-        }
-    ],
-    "2011-02-21|2011-02-27": [],
-    "2011-02-28|2011-03-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-264625/",
@@ -311,9 +263,7 @@
                 "name": "Sweet Tooth",
                 "site_detail_url": "https://comicvine.gamespot.com/sweet-tooth/4050-27671/"
             }
-        }
-    ],
-    "2011-03-07|2011-03-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-265494/",
@@ -346,9 +296,304 @@
                 "name": "Batgirl",
                 "site_detail_url": "https://comicvine.gamespot.com/batgirl/4050-27457/"
             }
-        }
-    ],
-    "2011-03-14|2011-03-20": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269975/",
+            "cover_date": "2011-05-11",
+            "date_added": "2011-05-11 17:40:57",
+            "date_last_updated": "2016-11-02 18:25:33",
+            "deck": null,
+            "description": "<p><i>The group has a visitor, but is she friend, foe or worse? Where did she come from? How did she survive? Can she be trusted? This is the beginning of a new story arc, an excellent jumping-on point for new readers. The quest to rebuild civilization starts here.</i></p>",
+            "has_staff_review": false,
+            "id": 269975,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1806483-walkingdeadweekly19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1806483-walkingdeadweekly19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1806483-walkingdeadweekly19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1806483-walkingdeadweekly19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1806483-walkingdeadweekly19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1806483-walkingdeadweekly19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1806483-walkingdeadweekly19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1806483-walkingdeadweekly19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1806483-walkingdeadweekly19.jpg",
+                "image_tags": "All Images,The Walking Dead #19"
+            },
+            "issue_number": "19",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly-19/4000-269975/",
+            "store_date": "2011-05-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-38234/",
+                "id": 38234,
+                "name": "The Walking Dead Weekly",
+                "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-270275/",
+            "cover_date": "2011-05-11",
+            "date_added": "2011-05-15 15:37:35",
+            "date_last_updated": "2011-05-31 12:02:55",
+            "deck": null,
+            "description": "<p>The War for the Uncharted Territories continues! Scorpius has seen the Kkore's evil in full and though he may be a villain, he is not one without honor! And while Crichton and Aeryn use what is left of the Peacekeepers to fend off this all-consuming enemy, the PK's prodigal son will make his masterstroke! From Farscape creator Rockne S. O'Bannon and fan-favorite novelist Keith R.A. DeCandido!</p>",
+            "has_staff_review": false,
+            "id": 270275,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1811577-fs_01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1811577-fs_01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1811577-fs_01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1811577-fs_01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1811577-fs_01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1811577-fs_01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1811577-fs_01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1811577-fs_01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1811577-fs_01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "The War for the Uncharted Territories, Part 7: Stark Contrasts",
+            "site_detail_url": "https://comicvine.gamespot.com/farscape-19-the-war-for-the-uncharted-territories-/4000-270275/",
+            "store_date": "2011-05-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29919/",
+                "id": 29919,
+                "name": "Farscape",
+                "site_detail_url": "https://comicvine.gamespot.com/farscape/4050-29919/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-270757/",
+            "cover_date": "2011-05-01",
+            "date_added": "2011-05-21 14:55:54",
+            "date_last_updated": "2014-10-22 20:12:11",
+            "deck": null,
+            "description": "<p>The situation on Earth continues to deteriorate while we shift focus to outer space where RODIMUS was last seen dead! A classic character returns as the things heat up and we begin our descent into “CHAOS”—THE YEAR’S BIGGEST TRANSFORMERS EVENT! Don’t miss “SPACE OPERA, Part 1!”</p>",
+            "has_staff_review": false,
+            "id": 270757,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1820791-transformersongoing19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1820791-transformersongoing19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1820791-transformersongoing19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1820791-transformersongoing19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1820791-transformersongoing19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1820791-transformersongoing19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1820791-transformersongoing19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1820791-transformersongoing19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1820791-transformersongoing19.jpg",
+                "image_tags": "All Images,Covers (for new issues)"
+            },
+            "issue_number": "19",
+            "name": "Space Opera Part 1: The Stars My Destination",
+            "site_detail_url": "https://comicvine.gamespot.com/the-transformers-19-space-opera-part-1-the-stars-m/4000-270757/",
+            "store_date": "2011-05-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29903/",
+                "id": 29903,
+                "name": "The Transformers",
+                "site_detail_url": "https://comicvine.gamespot.com/the-transformers/4050-29903/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-273268/",
+            "cover_date": "2011-05-25",
+            "date_added": "2011-06-08 22:49:54",
+            "date_last_updated": "2014-03-01 10:25:59",
+            "deck": null,
+            "description": "<p><i>Wolverine faces a final showdown with the deadly Adamantium Men!</i></p><p><i>By Jason Aaron and Ron Garney</i></p><p><i>Also: A swarm of Hydra agents attack – and Wolverine must fight them while blinded!</i></p><p><i>By Mike Carey and Scott Kolins.</i></p><p><i>Plus: Deadpool’s dreams of becoming a pirate are fulfilled as he sets sail to battle the evil Captain Wackbeard!</i></p><p><i>By Daniel Way and Shawn Crystal.</i></p><p><b>Includes material reprinted from:</b></p><ul><li>Deadpool (2008) #14</li><li>Wolverine: Firebreak (2008) #1</li><li>Wolverine: Weapon X (2009) #5</li></ul>",
+            "has_staff_review": false,
+            "id": 273268,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1851962-w19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1851962-w19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1851962-w19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1851962-w19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1851962-w19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1851962-w19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1851962-w19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1851962-w19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1851962-w19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool-19/4000-273268/",
+            "store_date": "2011-04-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36793/",
+                "id": 36793,
+                "name": "Wolverine and Deadpool",
+                "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool/4050-36793/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-274477/",
+            "cover_date": "2011-05-01",
+            "date_added": "2011-06-15 05:53:30",
+            "date_last_updated": "2012-08-05 10:03:15",
+            "deck": null,
+            "description": "<p><i>Glamourpuss is still fighting her cocaine trafficking charge so once again, Dave Sim is flying solo with this special 'Salute to Rectangles' issue featuring a cover by Mike (Madman) Allred. All nudity pre-censored for your viewing and reading comfort! The 'History of Photorealism in Comics' section continues with the events of 6 September, 1956.</i></p>",
+            "has_staff_review": false,
+            "id": 274477,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1861864-glamourpuss_19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1861864-glamourpuss_19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1861864-glamourpuss_19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1861864-glamourpuss_19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1861864-glamourpuss_19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1861864-glamourpuss_19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1861864-glamourpuss_19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1861864-glamourpuss_19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1861864-glamourpuss_19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/glamourpuss-19/4000-274477/",
+            "store_date": "2011-06-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-23362/",
+                "id": 23362,
+                "name": "Glamourpuss",
+                "site_detail_url": "https://comicvine.gamespot.com/glamourpuss/4050-23362/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-276416/",
+            "cover_date": "2011-03-01",
+            "date_added": "2011-06-27 07:49:13",
+            "date_last_updated": "2014-01-25 08:37:12",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 077. \"Salvage (Part 6)\" (サルベージ（その6） <i>Sarubēji (sono roku)</i>)</li><li>Chapter 078. \"Salvage (Part 7)\" (サルベージ（その7） <i>Sarubēji (sono nana)</i>)</li><li>Chapter 079. \"Salvage (Part 8)\" (サルベージ（その8） <i>Sarubēji (sono hachi)</i>)</li><li>Chapter 080. \"Salvage (Part 9)\" (サルベージ（その9） <i>Sarubēji (sono kyū)</i>)</li><li>Chapter 081. \"Salvage (Part 10)\" (サルベージ（その10） <i>Sarubēji (sono jū)</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 276416,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2516596-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2516596-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2516596-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2516596-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2516596-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2516596-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2516596-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2516596-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2516596-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Volume 19",
+            "site_detail_url": "https://comicvine.gamespot.com/soul-eater-19-volume-19/4000-276416/",
+            "store_date": "2011-03-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-22462/",
+                "id": 22462,
+                "name": "Soul Eater",
+                "site_detail_url": "https://comicvine.gamespot.com/soul-eater/4050-22462/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-276844/",
+            "cover_date": "2011-06-01",
+            "date_added": "2011-06-30 04:49:09",
+            "date_last_updated": "2011-06-30 17:34:16",
+            "deck": null,
+            "description": "<p><i>With Headcase out of commission, supervillains emerging from the woodwork in the wake of the Plutonian's absence, and pressure from the Paradigm to prove he's fit to be a true superhero, Max Damage is beginning to show cracks in his incorruptible exterior. And when a young supervillainess approaches him with an unusual proposition, will Max remain on the straight-and-narrow, or will the temptation of his old life in a post-Plutonian world prove impossible to resist?</i></p>",
+            "has_staff_review": false,
+            "id": 276844,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1884443-incorr_19_001.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1884443-incorr_19_001.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1884443-incorr_19_001.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1884443-incorr_19_001.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1884443-incorr_19_001.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1884443-incorr_19_001.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1884443-incorr_19_001.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1884443-incorr_19_001.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1884443-incorr_19_001.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/incorruptible-19/4000-276844/",
+            "store_date": "2011-06-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-30514/",
+                "id": 30514,
+                "name": "Incorruptible",
+                "site_detail_url": "https://comicvine.gamespot.com/incorruptible/4050-30514/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-277589/",
+            "cover_date": "2011-07-31",
+            "date_added": "2011-07-06 17:47:58",
+            "date_last_updated": "2016-05-02 12:48:52",
+            "deck": null,
+            "description": "<figure data-align=\"right\" data-img-src=\"https://static.comicvine.com/uploads/original/6/62058/2632763-chew_19_begin.jpg\" data-ref-id=\"1300-2632763\" data-size=\"medium\" data-ratio=\"0.2620578778135\" data-width=\"1244\" data-embed-type=\"image\" style=\"width: 1244px\"><a class=\"fluid-height\" style=\"padding-bottom:26.2%\" href=\"https://static.comicvine.com/uploads/original/6/62058/2632763-chew_19_begin.jpg\" data-ref-id=\"1300-2632763\"><img alt=\"No Caption Provided\" src=\"https://static.comicvine.com/uploads/scale_medium/6/62058/2632763-chew_19_begin.jpg\" srcset=\"https://static.comicvine.com/uploads/original/6/62058/2632763-chew_19_begin.jpg 1244w, https://static.comicvine.com/uploads/scale_super/6/62058/2632763-chew_19_begin.jpg 960w, https://static.comicvine.com/uploads/scale_medium/6/62058/2632763-chew_19_begin.jpg 480w\" sizes=\"(max-width: 480px) 100vw, 480px\" data-width=\"480\"></a></figure><p><em>'FLAMBE,' Part Four </em></p><p><em>Welcome to Area 51, Tony Chu. Would you like some steak sauce with your dead extraterrestrial?</em></p><p>The issue opens up with a bunch of assassinations on world famous icons -- including Chow Chu! However, this doesn't actually happen -- why? -- because Tony and Toni stop this from ever occurring. Earlier at work, Mike Applebee is trying to get rid of Tony for good by bragging on what a good agent he is, though his efforts were foiled and he couldn't get Tony transferred to a new division, he did setup a dangerous mission for Tony that involved N.A.S.A. and his twin sister Toni. During the space shuttle ride to Area 51, Tony talks to his girlfriend, Amelia about his new mission. An unbeknownst Amelia doesn't realize that while she talks to Tony, Dan Franks is taking notes on the strange abilities of Tony Chu!</p><figure data-align=\"right\" data-img-src=\"https://static.comicvine.com/uploads/original/6/62058/2632762-chew_19_end.jpg\" data-ref-id=\"1300-2632762\" data-size=\"medium\" data-ratio=\"0.41226575809199\" data-width=\"1174\" data-embed-type=\"image\" style=\"width: 1174px\"><a class=\"fluid-height\" style=\"padding-bottom:41.2%\" href=\"https://static.comicvine.com/uploads/original/6/62058/2632762-chew_19_end.jpg\" data-ref-id=\"1300-2632762\"><img alt=\"No Caption Provided\" src=\"https://static.comicvine.com/uploads/scale_medium/6/62058/2632762-chew_19_end.jpg\" srcset=\"https://static.comicvine.com/uploads/original/6/62058/2632762-chew_19_end.jpg 1174w, https://static.comicvine.com/uploads/scale_super/6/62058/2632762-chew_19_end.jpg 960w, https://static.comicvine.com/uploads/scale_medium/6/62058/2632762-chew_19_end.jpg 480w\" sizes=\"(max-width: 480px) 100vw, 480px\" data-width=\"480\"></a></figure><p>Tony and Toni eventually arrive at Area 51 to begin their mission to save the world! It is revealed that N.A.S.A. sent all their astronauts into space to begin reproducing offsprings in the event if the world faces another avian flu that will claim the lives of another 25 million people. Babies born in zero gravity space resulted in a solar mutation, which led to N.A.S.A. scraping the entire ideal. Later on, Tony and Toni visit the alien weapons division of area 51, the result leads to the two agents confronting a meteorologist whom will eventually sell his bullets to E.G.G. to assassinate famous world icons (including Tony and Toni's brother Chow!). Though he hasn't sold his special bullets yet, it was through the special abilities of Toni that gave her the events of what the bullets were eventually going to be used for. In the end, Toni gets a promotion and Chow Chu survives to continue his cooking of illegal chicken meals for Sunday family brunch, even though Tony really, really hates him for it!</p>",
+            "has_staff_review": false,
+            "id": 277589,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2083809-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2083809-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2083809-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2083809-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2083809-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2083809-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2083809-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2083809-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2083809-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Flambé, Part 4 of 5",
+            "site_detail_url": "https://comicvine.gamespot.com/chew-19-flambe-part-4-of-5/4000-277589/",
+            "store_date": "2011-07-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26611/",
+                "id": 26611,
+                "name": "Chew",
+                "site_detail_url": "https://comicvine.gamespot.com/chew/4050-26611/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-283157/",
+            "cover_date": "2011-08-31",
+            "date_added": "2011-08-02 13:05:46",
+            "date_last_updated": "2017-10-14 01:35:19",
+            "deck": null,
+            "description": "<p><i>The leaders of Japan panic when foreign forces deliver an ultimatum: open the borders and allow trade or face invasion. The politicians squabble, and finally the young Shogun Iemochi resigns in exasperation. Lord Matsudaira goes to consult with Iemochi, accompanied by Kondo, Soji and Kamiya. Kondo's heartfelt plea convinces Iemochi to return to Kyoto and lead the Bakufu through this time of chaos.</i></p>",
+            "has_staff_review": false,
+            "id": 283157,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3238089-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3238089-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3238089-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3238089-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3238089-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3238089-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3238089-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3238089-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3238089-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru-19-vol-19/4000-283157/",
+            "store_date": "2011-08-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29468/",
+                "id": 29468,
+                "name": "Kaze Hikaru",
+                "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-29468/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-285086/",
@@ -417,502 +662,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481340/",
-            "cover_date": "2011-03-19",
-            "date_added": "2015-02-28 17:10:43",
-            "date_last_updated": "2015-02-28 17:30:27",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 481340,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4421720-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4421720-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4421720-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4421720-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4421720-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4421720-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4421720-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4421720-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4421720-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman-19-vol-19/4000-481340/",
-            "store_date": "2011-03-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80408/",
-                "id": 80408,
-                "name": "Kyou Kara Hitman",
-                "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman/4050-80408/"
-            }
-        }
-    ],
-    "2011-03-21|2011-03-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-276416/",
-            "cover_date": "2011-03-01",
-            "date_added": "2011-06-27 07:49:13",
-            "date_last_updated": "2014-01-25 08:37:12",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 077. \"Salvage (Part 6)\" (サルベージ（その6） <i>Sarubēji (sono roku)</i>)</li><li>Chapter 078. \"Salvage (Part 7)\" (サルベージ（その7） <i>Sarubēji (sono nana)</i>)</li><li>Chapter 079. \"Salvage (Part 8)\" (サルベージ（その8） <i>Sarubēji (sono hachi)</i>)</li><li>Chapter 080. \"Salvage (Part 9)\" (サルベージ（その9） <i>Sarubēji (sono kyū)</i>)</li><li>Chapter 081. \"Salvage (Part 10)\" (サルベージ（その10） <i>Sarubēji (sono jū)</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 276416,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2516596-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2516596-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2516596-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2516596-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2516596-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2516596-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2516596-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2516596-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2516596-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Volume 19",
-            "site_detail_url": "https://comicvine.gamespot.com/soul-eater-19-volume-19/4000-276416/",
-            "store_date": "2011-03-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-22462/",
-                "id": 22462,
-                "name": "Soul Eater",
-                "site_detail_url": "https://comicvine.gamespot.com/soul-eater/4050-22462/"
-            }
-        }
-    ],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [],
-    "2011-04-11|2011-04-17": [],
-    "2011-04-18|2011-04-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438450/",
-            "cover_date": "2011-04-22",
-            "date_added": "2013-12-23 16:58:39",
-            "date_last_updated": "2013-12-23 17:05:07",
-            "deck": null,
-            "description": "<p>Chapter 178-187.</p>",
-            "has_staff_review": false,
-            "id": 438450,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3522815-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3522815-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3522815-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3522815-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3522815-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3522815-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3522815-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3522815-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3522815-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Volume 19",
-            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-19-volume-19/4000-438450/",
-            "store_date": "2011-04-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
-                "id": 44126,
-                "name": "Giant Killing",
-                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
-            }
-        }
-    ],
-    "2011-04-25|2011-05-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-273268/",
-            "cover_date": "2011-05-25",
-            "date_added": "2011-06-08 22:49:54",
-            "date_last_updated": "2014-03-01 10:25:59",
-            "deck": null,
-            "description": "<p><i>Wolverine faces a final showdown with the deadly Adamantium Men!</i></p><p><i>By Jason Aaron and Ron Garney</i></p><p><i>Also: A swarm of Hydra agents attack – and Wolverine must fight them while blinded!</i></p><p><i>By Mike Carey and Scott Kolins.</i></p><p><i>Plus: Deadpool’s dreams of becoming a pirate are fulfilled as he sets sail to battle the evil Captain Wackbeard!</i></p><p><i>By Daniel Way and Shawn Crystal.</i></p><p><b>Includes material reprinted from:</b></p><ul><li>Deadpool (2008) #14</li><li>Wolverine: Firebreak (2008) #1</li><li>Wolverine: Weapon X (2009) #5</li></ul>",
-            "has_staff_review": false,
-            "id": 273268,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1851962-w19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1851962-w19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1851962-w19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1851962-w19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1851962-w19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1851962-w19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1851962-w19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1851962-w19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1851962-w19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool-19/4000-273268/",
-            "store_date": "2011-04-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36793/",
-                "id": 36793,
-                "name": "Wolverine and Deadpool",
-                "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool/4050-36793/"
-            }
-        }
-    ],
-    "2011-05-02|2011-05-08": [],
-    "2011-05-09|2011-05-15": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269975/",
-            "cover_date": "2011-05-11",
-            "date_added": "2011-05-11 17:40:57",
-            "date_last_updated": "2016-11-02 18:25:33",
-            "deck": null,
-            "description": "<p><i>The group has a visitor, but is she friend, foe or worse? Where did she come from? How did she survive? Can she be trusted? This is the beginning of a new story arc, an excellent jumping-on point for new readers. The quest to rebuild civilization starts here.</i></p>",
-            "has_staff_review": false,
-            "id": 269975,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1806483-walkingdeadweekly19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1806483-walkingdeadweekly19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1806483-walkingdeadweekly19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1806483-walkingdeadweekly19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1806483-walkingdeadweekly19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1806483-walkingdeadweekly19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1806483-walkingdeadweekly19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1806483-walkingdeadweekly19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1806483-walkingdeadweekly19.jpg",
-                "image_tags": "All Images,The Walking Dead #19"
-            },
-            "issue_number": "19",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly-19/4000-269975/",
-            "store_date": "2011-05-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-38234/",
-                "id": 38234,
-                "name": "The Walking Dead Weekly",
-                "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-270275/",
-            "cover_date": "2011-05-11",
-            "date_added": "2011-05-15 15:37:35",
-            "date_last_updated": "2011-05-31 12:02:55",
-            "deck": null,
-            "description": "<p>The War for the Uncharted Territories continues! Scorpius has seen the Kkore's evil in full and though he may be a villain, he is not one without honor! And while Crichton and Aeryn use what is left of the Peacekeepers to fend off this all-consuming enemy, the PK's prodigal son will make his masterstroke! From Farscape creator Rockne S. O'Bannon and fan-favorite novelist Keith R.A. DeCandido!</p>",
-            "has_staff_review": false,
-            "id": 270275,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1811577-fs_01.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1811577-fs_01.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1811577-fs_01.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1811577-fs_01.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1811577-fs_01.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1811577-fs_01.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1811577-fs_01.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1811577-fs_01.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1811577-fs_01.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "The War for the Uncharted Territories, Part 7: Stark Contrasts",
-            "site_detail_url": "https://comicvine.gamespot.com/farscape-19-the-war-for-the-uncharted-territories-/4000-270275/",
-            "store_date": "2011-05-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29919/",
-                "id": 29919,
-                "name": "Farscape",
-                "site_detail_url": "https://comicvine.gamespot.com/farscape/4050-29919/"
-            }
-        }
-    ],
-    "2011-05-16|2011-05-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-270757/",
-            "cover_date": "2011-05-01",
-            "date_added": "2011-05-21 14:55:54",
-            "date_last_updated": "2014-10-22 20:12:11",
-            "deck": null,
-            "description": "<p>The situation on Earth continues to deteriorate while we shift focus to outer space where RODIMUS was last seen dead! A classic character returns as the things heat up and we begin our descent into “CHAOS”—THE YEAR’S BIGGEST TRANSFORMERS EVENT! Don’t miss “SPACE OPERA, Part 1!”</p>",
-            "has_staff_review": false,
-            "id": 270757,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1820791-transformersongoing19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1820791-transformersongoing19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1820791-transformersongoing19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1820791-transformersongoing19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1820791-transformersongoing19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1820791-transformersongoing19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1820791-transformersongoing19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1820791-transformersongoing19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1820791-transformersongoing19.jpg",
-                "image_tags": "All Images,Covers (for new issues)"
-            },
-            "issue_number": "19",
-            "name": "Space Opera Part 1: The Stars My Destination",
-            "site_detail_url": "https://comicvine.gamespot.com/the-transformers-19-space-opera-part-1-the-stars-m/4000-270757/",
-            "store_date": "2011-05-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29903/",
-                "id": 29903,
-                "name": "The Transformers",
-                "site_detail_url": "https://comicvine.gamespot.com/the-transformers/4050-29903/"
-            }
-        }
-    ],
-    "2011-05-23|2011-05-29": [],
-    "2011-05-30|2011-06-05": [],
-    "2011-06-06|2011-06-12": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-274477/",
-            "cover_date": "2011-05-01",
-            "date_added": "2011-06-15 05:53:30",
-            "date_last_updated": "2012-08-05 10:03:15",
-            "deck": null,
-            "description": "<p><i>Glamourpuss is still fighting her cocaine trafficking charge so once again, Dave Sim is flying solo with this special 'Salute to Rectangles' issue featuring a cover by Mike (Madman) Allred. All nudity pre-censored for your viewing and reading comfort! The 'History of Photorealism in Comics' section continues with the events of 6 September, 1956.</i></p>",
-            "has_staff_review": false,
-            "id": 274477,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1861864-glamourpuss_19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1861864-glamourpuss_19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1861864-glamourpuss_19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1861864-glamourpuss_19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1861864-glamourpuss_19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1861864-glamourpuss_19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1861864-glamourpuss_19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1861864-glamourpuss_19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1861864-glamourpuss_19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/glamourpuss-19/4000-274477/",
-            "store_date": "2011-06-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-23362/",
-                "id": 23362,
-                "name": "Glamourpuss",
-                "site_detail_url": "https://comicvine.gamespot.com/glamourpuss/4050-23362/"
-            }
-        }
-    ],
-    "2011-06-13|2011-06-19": [],
-    "2011-06-20|2011-06-26": [],
-    "2011-06-27|2011-07-03": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-276844/",
-            "cover_date": "2011-06-01",
-            "date_added": "2011-06-30 04:49:09",
-            "date_last_updated": "2011-06-30 17:34:16",
-            "deck": null,
-            "description": "<p><i>With Headcase out of commission, supervillains emerging from the woodwork in the wake of the Plutonian's absence, and pressure from the Paradigm to prove he's fit to be a true superhero, Max Damage is beginning to show cracks in his incorruptible exterior. And when a young supervillainess approaches him with an unusual proposition, will Max remain on the straight-and-narrow, or will the temptation of his old life in a post-Plutonian world prove impossible to resist?</i></p>",
-            "has_staff_review": false,
-            "id": 276844,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1884443-incorr_19_001.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1884443-incorr_19_001.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1884443-incorr_19_001.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1884443-incorr_19_001.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1884443-incorr_19_001.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1884443-incorr_19_001.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1884443-incorr_19_001.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1884443-incorr_19_001.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1884443-incorr_19_001.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/incorruptible-19/4000-276844/",
-            "store_date": "2011-06-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-30514/",
-                "id": 30514,
-                "name": "Incorruptible",
-                "site_detail_url": "https://comicvine.gamespot.com/incorruptible/4050-30514/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356165/",
-            "cover_date": "2011-08-31",
-            "date_added": "2012-09-06 14:30:36",
-            "date_last_updated": "2015-02-28 10:51:43",
-            "deck": null,
-            "description": "<h2>Cover Illustration</h2><ul><li>石恵</li><li>ピンナップ：INAZUMA</li></ul><h2>Color Comics</h2><ul><li>[常春荘へようこそ] 如月群真</li><li>[幼なじみとなつやすみ] inkey</li><li>[ナツミツ] 篠塚醸二</li><li>[流されて無人島] 鰻丸</li></ul><h2>Original Comics</h2><ul><li>[私の胸、変じゃない？] DISTANCE</li><li>[Exclusive Blend] 藤ます</li><li>[夢見る体操着] けこちゃ</li><li>[心的強勢緩和生命体 ハチベエくん] 無望菜志</li><li>[2tactics] ゆきみ</li><li>[スイミングクラブ] Hisasi</li><li>[桃色のあの娘にゃ手が出せない] 大守春雨</li><li>[お嬢様の課外授業] 槍衣七五三太</li><li>[おね♥すれ] こごろー</li><li>[発恋期 case.2] 久川ちん</li><li>[そとの国のヨメ] 睦茸</li><li>[ある日彼女が変わるとき] 雪城よし</li><li>[超熱帯夜orgy] 黒咲練導</li><li>[イイタさんペイロード] 玄鉄絢</li></ul>",
-            "has_staff_review": false,
-            "id": 356165,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2576612-comic_hot_milk_v_23.png",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2576612-comic_hot_milk_v_23.png",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2576612-comic_hot_milk_v_23.png",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2576612-comic_hot_milk_v_23.png",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2576612-comic_hot_milk_v_23.png",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2576612-comic_hot_milk_v_23.png",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2576612-comic_hot_milk_v_23.png",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2576612-comic_hot_milk_v_23.png",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2576612-comic_hot_milk_v_23.png",
-                "image_tags": "All Images,COMIC Hotmilk"
-            },
-            "issue_number": "19",
-            "name": "COMIC Hotmilk Aug. 2011",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk-19-comic-hotmilk-aug-2011/4000-356165/",
-            "store_date": "2011-07-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51911/",
-                "id": 51911,
-                "name": "COMIC Hotmilk",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
-            }
-        }
-    ],
-    "2011-07-04|2011-07-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-277589/",
-            "cover_date": "2011-07-31",
-            "date_added": "2011-07-06 17:47:58",
-            "date_last_updated": "2016-05-02 12:48:52",
-            "deck": null,
-            "description": "<figure data-align=\"right\" data-img-src=\"https://static.comicvine.com/uploads/original/6/62058/2632763-chew_19_begin.jpg\" data-ref-id=\"1300-2632763\" data-size=\"medium\" data-ratio=\"0.2620578778135\" data-width=\"1244\" data-embed-type=\"image\" style=\"width: 1244px\"><a class=\"fluid-height\" style=\"padding-bottom:26.2%\" href=\"https://static.comicvine.com/uploads/original/6/62058/2632763-chew_19_begin.jpg\" data-ref-id=\"1300-2632763\"><img alt=\"No Caption Provided\" src=\"https://static.comicvine.com/uploads/scale_medium/6/62058/2632763-chew_19_begin.jpg\" srcset=\"https://static.comicvine.com/uploads/original/6/62058/2632763-chew_19_begin.jpg 1244w, https://static.comicvine.com/uploads/scale_super/6/62058/2632763-chew_19_begin.jpg 960w, https://static.comicvine.com/uploads/scale_medium/6/62058/2632763-chew_19_begin.jpg 480w\" sizes=\"(max-width: 480px) 100vw, 480px\" data-width=\"480\"></a></figure><p><em>'FLAMBE,' Part Four </em></p><p><em>Welcome to Area 51, Tony Chu. Would you like some steak sauce with your dead extraterrestrial?</em></p><p>The issue opens up with a bunch of assassinations on world famous icons -- including Chow Chu! However, this doesn't actually happen -- why? -- because Tony and Toni stop this from ever occurring. Earlier at work, Mike Applebee is trying to get rid of Tony for good by bragging on what a good agent he is, though his efforts were foiled and he couldn't get Tony transferred to a new division, he did setup a dangerous mission for Tony that involved N.A.S.A. and his twin sister Toni. During the space shuttle ride to Area 51, Tony talks to his girlfriend, Amelia about his new mission. An unbeknownst Amelia doesn't realize that while she talks to Tony, Dan Franks is taking notes on the strange abilities of Tony Chu!</p><figure data-align=\"right\" data-img-src=\"https://static.comicvine.com/uploads/original/6/62058/2632762-chew_19_end.jpg\" data-ref-id=\"1300-2632762\" data-size=\"medium\" data-ratio=\"0.41226575809199\" data-width=\"1174\" data-embed-type=\"image\" style=\"width: 1174px\"><a class=\"fluid-height\" style=\"padding-bottom:41.2%\" href=\"https://static.comicvine.com/uploads/original/6/62058/2632762-chew_19_end.jpg\" data-ref-id=\"1300-2632762\"><img alt=\"No Caption Provided\" src=\"https://static.comicvine.com/uploads/scale_medium/6/62058/2632762-chew_19_end.jpg\" srcset=\"https://static.comicvine.com/uploads/original/6/62058/2632762-chew_19_end.jpg 1174w, https://static.comicvine.com/uploads/scale_super/6/62058/2632762-chew_19_end.jpg 960w, https://static.comicvine.com/uploads/scale_medium/6/62058/2632762-chew_19_end.jpg 480w\" sizes=\"(max-width: 480px) 100vw, 480px\" data-width=\"480\"></a></figure><p>Tony and Toni eventually arrive at Area 51 to begin their mission to save the world! It is revealed that N.A.S.A. sent all their astronauts into space to begin reproducing offsprings in the event if the world faces another avian flu that will claim the lives of another 25 million people. Babies born in zero gravity space resulted in a solar mutation, which led to N.A.S.A. scraping the entire ideal. Later on, Tony and Toni visit the alien weapons division of area 51, the result leads to the two agents confronting a meteorologist whom will eventually sell his bullets to E.G.G. to assassinate famous world icons (including Tony and Toni's brother Chow!). Though he hasn't sold his special bullets yet, it was through the special abilities of Toni that gave her the events of what the bullets were eventually going to be used for. In the end, Toni gets a promotion and Chow Chu survives to continue his cooking of illegal chicken meals for Sunday family brunch, even though Tony really, really hates him for it!</p>",
-            "has_staff_review": false,
-            "id": 277589,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2083809-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2083809-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2083809-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2083809-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2083809-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2083809-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2083809-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2083809-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2083809-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Flambé, Part 4 of 5",
-            "site_detail_url": "https://comicvine.gamespot.com/chew-19-flambe-part-4-of-5/4000-277589/",
-            "store_date": "2011-07-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26611/",
-                "id": 26611,
-                "name": "Chew",
-                "site_detail_url": "https://comicvine.gamespot.com/chew/4050-26611/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-392926/",
-            "cover_date": "2011-07-31",
-            "date_added": "2013-03-14 20:47:00",
-            "date_last_updated": "2017-12-04 12:29:25",
-            "deck": null,
-            "description": "<p><strong>Proper Japanese Title</strong>: ラブリーバニーガール <em>(Raburī Banī Gāru)</em></p><h2>Chapter Titles</h2><ul><li>Chapter 163: Lovely Bunny Girl (ラブリーバニーガール, <em>Raburii banii gaaru</em>)</li><li>Chapter 164: The Second Character Popularity Contest Results Announcement (第2回キャラクター人気投票結果発表, <em>Dainikai kyarakutaa ninkitōhyō kekka happyō</em>)</li><li>Chapter 165: The Man Who Became a Stick Figure (棒になった男, <em>Bō ni natta otoko</em>)</li><li>Chapter 166: Renovation!! Dramatically, Subtly, Hastily (大改造!! 劇的ビミョーあたふた, <em>Daikaizō!! Gekiteki bimyō atafuta</em>)</li><li>Chapter 167: Makes My Heart Pound (ドキドキする, <em>Dokidoki suru</em>)</li><li>Chapter 168: The Super Awesome Pii Ah!-Shborn (ゴッツーケーピーアッシュボーン)</li><li>Chapter 169: The Let's Work Together to Increase Our Powers of Concentration Study Meeting (集中力を高めみんなで協力し合う勉強会, <em>Shūchūryoku o takame minna de kyōryokushiau benkyō kai</em>)</li><li>Chapter 170: Christmas Card, Part 1 (クリスマスカード前編, <em>Kurisumasu kaado zenpen</em>)</li><li>Chapter 171: Christmas Card, Part 2 (クリスマスカード後編, <em>Kurisumasu kaado kōhen</em>)</li></ul>",
-            "has_staff_review": false,
-            "id": 392926,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2929111-10426_v19_front.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2929111-10426_v19_front.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2929111-10426_v19_front.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2929111-10426_v19_front.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2929111-10426_v19_front.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2929111-10426_v19_front.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2929111-10426_v19_front.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2929111-10426_v19_front.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2929111-10426_v19_front.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Lovely Bunny Girl",
-            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-19-lovely-bunny-girl/4000-392926/",
-            "store_date": "2011-07-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
-                "id": 43866,
-                "name": "Sket Dance",
-                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
-            }
-        }
-    ],
-    "2011-07-11|2011-07-17": [],
-    "2011-07-18|2011-07-24": [],
-    "2011-07-25|2011-07-31": [],
-    "2011-08-01|2011-08-07": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-283157/",
-            "cover_date": "2011-08-31",
-            "date_added": "2011-08-02 13:05:46",
-            "date_last_updated": "2017-10-14 01:35:19",
-            "deck": null,
-            "description": "<p><i>The leaders of Japan panic when foreign forces deliver an ultimatum: open the borders and allow trade or face invasion. The politicians squabble, and finally the young Shogun Iemochi resigns in exasperation. Lord Matsudaira goes to consult with Iemochi, accompanied by Kondo, Soji and Kamiya. Kondo's heartfelt plea convinces Iemochi to return to Kyoto and lead the Bakufu through this time of chaos.</i></p>",
-            "has_staff_review": false,
-            "id": 283157,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3238089-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3238089-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3238089-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3238089-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3238089-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3238089-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3238089-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3238089-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3238089-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru-19-vol-19/4000-283157/",
-            "store_date": "2011-08-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29468/",
-                "id": 29468,
-                "name": "Kaze Hikaru",
-                "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-29468/"
-            }
-        }
-    ],
-    "2011-08-08|2011-08-14": [],
-    "2011-08-15|2011-08-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-584886/",
-            "cover_date": "2011-08-19",
-            "date_added": "2017-03-05 22:52:26",
-            "date_last_updated": "2017-03-05 23:03:01",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 584886,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5733566-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5733566-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5733566-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5733566-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5733566-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5733566-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5733566-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5733566-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5733566-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/pokka-poka-19-vol-19/4000-584886/",
-            "store_date": "2011-08-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99413/",
-                "id": 99413,
-                "name": "Pokka Poka",
-                "site_detail_url": "https://comicvine.gamespot.com/pokka-poka/4050-99413/"
-            }
-        }
-    ],
-    "2011-08-22|2011-08-28": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-288858/",
             "cover_date": "2011-08-01",
             "date_added": "2011-08-24 14:27:37",
@@ -942,6 +691,39 @@
                 "id": 29114,
                 "name": "Queen Sonja",
                 "site_detail_url": "https://comicvine.gamespot.com/queen-sonja/4050-29114/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-289214/",
+            "cover_date": "2011-08-31",
+            "date_added": "2011-08-25 08:45:23",
+            "date_last_updated": "2016-02-22 06:13:10",
+            "deck": null,
+            "description": "<p><i>ON THE REBOUND</i></p><p><i>After a stunning betrayal leaves Ikki a mere husk of what he once was, it's up to everyone he knows– friends, teammates, rivals– to get his head back in gear. With the Gran Scale Tournament fast approaching, Kogarasumaru needs all the practice he can get, and that means scheduling competition. But there could be more to their next opponent than what meets that eye...</i></p><p><i>This volume of Air Gear includes special extras after the story!</i></p>",
+            "has_staff_review": false,
+            "id": 289214,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1979237-airgear19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1979237-airgear19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1979237-airgear19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1979237-airgear19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1979237-airgear19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1979237-airgear19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1979237-airgear19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1979237-airgear19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1979237-airgear19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "On the Rebound",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-19-on-the-rebound/4000-289214/",
+            "store_date": "2011-08-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25071/",
+                "id": 25071,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
             }
         },
         {
@@ -976,115 +758,7 @@
                 "name": "Gears of War",
                 "site_detail_url": "https://comicvine.gamespot.com/gears-of-war/4050-23333/"
             }
-        }
-    ],
-    "2011-08-29|2011-09-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-289214/",
-            "cover_date": "2011-08-31",
-            "date_added": "2011-08-25 08:45:23",
-            "date_last_updated": "2016-02-22 06:13:10",
-            "deck": null,
-            "description": "<p><i>ON THE REBOUND</i></p><p><i>After a stunning betrayal leaves Ikki a mere husk of what he once was, it's up to everyone he knows– friends, teammates, rivals– to get his head back in gear. With the Gran Scale Tournament fast approaching, Kogarasumaru needs all the practice he can get, and that means scheduling competition. But there could be more to their next opponent than what meets that eye...</i></p><p><i>This volume of Air Gear includes special extras after the story!</i></p>",
-            "has_staff_review": false,
-            "id": 289214,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1979237-airgear19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1979237-airgear19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1979237-airgear19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1979237-airgear19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1979237-airgear19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1979237-airgear19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1979237-airgear19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1979237-airgear19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1979237-airgear19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "On the Rebound",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-19-on-the-rebound/4000-289214/",
-            "store_date": "2011-08-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25071/",
-                "id": 25071,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
-            }
-        }
-    ],
-    "2011-09-05|2011-09-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467464/",
-            "cover_date": "2011-09-30",
-            "date_added": "2014-10-03 04:41:19",
-            "date_last_updated": "2014-10-03 05:29:48",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Ride.155: Sohoku in Second Place (総北２位)</li><li>Ride.156: Midousuji's Decision (御堂筋の決意)</li><li>Ride.157: The 3km to the Pharmacy (薬局までの３ｋｍ)</li><li>Ride.158: The Third Day Begins! (動き出す、3日目!)</li><li>Ride.159: Lucky Man Machimiya (モってる男　待宮)</li><li>Ride.160: The Man Who Won't Come (来ない男)</li><li>Ride.161: The Last Start (最後のスタート)</li><li>Ride.162: Cooperation (協調)</li><li>Ride.163: Reunion With the Front (先頭交流)</li></ul>",
-            "has_staff_review": false,
-            "id": 467464,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4136109-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4136109-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4136109-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4136109-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4136109-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4136109-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4136109-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4136109-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4136109-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal-19-vol-19/4000-467464/",
-            "store_date": "2011-09-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77394/",
-                "id": 77394,
-                "name": "Yowamushi Pedal",
-                "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal/4050-77394/"
-            }
-        }
-    ],
-    "2011-09-12|2011-09-18": [],
-    "2011-09-19|2011-09-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-418112/",
-            "cover_date": "2011-09-22",
-            "date_added": "2013-07-17 14:59:25",
-            "date_last_updated": "2017-08-11 09:29:29",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 418112,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3180271-5818941552-54092.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3180271-5818941552-54092.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3180271-5818941552-54092.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3180271-5818941552-54092.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3180271-5818941552-54092.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3180271-5818941552-54092.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3180271-5818941552-54092.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3180271-5818941552-54092.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3180271-5818941552-54092.jpg",
-                "image_tags": "All Images,Misc, Manga Covers"
-            },
-            "issue_number": "19",
-            "name": "Volume 19",
-            "site_detail_url": "https://comicvine.gamespot.com/nagasarete-airantou-19-volume-19/4000-418112/",
-            "store_date": "2011-09-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65469/",
-                "id": 65469,
-                "name": "Nagasarete Airantou",
-                "site_detail_url": "https://comicvine.gamespot.com/nagasarete-airantou/4050-65469/"
-            }
-        }
-    ],
-    "2011-09-26|2011-10-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-293578/",
@@ -1150,9 +824,7 @@
                 "name": "Avengers Academy",
                 "site_detail_url": "https://comicvine.gamespot.com/avengers-academy/4050-33633/"
             }
-        }
-    ],
-    "2011-10-03|2011-10-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-294052/",
@@ -1185,9 +857,7 @@
                 "name": "X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-34221/"
             }
-        }
-    ],
-    "2011-10-10|2011-10-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-295123/",
@@ -1220,10 +890,7 @@
                 "name": "Marvel Adventures Super Heroes",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-adventures-super-heroes/4050-32628/"
             }
-        }
-    ],
-    "2011-10-17|2011-10-23": [],
-    "2011-10-24|2011-10-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-299755/",
@@ -1289,9 +956,7 @@
                 "name": "Marvel Adventures Spider-Man",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-adventures-spider-man/4050-32888/"
             }
-        }
-    ],
-    "2011-10-31|2011-11-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-300960/",
@@ -1357,9 +1022,7 @@
                 "name": "Green Hornet",
                 "site_detail_url": "https://comicvine.gamespot.com/green-hornet/4050-31728/"
             }
-        }
-    ],
-    "2011-11-07|2011-11-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-301814/",
@@ -1393,41 +1056,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/punishermax/4050-29687/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474425/",
-            "cover_date": "2011-12-31",
-            "date_added": "2014-12-20 09:16:20",
-            "date_last_updated": "2014-12-20 10:07:42",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474425,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285665-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285665-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285665-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285665-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285665-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285665-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285665-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285665-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285665-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-19/4000-474425/",
-            "store_date": "2011-11-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2011-11-14|2011-11-20": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-302635/",
@@ -1496,41 +1124,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-344633/",
-            "cover_date": "2011-11-17",
-            "date_added": "2012-07-05 21:22:31",
-            "date_last_updated": "2014-12-30 14:18:10",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 172: Unthinkable</li><li>Chapter 173: Recklessness and Unpredictability</li><li>Chapter 174: Power Of Determination</li><li>Chapter 175: All-Out Battle</li><li>Chapter 176: High Point</li><li>Chapter 177: Unknown Factor</li><li>Chapter 178: Vision</li><li>Chapter 179: Full Attack, Full Defense</li><li>Chapter 180: Break 2</li><li>Chapter 181: Acknowledgement</li></ul>",
-            "has_staff_review": false,
-            "id": 344633,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2450063-19_cropped.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2450063-19_cropped.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2450063-19_cropped.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2450063-19_cropped.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2450063-19_cropped.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2450063-19_cropped.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2450063-19_cropped.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2450063-19_cropped.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2450063-19_cropped.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/baby-steps-19-vol-19/4000-344633/",
-            "store_date": "2011-11-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50225/",
-                "id": 50225,
-                "name": "Baby Steps",
-                "site_detail_url": "https://comicvine.gamespot.com/baby-steps/4050-50225/"
-            }
-        }
-    ],
-    "2011-11-21|2011-11-27": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-303415/",
             "cover_date": "2012-01-01",
             "date_added": "2011-11-23 05:12:12",
@@ -1566,9 +1159,7 @@
                 "name": "Secret Avengers",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-avengers/4050-33350/"
             }
-        }
-    ],
-    "2011-11-28|2011-12-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-304470/",
@@ -1640,109 +1231,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/haunt/4050-28398/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-397668/",
-            "cover_date": "2011-12-31",
-            "date_added": "2013-04-16 08:52:40",
-            "date_last_updated": "2017-12-14 22:20:47",
-            "deck": null,
-            "description": "<p><strong>Proper Japanese Title</strong>: <i>Kaidan: Kudan</i> (怪談・件)</p><h2>Chapter Titles</h2><ul><li>Chapter 157: Those Who Are Born (生まれ出でし者共 <i>Umareideshi Monodomo</i>)</li><li>Chapter 158: Sakazuki Exchanged in the Depths of a Strange Land (異境の淵で交わす盃 <i>Ikyō no Fuchi de Kawasu Sakazuki</i>)</li><li>Chapter 159: Battle Cry (鬨の声 <i>Toki no Koe</i>)</li><li>Chapter 160: Prediction (予言 <i>Yogen</i>)</li><li>Chapter 161: Strange Appetite (悪食 <i>Akujiki</i>)</li><li>Chapter 162: Transformation of Resolution (覚悟の変化 <i>Kakugo no Henge</i>)</li><li>Chapter 163: Tokyo Tag (東京鬼ごっこ <i>Tōkyō Onigokko</i>)</li><li>Chapter 164: The Chasers and the Chased (追う者追われる者 <i>Ou Mono Owareru Mono</i>)</li><li>Chapter 165: Raiden (雷電 <i>Raiden</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 397668,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2986735-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2986735-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2986735-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2986735-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2986735-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2986735-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2986735-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2986735-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2986735-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Kaidan: Kudan",
-            "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago-19-kaidan-kudan/4000-397668/",
-            "store_date": "2011-12-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60036/",
-                "id": 60036,
-                "name": "Nurarihyon no Mago",
-                "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago/4050-60036/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423545/",
-            "cover_date": "2011-11-01",
-            "date_added": "2013-08-26 09:13:05",
-            "date_last_updated": "2013-08-26 09:23:52",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 423545,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267928-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267928-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267928-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267928-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267928-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267928-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267928-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267928-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3267928-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": "Vol. 19",
-            "site_detail_url": "https://comicvine.gamespot.com/7seeds-19-vol-19/4000-423545/",
-            "store_date": "2011-11-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66763/",
-                "id": 66763,
-                "name": "7SEEDS",
-                "site_detail_url": "https://comicvine.gamespot.com/7-s-e-e-d-s/4050-66763/"
-            }
-        }
-    ],
-    "2011-12-05|2011-12-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-431873/",
-            "cover_date": "2012-01-01",
-            "date_added": "2013-11-03 02:21:13",
-            "date_last_updated": "2013-11-03 02:28:14",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 431873,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419720-19.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419720-19.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419720-19.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419720-19.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419720-19.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419720-19.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419720-19.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419720-19.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3419720-19.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "19",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk-19/4000-431873/",
-            "store_date": "2011-12-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68871/",
-                "id": 68871,
-                "name": "Comic Megamilk",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk/4050-68871/"
-            }
-        }
-    ],
-    "2011-12-12|2011-12-18": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-305652/",
@@ -1845,6 +1333,605 @@
                 "id": 38217,
                 "name": "DC Universe Online Legends",
                 "site_detail_url": "https://comicvine.gamespot.com/dc-universe-online-legends/4050-38217/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-307451/",
+            "cover_date": "2012-02-01",
+            "date_added": "2011-12-20 04:13:12",
+            "date_last_updated": "2013-02-16 17:48:07",
+            "deck": null,
+            "description": "<p><i>The aftermath of The Dark Angel Saga! A member lost! New members gained! An Avenger discovers the secret of X-Force! Fantomex and Ultimaton must allow the world’s most powerful weapon to leave their care. Elizabeth Braddock must say goodbye to the man she loves. New friends must stand and make a suicide march. Next generation superstar artist Robbi Rodriguez joins Rick Remender to break your heart.</i></p>",
+            "has_staff_review": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/review/1900-421/",
+                "id": 421,
+                "name": "Uncanny X-Force #19 Review",
+                "site_detail_url": "https://comicvine.gamespot.com/reviews/uncanny-x-force-19/1900-421/"
+            },
+            "id": 307451,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2130730-prv10826_cov.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2130730-prv10826_cov.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2130730-prv10826_cov.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2130730-prv10826_cov.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2130730-prv10826_cov.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2130730-prv10826_cov.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2130730-prv10826_cov.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2130730-prv10826_cov.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2130730-prv10826_cov.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Live With This, Chapter One",
+            "site_detail_url": "https://comicvine.gamespot.com/uncanny-x-force-19-live-with-this-chapter-one/4000-307451/",
+            "store_date": "2011-12-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35835/",
+                "id": 35835,
+                "name": "Uncanny X-Force",
+                "site_detail_url": "https://comicvine.gamespot.com/uncanny-x-force/4050-35835/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-307727/",
+            "cover_date": "2012-02-01",
+            "date_added": "2011-12-22 19:42:58",
+            "date_last_updated": "2012-01-20 04:44:03",
+            "deck": null,
+            "description": "<p><i>MISADVENTURES IN BABYSITTING continues! What could possibly go wrong for X-23, on an already disastrous night? More dragons? Hellion and his bad mood? How about being kidnapped to another galaxy by... THE COLLECTOR?</i></p>",
+            "has_staff_review": false,
+            "id": 307727,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2168161-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2168161-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2168161-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2168161-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2168161-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2168161-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2168161-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2168161-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2168161-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Misadventures in Babysitting, Part 3",
+            "site_detail_url": "https://comicvine.gamespot.com/x-23-19-misadventures-in-babysitting-part-3/4000-307727/",
+            "store_date": "2011-12-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35496/",
+                "id": 35496,
+                "name": "X-23",
+                "site_detail_url": "https://comicvine.gamespot.com/x-23/4050-35496/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-307881/",
+            "cover_date": "2011-10-01",
+            "date_added": "2011-12-24 11:01:44",
+            "date_last_updated": "2018-11-15 20:08:11",
+            "deck": null,
+            "description": "<p><i>Gantz's reluctant alien-hunting hero, Kei, has had to deal with all sorts of selfish and seedy teammates, but somehow he's recently fought alongside his best partners yet. Unfortunately, this might be his last fight with them. Not that his story is over, however.</i></p>",
+            "has_staff_review": false,
+            "id": 307881,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2135316-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2135316-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2135316-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2135316-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2135316-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2135316-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2135316-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2135316-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2135316-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Volume 19",
+            "site_detail_url": "https://comicvine.gamespot.com/gantz-19-volume-19/4000-307881/",
+            "store_date": "2011-10-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-27611/",
+                "id": 27611,
+                "name": "Gantz",
+                "site_detail_url": "https://comicvine.gamespot.com/gantz/4050-27611/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-344633/",
+            "cover_date": "2011-11-17",
+            "date_added": "2012-07-05 21:22:31",
+            "date_last_updated": "2014-12-30 14:18:10",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 172: Unthinkable</li><li>Chapter 173: Recklessness and Unpredictability</li><li>Chapter 174: Power Of Determination</li><li>Chapter 175: All-Out Battle</li><li>Chapter 176: High Point</li><li>Chapter 177: Unknown Factor</li><li>Chapter 178: Vision</li><li>Chapter 179: Full Attack, Full Defense</li><li>Chapter 180: Break 2</li><li>Chapter 181: Acknowledgement</li></ul>",
+            "has_staff_review": false,
+            "id": 344633,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2450063-19_cropped.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2450063-19_cropped.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2450063-19_cropped.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2450063-19_cropped.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2450063-19_cropped.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2450063-19_cropped.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2450063-19_cropped.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2450063-19_cropped.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2450063-19_cropped.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/baby-steps-19-vol-19/4000-344633/",
+            "store_date": "2011-11-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50225/",
+                "id": 50225,
+                "name": "Baby Steps",
+                "site_detail_url": "https://comicvine.gamespot.com/baby-steps/4050-50225/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356165/",
+            "cover_date": "2011-08-31",
+            "date_added": "2012-09-06 14:30:36",
+            "date_last_updated": "2015-02-28 10:51:43",
+            "deck": null,
+            "description": "<h2>Cover Illustration</h2><ul><li>石恵</li><li>ピンナップ：INAZUMA</li></ul><h2>Color Comics</h2><ul><li>[常春荘へようこそ] 如月群真</li><li>[幼なじみとなつやすみ] inkey</li><li>[ナツミツ] 篠塚醸二</li><li>[流されて無人島] 鰻丸</li></ul><h2>Original Comics</h2><ul><li>[私の胸、変じゃない？] DISTANCE</li><li>[Exclusive Blend] 藤ます</li><li>[夢見る体操着] けこちゃ</li><li>[心的強勢緩和生命体 ハチベエくん] 無望菜志</li><li>[2tactics] ゆきみ</li><li>[スイミングクラブ] Hisasi</li><li>[桃色のあの娘にゃ手が出せない] 大守春雨</li><li>[お嬢様の課外授業] 槍衣七五三太</li><li>[おね♥すれ] こごろー</li><li>[発恋期 case.2] 久川ちん</li><li>[そとの国のヨメ] 睦茸</li><li>[ある日彼女が変わるとき] 雪城よし</li><li>[超熱帯夜orgy] 黒咲練導</li><li>[イイタさんペイロード] 玄鉄絢</li></ul>",
+            "has_staff_review": false,
+            "id": 356165,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2576612-comic_hot_milk_v_23.png",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2576612-comic_hot_milk_v_23.png",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2576612-comic_hot_milk_v_23.png",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2576612-comic_hot_milk_v_23.png",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2576612-comic_hot_milk_v_23.png",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2576612-comic_hot_milk_v_23.png",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2576612-comic_hot_milk_v_23.png",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2576612-comic_hot_milk_v_23.png",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2576612-comic_hot_milk_v_23.png",
+                "image_tags": "All Images,COMIC Hotmilk"
+            },
+            "issue_number": "19",
+            "name": "COMIC Hotmilk Aug. 2011",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk-19-comic-hotmilk-aug-2011/4000-356165/",
+            "store_date": "2011-07-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51911/",
+                "id": 51911,
+                "name": "COMIC Hotmilk",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-392926/",
+            "cover_date": "2011-07-31",
+            "date_added": "2013-03-14 20:47:00",
+            "date_last_updated": "2017-12-04 12:29:25",
+            "deck": null,
+            "description": "<p><strong>Proper Japanese Title</strong>: ラブリーバニーガール <em>(Raburī Banī Gāru)</em></p><h2>Chapter Titles</h2><ul><li>Chapter 163: Lovely Bunny Girl (ラブリーバニーガール, <em>Raburii banii gaaru</em>)</li><li>Chapter 164: The Second Character Popularity Contest Results Announcement (第2回キャラクター人気投票結果発表, <em>Dainikai kyarakutaa ninkitōhyō kekka happyō</em>)</li><li>Chapter 165: The Man Who Became a Stick Figure (棒になった男, <em>Bō ni natta otoko</em>)</li><li>Chapter 166: Renovation!! Dramatically, Subtly, Hastily (大改造!! 劇的ビミョーあたふた, <em>Daikaizō!! Gekiteki bimyō atafuta</em>)</li><li>Chapter 167: Makes My Heart Pound (ドキドキする, <em>Dokidoki suru</em>)</li><li>Chapter 168: The Super Awesome Pii Ah!-Shborn (ゴッツーケーピーアッシュボーン)</li><li>Chapter 169: The Let's Work Together to Increase Our Powers of Concentration Study Meeting (集中力を高めみんなで協力し合う勉強会, <em>Shūchūryoku o takame minna de kyōryokushiau benkyō kai</em>)</li><li>Chapter 170: Christmas Card, Part 1 (クリスマスカード前編, <em>Kurisumasu kaado zenpen</em>)</li><li>Chapter 171: Christmas Card, Part 2 (クリスマスカード後編, <em>Kurisumasu kaado kōhen</em>)</li></ul>",
+            "has_staff_review": false,
+            "id": 392926,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2929111-10426_v19_front.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2929111-10426_v19_front.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2929111-10426_v19_front.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2929111-10426_v19_front.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2929111-10426_v19_front.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2929111-10426_v19_front.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2929111-10426_v19_front.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2929111-10426_v19_front.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2929111-10426_v19_front.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Lovely Bunny Girl",
+            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-19-lovely-bunny-girl/4000-392926/",
+            "store_date": "2011-07-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
+                "id": 43866,
+                "name": "Sket Dance",
+                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-397668/",
+            "cover_date": "2011-12-31",
+            "date_added": "2013-04-16 08:52:40",
+            "date_last_updated": "2017-12-14 22:20:47",
+            "deck": null,
+            "description": "<p><strong>Proper Japanese Title</strong>: <i>Kaidan: Kudan</i> (怪談・件)</p><h2>Chapter Titles</h2><ul><li>Chapter 157: Those Who Are Born (生まれ出でし者共 <i>Umareideshi Monodomo</i>)</li><li>Chapter 158: Sakazuki Exchanged in the Depths of a Strange Land (異境の淵で交わす盃 <i>Ikyō no Fuchi de Kawasu Sakazuki</i>)</li><li>Chapter 159: Battle Cry (鬨の声 <i>Toki no Koe</i>)</li><li>Chapter 160: Prediction (予言 <i>Yogen</i>)</li><li>Chapter 161: Strange Appetite (悪食 <i>Akujiki</i>)</li><li>Chapter 162: Transformation of Resolution (覚悟の変化 <i>Kakugo no Henge</i>)</li><li>Chapter 163: Tokyo Tag (東京鬼ごっこ <i>Tōkyō Onigokko</i>)</li><li>Chapter 164: The Chasers and the Chased (追う者追われる者 <i>Ou Mono Owareru Mono</i>)</li><li>Chapter 165: Raiden (雷電 <i>Raiden</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 397668,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2986735-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2986735-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2986735-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2986735-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2986735-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2986735-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2986735-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2986735-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2986735-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Kaidan: Kudan",
+            "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago-19-kaidan-kudan/4000-397668/",
+            "store_date": "2011-12-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60036/",
+                "id": 60036,
+                "name": "Nurarihyon no Mago",
+                "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago/4050-60036/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-418112/",
+            "cover_date": "2011-09-22",
+            "date_added": "2013-07-17 14:59:25",
+            "date_last_updated": "2017-08-11 09:29:29",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 418112,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3180271-5818941552-54092.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3180271-5818941552-54092.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3180271-5818941552-54092.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3180271-5818941552-54092.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3180271-5818941552-54092.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3180271-5818941552-54092.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3180271-5818941552-54092.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3180271-5818941552-54092.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3180271-5818941552-54092.jpg",
+                "image_tags": "All Images,Misc, Manga Covers"
+            },
+            "issue_number": "19",
+            "name": "Volume 19",
+            "site_detail_url": "https://comicvine.gamespot.com/nagasarete-airantou-19-volume-19/4000-418112/",
+            "store_date": "2011-09-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65469/",
+                "id": 65469,
+                "name": "Nagasarete Airantou",
+                "site_detail_url": "https://comicvine.gamespot.com/nagasarete-airantou/4050-65469/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423545/",
+            "cover_date": "2011-11-01",
+            "date_added": "2013-08-26 09:13:05",
+            "date_last_updated": "2013-08-26 09:23:52",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 423545,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267928-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267928-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267928-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267928-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267928-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267928-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267928-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267928-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3267928-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/7seeds-19-vol-19/4000-423545/",
+            "store_date": "2011-11-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66763/",
+                "id": 66763,
+                "name": "7SEEDS",
+                "site_detail_url": "https://comicvine.gamespot.com/7-s-e-e-d-s/4050-66763/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-431873/",
+            "cover_date": "2012-01-01",
+            "date_added": "2013-11-03 02:21:13",
+            "date_last_updated": "2013-11-03 02:28:14",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 431873,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419720-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419720-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419720-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419720-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419720-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419720-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419720-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419720-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3419720-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk-19/4000-431873/",
+            "store_date": "2011-12-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68871/",
+                "id": 68871,
+                "name": "Comic Megamilk",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk/4050-68871/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438450/",
+            "cover_date": "2011-04-22",
+            "date_added": "2013-12-23 16:58:39",
+            "date_last_updated": "2013-12-23 17:05:07",
+            "deck": null,
+            "description": "<p>Chapter 178-187.</p>",
+            "has_staff_review": false,
+            "id": 438450,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3522815-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3522815-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3522815-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3522815-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3522815-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3522815-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3522815-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3522815-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3522815-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Volume 19",
+            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-19-volume-19/4000-438450/",
+            "store_date": "2011-04-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
+                "id": 44126,
+                "name": "Giant Killing",
+                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467464/",
+            "cover_date": "2011-09-30",
+            "date_added": "2014-10-03 04:41:19",
+            "date_last_updated": "2014-10-03 05:29:48",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Ride.155: Sohoku in Second Place (総北２位)</li><li>Ride.156: Midousuji's Decision (御堂筋の決意)</li><li>Ride.157: The 3km to the Pharmacy (薬局までの３ｋｍ)</li><li>Ride.158: The Third Day Begins! (動き出す、3日目!)</li><li>Ride.159: Lucky Man Machimiya (モってる男　待宮)</li><li>Ride.160: The Man Who Won't Come (来ない男)</li><li>Ride.161: The Last Start (最後のスタート)</li><li>Ride.162: Cooperation (協調)</li><li>Ride.163: Reunion With the Front (先頭交流)</li></ul>",
+            "has_staff_review": false,
+            "id": 467464,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4136109-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4136109-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4136109-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4136109-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4136109-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4136109-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4136109-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4136109-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4136109-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal-19-vol-19/4000-467464/",
+            "store_date": "2011-09-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77394/",
+                "id": 77394,
+                "name": "Yowamushi Pedal",
+                "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal/4050-77394/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474425/",
+            "cover_date": "2011-12-31",
+            "date_added": "2014-12-20 09:16:20",
+            "date_last_updated": "2014-12-20 10:07:42",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474425,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285665-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285665-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285665-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285665-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285665-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285665-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285665-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285665-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285665-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-19/4000-474425/",
+            "store_date": "2011-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481340/",
+            "cover_date": "2011-03-19",
+            "date_added": "2015-02-28 17:10:43",
+            "date_last_updated": "2015-02-28 17:30:27",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 481340,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4421720-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4421720-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4421720-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4421720-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4421720-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4421720-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4421720-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4421720-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4421720-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman-19-vol-19/4000-481340/",
+            "store_date": "2011-03-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80408/",
+                "id": 80408,
+                "name": "Kyou Kara Hitman",
+                "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman/4050-80408/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-529605/",
+            "cover_date": "2011-12-20",
+            "date_added": "2016-05-10 03:16:07",
+            "date_last_updated": "2018-01-20 22:50:39",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 529605,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5218227-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5218227-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5218227-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5218227-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5218227-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5218227-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5218227-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5218227-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5218227-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/saint-seiya-episodeg-19-vol-19/4000-529605/",
+            "store_date": "2011-12-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90440/",
+                "id": 90440,
+                "name": "Saint Seiya Episode.G",
+                "site_detail_url": "https://comicvine.gamespot.com/saint-seiya-episodeg/4050-90440/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554123/",
+            "cover_date": "2011-12-27",
+            "date_added": "2016-10-18 12:02:28",
+            "date_last_updated": "2017-04-13 17:24:03",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554123,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5490760-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5490760-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5490760-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5490760-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5490760-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5490760-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5490760-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5490760-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5490760-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/danchi-tomoo-19-vol-19/4000-554123/",
+            "store_date": "2011-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93712/",
+                "id": 93712,
+                "name": "Danchi Tomoo",
+                "site_detail_url": "https://comicvine.gamespot.com/danchi-tomoo/4050-93712/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-570631/",
+            "cover_date": "2011-12-19",
+            "date_added": "2016-12-24 10:37:20",
+            "date_last_updated": "2016-12-24 10:58:50",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 570631,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5609450-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5609450-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5609450-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5609450-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5609450-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5609450-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5609450-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5609450-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5609450-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/sommeliere-19-vol-19/4000-570631/",
+            "store_date": "2011-12-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97244/",
+                "id": 97244,
+                "name": "Sommelière",
+                "site_detail_url": "https://comicvine.gamespot.com/sommeliere/4050-97244/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-584886/",
+            "cover_date": "2011-08-19",
+            "date_added": "2017-03-05 22:52:26",
+            "date_last_updated": "2017-03-05 23:03:01",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 584886,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5733566-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5733566-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5733566-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5733566-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5733566-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5733566-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5733566-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5733566-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5733566-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Vol. 19",
+            "site_detail_url": "https://comicvine.gamespot.com/pokka-poka-19-vol-19/4000-584886/",
+            "store_date": "2011-08-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99413/",
+                "id": 99413,
+                "name": "Pokka Poka",
+                "site_detail_url": "https://comicvine.gamespot.com/pokka-poka/4050-99413/"
             }
         }
     ]

@@ -1,8 +1,5 @@
 {
-    "2016-12-26|2017-01-01": [],
-    "2016-01-04|2016-01-10": [],
-    "2016-01-11|2016-01-17": [],
-    "2016-01-18|2016-01-24": [
+    "2016-01-01|2016-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-511542/",
@@ -35,10 +32,7 @@
                 "name": "The Transformers",
                 "site_detail_url": "https://comicvine.gamespot.com/the-transformers/4050-78066/"
             }
-        }
-    ],
-    "2016-01-25|2016-01-31": [],
-    "2016-02-01|2016-02-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-513615/",
@@ -170,9 +164,7 @@
                 "name": "Green Lantern",
                 "site_detail_url": "https://comicvine.gamespot.com/green-lantern/4050-42808/"
             }
-        }
-    ],
-    "2016-02-08|2016-02-14": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-514392/",
@@ -312,41 +304,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517232/",
-            "cover_date": "2016-02-29",
-            "date_added": "2016-02-26 02:09:22",
-            "date_last_updated": "2016-03-03 23:31:45",
-            "deck": null,
-            "description": "<h2> Story Titles</h2><ul><li>Der See unter dem Eis</li><li>Generaloberstwaldmeister ehrenhalber</li><li>Der mit den Gänsen zieht</li><li>Die Superspürnase</li><li>Die grosse Flut</li><li>Bienen, Bären und Betrüger</li><li>Die Aufnahmeprüfung</li><li>unter Verdacht</li><li>Mütter im Anmarsch</li><li>Die Retourkutsche</li><li>Der Praktikumsplatz</li><li>In geheimer Mission</li><li>Ein Junge wie jeder andere</li></ul>",
-            "has_staff_review": false,
-            "id": 517232,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Allzeit bereit! - 65 Jahre Fähnlein Fieselschweif",
-            "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-enten-edition-49-allzeit-bere/4000-517232/",
-            "store_date": "2016-02-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88447/",
-                "id": 88447,
-                "name": "Lustiges Taschenbuch Enten-Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
-            }
-        }
-    ],
-    "2016-02-15|2016-02-21": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-516070/",
             "cover_date": "2016-04-30",
             "date_added": "2016-02-16 02:49:06",
@@ -377,9 +334,7 @@
                 "name": "Wonder Woman",
                 "site_detail_url": "https://comicvine.gamespot.com/wonder-woman/4050-42953/"
             }
-        }
-    ],
-    "2016-02-22|2016-02-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-516912/",
@@ -416,6 +371,39 @@
                 "id": 43022,
                 "name": "Aquaman",
                 "site_detail_url": "https://comicvine.gamespot.com/aquaman/4050-43022/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-516915/",
+            "cover_date": "2016-05-31",
+            "date_added": "2016-02-23 06:09:22",
+            "date_last_updated": "2016-03-02 16:56:14",
+            "deck": null,
+            "description": "<p><em>To unravel the secret of Batgirl’s bizarre new nemesis, her friends must travel to strange and uncharted territory: the inside of Barbara Gordon’s spectacular mind!</em></p><p><strong>Note</strong>: The digital edition (2/24/2016) for this issue was released before the print edition.</p>",
+            "has_staff_review": false,
+            "id": 516915,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5077584-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5077584-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5077584-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5077584-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5077584-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5077584-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5077584-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5077584-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5077584-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Mindfield",
+            "site_detail_url": "https://comicvine.gamespot.com/batgirl-49-mindfield/4000-516915/",
+            "store_date": "2016-03-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42604/",
+                "id": 42604,
+                "name": "Batgirl",
+                "site_detail_url": "https://comicvine.gamespot.com/batgirl/4050-42604/"
             }
         },
         {
@@ -483,44 +471,40 @@
                 "name": "Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/superman/4050-42986/"
             }
-        }
-    ],
-    "2016-02-29|2016-03-06": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-516915/",
-            "cover_date": "2016-05-31",
-            "date_added": "2016-02-23 06:09:22",
-            "date_last_updated": "2016-03-02 16:56:14",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517232/",
+            "cover_date": "2016-02-29",
+            "date_added": "2016-02-26 02:09:22",
+            "date_last_updated": "2016-03-03 23:31:45",
             "deck": null,
-            "description": "<p><em>To unravel the secret of Batgirl’s bizarre new nemesis, her friends must travel to strange and uncharted territory: the inside of Barbara Gordon’s spectacular mind!</em></p><p><strong>Note</strong>: The digital edition (2/24/2016) for this issue was released before the print edition.</p>",
+            "description": "<h2> Story Titles</h2><ul><li>Der See unter dem Eis</li><li>Generaloberstwaldmeister ehrenhalber</li><li>Der mit den Gänsen zieht</li><li>Die Superspürnase</li><li>Die grosse Flut</li><li>Bienen, Bären und Betrüger</li><li>Die Aufnahmeprüfung</li><li>unter Verdacht</li><li>Mütter im Anmarsch</li><li>Die Retourkutsche</li><li>Der Praktikumsplatz</li><li>In geheimer Mission</li><li>Ein Junge wie jeder andere</li></ul>",
             "has_staff_review": false,
-            "id": 516915,
+            "id": 517232,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5077584-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5077584-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5077584-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5077584-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5077584-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5077584-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5077584-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5077584-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5077584-49.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5069555-ltb%20-%20enten-edition%20-%2049%20-%20seite%20.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "49",
-            "name": "Mindfield",
-            "site_detail_url": "https://comicvine.gamespot.com/batgirl-49-mindfield/4000-516915/",
-            "store_date": "2016-03-02",
+            "name": "Allzeit bereit! - 65 Jahre Fähnlein Fieselschweif",
+            "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-enten-edition-49-allzeit-bere/4000-517232/",
+            "store_date": "2016-02-12",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42604/",
-                "id": 42604,
-                "name": "Batgirl",
-                "site_detail_url": "https://comicvine.gamespot.com/batgirl/4050-42604/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88447/",
+                "id": 88447,
+                "name": "Lustiges Taschenbuch Enten-Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
             }
-        }
-    ],
-    "2016-03-07|2016-03-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-525127/",
@@ -553,49 +537,7 @@
                 "name": "Batman",
                 "site_detail_url": "https://comicvine.gamespot.com/batman/4050-51694/"
             }
-        }
-    ],
-    "2016-03-14|2016-03-20": [],
-    "2016-03-21|2016-03-27": [],
-    "2016-03-28|2016-04-03": [],
-    "2016-04-04|2016-04-10": [],
-    "2016-04-11|2016-04-17": [],
-    "2016-04-18|2016-04-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-527222/",
-            "cover_date": "2016-04-30",
-            "date_added": "2016-04-26 09:25:46",
-            "date_last_updated": "2016-04-27 17:47:23",
-            "deck": null,
-            "description": "<p><em>Chapter 07 of Avaiyo, Vol. 04</em></p><p><em>An unforeseen circumstance. Emerald Moon stands before the Plesboran slaves...at the complete mercy of Sekken's decision to release them from Purgatory.</em></p>",
-            "has_staff_review": false,
-            "id": 527222,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5174100-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5174100-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5174100-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5174100-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5174100-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5174100-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5174100-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5174100-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5174100-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Permissible Influence",
-            "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law-49-permissible-influence/4000-527222/",
-            "store_date": "2016-04-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80799/",
-                "id": 80799,
-                "name": "Avaiyo: Myriad Law",
-                "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law/4050-80799/"
-            }
-        }
-    ],
-    "2016-04-25|2016-05-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-527115/",
@@ -633,11 +575,40 @@
                 "name": "Justice League",
                 "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-42488/"
             }
-        }
-    ],
-    "2016-05-02|2016-05-08": [],
-    "2016-05-09|2016-05-15": [],
-    "2016-05-16|2016-05-22": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-527222/",
+            "cover_date": "2016-04-30",
+            "date_added": "2016-04-26 09:25:46",
+            "date_last_updated": "2016-04-27 17:47:23",
+            "deck": null,
+            "description": "<p><em>Chapter 07 of Avaiyo, Vol. 04</em></p><p><em>An unforeseen circumstance. Emerald Moon stands before the Plesboran slaves...at the complete mercy of Sekken's decision to release them from Purgatory.</em></p>",
+            "has_staff_review": false,
+            "id": 527222,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5174100-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5174100-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5174100-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5174100-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5174100-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5174100-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5174100-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5174100-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5174100-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Permissible Influence",
+            "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law-49-permissible-influence/4000-527222/",
+            "store_date": "2016-04-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80799/",
+                "id": 80799,
+                "name": "Avaiyo: Myriad Law",
+                "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law/4050-80799/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530825/",
@@ -670,11 +641,7 @@
                 "name": "The Sixth Gun",
                 "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun/4050-33090/"
             }
-        }
-    ],
-    "2016-05-23|2016-05-29": [],
-    "2016-05-30|2016-06-05": [],
-    "2016-06-06|2016-06-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535478/",
@@ -710,42 +677,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-672552/",
-            "cover_date": "2016-07-01",
-            "date_added": "2018-06-08 06:53:39",
-            "date_last_updated": "2018-06-09 06:50:51",
-            "deck": null,
-            "description": "<p>Translates Action Comics #43-44.</p>",
-            "has_staff_review": false,
-            "id": 672552,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6461655-5857079705-SUPER.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6461655-5857079705-SUPER.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6461655-5857079705-SUPER.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6461655-5857079705-SUPER.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6461655-5857079705-SUPER.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6461655-5857079705-SUPER.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6461655-5857079705-SUPER.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6461655-5857079705-SUPER.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6461655-5857079705-SUPER.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/superman-49/4000-672552/",
-            "store_date": "2016-06-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60404/",
-                "id": 60404,
-                "name": "Superman",
-                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-60404/"
-            }
-        }
-    ],
-    "2016-06-13|2016-06-19": [],
-    "2016-06-20|2016-06-26": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-537430/",
             "cover_date": "2016-06-24",
             "date_added": "2016-06-23 02:59:56",
@@ -775,6 +706,336 @@
                 "id": 83493,
                 "name": "DC Comics Bombshells",
                 "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells/4050-83493/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539303/",
+            "cover_date": "2016-07-31",
+            "date_added": "2016-07-12 09:07:37",
+            "date_last_updated": "2018-05-03 20:31:04",
+            "deck": null,
+            "description": "<p><em>The hunt for the Ace of Spades continues as Calie and Violet head to the beaches of south Florida to face the Queen of Hearts. Though the Queen is surrounded by dedicated servants, something is awry in the kingdom of sun and sand. Will Calie and Violet's arrival spell the end of the Ace's armies, or is this another piece of his elaborate scheme to rule over Wonderland?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Roger Bonet &amp; Beezzz Studio</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Noah Salonga &amp; Jorge Cortes</td><td>4</td></tr><tr><td>C</td><td>Cover C</td><td>Martin Able</td><td>5</td></tr><tr><td>D</td><td>4th of July Exclusive Cover, Limited to 200</td><td>Michael Dooney &amp; Ula Mos</td><td>Missing</td></tr><tr><td>E</td><td>San Diego Comic-Con Exclusive 4th of July Variant Cover, Limited to 200</td><td>Michael Dooney &amp; Ula Mos</td><td>2</td></tr><tr><td>F</td><td>San Diego Comic-Con Exclusive Cosplay Variant Cover, Limited to 25</td><td>Paul Green &amp; Ula Mos</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 539303,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5319625-49a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5319625-49a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5319625-49a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5319625-49a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5319625-49a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5319625-49a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5319625-49a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5319625-49a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5319625-49a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Queen of Hearts",
+            "site_detail_url": "https://comicvine.gamespot.com/wonderland-49-queen-of-hearts/4000-539303/",
+            "store_date": "2016-07-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50639/",
+                "id": 50639,
+                "name": "Wonderland",
+                "site_detail_url": "https://comicvine.gamespot.com/wonderland/4050-50639/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-544782/",
+            "cover_date": "2016-08-31",
+            "date_added": "2016-08-15 20:32:55",
+            "date_last_updated": "2016-08-17 09:26:14",
+            "deck": null,
+            "description": "<p><em>Everybody’s favorite one-eyed, two-fisted sailor, Popeye, is back in his gloriously funny comic book of vintage hi-jinks! Five brilliantly written and drawn features pack this ish: An adorbable Swee’pea comic, a gut-splitting Wimpy tale, and more!</em></p><h2>Contents</h2><ul><li>Popeye and Olive Oyl in Trillionaire Lady</li><li>Popeye and Wimpy in Beware of the Moocher!</li><li>Professor O.G. Wotasnozzle</li></ul><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Bud Sagendorf</td><td>1</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Dave Pryor</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 544782,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5383946-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5383946-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5383946-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5383946-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5383946-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5383946-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5383946-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5383946-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5383946-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/classic-popeye-49/4000-544782/",
+            "store_date": "2016-08-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51285/",
+                "id": 51285,
+                "name": "Classic Popeye",
+                "site_detail_url": "https://comicvine.gamespot.com/classic-popeye/4050-51285/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-547265/",
+            "cover_date": "2016-08-31",
+            "date_added": "2016-08-30 09:53:40",
+            "date_last_updated": "2016-09-05 16:09:08",
+            "deck": null,
+            "description": "<p><em>Long live the king! The march to X-O MANOWAR #50 soldiers onward!</em></p><p><em>Witness the last stand of Earth's greatest champion, X-O Manowar! With the world besieged by the Torment, Aric of Dacia has united his bravest allies and fiercest enemies for a last ditch effort to avert armageddon. But will even their combined strength be enough against the seemingly infinite powers of this </em><em>unfathomable cosmic race?</em></p><p><em>Plus: The X-O MANOWAR #50 COUNTDOWN GIVEAWAY continues right here! Each issue of \"LONG LIVE THE KING\" comes bagged with one of 50 micro-prints - featuring artwork from a who's who of comic superstars - or even one-of-a-kind original art!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Kano</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Phil Jimenez</td><td>2</td></tr><tr><td>C</td><td>Cover C</td><td>Khoi Pham &amp; Jeromy Cox</td><td>3</td></tr><tr><td>D</td><td>1:10 Retailer Incentive Cover D</td><td>Francis Portela &amp; Andrew Dalhouse</td><td>4</td></tr><tr><td>E</td><td>1:20 Retailer Incentive Cover E</td><td>Juan Jose Ryp &amp; Ulises Arreola</td><td>5</td></tr><tr><td>F</td><td>1:50 Retailer Incentive Cover F</td><td>Adam Gorham &amp; Michael Spicer</td><td>6</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 547265,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5408854-49a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5408854-49a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5408854-49a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5408854-49a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5408854-49a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5408854-49a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5408854-49a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5408854-49a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5408854-49a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Long Live the King Part 3: The Banners of War",
+            "site_detail_url": "https://comicvine.gamespot.com/x-o-manowar-49-long-live-the-king-part-3-the-banne/4000-547265/",
+            "store_date": "2016-08-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-48559/",
+                "id": 48559,
+                "name": "X-O Manowar",
+                "site_detail_url": "https://comicvine.gamespot.com/x-o-manowar/4050-48559/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554389/",
+            "cover_date": "2016-06-30",
+            "date_added": "2016-10-18 13:40:28",
+            "date_last_updated": "2017-04-13 21:35:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554389,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491096-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491096-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491096-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491096-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491096-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491096-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491096-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491096-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491096-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Vol. 49",
+            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-49-vol-49/4000-554389/",
+            "store_date": "2016-06-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
+                "id": 93693,
+                "name": "Mogura no Uta",
+                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-556556/",
+            "cover_date": "2016-10-18",
+            "date_added": "2016-11-01 04:21:23",
+            "date_last_updated": "2016-11-01 04:43:56",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 1 (#525) Even Mario Kart is Fun Because Everyone Plays it Together</li><li>Chapter 2 (#526) The Adventure Begins At Najimi Tower</li><li>Chapter 3 (#527) A Ponkotu's Thoughts Are Much Like Taking A Break</li><li>Chapter 4 (#528) Half of Life is Made of Mean Tricks and Pointless Things</li><li>Chapter 5 (#529) Pop Star</li><li>Chapter 6 (#530) Dreams Come In Many Forms</li><li>Chapter 7 (#531) I Want To Be Teased As The One Guy In A Group Of Girls</li><li>Chapter 8 (#532) Where Everything Is Said To Be</li><li>Chapter 9 (#533) I Don't Like To Be Shocked, So I Read Mystery Novels Only After Knowing Who Did It</li><li>Chapter 10 (#534) Love, A Racing Heart, And A Kiss</li><li>Chapter 11 (#535) Two Lies Do Not Make The Truth</li></ul>",
+            "has_staff_review": false,
+            "id": 556556,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5511863-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5511863-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5511863-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5511863-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5511863-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5511863-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5511863-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5511863-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5511863-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Vol. 49",
+            "site_detail_url": "https://comicvine.gamespot.com/hayate-no-gotoku-49-vol-49/4000-556556/",
+            "store_date": "2016-10-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54620/",
+                "id": 54620,
+                "name": "Hayate no Gotoku!",
+                "site_detail_url": "https://comicvine.gamespot.com/hayate-no-gotoku/4050-54620/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561673/",
+            "cover_date": "2017-01-01",
+            "date_added": "2016-11-27 20:31:13",
+            "date_last_updated": "2018-09-15 16:21:07",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 561673,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5556661-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5556661-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5556661-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5556661-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5556661-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5556661-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5556661-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5556661-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5556661-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-49/4000-561673/",
+            "store_date": "2016-11-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
+                "id": 89126,
+                "name": "Comic X-Eros",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-569372/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-20 11:44:58",
+            "date_last_updated": "2018-10-13 00:34:56",
+            "deck": null,
+            "description": "<p><em>“Chaos Theory,” Part 2 (of 3). With Accord's powers affecting the ponies of Equestria, Twilight and company will have to resort to unorthodox measures to get Discord back to normal! Well, normal for Discord!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Andy Price</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Sara Richard</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>s-bis</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 569372,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5601868-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5601868-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5601868-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5601868-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5601868-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5601868-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5601868-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5601868-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5601868-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Accord Part the Second: In All Chaos There Is A Cosmos, In All Disorder A Secret Order.",
+            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic-49-accord-part-/4000-569372/",
+            "store_date": "2016-12-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54320/",
+                "id": 54320,
+                "name": "My Little Pony: Friendship Is Magic",
+                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic/4050-54320/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-592115/",
+            "cover_date": "2016-11-30",
+            "date_added": "2017-04-14 01:27:41",
+            "date_last_updated": "2017-04-14 02:05:24",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 592115,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5803683-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5803683-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5803683-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5803683-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5803683-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5803683-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5803683-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5803683-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5803683-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Рука судьбы. Часть 2",
+            "site_detail_url": "https://comicvine.gamespot.com/inok-49-ruka-sudby-chast-2/4000-592115/",
+            "store_date": "2016-11-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53591/",
+                "id": 53591,
+                "name": "Inok",
+                "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-592121/",
+            "cover_date": "2016-11-30",
+            "date_added": "2017-04-14 01:27:53",
+            "date_last_updated": "2017-04-14 02:20:47",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 592121,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5803695-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5803695-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5803695-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5803695-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5803695-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5803695-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5803695-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5803695-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5803695-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Финальный рывок. Часть 2",
+            "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya-49-finalnyi-ryvok-chast-2/4000-592121/",
+            "store_date": "2016-11-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53592/",
+                "id": 53592,
+                "name": "Krasnaya Furiya",
+                "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya/4050-53592/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-592127/",
+            "cover_date": "2016-11-30",
+            "date_added": "2017-04-14 01:28:03",
+            "date_last_updated": "2017-04-14 02:24:43",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 592127,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5803706-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5803706-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5803706-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5803706-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5803706-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5803706-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5803706-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5803706-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5803706-49.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "49",
+            "name": "Последнее дело, Часть 5",
+            "site_detail_url": "https://comicvine.gamespot.com/mayor-grom-49-poslednee-delo-chast-5/4000-592127/",
+            "store_date": "2016-11-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53590/",
+                "id": 53590,
+                "name": "Mayor Grom",
+                "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
             }
         },
         {
@@ -809,337 +1070,72 @@
                 "name": "Justice League",
                 "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-61598/"
             }
-        }
-    ],
-    "2016-06-27|2016-07-03": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554389/",
-            "cover_date": "2016-06-30",
-            "date_added": "2016-10-18 13:40:28",
-            "date_last_updated": "2017-04-13 21:35:08",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-672552/",
+            "cover_date": "2016-07-01",
+            "date_added": "2018-06-08 06:53:39",
+            "date_last_updated": "2018-06-09 06:50:51",
             "deck": null,
-            "description": null,
+            "description": "<p>Translates Action Comics #43-44.</p>",
             "has_staff_review": false,
-            "id": 554389,
+            "id": 672552,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491096-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491096-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491096-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491096-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491096-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491096-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491096-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491096-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491096-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Vol. 49",
-            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-49-vol-49/4000-554389/",
-            "store_date": "2016-06-30",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
-                "id": 93693,
-                "name": "Mogura no Uta",
-                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
-            }
-        }
-    ],
-    "2016-07-04|2016-07-10": [],
-    "2016-07-11|2016-07-17": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539303/",
-            "cover_date": "2016-07-31",
-            "date_added": "2016-07-12 09:07:37",
-            "date_last_updated": "2018-05-03 20:31:04",
-            "deck": null,
-            "description": "<p><em>The hunt for the Ace of Spades continues as Calie and Violet head to the beaches of south Florida to face the Queen of Hearts. Though the Queen is surrounded by dedicated servants, something is awry in the kingdom of sun and sand. Will Calie and Violet's arrival spell the end of the Ace's armies, or is this another piece of his elaborate scheme to rule over Wonderland?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Roger Bonet &amp; Beezzz Studio</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Noah Salonga &amp; Jorge Cortes</td><td>4</td></tr><tr><td>C</td><td>Cover C</td><td>Martin Able</td><td>5</td></tr><tr><td>D</td><td>4th of July Exclusive Cover, Limited to 200</td><td>Michael Dooney &amp; Ula Mos</td><td>Missing</td></tr><tr><td>E</td><td>San Diego Comic-Con Exclusive 4th of July Variant Cover, Limited to 200</td><td>Michael Dooney &amp; Ula Mos</td><td>2</td></tr><tr><td>F</td><td>San Diego Comic-Con Exclusive Cosplay Variant Cover, Limited to 25</td><td>Paul Green &amp; Ula Mos</td><td>3</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 539303,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5319625-49a.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5319625-49a.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5319625-49a.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5319625-49a.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5319625-49a.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5319625-49a.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5319625-49a.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5319625-49a.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5319625-49a.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Queen of Hearts",
-            "site_detail_url": "https://comicvine.gamespot.com/wonderland-49-queen-of-hearts/4000-539303/",
-            "store_date": "2016-07-13",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50639/",
-                "id": 50639,
-                "name": "Wonderland",
-                "site_detail_url": "https://comicvine.gamespot.com/wonderland/4050-50639/"
-            }
-        }
-    ],
-    "2016-07-18|2016-07-24": [],
-    "2016-07-25|2016-07-31": [],
-    "2016-08-01|2016-08-07": [],
-    "2016-08-08|2016-08-14": [],
-    "2016-08-15|2016-08-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-544782/",
-            "cover_date": "2016-08-31",
-            "date_added": "2016-08-15 20:32:55",
-            "date_last_updated": "2016-08-17 09:26:14",
-            "deck": null,
-            "description": "<p><em>Everybody’s favorite one-eyed, two-fisted sailor, Popeye, is back in his gloriously funny comic book of vintage hi-jinks! Five brilliantly written and drawn features pack this ish: An adorbable Swee’pea comic, a gut-splitting Wimpy tale, and more!</em></p><h2>Contents</h2><ul><li>Popeye and Olive Oyl in Trillionaire Lady</li><li>Popeye and Wimpy in Beware of the Moocher!</li><li>Professor O.G. Wotasnozzle</li></ul><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Bud Sagendorf</td><td>1</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Dave Pryor</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 544782,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5383946-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5383946-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5383946-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5383946-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5383946-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5383946-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5383946-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5383946-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5383946-49.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6461655-5857079705-SUPER.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6461655-5857079705-SUPER.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6461655-5857079705-SUPER.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6461655-5857079705-SUPER.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6461655-5857079705-SUPER.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6461655-5857079705-SUPER.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6461655-5857079705-SUPER.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6461655-5857079705-SUPER.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6461655-5857079705-SUPER.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "49",
             "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/classic-popeye-49/4000-544782/",
-            "store_date": "2016-08-17",
+            "site_detail_url": "https://comicvine.gamespot.com/superman-49/4000-672552/",
+            "store_date": "2016-06-07",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51285/",
-                "id": 51285,
-                "name": "Classic Popeye",
-                "site_detail_url": "https://comicvine.gamespot.com/classic-popeye/4050-51285/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60404/",
+                "id": 60404,
+                "name": "Superman",
+                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-60404/"
             }
-        }
-    ],
-    "2016-08-22|2016-08-28": [],
-    "2016-08-29|2016-09-04": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-547265/",
-            "cover_date": "2016-08-31",
-            "date_added": "2016-08-30 09:53:40",
-            "date_last_updated": "2016-09-05 16:09:08",
-            "deck": null,
-            "description": "<p><em>Long live the king! The march to X-O MANOWAR #50 soldiers onward!</em></p><p><em>Witness the last stand of Earth's greatest champion, X-O Manowar! With the world besieged by the Torment, Aric of Dacia has united his bravest allies and fiercest enemies for a last ditch effort to avert armageddon. But will even their combined strength be enough against the seemingly infinite powers of this </em><em>unfathomable cosmic race?</em></p><p><em>Plus: The X-O MANOWAR #50 COUNTDOWN GIVEAWAY continues right here! Each issue of \"LONG LIVE THE KING\" comes bagged with one of 50 micro-prints - featuring artwork from a who's who of comic superstars - or even one-of-a-kind original art!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Kano</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Phil Jimenez</td><td>2</td></tr><tr><td>C</td><td>Cover C</td><td>Khoi Pham &amp; Jeromy Cox</td><td>3</td></tr><tr><td>D</td><td>1:10 Retailer Incentive Cover D</td><td>Francis Portela &amp; Andrew Dalhouse</td><td>4</td></tr><tr><td>E</td><td>1:20 Retailer Incentive Cover E</td><td>Juan Jose Ryp &amp; Ulises Arreola</td><td>5</td></tr><tr><td>F</td><td>1:50 Retailer Incentive Cover F</td><td>Adam Gorham &amp; Michael Spicer</td><td>6</td></tr></tbody></table>",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-690273/",
+            "cover_date": "2016-10-01",
+            "date_added": "2018-10-27 00:55:39",
+            "date_last_updated": "2018-10-27 00:57:38",
+            "deck": "Un'antica leggenda rivive per salvare Praga dalla morsa nazista!",
+            "description": "<p><em>Praga, 1942. La grande città boema è oppressa dall’occupazione nazista e la popolazione ebraica vive nel terrore, mentre le forze della resistenza cercano di organizzarsi nell’ombra… È un compito quasi impossibile. La Wehrmacht e le spietate SS stringono sempre più la loro morsa su ogni strada e quartiere con forza soverchiante e per i partigiani la fine pare sempre più vicina… Solo una speranza alimenta la lotta. Una speranza “folle”, che poggia sulle fragili basi di un’antica leggenda…</em></p>",
             "has_staff_review": false,
-            "id": 547265,
+            "id": 690273,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5408854-49a.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5408854-49a.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5408854-49a.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5408854-49a.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5408854-49a.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5408854-49a.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5408854-49a.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5408854-49a.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5408854-49a.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6662540-49.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6662540-49.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6662540-49.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6662540-49.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6662540-49.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6662540-49.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6662540-49.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6662540-49.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6662540-49.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "49",
-            "name": "Long Live the King Part 3: The Banners of War",
-            "site_detail_url": "https://comicvine.gamespot.com/x-o-manowar-49-long-live-the-king-part-3-the-banne/4000-547265/",
-            "store_date": "2016-08-31",
+            "name": "Golem",
+            "site_detail_url": "https://comicvine.gamespot.com/le-storie-49-golem/4000-690273/",
+            "store_date": "2016-10-13",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-48559/",
-                "id": 48559,
-                "name": "X-O Manowar",
-                "site_detail_url": "https://comicvine.gamespot.com/x-o-manowar/4050-48559/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85062/",
+                "id": 85062,
+                "name": "Le Storie",
+                "site_detail_url": "https://comicvine.gamespot.com/le-storie/4050-85062/"
             }
         }
-    ],
-    "2016-09-05|2016-09-11": [],
-    "2016-09-12|2016-09-18": [],
-    "2016-09-19|2016-09-25": [],
-    "2016-09-26|2016-10-02": [],
-    "2016-10-03|2016-10-09": [],
-    "2016-10-10|2016-10-16": [],
-    "2016-10-17|2016-10-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-556556/",
-            "cover_date": "2016-10-18",
-            "date_added": "2016-11-01 04:21:23",
-            "date_last_updated": "2016-11-01 04:43:56",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 1 (#525) Even Mario Kart is Fun Because Everyone Plays it Together</li><li>Chapter 2 (#526) The Adventure Begins At Najimi Tower</li><li>Chapter 3 (#527) A Ponkotu's Thoughts Are Much Like Taking A Break</li><li>Chapter 4 (#528) Half of Life is Made of Mean Tricks and Pointless Things</li><li>Chapter 5 (#529) Pop Star</li><li>Chapter 6 (#530) Dreams Come In Many Forms</li><li>Chapter 7 (#531) I Want To Be Teased As The One Guy In A Group Of Girls</li><li>Chapter 8 (#532) Where Everything Is Said To Be</li><li>Chapter 9 (#533) I Don't Like To Be Shocked, So I Read Mystery Novels Only After Knowing Who Did It</li><li>Chapter 10 (#534) Love, A Racing Heart, And A Kiss</li><li>Chapter 11 (#535) Two Lies Do Not Make The Truth</li></ul>",
-            "has_staff_review": false,
-            "id": 556556,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5511863-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5511863-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5511863-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5511863-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5511863-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5511863-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5511863-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5511863-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5511863-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Vol. 49",
-            "site_detail_url": "https://comicvine.gamespot.com/hayate-no-gotoku-49-vol-49/4000-556556/",
-            "store_date": "2016-10-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54620/",
-                "id": 54620,
-                "name": "Hayate no Gotoku!",
-                "site_detail_url": "https://comicvine.gamespot.com/hayate-no-gotoku/4050-54620/"
-            }
-        }
-    ],
-    "2016-10-24|2016-10-30": [],
-    "2016-10-31|2016-11-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-592127/",
-            "cover_date": "2016-11-30",
-            "date_added": "2017-04-14 01:28:03",
-            "date_last_updated": "2017-04-14 02:24:43",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 592127,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5803706-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5803706-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5803706-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5803706-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5803706-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5803706-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5803706-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5803706-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5803706-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Последнее дело, Часть 5",
-            "site_detail_url": "https://comicvine.gamespot.com/mayor-grom-49-poslednee-delo-chast-5/4000-592127/",
-            "store_date": "2016-11-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53590/",
-                "id": 53590,
-                "name": "Mayor Grom",
-                "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
-            }
-        }
-    ],
-    "2016-11-07|2016-11-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-592115/",
-            "cover_date": "2016-11-30",
-            "date_added": "2017-04-14 01:27:41",
-            "date_last_updated": "2017-04-14 02:05:24",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 592115,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5803683-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5803683-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5803683-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5803683-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5803683-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5803683-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5803683-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5803683-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5803683-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Рука судьбы. Часть 2",
-            "site_detail_url": "https://comicvine.gamespot.com/inok-49-ruka-sudby-chast-2/4000-592115/",
-            "store_date": "2016-11-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53591/",
-                "id": 53591,
-                "name": "Inok",
-                "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
-            }
-        }
-    ],
-    "2016-11-14|2016-11-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-592121/",
-            "cover_date": "2016-11-30",
-            "date_added": "2017-04-14 01:27:53",
-            "date_last_updated": "2017-04-14 02:20:47",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 592121,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5803695-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5803695-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5803695-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5803695-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5803695-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5803695-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5803695-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5803695-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5803695-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": "Финальный рывок. Часть 2",
-            "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya-49-finalnyi-ryvok-chast-2/4000-592121/",
-            "store_date": "2016-11-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53592/",
-                "id": 53592,
-                "name": "Krasnaya Furiya",
-                "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya/4050-53592/"
-            }
-        }
-    ],
-    "2016-11-21|2016-11-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561673/",
-            "cover_date": "2017-01-01",
-            "date_added": "2016-11-27 20:31:13",
-            "date_last_updated": "2018-09-15 16:21:07",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 561673,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5556661-49.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5556661-49.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5556661-49.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5556661-49.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5556661-49.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5556661-49.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5556661-49.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5556661-49.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5556661-49.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "49",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-49/4000-561673/",
-            "store_date": "2016-11-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
-                "id": 89126,
-                "name": "Comic X-Eros",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
-            }
-        }
-    ],
-    "2016-11-28|2016-12-04": [],
-    "2016-12-05|2016-12-11": [],
-    "2016-12-12|2016-12-18": []
+    ]
 }

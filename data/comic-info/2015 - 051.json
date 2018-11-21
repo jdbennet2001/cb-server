@@ -1,7 +1,5 @@
 {
-    "2015-12-21|2015-12-27": [],
-    "2015-12-28|2016-01-03": [],
-    "2015-01-05|2015-01-11": [
+    "2015-01-01|2015-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-475433/",
@@ -37,45 +35,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490441/",
-            "cover_date": "2015-02-28",
-            "date_added": "2015-05-30 12:47:03",
-            "date_last_updated": "2015-05-30 13:27:10",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 490441,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4594697-51.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4594697-51.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4594697-51.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4594697-51.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4594697-51.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4594697-51.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4594697-51.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4594697-51.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4594697-51.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "51",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-51/4000-490441/",
-            "store_date": "2015-01-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2015-01-12|2015-01-18": [],
-    "2015-01-19|2015-01-25": [],
-    "2015-01-26|2015-02-01": [],
-    "2015-02-02|2015-02-08": [],
-    "2015-02-09|2015-02-15": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478874/",
             "cover_date": "2015-02-28",
             "date_added": "2015-02-06 00:06:02",
@@ -106,14 +65,7 @@
                 "name": "Lucky Luke",
                 "site_detail_url": "https://comicvine.gamespot.com/lucky-luke/4050-48134/"
             }
-        }
-    ],
-    "2015-02-16|2015-02-22": [],
-    "2015-02-23|2015-03-01": [],
-    "2015-03-02|2015-03-08": [],
-    "2015-03-09|2015-03-15": [],
-    "2015-03-16|2015-03-22": [],
-    "2015-03-23|2015-03-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-483300/",
@@ -151,20 +103,40 @@
                 "name": "Batman Eternal",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-eternal/4050-72915/"
             }
-        }
-    ],
-    "2015-03-30|2015-04-05": [],
-    "2015-04-06|2015-04-12": [],
-    "2015-04-13|2015-04-19": [],
-    "2015-04-20|2015-04-26": [],
-    "2015-04-27|2015-05-03": [],
-    "2015-05-04|2015-05-10": [],
-    "2015-05-11|2015-05-17": [],
-    "2015-05-18|2015-05-24": [],
-    "2015-05-25|2015-05-31": [],
-    "2015-06-01|2015-06-07": [],
-    "2015-06-08|2015-06-14": [],
-    "2015-06-15|2015-06-21": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490441/",
+            "cover_date": "2015-02-28",
+            "date_added": "2015-05-30 12:47:03",
+            "date_last_updated": "2015-05-30 13:27:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 490441,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4594697-51.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4594697-51.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4594697-51.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4594697-51.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4594697-51.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4594697-51.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4594697-51.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4594697-51.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4594697-51.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "51",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-51/4000-490441/",
+            "store_date": "2015-01-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-492738/",
@@ -197,9 +169,7 @@
                 "name": "Batman: The Jiro Kuwata Batmanga",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-the-jiro-kuwata-batmanga/4050-75410/"
             }
-        }
-    ],
-    "2015-06-22|2015-06-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-493111/",
@@ -232,45 +202,7 @@
                 "name": "World of Archie Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
             }
-        }
-    ],
-    "2015-06-29|2015-07-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517590/",
-            "cover_date": "2015-07-03",
-            "date_added": "2016-02-28 12:56:15",
-            "date_last_updated": "2016-05-01 16:35:56",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 517590,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073920-51.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073920-51.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073920-51.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073920-51.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073920-51.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073920-51.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073920-51.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073920-51.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5073920-51.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "51",
-            "name": "Vol. 51",
-            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-51-vol-51/4000-517590/",
-            "store_date": "2015-07-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
-                "id": 88523,
-                "name": "Kinnikuman",
-                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
-            }
-        }
-    ],
-    "2015-07-06|2015-07-12": [],
-    "2015-07-13|2015-07-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-495324/",
@@ -303,17 +235,7 @@
                 "name": "Mega Man",
                 "site_detail_url": "https://comicvine.gamespot.com/mega-man/4050-40107/"
             }
-        }
-    ],
-    "2015-07-20|2015-07-26": [],
-    "2015-07-27|2015-08-02": [],
-    "2015-08-03|2015-08-09": [],
-    "2015-08-10|2015-08-16": [],
-    "2015-08-17|2015-08-23": [],
-    "2015-08-24|2015-08-30": [],
-    "2015-08-31|2015-09-06": [],
-    "2015-09-07|2015-09-13": [],
-    "2015-09-14|2015-09-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500099/",
@@ -379,45 +301,7 @@
                 "name": "IV:Armageddon",
                 "site_detail_url": "https://comicvine.gamespot.com/i-v-armageddon/4050-84712/"
             }
-        }
-    ],
-    "2015-09-21|2015-09-27": [],
-    "2015-09-28|2015-10-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-580025/",
-            "cover_date": "2015-09-28",
-            "date_added": "2017-02-04 09:59:55",
-            "date_last_updated": "2017-11-20 06:54:34",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 580025,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5684114-51.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5684114-51.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5684114-51.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5684114-51.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5684114-51.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5684114-51.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5684114-51.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5684114-51.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5684114-51.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "51",
-            "name": "Vol. 51",
-            "site_detail_url": "https://comicvine.gamespot.com/onihei-hankachou-51-vol-51/4000-580025/",
-            "store_date": "2015-09-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98623/",
-                "id": 98623,
-                "name": "Onihei Hankachou",
-                "site_detail_url": "https://comicvine.gamespot.com/onihei-hankachou/4050-98623/"
-            }
-        }
-    ],
-    "2015-10-05|2015-10-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-502243/",
@@ -450,11 +334,7 @@
                 "name": "Knights of the Dinner Table: Bundle of Trouble",
                 "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
             }
-        }
-    ],
-    "2015-10-12|2015-10-18": [],
-    "2015-10-19|2015-10-25": [],
-    "2015-10-26|2015-11-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504361/",
@@ -553,12 +433,7 @@
                 "name": "Sensation Comics Featuring Wonder Woman",
                 "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman/4050-76430/"
             }
-        }
-    ],
-    "2015-11-02|2015-11-08": [],
-    "2015-11-09|2015-11-15": [],
-    "2015-11-16|2015-11-22": [],
-    "2015-11-23|2015-11-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-506211/",
@@ -594,42 +469,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524578/",
-            "cover_date": "2015-11-30",
-            "date_added": "2016-04-11 12:25:38",
-            "date_last_updated": "2016-05-05 11:37:25",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524578,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146270-51.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146270-51.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146270-51.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146270-51.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146270-51.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146270-51.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146270-51.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146270-51.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146270-51.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "51",
-            "name": "Vol. 51",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-51-vol-51/4000-524578/",
-            "store_date": "2015-11-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
-                "id": 64966,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
-            }
-        }
-    ],
-    "2015-11-30|2015-12-06": [],
-    "2015-12-07|2015-12-13": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-507838/",
             "cover_date": "2015-12-31",
             "date_added": "2015-12-08 04:24:38",
@@ -660,9 +499,7 @@
                 "name": "SpongeBob Comics",
                 "site_detail_url": "https://comicvine.gamespot.com/spongebob-comics/4050-38914/"
             }
-        }
-    ],
-    "2015-12-14|2015-12-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508266/",
@@ -694,6 +531,105 @@
                 "id": 25073,
                 "name": "Fairy Tail",
                 "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-25073/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517590/",
+            "cover_date": "2015-07-03",
+            "date_added": "2016-02-28 12:56:15",
+            "date_last_updated": "2016-05-01 16:35:56",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 517590,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073920-51.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073920-51.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073920-51.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073920-51.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073920-51.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073920-51.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073920-51.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073920-51.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073920-51.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "51",
+            "name": "Vol. 51",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-51-vol-51/4000-517590/",
+            "store_date": "2015-07-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524578/",
+            "cover_date": "2015-11-30",
+            "date_added": "2016-04-11 12:25:38",
+            "date_last_updated": "2016-05-05 11:37:25",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524578,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146270-51.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146270-51.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146270-51.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146270-51.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146270-51.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146270-51.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146270-51.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146270-51.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146270-51.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "51",
+            "name": "Vol. 51",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-51-vol-51/4000-524578/",
+            "store_date": "2015-11-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
+                "id": 64966,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-580025/",
+            "cover_date": "2015-09-28",
+            "date_added": "2017-02-04 09:59:55",
+            "date_last_updated": "2017-11-20 06:54:34",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 580025,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5684114-51.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5684114-51.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5684114-51.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5684114-51.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5684114-51.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5684114-51.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5684114-51.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5684114-51.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5684114-51.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "51",
+            "name": "Vol. 51",
+            "site_detail_url": "https://comicvine.gamespot.com/onihei-hankachou-51-vol-51/4000-580025/",
+            "store_date": "2015-09-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98623/",
+                "id": 98623,
+                "name": "Onihei Hankachou",
+                "site_detail_url": "https://comicvine.gamespot.com/onihei-hankachou/4050-98623/"
             }
         }
     ]

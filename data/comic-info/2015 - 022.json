@@ -1,41 +1,5 @@
 {
-    "2015-12-21|2015-12-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508848/",
-            "cover_date": "2015-12-31",
-            "date_added": "2015-12-22 00:47:18",
-            "date_last_updated": "2016-02-07 00:26:02",
-            "deck": null,
-            "description": "<p><em>Willow’s loyalties to Buffy are questioned when she makes a decision behind the Slayer’s back . . . Are the besties growing apart? Also unknown to Buffy, Spike has a conversation with an old friend that leads him to question the patterns of his relationship with Buffy.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve Morris</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Rebekah Isaacs</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 508848,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4964810-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4964810-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4964810-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4964810-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4964810-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4964810-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4964810-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4964810-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4964810-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "In Pieces On the Ground Part Two",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-season-10-22-in-pieces-on/4000-508848/",
-            "store_date": "2015-12-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72408/",
-                "id": 72408,
-                "name": "Buffy the Vampire Slayer Season 10",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-season-10/4050-72408/"
-            }
-        }
-    ],
-    "2015-12-28|2016-01-03": [],
-    "2015-01-05|2015-01-11": [
+    "2015-01-01|2015-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356199/",
@@ -68,10 +32,40 @@
                 "name": "Comic Anthurium",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
             }
-        }
-    ],
-    "2015-01-12|2015-01-18": [],
-    "2015-01-19|2015-01-25": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478083/",
+            "cover_date": "2015-01-29",
+            "date_added": "2015-01-28 23:10:28",
+            "date_last_updated": "2015-01-30 06:37:42",
+            "deck": null,
+            "description": "<p><em>Wonder Woman has been summoned to the Isle of Cats to rescue her Justice League teammates, but can Diana save the day?</em></p>",
+            "has_staff_review": false,
+            "id": 478083,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4359363-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4359363-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4359363-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4359363-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4359363-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4359363-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4359363-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4359363-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4359363-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "The Problem With Cats",
+            "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman-22-the-pro/4000-478083/",
+            "store_date": "2015-01-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76430/",
+                "id": 76430,
+                "name": "Sensation Comics Featuring Wonder Woman",
+                "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman/4050-76430/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-479071/",
@@ -105,77 +99,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/walking-dead/4050-50564/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481770/",
-            "cover_date": "2015-01-31",
-            "date_added": "2015-03-06 00:31:27",
-            "date_last_updated": "2015-03-09 05:13:29",
-            "deck": null,
-            "description": "<p data-right-indent=\"0\" data-left-indent=\"0\">This issue consists of a hand painted figurine and a magazine on the issues featured character, Viper.</p><p data-right-indent=\"0\" data-left-indent=\"0\">The Avengers set continues with issue 22, Black Queen - Viper.</p><p data-right-indent=\"0\" data-left-indent=\"0\"> </p><p data-right-indent=\"0\" data-left-indent=\"0\">The vengeful Viper is the black-hearted Black Queen with the Marvel Chess Collection Part 22. The criminal mastermind and head of HYDRA is perfectly cast as the most powerful piece on the side of the villains.This femme fatale s tragic history that led to her leading a major terrorist organisation is explored in the magazine, with her most lethal schemes, her bizarre attachment to an octopus and the truth about her daughter . </p>",
-            "has_staff_review": false,
-            "id": 481770,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4432600-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4432600-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4432600-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4432600-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4432600-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4432600-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4432600-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4432600-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4432600-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Viper [Black Queen]",
-            "site_detail_url": "https://comicvine.gamespot.com/marvel-chess-collection-22-viper-black-queen/4000-481770/",
-            "store_date": "2015-01-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-75094/",
-                "id": 75094,
-                "name": "Marvel Chess Collection",
-                "site_detail_url": "https://comicvine.gamespot.com/marvel-chess-collection/4050-75094/"
-            }
-        }
-    ],
-    "2015-01-26|2015-02-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478083/",
-            "cover_date": "2015-01-29",
-            "date_added": "2015-01-28 23:10:28",
-            "date_last_updated": "2015-01-30 06:37:42",
-            "deck": null,
-            "description": "<p><em>Wonder Woman has been summoned to the Isle of Cats to rescue her Justice League teammates, but can Diana save the day?</em></p>",
-            "has_staff_review": false,
-            "id": 478083,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4359363-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4359363-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4359363-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4359363-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4359363-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4359363-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4359363-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4359363-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4359363-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "The Problem With Cats",
-            "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman-22-the-pro/4000-478083/",
-            "store_date": "2015-01-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76430/",
-                "id": 76430,
-                "name": "Sensation Comics Featuring Wonder Woman",
-                "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman/4050-76430/"
-            }
-        }
-    ],
-    "2015-02-02|2015-02-08": [],
-    "2015-02-09|2015-02-15": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-479200/",
@@ -274,9 +197,7 @@
                 "name": "Uber",
                 "site_detail_url": "https://comicvine.gamespot.com/uber/4050-59517/"
             }
-        }
-    ],
-    "2015-02-16|2015-02-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480026/",
@@ -309,9 +230,7 @@
                 "name": "Suicide Risk",
                 "site_detail_url": "https://comicvine.gamespot.com/suicide-risk/4050-60700/"
             }
-        }
-    ],
-    "2015-02-23|2015-03-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480657/",
@@ -344,9 +263,7 @@
                 "name": "Injustice: Gods Among Us Year Three",
                 "site_detail_url": "https://comicvine.gamespot.com/injustice-gods-among-us-year-three/4050-77226/"
             }
-        }
-    ],
-    "2015-03-02|2015-03-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480982/",
@@ -385,7 +302,7 @@
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481565/",
             "cover_date": "2015-05-01",
             "date_added": "2015-03-02 20:57:40",
-            "date_last_updated": "2015-03-05 13:08:34",
+            "date_last_updated": "2018-10-26 03:45:44",
             "deck": null,
             "description": "<p><em>The end is near as Apokolips begins to devour Earth-2!</em></p>",
             "has_staff_review": false,
@@ -412,45 +329,40 @@
                 "name": "Earth 2: World's End",
                 "site_detail_url": "https://comicvine.gamespot.com/earth-2-worlds-end/4050-77406/"
             }
-        }
-    ],
-    "2015-03-09|2015-03-15": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562065/",
-            "cover_date": "2015-03-01",
-            "date_added": "2016-11-28 06:16:54",
-            "date_last_updated": "2018-09-15 19:28:00",
-            "deck": "Una belva misteriosa fa strage nella foresta: Dragonero si prepara alla caccia grossa!",
-            "description": "<p><em>Ai margini dell'immensa foresta di Vetwasilvhe, nel centro dell'Erondàr, una belva misteriosa sta facendo strage di cacciatori, attaccandoli persino nei loro capanni e senza lasciare superstiti. Gli abitanti dei paesi limitrofi iniziano ad evitare la foresta, che è la loro unica fonte di cibo e materie prime, e la regione inizia a soffrire la fame. Ian e Gmor vengono inviati, con un carico di armi per la caccia grossa, a un presidio fortificato dove si stanno radunando cacciatori e bestiarii da ogni dove, ansiosi di guadagnarsi un trofeo eccezionale...</em></p>",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481770/",
+            "cover_date": "2015-01-31",
+            "date_added": "2015-03-06 00:31:27",
+            "date_last_updated": "2015-03-09 05:13:29",
+            "deck": null,
+            "description": "<p data-right-indent=\"0\" data-left-indent=\"0\">This issue consists of a hand painted figurine and a magazine on the issues featured character, Viper.</p><p data-right-indent=\"0\" data-left-indent=\"0\">The Avengers set continues with issue 22, Black Queen - Viper.</p><p data-right-indent=\"0\" data-left-indent=\"0\"> </p><p data-right-indent=\"0\" data-left-indent=\"0\">The vengeful Viper is the black-hearted Black Queen with the Marvel Chess Collection Part 22. The criminal mastermind and head of HYDRA is perfectly cast as the most powerful piece on the side of the villains.This femme fatale s tragic history that led to her leading a major terrorist organisation is explored in the magazine, with her most lethal schemes, her bizarre attachment to an octopus and the truth about her daughter . </p>",
             "has_staff_review": false,
-            "id": 562065,
+            "id": 481770,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557438-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557438-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557438-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557438-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557438-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557438-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557438-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557438-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5557438-22.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4432600-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4432600-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4432600-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4432600-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4432600-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4432600-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4432600-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4432600-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4432600-22.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "22",
-            "name": "L'uomo delle foreste",
-            "site_detail_url": "https://comicvine.gamespot.com/dragonero-22-luomo-delle-foreste/4000-562065/",
-            "store_date": "2015-03-10",
+            "name": "Viper [Black Queen]",
+            "site_detail_url": "https://comicvine.gamespot.com/marvel-chess-collection-22-viper-black-queen/4000-481770/",
+            "store_date": "2015-01-21",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
-                "id": 67599,
-                "name": "Dragonero",
-                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-75094/",
+                "id": 75094,
+                "name": "Marvel Chess Collection",
+                "site_detail_url": "https://comicvine.gamespot.com/marvel-chess-collection/4050-75094/"
             }
-        }
-    ],
-    "2015-03-16|2015-03-22": [],
-    "2015-03-23|2015-03-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-483382/",
@@ -483,9 +395,7 @@
                 "name": "Godzilla: Rulers of Earth",
                 "site_detail_url": "https://comicvine.gamespot.com/godzilla-rulers-of-earth/4050-64248/"
             }
-        }
-    ],
-    "2015-03-30|2015-04-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-484934/",
@@ -519,107 +429,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/the-x-files-season-10/4050-63725/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499652/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-09-06 16:31:29",
-            "date_last_updated": "2017-12-07 14:11:46",
-            "deck": null,
-            "description": "<p> </p><p>Translates : All-New X-Men (2013) #29-30 , X-Force (2014) #05 , Amazing X-Men (2014) #09 , Cyclops (2014) #04</p><p> </p>",
-            "has_staff_review": false,
-            "id": 499652,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "World War Wendigo",
-            "site_detail_url": "https://comicvine.gamespot.com/x-men-22-world-war-wendigo/4000-499652/",
-            "store_date": "2015-04-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65022/",
-                "id": 65022,
-                "name": "X-Men",
-                "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-65022/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499976/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-09-12 01:38:57",
-            "date_last_updated": "2016-02-02 07:30:50",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 499976,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4797342-0943766696-22.jp.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4797342-0943766696-22.jp.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4797342-0943766696-22.jp.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4797342-0943766696-22.jp.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4797342-0943766696-22.jp.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4797342-0943766696-22.jp.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4797342-0943766696-22.jp.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4797342-0943766696-22.jp.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4797342-0943766696-22.jp.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "L'Ultime aventure de Wolverine",
-            "site_detail_url": "https://comicvine.gamespot.com/wolverine-22-lultime-aventure-de-wolverine/4000-499976/",
-            "store_date": "2015-04-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65024/",
-                "id": 65024,
-                "name": "Wolverine",
-                "site_detail_url": "https://comicvine.gamespot.com/wolverine/4050-65024/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499989/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-09-12 03:15:28",
-            "date_last_updated": "2017-10-08 14:21:51",
-            "deck": null,
-            "description": "<p> </p><p>Translates : X-Men (2013) 16 ; All-New X-Factor (2014) #10-11 ; Magneto (2014) #07-08</p>",
-            "has_staff_review": false,
-            "id": 499989,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4797403-7352166677-22.jp.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4797403-7352166677-22.jp.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4797403-7352166677-22.jp.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4797403-7352166677-22.jp.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4797403-7352166677-22.jp.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4797403-7352166677-22.jp.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4797403-7352166677-22.jp.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4797403-7352166677-22.jp.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4797403-7352166677-22.jp.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "lien de sang",
-            "site_detail_url": "https://comicvine.gamespot.com/x-men-universe-22-lien-de-sang/4000-499989/",
-            "store_date": "2015-04-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65026/",
-                "id": 65026,
-                "name": "X-Men Universe",
-                "site_detail_url": "https://comicvine.gamespot.com/x-men-universe/4050-65026/"
-            }
-        }
-    ],
-    "2015-04-06|2015-04-12": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-485482/",
@@ -685,9 +494,7 @@
                 "name": "Astro City",
                 "site_detail_url": "https://comicvine.gamespot.com/astro-city/4050-62857/"
             }
-        }
-    ],
-    "2015-04-13|2015-04-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486205/",
@@ -756,107 +563,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497679/",
-            "cover_date": null,
-            "date_added": "2015-08-15 07:15:26",
-            "date_last_updated": "2015-08-18 01:29:18",
-            "deck": null,
-            "description": "<p> Translates Wolverine #9 and Deadpool #30.</p>",
-            "has_staff_review": false,
-            "id": 497679,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4747275-9095221269-WOLVE.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4747275-9095221269-WOLVE.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4747275-9095221269-WOLVE.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4747275-9095221269-WOLVE.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4747275-9095221269-WOLVE.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4747275-9095221269-WOLVE.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4747275-9095221269-WOLVE.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4747275-9095221269-WOLVE.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4747275-9095221269-WOLVE.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/wolverinedeadpool-22/4000-497679/",
-            "store_date": "2015-04-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83871/",
-                "id": 83871,
-                "name": "Wolverine/Deadpool",
-                "site_detail_url": "https://comicvine.gamespot.com/wolverine-deadpool/4050-83871/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-510450/",
-            "cover_date": "2015-05-31",
-            "date_added": "2016-01-04 23:28:33",
-            "date_last_updated": "2016-01-04 23:29:29",
-            "deck": null,
-            "description": "<p> Translates Avengers #33-34.</p>",
-            "has_staff_review": false,
-            "id": 510450,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4984918-7843241963-AVENG.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4984918-7843241963-AVENG.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4984918-7843241963-AVENG.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4984918-7843241963-AVENG.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4984918-7843241963-AVENG.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4984918-7843241963-AVENG.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4984918-7843241963-AVENG.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4984918-7843241963-AVENG.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4984918-7843241963-AVENG.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/avengers-22/4000-510450/",
-            "store_date": "2015-04-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67397/",
-                "id": 67397,
-                "name": "Avengers",
-                "site_detail_url": "https://comicvine.gamespot.com/avengers/4050-67397/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-511973/",
-            "cover_date": "2015-05-31",
-            "date_added": "2016-01-23 13:11:36",
-            "date_last_updated": "2016-01-23 13:12:50",
-            "deck": null,
-            "description": "<p> Translates Amazing Spider-Man #6 &amp; Superior Spider-Man #32.</p>",
-            "has_staff_review": false,
-            "id": 511973,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5016398-1076610772-SPIDE.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5016398-1076610772-SPIDE.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5016398-1076610772-SPIDE.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5016398-1076610772-SPIDE.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5016398-1076610772-SPIDE.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5016398-1076610772-SPIDE.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5016398-1076610772-SPIDE.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5016398-1076610772-SPIDE.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5016398-1076610772-SPIDE.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/spider-man-22/4000-511973/",
-            "store_date": "2015-04-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-87487/",
-                "id": 87487,
-                "name": "Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/spider-man/4050-87487/"
-            }
-        }
-    ],
-    "2015-04-20|2015-04-26": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486702/",
             "cover_date": "2015-06-30",
             "date_added": "2015-04-21 00:26:28",
@@ -888,41 +594,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/batman-66/4050-65344/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490202/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-05-30 04:07:25",
-            "date_last_updated": "2015-05-30 04:15:29",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 490202,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4593722-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4593722-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4593722-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4593722-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4593722-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4593722-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4593722-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4593722-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4593722-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Vol. 22",
-            "site_detail_url": "https://comicvine.gamespot.com/magnum-x-22-vol-22/4000-490202/",
-            "store_date": "2015-04-24",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-82317/",
-                "id": 82317,
-                "name": "Magnum X",
-                "site_detail_url": "https://comicvine.gamespot.com/magnum-x/4050-82317/"
-            }
-        }
-    ],
-    "2015-04-27|2015-05-03": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-487185/",
@@ -1024,74 +695,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490562/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-05-30 23:17:57",
-            "date_last_updated": "2015-05-31 02:00:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 490562,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4595687-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4595687-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4595687-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4595687-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4595687-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4595687-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4595687-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4595687-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4595687-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "On est tous blondes !",
-            "site_detail_url": "https://comicvine.gamespot.com/les-blondes-22-on-est-tous-blondes/4000-490562/",
-            "store_date": "2015-04-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70319/",
-                "id": 70319,
-                "name": "Les Blondes",
-                "site_detail_url": "https://comicvine.gamespot.com/les-blondes/4050-70319/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-503909/",
-            "cover_date": "2015-05-31",
-            "date_added": "2015-10-24 12:25:41",
-            "date_last_updated": "2015-10-24 12:32:11",
-            "deck": null,
-            "description": "<p> Translates All New X-Men #33 &amp; Magneto #9.</p>",
-            "has_staff_review": false,
-            "id": 503909,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4872981-5088564081-DIENE.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4872981-5088564081-DIENE.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4872981-5088564081-DIENE.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4872981-5088564081-DIENE.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4872981-5088564081-DIENE.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4872981-5088564081-DIENE.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4872981-5088564081-DIENE.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4872981-5088564081-DIENE.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4872981-5088564081-DIENE.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men-22/4000-503909/",
-            "store_date": "2015-04-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65646/",
-                "id": 65646,
-                "name": "Die Neuen X-Men",
-                "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men/4050-65646/"
-            }
-        }
-    ],
-    "2015-05-04|2015-05-10": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-487814/",
             "cover_date": "2015-05-06",
             "date_added": "2015-05-05 00:05:24",
@@ -1125,41 +728,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-585987/",
-            "cover_date": "2015-05-08",
-            "date_added": "2017-03-11 04:47:11",
-            "date_last_updated": "2017-08-13 00:57:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 585987,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5742024-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5742024-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5742024-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5742024-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5742024-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5742024-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5742024-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5742024-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5742024-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Vol. 22",
-            "site_detail_url": "https://comicvine.gamespot.com/shuujin-riku-22-vol-22/4000-585987/",
-            "store_date": "2015-05-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99611/",
-                "id": 99611,
-                "name": "Shuujin Riku",
-                "site_detail_url": "https://comicvine.gamespot.com/shuujin-riku/4050-99611/"
-            }
-        }
-    ],
-    "2015-05-11|2015-05-17": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-488775/",
             "cover_date": "2015-05-31",
             "date_added": "2015-05-13 03:44:21",
@@ -1190,10 +758,40 @@
                 "name": "Amelia Cole and the Impossible Fate",
                 "site_detail_url": "https://comicvine.gamespot.com/amelia-cole-and-the-impossible-fate/4050-78735/"
             }
-        }
-    ],
-    "2015-05-18|2015-05-24": [],
-    "2015-05-25|2015-05-31": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490202/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-05-30 04:07:25",
+            "date_last_updated": "2015-05-30 04:15:29",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 490202,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4593722-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4593722-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4593722-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4593722-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4593722-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4593722-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4593722-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4593722-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4593722-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/magnum-x-22-vol-22/4000-490202/",
+            "store_date": "2015-04-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-82317/",
+                "id": 82317,
+                "name": "Magnum X",
+                "site_detail_url": "https://comicvine.gamespot.com/magnum-x/4050-82317/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490398/",
@@ -1226,9 +824,40 @@
                 "name": "Mortal Kombat X",
                 "site_detail_url": "https://comicvine.gamespot.com/mortal-kombat-x/4050-79262/"
             }
-        }
-    ],
-    "2015-06-01|2015-06-07": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490562/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-05-30 23:17:57",
+            "date_last_updated": "2015-05-31 02:00:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 490562,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4595687-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4595687-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4595687-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4595687-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4595687-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4595687-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4595687-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4595687-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4595687-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "On est tous blondes !",
+            "site_detail_url": "https://comicvine.gamespot.com/les-blondes-22-on-est-tous-blondes/4000-490562/",
+            "store_date": "2015-04-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70319/",
+                "id": 70319,
+                "name": "Les Blondes",
+                "site_detail_url": "https://comicvine.gamespot.com/les-blondes/4050-70319/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-491092/",
@@ -1294,9 +923,7 @@
                 "name": "Copra",
                 "site_detail_url": "https://comicvine.gamespot.com/copra/4050-62603/"
             }
-        }
-    ],
-    "2015-06-08|2015-06-14": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-491438/",
@@ -1329,9 +956,7 @@
                 "name": "Arata: The Legend",
                 "site_detail_url": "https://comicvine.gamespot.com/arata-the-legend/4050-32024/"
             }
-        }
-    ],
-    "2015-06-15|2015-06-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-492277/",
@@ -1364,9 +989,7 @@
                 "name": "Sons of Anarchy",
                 "site_detail_url": "https://comicvine.gamespot.com/sons-of-anarchy/4050-67326/"
             }
-        }
-    ],
-    "2015-06-22|2015-06-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-492949/",
@@ -1433,41 +1056,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/sex/4050-58439/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-573637/",
-            "cover_date": "2015-06-26",
-            "date_added": "2016-12-31 04:07:57",
-            "date_last_updated": "2017-03-03 19:37:10",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 573637,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5622488-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5622488-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5622488-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5622488-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5622488-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5622488-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5622488-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5622488-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5622488-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Vol. 22",
-            "site_detail_url": "https://comicvine.gamespot.com/kenkaku-shoubai-22-vol-22/4000-573637/",
-            "store_date": "2015-06-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97568/",
-                "id": 97568,
-                "name": "Kenkaku Shoubai",
-                "site_detail_url": "https://comicvine.gamespot.com/kenkaku-shoubai/4050-97568/"
-            }
-        }
-    ],
-    "2015-06-29|2015-07-05": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-493487/",
@@ -1539,7 +1127,7 @@
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-493779/",
             "cover_date": "2015-09-30",
             "date_added": "2015-06-30 00:03:15",
-            "date_last_updated": "2016-05-29 20:13:42",
+            "date_last_updated": "2018-11-15 07:21:06",
             "deck": null,
             "description": "<p><em>“Who controls the past, controls the future.”–George Orwell, 1984</em></p>",
             "has_staff_review": false,
@@ -1567,41 +1155,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/fbp-federal-bureau-of-physics/4050-66760/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560126/",
-            "cover_date": "2015-07-31",
-            "date_added": "2016-11-26 11:21:31",
-            "date_last_updated": "2017-06-18 06:01:48",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 560126,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552502-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552502-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552502-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552502-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552502-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552502-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552502-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552502-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5552502-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Tome 22",
-            "site_detail_url": "https://comicvine.gamespot.com/kurokos-basket-22-tome-22/4000-560126/",
-            "store_date": "2015-07-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95903/",
-                "id": 95903,
-                "name": "Kuroko's Basket",
-                "site_detail_url": "https://comicvine.gamespot.com/kurokos-basket/4050-95903/"
-            }
-        }
-    ],
-    "2015-07-06|2015-07-12": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-494263/",
@@ -1634,9 +1187,7 @@
                 "name": "Batman/Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/batmansuperman/4050-64203/"
             }
-        }
-    ],
-    "2015-07-13|2015-07-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-495272/",
@@ -1707,10 +1258,7 @@
                 "name": "Batman: Arkham Knight",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-knight/4050-80292/"
             }
-        }
-    ],
-    "2015-07-20|2015-07-26": [],
-    "2015-07-27|2015-08-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-496579/",
@@ -1744,42 +1292,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-eleventh-doctor-archives/4050-82879/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499149/",
-            "cover_date": "2015-07-31",
-            "date_added": "2015-09-01 01:40:25",
-            "date_last_updated": "2015-09-01 03:59:57",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 499149,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4779056-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4779056-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4779056-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4779056-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4779056-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4779056-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4779056-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4779056-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4779056-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Band 22",
-            "site_detail_url": "https://comicvine.gamespot.com/pandora-hearts-22-band-22/4000-499149/",
-            "store_date": "2015-07-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60270/",
-                "id": 60270,
-                "name": "Pandora Hearts",
-                "site_detail_url": "https://comicvine.gamespot.com/pandora-hearts/4050-60270/"
-            }
-        }
-    ],
-    "2015-08-03|2015-08-09": [],
-    "2015-08-10|2015-08-16": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497380/",
@@ -1818,7 +1330,7 @@
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497498/",
             "cover_date": "2015-08-31",
             "date_added": "2015-08-11 02:44:15",
-            "date_last_updated": "2015-08-12 11:47:05",
+            "date_last_updated": "2018-10-26 02:29:55",
             "deck": null,
             "description": null,
             "has_staff_review": false,
@@ -1881,74 +1393,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-525142/",
-            "cover_date": "2015-09-30",
-            "date_added": "2016-04-12 14:07:39",
-            "date_last_updated": "2016-04-12 14:08:23",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497679/",
+            "cover_date": null,
+            "date_added": "2015-08-15 07:15:26",
+            "date_last_updated": "2015-08-18 01:29:18",
             "deck": null,
-            "description": "<p><em> You want Batman action? We’ve got it for you! The deadly Bookbinder continues to evade the Dark Knight in the latest installment of Arkham Unhinged! It’s the show-stopping finale to ‘Anarky’ as Batman tries to stop the influential villain, while in Gotham Central, the cops try to stop their city being engulfed in flames!</em></p><p> </p>",
+            "description": "<p> Translates Wolverine #9 and Deadpool #30.</p>",
             "has_staff_review": false,
-            "id": 525142,
+            "id": 497679,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5148510-batman%20arkham%20%2322.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5148510-batman%20arkham%20%2322.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5148510-batman%20arkham%20%2322.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5148510-batman%20arkham%20%2322.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5148510-batman%20arkham%20%2322.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5148510-batman%20arkham%20%2322.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5148510-batman%20arkham%20%2322.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5148510-batman%20arkham%20%2322.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5148510-batman%20arkham%20%2322.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4747275-9095221269-WOLVE.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4747275-9095221269-WOLVE.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4747275-9095221269-WOLVE.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4747275-9095221269-WOLVE.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4747275-9095221269-WOLVE.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4747275-9095221269-WOLVE.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4747275-9095221269-WOLVE.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4747275-9095221269-WOLVE.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4747275-9095221269-WOLVE.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "22",
             "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-22/4000-525142/",
-            "store_date": "2015-08-13",
+            "site_detail_url": "https://comicvine.gamespot.com/wolverinedeadpool-22/4000-497679/",
+            "store_date": "2015-04-14",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76663/",
-                "id": 76663,
-                "name": "Batman Arkham",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-arkham/4050-76663/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83871/",
+                "id": 83871,
+                "name": "Wolverine/Deadpool",
+                "site_detail_url": "https://comicvine.gamespot.com/wolverine-deadpool/4050-83871/"
             }
-        }
-    ],
-    "2015-08-17|2015-08-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509354/",
-            "cover_date": "2015-08-20",
-            "date_added": "2015-12-27 01:07:39",
-            "date_last_updated": "2015-12-27 01:46:26",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 509354,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4971469-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4971469-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4971469-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4971469-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4971469-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4971469-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4971469-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4971469-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4971469-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Vol. 22",
-            "site_detail_url": "https://comicvine.gamespot.com/kamisama-hajimemashita-22-vol-22/4000-509354/",
-            "store_date": "2015-08-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61728/",
-                "id": 61728,
-                "name": "Kamisama Hajimemashita",
-                "site_detail_url": "https://comicvine.gamespot.com/kamisama-hajimemashita/4050-61728/"
-            }
-        }
-    ],
-    "2015-08-24|2015-08-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-498372/",
@@ -2017,74 +1492,103 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-583468/",
-            "cover_date": "2015-08-25",
-            "date_added": "2017-02-25 16:48:37",
-            "date_last_updated": "2017-08-28 03:29:26",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-498995/",
+            "cover_date": "2015-09-30",
+            "date_added": "2015-09-01 00:02:23",
+            "date_last_updated": "2016-09-07 03:41:19",
             "deck": null,
-            "description": null,
+            "description": "<p><em>As Sawako and her friends strive toward bright futures, can their high school relationships last? Sawako forges an unlikely friendship with Kurumi while studying for college entrance exams, but she and Kazehaya spend less time together than ever. Meanwhile, Chizu is so broken up about Ryu leaving that she finally confesses her true feelings. And Yano wants to confess something to Kento he won’t want to hear…</em></p><h2>Chapter Titles</h2><ul><li>Episode 88: Don't Go</li><li>Episode 89: Proud of Myself</li><li>Episode 90: A Mistake</li><li>Episode 91: That's Where We Meet</li><li>45° Eyebrows</li></ul><p><strong>Note</strong>: The digital edition (9/1/2015) for this volume was released before the print edition.</p>",
             "has_staff_review": false,
-            "id": 583468,
+            "id": 498995,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5719974-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5719974-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5719974-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5719974-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5719974-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5719974-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5719974-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5719974-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5719974-22.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4778902-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4778902-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4778902-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4778902-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4778902-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4778902-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4778902-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4778902-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4778902-22.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "22",
-            "name": "Vol. 22",
-            "site_detail_url": "https://comicvine.gamespot.com/roto-no-monshou-monshou-wo-tsugu-monotachi-e-22-vo/4000-583468/",
-            "store_date": "2015-08-25",
+            "name": "Volume 22",
+            "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-from-me-to-you-22-volume-22/4000-498995/",
+            "store_date": "2015-09-16",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99197/",
-                "id": 99197,
-                "name": "Roto no Monshou - Monshou wo Tsugu Monotachi e",
-                "site_detail_url": "https://comicvine.gamespot.com/roto-no-monshou-monshou-wo-tsugu-monotachi-e/4050-99197/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-34893/",
+                "id": 34893,
+                "name": "Kimi ni Todoke: From Me to You",
+                "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-from-me-to-you/4050-34893/"
             }
-        }
-    ],
-    "2015-08-31|2015-09-06": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521002/",
-            "cover_date": "2015-10-31",
-            "date_added": "2016-03-20 07:33:14",
-            "date_last_updated": "2016-03-20 08:11:05",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499149/",
+            "cover_date": "2015-07-31",
+            "date_added": "2015-09-01 01:40:25",
+            "date_last_updated": "2015-09-01 03:59:57",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 521002,
+            "id": 499149,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5107549-wwwww.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5107549-wwwww.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5107549-wwwww.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5107549-wwwww.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5107549-wwwww.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5107549-wwwww.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5107549-wwwww.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5107549-wwwww.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5107549-wwwww.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4779056-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4779056-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4779056-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4779056-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4779056-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4779056-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4779056-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4779056-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4779056-22.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "22",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei-22/4000-521002/",
-            "store_date": "2015-09-05",
+            "name": "Band 22",
+            "site_detail_url": "https://comicvine.gamespot.com/pandora-hearts-22-band-22/4000-499149/",
+            "store_date": "2015-07-28",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89106/",
-                "id": 89106,
-                "name": "Comic Mugen Tensei",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60270/",
+                "id": 60270,
+                "name": "Pandora Hearts",
+                "site_detail_url": "https://comicvine.gamespot.com/pandora-hearts/4050-60270/"
             }
-        }
-    ],
-    "2015-09-07|2015-09-13": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499652/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-09-06 16:31:29",
+            "date_last_updated": "2017-12-07 14:11:46",
+            "deck": null,
+            "description": "<p> </p><p>Translates : All-New X-Men (2013) #29-30 , X-Force (2014) #05 , Amazing X-Men (2014) #09 , Cyclops (2014) #04</p><p> </p>",
+            "has_staff_review": false,
+            "id": 499652,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4788845-x-men%20%28v4%29%2022%20-%20avril%202015.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "World War Wendigo",
+            "site_detail_url": "https://comicvine.gamespot.com/x-men-22-world-war-wendigo/4000-499652/",
+            "store_date": "2015-04-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65022/",
+                "id": 65022,
+                "name": "X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-65022/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499710/",
@@ -2153,6 +1657,72 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499976/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-09-12 01:38:57",
+            "date_last_updated": "2016-02-02 07:30:50",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 499976,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4797342-0943766696-22.jp.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4797342-0943766696-22.jp.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4797342-0943766696-22.jp.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4797342-0943766696-22.jp.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4797342-0943766696-22.jp.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4797342-0943766696-22.jp.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4797342-0943766696-22.jp.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4797342-0943766696-22.jp.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4797342-0943766696-22.jp.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "L'Ultime aventure de Wolverine",
+            "site_detail_url": "https://comicvine.gamespot.com/wolverine-22-lultime-aventure-de-wolverine/4000-499976/",
+            "store_date": "2015-04-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65024/",
+                "id": 65024,
+                "name": "Wolverine",
+                "site_detail_url": "https://comicvine.gamespot.com/wolverine/4050-65024/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499989/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-09-12 03:15:28",
+            "date_last_updated": "2017-10-08 14:21:51",
+            "deck": null,
+            "description": "<p> </p><p>Translates : X-Men (2013) 16 ; All-New X-Factor (2014) #10-11 ; Magneto (2014) #07-08</p>",
+            "has_staff_review": false,
+            "id": 499989,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4797403-7352166677-22.jp.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4797403-7352166677-22.jp.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4797403-7352166677-22.jp.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4797403-7352166677-22.jp.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4797403-7352166677-22.jp.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4797403-7352166677-22.jp.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4797403-7352166677-22.jp.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4797403-7352166677-22.jp.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4797403-7352166677-22.jp.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "lien de sang",
+            "site_detail_url": "https://comicvine.gamespot.com/x-men-universe-22-lien-de-sang/4000-499989/",
+            "store_date": "2015-04-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65026/",
+                "id": 65026,
+                "name": "X-Men Universe",
+                "site_detail_url": "https://comicvine.gamespot.com/x-men-universe/4050-65026/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500148/",
             "cover_date": "2015-09-30",
             "date_added": "2015-09-13 20:44:05",
@@ -2183,44 +1753,7 @@
                 "name": "Avaiyo: Myriad Law",
                 "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law/4050-80799/"
             }
-        }
-    ],
-    "2015-09-14|2015-09-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-498995/",
-            "cover_date": "2015-09-30",
-            "date_added": "2015-09-01 00:02:23",
-            "date_last_updated": "2016-09-07 03:41:19",
-            "deck": null,
-            "description": "<p><em>As Sawako and her friends strive toward bright futures, can their high school relationships last? Sawako forges an unlikely friendship with Kurumi while studying for college entrance exams, but she and Kazehaya spend less time together than ever. Meanwhile, Chizu is so broken up about Ryu leaving that she finally confesses her true feelings. And Yano wants to confess something to Kento he won’t want to hear…</em></p><h2>Chapter Titles</h2><ul><li>Episode 88: Don't Go</li><li>Episode 89: Proud of Myself</li><li>Episode 90: A Mistake</li><li>Episode 91: That's Where We Meet</li><li>45° Eyebrows</li></ul><p><strong>Note</strong>: The digital edition (9/1/2015) for this volume was released before the print edition.</p>",
-            "has_staff_review": false,
-            "id": 498995,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4778902-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4778902-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4778902-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4778902-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4778902-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4778902-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4778902-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4778902-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4778902-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Volume 22",
-            "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-from-me-to-you-22-volume-22/4000-498995/",
-            "store_date": "2015-09-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-34893/",
-                "id": 34893,
-                "name": "Kimi ni Todoke: From Me to You",
-                "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-from-me-to-you/4050-34893/"
-            }
-        }
-    ],
-    "2015-09-21|2015-09-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500989/",
@@ -2253,9 +1786,7 @@
                 "name": "Halo: Escalation",
                 "site_detail_url": "https://comicvine.gamespot.com/halo-escalation/4050-69861/"
             }
-        }
-    ],
-    "2015-09-28|2015-10-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501530/",
@@ -2288,44 +1819,7 @@
                 "name": "Injustice: Gods Among Us Year Four",
                 "site_detail_url": "https://comicvine.gamespot.com/injustice-gods-among-us-year-four/4050-81822/"
             }
-        }
-    ],
-    "2015-10-05|2015-10-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-502484/",
-            "cover_date": "2015-10-31",
-            "date_added": "2015-10-10 00:07:09",
-            "date_last_updated": "2015-10-10 01:02:04",
-            "deck": null,
-            "description": "<p><em>Chapter 13</em></p><p><em>When the new school year starts up Danny meets some familiar faces.</em></p>",
-            "has_staff_review": false,
-            "id": 502484,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4845373-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4845373-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4845373-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4845373-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4845373-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4845373-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4845373-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4845373-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4845373-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "Chapter 13",
-            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-22-chapter-13/4000-502484/",
-            "store_date": "2015-10-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
-                "id": 70796,
-                "name": "Sorcery 101",
-                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
-            }
-        }
-    ],
-    "2015-10-12|2015-10-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501904/",
@@ -2358,9 +1852,40 @@
                 "name": "Jour J",
                 "site_detail_url": "https://comicvine.gamespot.com/jour-j/4050-70354/"
             }
-        }
-    ],
-    "2015-10-19|2015-10-25": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-502484/",
+            "cover_date": "2015-10-31",
+            "date_added": "2015-10-10 00:07:09",
+            "date_last_updated": "2015-10-10 01:02:04",
+            "deck": null,
+            "description": "<p><em>Chapter 13</em></p><p><em>When the new school year starts up Danny meets some familiar faces.</em></p>",
+            "has_staff_review": false,
+            "id": 502484,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4845373-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4845373-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4845373-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4845373-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4845373-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4845373-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4845373-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4845373-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4845373-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Chapter 13",
+            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-22-chapter-13/4000-502484/",
+            "store_date": "2015-10-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
+                "id": 70796,
+                "name": "Sorcery 101",
+                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-503542/",
@@ -2426,9 +1951,40 @@
                 "name": "Heroic Spotlight",
                 "site_detail_url": "https://comicvine.gamespot.com/heroic-spotlight/4050-32517/"
             }
-        }
-    ],
-    "2015-10-26|2015-11-01": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-503909/",
+            "cover_date": "2015-05-31",
+            "date_added": "2015-10-24 12:25:41",
+            "date_last_updated": "2015-10-24 12:32:11",
+            "deck": null,
+            "description": "<p> Translates All New X-Men #33 &amp; Magneto #9.</p>",
+            "has_staff_review": false,
+            "id": 503909,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4872981-5088564081-DIENE.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4872981-5088564081-DIENE.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4872981-5088564081-DIENE.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4872981-5088564081-DIENE.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4872981-5088564081-DIENE.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4872981-5088564081-DIENE.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4872981-5088564081-DIENE.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4872981-5088564081-DIENE.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4872981-5088564081-DIENE.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men-22/4000-503909/",
+            "store_date": "2015-04-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65646/",
+                "id": 65646,
+                "name": "Die Neuen X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men/4050-65646/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504289/",
@@ -2461,9 +2017,7 @@
                 "name": "Creepy",
                 "site_detail_url": "https://comicvine.gamespot.com/creepy/4050-27067/"
             }
-        }
-    ],
-    "2015-11-02|2015-11-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504965/",
@@ -2562,10 +2116,7 @@
                 "name": "The Astonishing Spider-Man",
                 "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spiderman/4050-79511/"
             }
-        }
-    ],
-    "2015-11-09|2015-11-15": [],
-    "2015-11-16|2015-11-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-505840/",
@@ -2664,77 +2215,7 @@
                 "name": "Harley Quinn",
                 "site_detail_url": "https://comicvine.gamespot.com/harley-quinn/4050-69322/"
             }
-        }
-    ],
-    "2015-11-23|2015-11-29": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509085/",
-            "cover_date": "2015-12-31",
-            "date_added": "2015-12-23 16:02:33",
-            "date_last_updated": "2015-12-23 16:07:44",
-            "deck": null,
-            "description": "<p> Translates Batman Eternal #43-44.</p>",
-            "has_staff_review": false,
-            "id": 509085,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4967307-8545319664-BATMA.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4967307-8545319664-BATMA.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4967307-8545319664-BATMA.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4967307-8545319664-BATMA.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4967307-8545319664-BATMA.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4967307-8545319664-BATMA.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4967307-8545319664-BATMA.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4967307-8545319664-BATMA.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4967307-8545319664-BATMA.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-eternal-22/4000-509085/",
-            "store_date": "2015-11-24",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83877/",
-                "id": 83877,
-                "name": "Batman Eternal",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-eternal/4050-83877/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-537044/",
-            "cover_date": "2015-11-30",
-            "date_added": "2016-06-20 11:58:03",
-            "date_last_updated": "2016-09-19 21:21:30",
-            "deck": null,
-            "description": "<p><em>\"The Unprincipality of Chaos\" Witch Hunter allows himself to become overwhelmed by the chaos in his life, causing the bottom to literally fall out of it, sending him to the Chaos dimension where he hopes to find his lost aide, and love, Kitty. Meanwhile, giant killer owls, an evil skeleton that smells your fear named Corpus the Bone Hunter, and the elder god of chaos, Toaowquid, are committed to bringing disorder to his life...or ending it!</em></p>",
-            "has_staff_review": false,
-            "id": 537044,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5277724-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5277724-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5277724-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5277724-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5277724-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5277724-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5277724-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5277724-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5277724-22.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "22",
-            "name": "The Unprincipality of Chaos",
-            "site_detail_url": "https://comicvine.gamespot.com/witch-hunter-22-the-unprincipality-of-chaos/4000-537044/",
-            "store_date": "2015-11-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70138/",
-                "id": 70138,
-                "name": "Witch Hunter",
-                "site_detail_url": "https://comicvine.gamespot.com/witch-hunter/4050-70138/"
-            }
-        }
-    ],
-    "2015-11-30|2015-12-06": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-507227/",
@@ -2770,6 +2251,105 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508639/",
+            "cover_date": "2015-12-18",
+            "date_added": "2015-12-18 15:44:14",
+            "date_last_updated": "2015-12-19 09:37:42",
+            "deck": null,
+            "description": "<p><em>A young German soldier undergoes a monstrous transformation, and Wonder Woman finds herself battling an army of the undead.</em></p>",
+            "has_staff_review": false,
+            "id": 508639,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4960442-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4960442-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4960442-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4960442-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4960442-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4960442-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4960442-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4960442-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4960442-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Allies Part 4 of 9",
+            "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells-22-allies-part-4-of-9/4000-508639/",
+            "store_date": "2015-12-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83493/",
+                "id": 83493,
+                "name": "DC Comics Bombshells",
+                "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells/4050-83493/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508848/",
+            "cover_date": "2015-12-31",
+            "date_added": "2015-12-22 00:47:18",
+            "date_last_updated": "2016-02-07 00:26:02",
+            "deck": null,
+            "description": "<p><em>Willow’s loyalties to Buffy are questioned when she makes a decision behind the Slayer’s back . . . Are the besties growing apart? Also unknown to Buffy, Spike has a conversation with an old friend that leads him to question the patterns of his relationship with Buffy.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Steve Morris</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Rebekah Isaacs</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 508848,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4964810-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4964810-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4964810-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4964810-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4964810-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4964810-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4964810-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4964810-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4964810-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "In Pieces On the Ground Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-season-10-22-in-pieces-on/4000-508848/",
+            "store_date": "2015-12-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72408/",
+                "id": 72408,
+                "name": "Buffy the Vampire Slayer Season 10",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-season-10/4050-72408/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509085/",
+            "cover_date": "2015-12-31",
+            "date_added": "2015-12-23 16:02:33",
+            "date_last_updated": "2015-12-23 16:07:44",
+            "deck": null,
+            "description": "<p> Translates Batman Eternal #43-44.</p>",
+            "has_staff_review": false,
+            "id": 509085,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4967307-8545319664-BATMA.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4967307-8545319664-BATMA.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4967307-8545319664-BATMA.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4967307-8545319664-BATMA.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4967307-8545319664-BATMA.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4967307-8545319664-BATMA.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4967307-8545319664-BATMA.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4967307-8545319664-BATMA.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4967307-8545319664-BATMA.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-eternal-22/4000-509085/",
+            "store_date": "2015-11-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83877/",
+                "id": 83877,
+                "name": "Batman Eternal",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-eternal/4050-83877/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509165/",
             "cover_date": "2016-01-01",
             "date_added": "2015-12-24 22:22:51",
@@ -2800,41 +2380,368 @@
                 "name": "The Incredible Hulks",
                 "site_detail_url": "https://comicvine.gamespot.com/the-incredible-hulks/4050-73395/"
             }
-        }
-    ],
-    "2015-12-07|2015-12-13": [],
-    "2015-12-14|2015-12-20": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508639/",
-            "cover_date": "2015-12-18",
-            "date_added": "2015-12-18 15:44:14",
-            "date_last_updated": "2015-12-19 09:37:42",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509354/",
+            "cover_date": "2015-08-20",
+            "date_added": "2015-12-27 01:07:39",
+            "date_last_updated": "2015-12-27 01:46:26",
             "deck": null,
-            "description": "<p><em>A young German soldier undergoes a monstrous transformation, and Wonder Woman finds herself battling an army of the undead.</em></p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 508639,
+            "id": 509354,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4960442-22.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4960442-22.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4960442-22.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4960442-22.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4960442-22.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4960442-22.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4960442-22.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4960442-22.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4960442-22.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4971469-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4971469-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4971469-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4971469-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4971469-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4971469-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4971469-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4971469-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4971469-22.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "22",
-            "name": "Allies Part 4 of 9",
-            "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells-22-allies-part-4-of-9/4000-508639/",
-            "store_date": "2015-12-18",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/kamisama-hajimemashita-22-vol-22/4000-509354/",
+            "store_date": "2015-08-20",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-83493/",
-                "id": 83493,
-                "name": "DC Comics Bombshells",
-                "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells/4050-83493/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61728/",
+                "id": 61728,
+                "name": "Kamisama Hajimemashita",
+                "site_detail_url": "https://comicvine.gamespot.com/kamisama-hajimemashita/4050-61728/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-510450/",
+            "cover_date": "2015-05-31",
+            "date_added": "2016-01-04 23:28:33",
+            "date_last_updated": "2016-01-04 23:29:29",
+            "deck": null,
+            "description": "<p> Translates Avengers #33-34.</p>",
+            "has_staff_review": false,
+            "id": 510450,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4984918-7843241963-AVENG.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4984918-7843241963-AVENG.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4984918-7843241963-AVENG.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4984918-7843241963-AVENG.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4984918-7843241963-AVENG.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4984918-7843241963-AVENG.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4984918-7843241963-AVENG.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4984918-7843241963-AVENG.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4984918-7843241963-AVENG.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/avengers-22/4000-510450/",
+            "store_date": "2015-04-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67397/",
+                "id": 67397,
+                "name": "Avengers",
+                "site_detail_url": "https://comicvine.gamespot.com/avengers/4050-67397/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-511973/",
+            "cover_date": "2015-05-31",
+            "date_added": "2016-01-23 13:11:36",
+            "date_last_updated": "2016-01-23 13:12:50",
+            "deck": null,
+            "description": "<p> Translates Amazing Spider-Man #6 &amp; Superior Spider-Man #32.</p>",
+            "has_staff_review": false,
+            "id": 511973,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5016398-1076610772-SPIDE.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5016398-1076610772-SPIDE.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5016398-1076610772-SPIDE.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5016398-1076610772-SPIDE.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5016398-1076610772-SPIDE.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5016398-1076610772-SPIDE.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5016398-1076610772-SPIDE.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5016398-1076610772-SPIDE.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5016398-1076610772-SPIDE.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/spider-man-22/4000-511973/",
+            "store_date": "2015-04-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-87487/",
+                "id": 87487,
+                "name": "Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/spider-man/4050-87487/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521002/",
+            "cover_date": "2015-10-31",
+            "date_added": "2016-03-20 07:33:14",
+            "date_last_updated": "2016-03-20 08:11:05",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 521002,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5107549-wwwww.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5107549-wwwww.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5107549-wwwww.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5107549-wwwww.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5107549-wwwww.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5107549-wwwww.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5107549-wwwww.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5107549-wwwww.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5107549-wwwww.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei-22/4000-521002/",
+            "store_date": "2015-09-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89106/",
+                "id": 89106,
+                "name": "Comic Mugen Tensei",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-525142/",
+            "cover_date": "2015-09-30",
+            "date_added": "2016-04-12 14:07:39",
+            "date_last_updated": "2016-04-12 14:08:23",
+            "deck": null,
+            "description": "<p><em> You want Batman action? We’ve got it for you! The deadly Bookbinder continues to evade the Dark Knight in the latest installment of Arkham Unhinged! It’s the show-stopping finale to ‘Anarky’ as Batman tries to stop the influential villain, while in Gotham Central, the cops try to stop their city being engulfed in flames!</em></p><p> </p>",
+            "has_staff_review": false,
+            "id": 525142,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5148510-batman%20arkham%20%2322.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5148510-batman%20arkham%20%2322.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5148510-batman%20arkham%20%2322.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5148510-batman%20arkham%20%2322.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5148510-batman%20arkham%20%2322.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5148510-batman%20arkham%20%2322.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5148510-batman%20arkham%20%2322.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5148510-batman%20arkham%20%2322.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5148510-batman%20arkham%20%2322.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-22/4000-525142/",
+            "store_date": "2015-08-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76663/",
+                "id": 76663,
+                "name": "Batman Arkham",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-arkham/4050-76663/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-537044/",
+            "cover_date": "2015-11-30",
+            "date_added": "2016-06-20 11:58:03",
+            "date_last_updated": "2016-09-19 21:21:30",
+            "deck": null,
+            "description": "<p><em>\"The Unprincipality of Chaos\" Witch Hunter allows himself to become overwhelmed by the chaos in his life, causing the bottom to literally fall out of it, sending him to the Chaos dimension where he hopes to find his lost aide, and love, Kitty. Meanwhile, giant killer owls, an evil skeleton that smells your fear named Corpus the Bone Hunter, and the elder god of chaos, Toaowquid, are committed to bringing disorder to his life...or ending it!</em></p>",
+            "has_staff_review": false,
+            "id": 537044,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5277724-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5277724-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5277724-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5277724-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5277724-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5277724-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5277724-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5277724-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5277724-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "The Unprincipality of Chaos",
+            "site_detail_url": "https://comicvine.gamespot.com/witch-hunter-22-the-unprincipality-of-chaos/4000-537044/",
+            "store_date": "2015-11-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70138/",
+                "id": 70138,
+                "name": "Witch Hunter",
+                "site_detail_url": "https://comicvine.gamespot.com/witch-hunter/4050-70138/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560126/",
+            "cover_date": "2015-07-31",
+            "date_added": "2016-11-26 11:21:31",
+            "date_last_updated": "2017-06-18 06:01:48",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 560126,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552502-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552502-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552502-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552502-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552502-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552502-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552502-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552502-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5552502-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Tome 22",
+            "site_detail_url": "https://comicvine.gamespot.com/kurokos-basket-22-tome-22/4000-560126/",
+            "store_date": "2015-07-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95903/",
+                "id": 95903,
+                "name": "Kuroko's Basket",
+                "site_detail_url": "https://comicvine.gamespot.com/kurokos-basket/4050-95903/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562065/",
+            "cover_date": "2015-03-01",
+            "date_added": "2016-11-28 06:16:54",
+            "date_last_updated": "2018-09-15 19:28:00",
+            "deck": "Una belva misteriosa fa strage nella foresta: Dragonero si prepara alla caccia grossa!",
+            "description": "<p><em>Ai margini dell'immensa foresta di Vetwasilvhe, nel centro dell'Erondàr, una belva misteriosa sta facendo strage di cacciatori, attaccandoli persino nei loro capanni e senza lasciare superstiti. Gli abitanti dei paesi limitrofi iniziano ad evitare la foresta, che è la loro unica fonte di cibo e materie prime, e la regione inizia a soffrire la fame. Ian e Gmor vengono inviati, con un carico di armi per la caccia grossa, a un presidio fortificato dove si stanno radunando cacciatori e bestiarii da ogni dove, ansiosi di guadagnarsi un trofeo eccezionale...</em></p>",
+            "has_staff_review": false,
+            "id": 562065,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557438-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557438-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557438-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557438-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557438-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557438-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557438-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557438-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557438-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "L'uomo delle foreste",
+            "site_detail_url": "https://comicvine.gamespot.com/dragonero-22-luomo-delle-foreste/4000-562065/",
+            "store_date": "2015-03-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
+                "id": 67599,
+                "name": "Dragonero",
+                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-573637/",
+            "cover_date": "2015-06-26",
+            "date_added": "2016-12-31 04:07:57",
+            "date_last_updated": "2017-03-03 19:37:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 573637,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5622488-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5622488-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5622488-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5622488-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5622488-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5622488-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5622488-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5622488-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5622488-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/kenkaku-shoubai-22-vol-22/4000-573637/",
+            "store_date": "2015-06-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97568/",
+                "id": 97568,
+                "name": "Kenkaku Shoubai",
+                "site_detail_url": "https://comicvine.gamespot.com/kenkaku-shoubai/4050-97568/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-583468/",
+            "cover_date": "2015-08-25",
+            "date_added": "2017-02-25 16:48:37",
+            "date_last_updated": "2017-08-28 03:29:26",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 583468,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5719974-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5719974-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5719974-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5719974-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5719974-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5719974-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5719974-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5719974-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5719974-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/roto-no-monshou-monshou-wo-tsugu-monotachi-e-22-vo/4000-583468/",
+            "store_date": "2015-08-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99197/",
+                "id": 99197,
+                "name": "Roto no Monshou - Monshou wo Tsugu Monotachi e",
+                "site_detail_url": "https://comicvine.gamespot.com/roto-no-monshou-monshou-wo-tsugu-monotachi-e/4050-99197/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-585987/",
+            "cover_date": "2015-05-08",
+            "date_added": "2017-03-11 04:47:11",
+            "date_last_updated": "2017-08-13 00:57:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 585987,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5742024-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5742024-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5742024-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5742024-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5742024-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5742024-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5742024-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5742024-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5742024-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/shuujin-riku-22-vol-22/4000-585987/",
+            "store_date": "2015-05-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99611/",
+                "id": 99611,
+                "name": "Shuujin Riku",
+                "site_detail_url": "https://comicvine.gamespot.com/shuujin-riku/4050-99611/"
             }
         }
     ]

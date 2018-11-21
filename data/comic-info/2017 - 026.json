@@ -1,76 +1,5 @@
 {
-    "2017-12-25|2017-12-31": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-644733/",
-            "cover_date": "2017-12-27",
-            "date_added": "2017-12-05 14:16:44",
-            "date_last_updated": "2017-12-09 02:02:48",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 644733,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6175040-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6175040-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6175040-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6175040-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6175040-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6175040-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6175040-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6175040-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6175040-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/kuroshitsuji-26-vol-26/4000-644733/",
-            "store_date": "2017-12-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26262/",
-                "id": 26262,
-                "name": "Kuroshitsuji",
-                "site_detail_url": "https://comicvine.gamespot.com/kuroshitsuji/4050-26262/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649737/",
-            "cover_date": "2018-02-28",
-            "date_added": "2017-12-26 17:17:23",
-            "date_last_updated": "2017-12-26 23:48:13",
-            "deck": null,
-            "description": "<p><em>FANTASTIC THREE Part 2</em></p><p><em>The Fantastic Four may be no more, but no one told GALACTUS!</em></p><p><em>The former Devourer of Worlds and his former herald THE SILVER SURFER have returned to Earth once more, but do they come as friends or foes?!</em></p><p><strong>Note</strong>: Even though \"and Devil Dinosaur\" was dropped from the cover it is still part of the indicia.</p>",
-            "has_staff_review": false,
-            "id": 649737,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204743-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204743-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204743-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204743-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204743-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204743-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204743-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204743-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6204743-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "1+2 = Fantastic Three Part Two of Six: The Monster's Due On Yancy Street",
-            "site_detail_url": "https://comicvine.gamespot.com/moon-girl-and-devil-dinosaur-26-12-fantastic-three/4000-649737/",
-            "store_date": "2017-12-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86245/",
-                "id": 86245,
-                "name": "Moon Girl and Devil Dinosaur",
-                "site_detail_url": "https://comicvine.gamespot.com/moon-girl-and-devil-dinosaur/4050-86245/"
-            }
-        }
-    ],
-    "2017-01-02|2017-01-08": [],
-    "2017-01-09|2017-01-15": [],
-    "2017-01-16|2017-01-22": [],
-    "2017-01-23|2017-01-29": [
+    "2017-01-01|2017-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-578499/",
@@ -103,9 +32,7 @@
                 "name": "Shutter",
                 "site_detail_url": "https://comicvine.gamespot.com/shutter/4050-72938/"
             }
-        }
-    ],
-    "2017-01-30|2017-02-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-579228/",
@@ -204,9 +131,7 @@
                 "name": "Deadly Class",
                 "site_detail_url": "https://comicvine.gamespot.com/deadly-class/4050-71032/"
             }
-        }
-    ],
-    "2017-02-06|2017-02-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-580791/",
@@ -239,9 +164,7 @@
                 "name": "The Wicked + The Divine",
                 "site_detail_url": "https://comicvine.gamespot.com/the-wicked-the-divine/4050-74863/"
             }
-        }
-    ],
-    "2017-02-13|2017-02-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-581585/",
@@ -310,41 +233,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-583982/",
-            "cover_date": "2017-02-17",
-            "date_added": "2017-03-03 01:41:01",
-            "date_last_updated": "2017-03-03 13:51:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 583982,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5728471-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5728471-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5728471-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5728471-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5728471-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5728471-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5728471-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5728471-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5728471-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/be-blues-ao-ni-nare-26-vol-26/4000-583982/",
-            "store_date": "2017-02-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92246/",
-                "id": 92246,
-                "name": "Be Blues!〜Ao ni Nare〜",
-                "site_detail_url": "https://comicvine.gamespot.com/be-blues-ao-ni-nare/4050-92246/"
-            }
-        }
-    ],
-    "2017-02-20|2017-02-26": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-582686/",
             "cover_date": "2017-02-28",
             "date_added": "2017-02-22 11:32:45",
@@ -375,44 +263,40 @@
                 "name": "E.I.: Earth Invasion",
                 "site_detail_url": "https://comicvine.gamespot.com/ei-earth-invasion/4050-83743/"
             }
-        }
-    ],
-    "2017-02-27|2017-03-05": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-662461/",
-            "cover_date": "2017-03-31",
-            "date_added": "2018-03-10 17:26:02",
-            "date_last_updated": "2018-03-10 17:28:43",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-583982/",
+            "cover_date": "2017-02-17",
+            "date_added": "2017-03-03 01:41:01",
+            "date_last_updated": "2017-03-03 13:51:59",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 662461,
+            "id": 583982,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6322082-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6322082-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6322082-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6322082-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6322082-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6322082-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6322082-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6322082-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6322082-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5728471-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5728471-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5728471-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5728471-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5728471-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5728471-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5728471-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5728471-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5728471-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
-            "name": "Band 26",
-            "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic-26-band-26/4000-662461/",
-            "store_date": "2017-03-02",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/be-blues-ao-ni-nare-26-vol-26/4000-583982/",
+            "store_date": "2017-02-17",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95908/",
-                "id": 95908,
-                "name": "Magi - The Labyrinth of Magic",
-                "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic/4050-95908/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92246/",
+                "id": 92246,
+                "name": "Be Blues!〜Ao ni Nare〜",
+                "site_detail_url": "https://comicvine.gamespot.com/be-blues-ao-ni-nare/4050-92246/"
             }
-        }
-    ],
-    "2017-03-06|2017-03-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-584986/",
@@ -445,9 +329,40 @@
                 "name": "Kimi ni Todoke: From Me to You",
                 "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-from-me-to-you/4050-34893/"
             }
-        }
-    ],
-    "2017-03-13|2017-03-19": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-587566/",
+            "cover_date": "2017-04-07",
+            "date_added": "2017-03-14 09:02:53",
+            "date_last_updated": "2017-03-19 06:04:31",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 587566,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5748401-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5748401-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5748401-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5748401-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5748401-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5748401-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5748401-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5748401-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5748401-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/dokaben-dream-tournament-hen-26-vol-26/4000-587566/",
+            "store_date": "2017-04-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96935/",
+                "id": 96935,
+                "name": "Dokaben - Dream Tournament Hen",
+                "site_detail_url": "https://comicvine.gamespot.com/dokaben-dream-tournament-hen/4050-96935/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588065/",
@@ -480,10 +395,7 @@
                 "name": "Magnum X",
                 "site_detail_url": "https://comicvine.gamespot.com/magnum-x/4050-82317/"
             }
-        }
-    ],
-    "2017-03-20|2017-03-26": [],
-    "2017-03-27|2017-04-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-589853/",
@@ -549,41 +461,6 @@
                 "name": "Outcast by Kirkman & Azaceta",
                 "site_detail_url": "https://comicvine.gamespot.com/outcast-by-kirkman-azaceta/4050-75114/"
             }
-        }
-    ],
-    "2017-04-03|2017-04-09": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-587566/",
-            "cover_date": "2017-04-07",
-            "date_added": "2017-03-14 09:02:53",
-            "date_last_updated": "2017-03-19 06:04:31",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 587566,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5748401-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5748401-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5748401-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5748401-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5748401-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5748401-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5748401-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5748401-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5748401-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/dokaben-dream-tournament-hen-26-vol-26/4000-587566/",
-            "store_date": "2017-04-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96935/",
-                "id": 96935,
-                "name": "Dokaben - Dream Tournament Hen",
-                "site_detail_url": "https://comicvine.gamespot.com/dokaben-dream-tournament-hen/4050-96935/"
-            }
         },
         {
             "aliases": null,
@@ -617,44 +494,7 @@
                 "name": "Archie's Funhouse Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/archies-funhouse-double-digest/4050-70778/"
             }
-        }
-    ],
-    "2017-04-10|2017-04-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-591745/",
-            "cover_date": "2017-06-30",
-            "date_added": "2017-04-11 07:12:57",
-            "date_last_updated": "2017-05-26 08:49:32",
-            "deck": null,
-            "description": "<p><em>\"THE OSBORN IDENTITY\" CONTINUES!</em></p><p><em>Silver Sable comes back into Spider-Man's life - but isn't she DEAD?!</em></p><p><em>Norman Osborn has worked his way into a position of power in Symkaria, and any incursion by Spider-Man will be seen as an act of war.</em></p><p><em>Will Spider-Man risk international infamy to take down his most dangerous foe?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Ross</td><td>1</td></tr><tr><td>Var</td><td>Resurrxion Variant Cover</td><td>Kris Anka</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 591745,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5798822-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5798822-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5798822-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5798822-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5798822-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5798822-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5798822-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5798822-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5798822-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "The Osborn identity Part Two: Fight Or Flight",
-            "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spider-man-26-the-osborn-identity-part/4000-591745/",
-            "store_date": "2017-04-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85076/",
-                "id": 85076,
-                "name": "The Amazing Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spiderman/4050-85076/"
-            }
-        }
-    ],
-    "2017-04-17|2017-04-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-591340/",
@@ -686,6 +526,39 @@
                 "id": 92242,
                 "name": "Denpa Kyōshi",
                 "site_detail_url": "https://comicvine.gamespot.com/denpa-kyoshi/4050-92242/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-591745/",
+            "cover_date": "2017-06-30",
+            "date_added": "2017-04-11 07:12:57",
+            "date_last_updated": "2017-05-26 08:49:32",
+            "deck": null,
+            "description": "<p><em>\"THE OSBORN IDENTITY\" CONTINUES!</em></p><p><em>Silver Sable comes back into Spider-Man's life - but isn't she DEAD?!</em></p><p><em>Norman Osborn has worked his way into a position of power in Symkaria, and any incursion by Spider-Man will be seen as an act of war.</em></p><p><em>Will Spider-Man risk international infamy to take down his most dangerous foe?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Ross</td><td>1</td></tr><tr><td>Var</td><td>Resurrxion Variant Cover</td><td>Kris Anka</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 591745,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5798822-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5798822-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5798822-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5798822-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5798822-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5798822-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5798822-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5798822-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5798822-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "The Osborn identity Part Two: Fight Or Flight",
+            "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spider-man-26-the-osborn-identity-part/4000-591745/",
+            "store_date": "2017-04-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85076/",
+                "id": 85076,
+                "name": "The Amazing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spiderman/4050-85076/"
             }
         },
         {
@@ -723,6 +596,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-593469/",
+            "cover_date": "2017-05-02",
+            "date_added": "2017-04-26 21:55:18",
+            "date_last_updated": "2018-03-31 11:53:55",
+            "deck": null,
+            "description": "<p><strong>Proper Japanese Title</strong>: 戦線 <em>(Sensen)</em></p><h2>Chapter Titles</h2><ul><li>Chapter 225: Awkward (ぎくしゃく <em>Gikushaku</em>)</li><li>Chapter 226: Taking Advantage of Confusion (まぎれる <em>Magireru</em>)</li><li>Chapter 227: Challenger (チャレンジャー <em>Charenjā</em>)</li><li>Chapter 228: Transformation (変化 <em>Henka</em>)</li><li>Chapter 229: The Other Day (前日 <em>Zenjitsu</em>)</li><li>Chapter 230: Their Respective Nights (それぞれの夜 <em>Sorezore no Yoru</em>)</li><li>Chapter 231: Beginnings and Happenings (開幕とハプニング <em>Kaimaku to Hapuningu</em>)</li><li>Chapter 232: Warfront (戦線 <em>Sensen</em>)</li><li>Chapter 233: The First Opponent (最初の敵 <em>Saisho no Teki</em>)</li></ul>",
+            "has_staff_review": false,
+            "id": 593469,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5823512-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5823512-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5823512-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5823512-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5823512-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5823512-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5823512-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5823512-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5823512-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Warfront",
+            "site_detail_url": "https://comicvine.gamespot.com/haikyuu-26-warfront/4000-593469/",
+            "store_date": "2017-05-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54789/",
+                "id": 54789,
+                "name": "Haikyuu!!",
+                "site_detail_url": "https://comicvine.gamespot.com/haikyuu/4050-54789/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-593714/",
             "cover_date": "2017-06-30",
             "date_added": "2017-04-29 16:35:57",
@@ -753,41 +659,38 @@
                 "name": "Comic Bavel",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-bavel/4050-88907/"
             }
-        }
-    ],
-    "2017-04-24|2017-04-30": [],
-    "2017-05-01|2017-05-07": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-593469/",
-            "cover_date": "2017-05-02",
-            "date_added": "2017-04-26 21:55:18",
-            "date_last_updated": "2018-03-31 11:53:55",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-593823/",
+            "cover_date": "2017-05-17",
+            "date_added": "2017-04-29 16:39:23",
+            "date_last_updated": "2017-04-30 09:09:22",
             "deck": null,
-            "description": "<p><strong>Proper Japanese Title</strong>: 戦線 <em>(Sensen)</em></p><h2>Chapter Titles</h2><ul><li>Chapter 225: Awkward (ぎくしゃく <em>Gikushaku</em>)</li><li>Chapter 226: Taking Advantage of Confusion (まぎれる <em>Magireru</em>)</li><li>Chapter 227: Challenger (チャレンジャー <em>Charenjā</em>)</li><li>Chapter 228: Transformation (変化 <em>Henka</em>)</li><li>Chapter 229: The Other Day (前日 <em>Zenjitsu</em>)</li><li>Chapter 230: Their Respective Nights (それぞれの夜 <em>Sorezore no Yoru</em>)</li><li>Chapter 231: Beginnings and Happenings (開幕とハプニング <em>Kaimaku to Hapuningu</em>)</li><li>Chapter 232: Warfront (戦線 <em>Sensen</em>)</li><li>Chapter 233: The First Opponent (最初の敵 <em>Saisho no Teki</em>)</li></ul>",
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 207: Creature of Destruction Indura (破壊獣インデュラ <em>Hakai-jū Indyura</em>)</li><li>Chapter 208: Elizabeth vs. Indura (エリザベス ｖｓ．インデュラ <em>Hakai-jū Indyura</em>)</li><li>Chapter 209: Advance to the Future (未来への前進 <em>Mirai e no Zenshin</em>)</li><li>Chapter 210: Emotion Maelstrom (感情メイルシュトローム <em>Kanjō Meirushutorōmu</em>)</li><li>Chapter 211: A Farewell Message (さよならを告げる人 <em>Sayonara wo Tsugeru Hito</em>)</li><li>Gaiden: The Doll Asks for Love (人形は愛を乞う <em>Ningyō wa Ai wo Kou</em>)</li><li>Chapter 212: A Gift (贈り物 <em>Okurimono</em>)</li><li>Chapter 213: That's What We Call Love (それをボクらは愛と呼ぶ <em>Sore wo Boku-ra wa Ai to Yobu</em>)</li><li>Extra: A Tender Way to Dispel Magic (やさしい魔法の解きかた <em>Yasashii Mahō no Tokikata</em>)</li><li>Extra: What I Want to Tell You (キミに伝えたいのは <em>Kimi ni Tsutaetai no wa</em>)</li><li>Extra: Hawk The Greedy (〈物欲〉のホーク <em>Butsuyoku no Hōku</em>)</li></ul>",
             "has_staff_review": false,
-            "id": 593469,
+            "id": 593823,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5823512-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5823512-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5823512-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5823512-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5823512-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5823512-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5823512-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5823512-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5823512-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5827349-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5827349-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5827349-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5827349-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5827349-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5827349-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5827349-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5827349-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5827349-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
-            "name": "Warfront",
-            "site_detail_url": "https://comicvine.gamespot.com/haikyuu-26-warfront/4000-593469/",
-            "store_date": "2017-05-02",
+            "name": "Volume 26",
+            "site_detail_url": "https://comicvine.gamespot.com/nanatsu-no-taizai-26-volume-26/4000-593823/",
+            "store_date": "2017-05-17",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54789/",
-                "id": 54789,
-                "name": "Haikyuu!!",
-                "site_detail_url": "https://comicvine.gamespot.com/haikyuu/4050-54789/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68674/",
+                "id": 68674,
+                "name": "Nanatsu no Taizai",
+                "site_detail_url": "https://comicvine.gamespot.com/nanatsu-no-taizai/4050-68674/"
             }
         },
         {
@@ -888,79 +791,7 @@
                 "name": "Giant Days",
                 "site_detail_url": "https://comicvine.gamespot.com/giant-days/4050-80753/"
             }
-        }
-    ],
-    "2017-05-08|2017-05-14": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-633482/",
-            "cover_date": "2017-05-31",
-            "date_added": "2017-10-28 14:36:50",
-            "date_last_updated": "2017-10-29 08:20:21",
-            "deck": null,
-            "description": "<p> Translates Star Wars #26.</p>",
-            "has_staff_review": false,
-            "id": 633482,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6120089-0409658390-porta.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6120089-0409658390-porta.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6120089-0409658390-porta.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6120089-0409658390-porta.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6120089-0409658390-porta.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6120089-0409658390-porta.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6120089-0409658390-porta.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6120089-0409658390-porta.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6120089-0409658390-porta.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/star-wars-26/4000-633482/",
-            "store_date": "2017-05-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-105662/",
-                "id": 105662,
-                "name": "Star Wars",
-                "site_detail_url": "https://comicvine.gamespot.com/star-wars/4050-105662/"
-            }
-        }
-    ],
-    "2017-05-15|2017-05-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-593823/",
-            "cover_date": "2017-05-17",
-            "date_added": "2017-04-29 16:39:23",
-            "date_last_updated": "2017-04-30 09:09:22",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 207: Creature of Destruction Indura (破壊獣インデュラ <em>Hakai-jū Indyura</em>)</li><li>Chapter 208: Elizabeth vs. Indura (エリザベス ｖｓ．インデュラ <em>Hakai-jū Indyura</em>)</li><li>Chapter 209: Advance to the Future (未来への前進 <em>Mirai e no Zenshin</em>)</li><li>Chapter 210: Emotion Maelstrom (感情メイルシュトローム <em>Kanjō Meirushutorōmu</em>)</li><li>Chapter 211: A Farewell Message (さよならを告げる人 <em>Sayonara wo Tsugeru Hito</em>)</li><li>Gaiden: The Doll Asks for Love (人形は愛を乞う <em>Ningyō wa Ai wo Kou</em>)</li><li>Chapter 212: A Gift (贈り物 <em>Okurimono</em>)</li><li>Chapter 213: That's What We Call Love (それをボクらは愛と呼ぶ <em>Sore wo Boku-ra wa Ai to Yobu</em>)</li><li>Extra: A Tender Way to Dispel Magic (やさしい魔法の解きかた <em>Yasashii Mahō no Tokikata</em>)</li><li>Extra: What I Want to Tell You (キミに伝えたいのは <em>Kimi ni Tsutaetai no wa</em>)</li><li>Extra: Hawk The Greedy (〈物欲〉のホーク <em>Butsuyoku no Hōku</em>)</li></ul>",
-            "has_staff_review": false,
-            "id": 593823,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5827349-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5827349-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5827349-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5827349-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5827349-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5827349-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5827349-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5827349-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5827349-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Volume 26",
-            "site_detail_url": "https://comicvine.gamespot.com/nanatsu-no-taizai-26-volume-26/4000-593823/",
-            "store_date": "2017-05-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68674/",
-                "id": 68674,
-                "name": "Nanatsu no Taizai",
-                "site_detail_url": "https://comicvine.gamespot.com/nanatsu-no-taizai/4050-68674/"
-            }
-        }
-    ],
-    "2017-05-22|2017-05-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-597174/",
@@ -1026,9 +857,7 @@
                 "name": "Graphic Classics",
                 "site_detail_url": "https://comicvine.gamespot.com/graphic-classics/4050-40054/"
             }
-        }
-    ],
-    "2017-05-29|2017-06-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-598430/",
@@ -1061,9 +890,40 @@
                 "name": "Rick and Morty",
                 "site_detail_url": "https://comicvine.gamespot.com/rick-and-morty/4050-81059/"
             }
-        }
-    ],
-    "2017-06-05|2017-06-11": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-599997/",
+            "cover_date": "2017-06-30",
+            "date_added": "2017-06-06 09:16:13",
+            "date_last_updated": "2017-06-09 15:44:51",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 599997,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5885058-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5885058-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5885058-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5885058-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5885058-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5885058-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5885058-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5885058-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5885058-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "A la campagne",
+            "site_detail_url": "https://comicvine.gamespot.com/les-blondes-26-a-la-campagne/4000-599997/",
+            "store_date": "2017-06-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70319/",
+                "id": 70319,
+                "name": "Les Blondes",
+                "site_detail_url": "https://comicvine.gamespot.com/les-blondes/4050-70319/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600570/",
@@ -1096,9 +956,7 @@
                 "name": "Heroic Spotlight",
                 "site_detail_url": "https://comicvine.gamespot.com/heroic-spotlight/4050-32517/"
             }
-        }
-    ],
-    "2017-06-12|2017-06-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-601634/",
@@ -1164,45 +1022,7 @@
                 "name": "Manifest",
                 "site_detail_url": "https://comicvine.gamespot.com/manifest/4050-84373/"
             }
-        }
-    ],
-    "2017-06-19|2017-06-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-599997/",
-            "cover_date": "2017-06-30",
-            "date_added": "2017-06-06 09:16:13",
-            "date_last_updated": "2017-06-09 15:44:51",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 599997,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5885058-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5885058-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5885058-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5885058-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5885058-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5885058-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5885058-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5885058-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5885058-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "A la campagne",
-            "site_detail_url": "https://comicvine.gamespot.com/les-blondes-26-a-la-campagne/4000-599997/",
-            "store_date": "2017-06-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70319/",
-                "id": 70319,
-                "name": "Les Blondes",
-                "site_detail_url": "https://comicvine.gamespot.com/les-blondes/4050-70319/"
-            }
-        }
-    ],
-    "2017-06-26|2017-07-02": [],
-    "2017-07-03|2017-07-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-606567/",
@@ -1334,9 +1154,7 @@
                 "name": "Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/superman/4050-91298/"
             }
-        }
-    ],
-    "2017-07-10|2017-07-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-608178/",
@@ -1468,9 +1286,7 @@
                 "name": "Jughead and Archie Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/jughead-and-archie-double-digest/4050-72995/"
             }
-        }
-    ],
-    "2017-07-17|2017-07-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-609274/",
@@ -1503,10 +1319,7 @@
                 "name": "Aquaman",
                 "site_detail_url": "https://comicvine.gamespot.com/aquaman/4050-91738/"
             }
-        }
-    ],
-    "2017-07-24|2017-07-30": [],
-    "2017-07-31|2017-08-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-610758/",
@@ -1674,39 +1487,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641032/",
-            "cover_date": "2017-07-31",
-            "date_added": "2017-11-21 15:06:00",
-            "date_last_updated": "2017-11-26 04:45:50",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-613659/",
+            "cover_date": "2017-08-21",
+            "date_added": "2017-08-08 08:51:57",
+            "date_last_updated": "2017-08-08 18:09:37",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 641032,
+            "id": 613659,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6154925-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6154925-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6154925-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6154925-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6154925-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6154925-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6154925-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6154925-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6154925-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5996559-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5996559-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5996559-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5996559-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5996559-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5996559-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5996559-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5996559-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5996559-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
             "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/meshibana-keiji-tachibana-26-vol-26/4000-641032/",
-            "store_date": "2017-07-31",
+            "site_detail_url": "https://comicvine.gamespot.com/hyakki-yakoushou-26-vol-26/4000-613659/",
+            "store_date": "2017-08-21",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98158/",
-                "id": 98158,
-                "name": "Meshibana Keiji Tachibana",
-                "site_detail_url": "https://comicvine.gamespot.com/meshibana-keiji-tachibana/4050-98158/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97332/",
+                "id": 97332,
+                "name": "Hyakki Yakoushou",
+                "site_detail_url": "https://comicvine.gamespot.com/hyakki-yakoushou/4050-97332/"
             }
-        }
-    ],
-    "2017-08-07|2017-08-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-613740/",
@@ -1738,75 +1549,6 @@
                 "id": 92557,
                 "name": "Hal Jordan and the Green Lantern Corps",
                 "site_detail_url": "https://comicvine.gamespot.com/hal-jordan-and-the-green-lantern-corps/4050-92557/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-618897/",
-            "cover_date": "2017-08-31",
-            "date_added": "2017-09-02 05:22:55",
-            "date_last_updated": "2017-09-03 09:33:56",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 618897,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6035818-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6035818-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6035818-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6035818-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6035818-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6035818-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6035818-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6035818-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6035818-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-ananga-ranga-26/4000-618897/",
-            "store_date": "2017-08-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95963/",
-                "id": 95963,
-                "name": "Comic Ananga Ranga",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-ananga-ranga/4050-95963/"
-            }
-        }
-    ],
-    "2017-08-14|2017-08-20": [],
-    "2017-08-21|2017-08-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-613659/",
-            "cover_date": "2017-08-21",
-            "date_added": "2017-08-08 08:51:57",
-            "date_last_updated": "2017-08-08 18:09:37",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 613659,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5996559-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5996559-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5996559-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5996559-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5996559-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5996559-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5996559-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5996559-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5996559-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/hyakki-yakoushou-26-vol-26/4000-613659/",
-            "store_date": "2017-08-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97332/",
-                "id": 97332,
-                "name": "Hyakki Yakoushou",
-                "site_detail_url": "https://comicvine.gamespot.com/hyakki-yakoushou/4050-97332/"
             }
         },
         {
@@ -1874,9 +1616,7 @@
                 "name": "Harley Quinn",
                 "site_detail_url": "https://comicvine.gamespot.com/harley-quinn/4050-92750/"
             }
-        }
-    ],
-    "2017-08-28|2017-09-03": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-617856/",
@@ -1912,41 +1652,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-674898/",
-            "cover_date": "2017-08-01",
-            "date_added": "2018-06-25 22:58:49",
-            "date_last_updated": "2018-06-26 13:22:22",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 674898,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6487104-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6487104-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6487104-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6487104-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6487104-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6487104-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6487104-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6487104-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6487104-26.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "26",
-            "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/jour-sister-26-vol-26/4000-674898/",
-            "store_date": "2017-08-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-111858/",
-                "id": 111858,
-                "name": "Jour Sister",
-                "site_detail_url": "https://comicvine.gamespot.com/jour-sister/4050-111858/"
-            }
-        }
-    ],
-    "2017-09-04|2017-09-10": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-618366/",
             "cover_date": "2017-09-04",
             "date_added": "2017-08-30 23:17:04",
@@ -1976,6 +1681,39 @@
                 "id": 77359,
                 "name": "Shokugeki no Soma",
                 "site_detail_url": "https://comicvine.gamespot.com/shokugeki-no-soma/4050-77359/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-618897/",
+            "cover_date": "2017-08-31",
+            "date_added": "2017-09-02 05:22:55",
+            "date_last_updated": "2017-09-03 09:33:56",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 618897,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6035818-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6035818-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6035818-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6035818-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6035818-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6035818-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6035818-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6035818-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6035818-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-ananga-ranga-26/4000-618897/",
+            "store_date": "2017-08-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95963/",
+                "id": 95963,
+                "name": "Comic Ananga Ranga",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-ananga-ranga/4050-95963/"
             }
         },
         {
@@ -2010,9 +1748,7 @@
                 "name": "Daredevil",
                 "site_detail_url": "https://comicvine.gamespot.com/daredevil/4050-86343/"
             }
-        }
-    ],
-    "2017-09-11|2017-09-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-621114/",
@@ -2111,9 +1847,7 @@
                 "name": "18 Days",
                 "site_detail_url": "https://comicvine.gamespot.com/18-days/4050-83051/"
             }
-        }
-    ],
-    "2017-09-18|2017-09-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-622728/",
@@ -2146,9 +1880,7 @@
                 "name": "Magi",
                 "site_detail_url": "https://comicvine.gamespot.com/magi/4050-66335/"
             }
-        }
-    ],
-    "2017-09-25|2017-10-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-625292/",
@@ -2181,9 +1913,7 @@
                 "name": "Suicide Squad",
                 "site_detail_url": "https://comicvine.gamespot.com/suicide-squad/4050-93205/"
             }
-        }
-    ],
-    "2017-10-02|2017-10-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-626145/",
@@ -2216,9 +1946,7 @@
                 "name": "Injustice 2",
                 "site_detail_url": "https://comicvine.gamespot.com/injustice-2/4050-100663/"
             }
-        }
-    ],
-    "2017-10-09|2017-10-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-628535/",
@@ -2251,9 +1979,7 @@
                 "name": "Harrow County",
                 "site_detail_url": "https://comicvine.gamespot.com/harrow-county/4050-81991/"
             }
-        }
-    ],
-    "2017-10-16|2017-10-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-630520/",
@@ -2286,9 +2012,7 @@
                 "name": "Doctor Strange",
                 "site_detail_url": "https://comicvine.gamespot.com/doctor-strange/4050-85094/"
             }
-        }
-    ],
-    "2017-10-23|2017-10-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-632487/",
@@ -2321,10 +2045,40 @@
                 "name": "All-New Wolverine",
                 "site_detail_url": "https://comicvine.gamespot.com/allnew-wolverine/4050-85930/"
             }
-        }
-    ],
-    "2017-10-30|2017-11-05": [],
-    "2017-11-06|2017-11-12": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-633482/",
+            "cover_date": "2017-05-31",
+            "date_added": "2017-10-28 14:36:50",
+            "date_last_updated": "2017-10-29 08:20:21",
+            "deck": null,
+            "description": "<p> Translates Star Wars #26.</p>",
+            "has_staff_review": false,
+            "id": 633482,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6120089-0409658390-porta.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6120089-0409658390-porta.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6120089-0409658390-porta.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6120089-0409658390-porta.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6120089-0409658390-porta.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6120089-0409658390-porta.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6120089-0409658390-porta.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6120089-0409658390-porta.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6120089-0409658390-porta.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/star-wars-26/4000-633482/",
+            "store_date": "2017-05-09",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-105662/",
+                "id": 105662,
+                "name": "Star Wars",
+                "site_detail_url": "https://comicvine.gamespot.com/star-wars/4050-105662/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-636387/",
@@ -2357,9 +2111,7 @@
                 "name": "The Unbeatable Squirrel Girl",
                 "site_detail_url": "https://comicvine.gamespot.com/the-unbeatable-squirrel-girl/4050-85601/"
             }
-        }
-    ],
-    "2017-11-13|2017-11-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-638632/",
@@ -2392,10 +2144,40 @@
                 "name": "Descender",
                 "site_detail_url": "https://comicvine.gamespot.com/descender/4050-80426/"
             }
-        }
-    ],
-    "2017-11-20|2017-11-26": [],
-    "2017-11-27|2017-12-03": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641032/",
+            "cover_date": "2017-07-31",
+            "date_added": "2017-11-21 15:06:00",
+            "date_last_updated": "2017-11-26 04:45:50",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 641032,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6154925-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6154925-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6154925-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6154925-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6154925-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6154925-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6154925-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6154925-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6154925-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/meshibana-keiji-tachibana-26-vol-26/4000-641032/",
+            "store_date": "2017-07-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98158/",
+                "id": 98158,
+                "name": "Meshibana Keiji Tachibana",
+                "site_detail_url": "https://comicvine.gamespot.com/meshibana-keiji-tachibana/4050-98158/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-643042/",
@@ -2428,9 +2210,7 @@
                 "name": "Spider-Gwen",
                 "site_detail_url": "https://comicvine.gamespot.com/spider-gwen/4050-85311/"
             }
-        }
-    ],
-    "2017-12-04|2017-12-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-644256/",
@@ -2532,39 +2312,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657642/",
-            "cover_date": "2017-12-08",
-            "date_added": "2018-02-03 05:53:41",
-            "date_last_updated": "2018-02-10 04:07:35",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-644733/",
+            "cover_date": "2017-12-27",
+            "date_added": "2017-12-05 14:16:44",
+            "date_last_updated": "2017-12-09 02:02:48",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 657642,
+            "id": 644733,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261356-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261356-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261356-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261356-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261356-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261356-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261356-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261356-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6261356-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6175040-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6175040-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6175040-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6175040-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6175040-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6175040-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6175040-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6175040-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6175040-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
             "name": "Vol. 26",
-            "site_detail_url": "https://comicvine.gamespot.com/kowashiya-gen-26-vol-26/4000-657642/",
-            "store_date": "2017-12-08",
+            "site_detail_url": "https://comicvine.gamespot.com/kuroshitsuji-26-vol-26/4000-644733/",
+            "store_date": "2017-12-27",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108391/",
-                "id": 108391,
-                "name": "Kowashiya Gen",
-                "site_detail_url": "https://comicvine.gamespot.com/kowashiya-gen/4050-108391/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26262/",
+                "id": 26262,
+                "name": "Kuroshitsuji",
+                "site_detail_url": "https://comicvine.gamespot.com/kuroshitsuji/4050-26262/"
             }
-        }
-    ],
-    "2017-12-11|2017-12-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-646238/",
@@ -2597,41 +2375,137 @@
                 "name": "Invader Zim",
                 "site_detail_url": "https://comicvine.gamespot.com/invader-zim/4050-83101/"
             }
-        }
-    ],
-    "2017-12-18|2017-12-24": [],
-    "2016-12-26|2017-01-01": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571687/",
-            "cover_date": "2017-02-28",
-            "date_added": "2016-12-27 02:29:36",
-            "date_last_updated": "2017-06-07 19:07:43",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649737/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:17:23",
+            "date_last_updated": "2017-12-26 23:48:13",
             "deck": null,
-            "description": "<p><em>With one of our rebel crew captured and imprisoned...</em></p><p><em>...we turn once more to the journals of Ben Kenobi...</em></p><p><em>...and a legendary adventure of Jedi Master...Yoda!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Stuart Immonen</td><td>1</td></tr><tr><td>Var</td><td>Sketch Variant Cover</td><td>Stuart Immonen</td><td>2</td></tr><tr><td>Var</td><td>Action Figure Variant Cover</td><td>John Tyler Christopher</td><td>3</td></tr></tbody></table>",
+            "description": "<p><em>FANTASTIC THREE Part 2</em></p><p><em>The Fantastic Four may be no more, but no one told GALACTUS!</em></p><p><em>The former Devourer of Worlds and his former herald THE SILVER SURFER have returned to Earth once more, but do they come as friends or foes?!</em></p><p><strong>Note</strong>: Even though \"and Devil Dinosaur\" was dropped from the cover it is still part of the indicia.</p>",
             "has_staff_review": false,
-            "id": 571687,
+            "id": 649737,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614014-26.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614014-26.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614014-26.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614014-26.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614014-26.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614014-26.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614014-26.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614014-26.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5614014-26.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204743-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204743-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204743-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204743-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204743-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204743-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204743-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204743-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204743-26.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "26",
-            "name": "Book VI, Part I: Yoda's Secret War",
-            "site_detail_url": "https://comicvine.gamespot.com/star-wars-26-book-vi-part-i-yodas-secret-war/4000-571687/",
-            "store_date": "2016-12-28",
+            "name": "1+2 = Fantastic Three Part Two of Six: The Monster's Due On Yancy Street",
+            "site_detail_url": "https://comicvine.gamespot.com/moon-girl-and-devil-dinosaur-26-12-fantastic-three/4000-649737/",
+            "store_date": "2017-12-27",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79398/",
-                "id": 79398,
-                "name": "Star Wars",
-                "site_detail_url": "https://comicvine.gamespot.com/star-wars/4050-79398/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86245/",
+                "id": 86245,
+                "name": "Moon Girl and Devil Dinosaur",
+                "site_detail_url": "https://comicvine.gamespot.com/moon-girl-and-devil-dinosaur/4050-86245/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657642/",
+            "cover_date": "2017-12-08",
+            "date_added": "2018-02-03 05:53:41",
+            "date_last_updated": "2018-02-10 04:07:35",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 657642,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261356-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261356-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261356-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261356-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261356-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261356-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261356-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261356-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6261356-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/kowashiya-gen-26-vol-26/4000-657642/",
+            "store_date": "2017-12-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108391/",
+                "id": 108391,
+                "name": "Kowashiya Gen",
+                "site_detail_url": "https://comicvine.gamespot.com/kowashiya-gen/4050-108391/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-662461/",
+            "cover_date": "2017-03-31",
+            "date_added": "2018-03-10 17:26:02",
+            "date_last_updated": "2018-03-10 17:28:43",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 662461,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6322082-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6322082-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6322082-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6322082-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6322082-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6322082-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6322082-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6322082-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6322082-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Band 26",
+            "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic-26-band-26/4000-662461/",
+            "store_date": "2017-03-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95908/",
+                "id": 95908,
+                "name": "Magi - The Labyrinth of Magic",
+                "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic/4050-95908/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-674898/",
+            "cover_date": "2017-08-01",
+            "date_added": "2018-06-25 22:58:49",
+            "date_last_updated": "2018-06-26 13:22:22",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 674898,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6487104-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6487104-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6487104-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6487104-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6487104-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6487104-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6487104-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6487104-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6487104-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Vol. 26",
+            "site_detail_url": "https://comicvine.gamespot.com/jour-sister-26-vol-26/4000-674898/",
+            "store_date": "2017-08-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-111858/",
+                "id": 111858,
+                "name": "Jour Sister",
+                "site_detail_url": "https://comicvine.gamespot.com/jour-sister/4050-111858/"
             }
         }
     ]

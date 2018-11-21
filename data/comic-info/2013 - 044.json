@@ -1,8 +1,5 @@
 {
-    "2013-12-23|2013-12-29": [],
-    "2013-12-30|2014-01-05": [],
-    "2013-01-07|2013-01-13": [],
-    "2013-01-14|2013-01-20": [
+    "2013-01-01|2013-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-387665/",
@@ -35,48 +32,7 @@
                 "name": "The Mighty World of Marvel",
                 "site_detail_url": "https://comicvine.gamespot.com/the-mighty-world-of-marvel/4050-34856/"
             }
-        }
-    ],
-    "2013-01-21|2013-01-27": [],
-    "2013-01-28|2013-02-03": [],
-    "2013-02-04|2013-02-10": [],
-    "2013-02-11|2013-02-17": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560788/",
-            "cover_date": "2013-02-15",
-            "date_added": "2016-11-27 02:02:39",
-            "date_last_updated": "2018-08-24 22:36:13",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 560788,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554318-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554318-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554318-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554318-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554318-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554318-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554318-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554318-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5554318-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Vol. 44",
-            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-44-vol-44/4000-560788/",
-            "store_date": "2013-02-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
-                "id": 95919,
-                "name": "Q.E.D. - Shoumei Shuuryou",
-                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
-            }
-        }
-    ],
-    "2013-02-18|2013-02-24": [],
-    "2013-02-25|2013-03-03": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-388630/",
@@ -109,12 +65,40 @@
                 "name": "World War 3 Illustrated",
                 "site_detail_url": "https://comicvine.gamespot.com/world-war-3-illustrated/4050-52110/"
             }
-        }
-    ],
-    "2013-03-04|2013-03-10": [],
-    "2013-03-11|2013-03-17": [],
-    "2013-03-18|2013-03-24": [],
-    "2013-03-25|2013-03-31": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396010/",
+            "cover_date": "2013-04-03",
+            "date_added": "2013-04-04 07:50:04",
+            "date_last_updated": "2013-04-06 05:15:33",
+            "deck": null,
+            "description": "<p><em>Batman is determined to solve the case and find the priest's murderer. But will his interrogation of Father Tenney bear fruit? \"Without Sin\" part 3 of 6.</em></p>",
+            "has_staff_review": false,
+            "id": 396010,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2963237-44.png",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2963237-44.png",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2963237-44.png",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2963237-44.png",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2963237-44.png",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2963237-44.png",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2963237-44.png",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2963237-44.png",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2963237-44.png",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Without Sin, Part 3 of 6",
+            "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight-44-without-sin-part-3-o/4000-396010/",
+            "store_date": "2013-04-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-49552/",
+                "id": 49552,
+                "name": "Legends of the Dark Knight",
+                "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight/4050-49552/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396026/",
@@ -150,76 +134,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530129/",
-            "cover_date": "2013-03-28",
-            "date_added": "2016-05-12 10:39:45",
-            "date_last_updated": "2016-05-21 15:53:45",
-            "deck": null,
-            "description": "<h2> Round Titles</h2><ul><li>Round 465 - Lights, Camera...Action</li><li>Round 466 - An Odd Speech</li><li>Round 467 - Letting Go</li><li>Round 468 - Listening to Pokémon</li><li>Round 469 - Welcome to Striaton City!!</li><li>Round 470 - Their First Gym Battle</li><li>Round 471 - Battle at the Dreamyard</li></ul>",
-            "has_staff_review": false,
-            "id": 530129,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5220664-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5220664-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5220664-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5220664-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5220664-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5220664-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5220664-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5220664-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5220664-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Volume 44",
-            "site_detail_url": "https://comicvine.gamespot.com/pokemon-adventures-44-volume-44/4000-530129/",
-            "store_date": "2013-03-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90458/",
-                "id": 90458,
-                "name": "Pocket Monsters Special",
-                "site_detail_url": "https://comicvine.gamespot.com/pocket-monsters-special/4050-90458/"
-            }
-        }
-    ],
-    "2013-04-01|2013-04-07": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396010/",
-            "cover_date": "2013-04-03",
-            "date_added": "2013-04-04 07:50:04",
-            "date_last_updated": "2013-04-06 05:15:33",
-            "deck": null,
-            "description": "<p><em>Batman is determined to solve the case and find the priest's murderer. But will his interrogation of Father Tenney bear fruit? \"Without Sin\" part 3 of 6.</em></p>",
-            "has_staff_review": false,
-            "id": 396010,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2963237-44.png",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2963237-44.png",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2963237-44.png",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2963237-44.png",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2963237-44.png",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2963237-44.png",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2963237-44.png",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2963237-44.png",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2963237-44.png",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Without Sin, Part 3 of 6",
-            "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight-44-without-sin-part-3-o/4000-396010/",
-            "store_date": "2013-04-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-49552/",
-                "id": 49552,
-                "name": "Legends of the Dark Knight",
-                "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight/4050-49552/"
-            }
-        }
-    ],
-    "2013-04-08|2013-04-14": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396411/",
             "cover_date": "2013-04-09",
             "date_added": "2013-04-09 00:08:55",
@@ -250,10 +164,7 @@
                 "name": "Oh My Goddess!",
                 "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess/4050-27627/"
             }
-        }
-    ],
-    "2013-04-15|2013-04-21": [],
-    "2013-04-22|2013-04-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-399691/",
@@ -286,9 +197,7 @@
                 "name": "Smallville: Season Eleven",
                 "site_detail_url": "https://comicvine.gamespot.com/smallville-season-eleven/4050-47896/"
             }
-        }
-    ],
-    "2013-04-29|2013-05-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-400222/",
@@ -321,9 +230,7 @@
                 "name": "Wasteland",
                 "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
             }
-        }
-    ],
-    "2013-05-06|2013-05-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-401618/",
@@ -356,9 +263,7 @@
                 "name": "Essential X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/essential-x-men/4050-36821/"
             }
-        }
-    ],
-    "2013-05-13|2013-05-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-407932/",
@@ -391,53 +296,7 @@
                 "name": "Addicted to Curry",
                 "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry/4050-62749/"
             }
-        }
-    ],
-    "2013-05-20|2013-05-26": [],
-    "2013-05-27|2013-06-02": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519504/",
-            "cover_date": "2013-05-31",
-            "date_added": "2016-03-12 13:25:55",
-            "date_last_updated": "2016-04-11 02:25:20",
-            "deck": null,
-            "description": "<p><em>This Digital Exclusive features OVER 140 PAGES of family fun! How did the kids from Riverdale High get to be so quirky, wacky, and fun? Judging by their families, it might be genetic! Join Archie, Betty, Veronica, and the whole gang as they hang out with their parents, cousins, siblings, and more. This Digital Exclusive features more than 15 stories about characters like Betty's seldom seen brother Chic, Veronica's bratty cousin Leroy, Coach Clayton, Raj Patel's family, and even Ms. Beazly's daughter! So settle down at the dinner table and celebrate family with Archie &amp; Friends!</em></p>",
-            "has_staff_review": false,
-            "id": 519504,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5145163-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5145163-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5145163-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5145163-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5145163-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5145163-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5145163-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5145163-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5145163-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Archie & Friends Family Values",
-            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-44-archie-and-friends-family-values/4000-519504/",
-            "store_date": "2013-05-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
-                "id": 86278,
-                "name": "PEP Digital",
-                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
-            }
-        }
-    ],
-    "2013-06-03|2013-06-09": [],
-    "2013-06-10|2013-06-16": [],
-    "2013-06-17|2013-06-23": [],
-    "2013-06-24|2013-06-30": [],
-    "2013-07-01|2013-07-07": [],
-    "2013-07-08|2013-07-14": [],
-    "2013-07-15|2013-07-21": [],
-    "2013-07-22|2013-07-28": [],
-    "2013-07-29|2013-08-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-428016/",
@@ -470,93 +329,7 @@
                 "name": "COMIC Hotmilk",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
             }
-        }
-    ],
-    "2013-08-05|2013-08-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441831/",
-            "cover_date": "2013-08-06",
-            "date_added": "2014-01-09 21:41:10",
-            "date_last_updated": "2016-02-07 12:05:27",
-            "deck": null,
-            "description": "<p><em>In Astro Boy: Space Snow Leopard, Tezuka does his take on the ìangel hairî snow phenomena! One snowy day, Astro discovers all the robots in the city completely drained of energy and rushes to investigate. Surprisingly, his search leads him to a crazed man and his mysterious \"space snow leopard!î Is the leopard responsible for the robotsí mass collapse? And why exactly isn't Astro affected?! Also included are Buddha, Dororo, and Black Jack!</em></p><h2>Story Titles</h2><ul><li>Astro Boy: Space Snow Leopard Chapter One</li><li>Buddha Part Three: Interview At Mt. Pandava Chapter Two</li><li>Dororo: The Cruel Cape</li><li>Black Jack: Drifter In A Ghost Town</li></ul>",
-            "has_staff_review": false,
-            "id": 441831,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3562927-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3562927-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3562927-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3562927-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3562927-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3562927-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3562927-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3562927-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3562927-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Vol. 44",
-            "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine-44-vol-44/4000-441831/",
-            "store_date": "2013-08-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70818/",
-                "id": 70818,
-                "name": "Weekly Astro Boy Magazine",
-                "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine/4050-70818/"
-            }
-        }
-    ],
-    "2013-08-12|2013-08-18": [],
-    "2013-08-19|2013-08-25": [],
-    "2013-08-26|2013-09-01": [],
-    "2013-09-02|2013-09-08": [],
-    "2013-09-09|2013-09-15": [],
-    "2013-09-16|2013-09-22": [],
-    "2013-09-23|2013-09-29": [],
-    "2013-09-30|2013-10-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517583/",
-            "cover_date": "2013-10-04",
-            "date_added": "2016-02-28 12:48:45",
-            "date_last_updated": "2016-05-01 16:35:36",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 517583,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073893-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073893-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073893-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073893-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073893-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073893-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073893-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073893-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5073893-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Vol. 44",
-            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-44-vol-44/4000-517583/",
-            "store_date": "2013-10-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
-                "id": 88523,
-                "name": "Kinnikuman",
-                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
-            }
-        }
-    ],
-    "2013-10-07|2013-10-13": [],
-    "2013-10-14|2013-10-20": [],
-    "2013-10-21|2013-10-27": [],
-    "2013-10-28|2013-11-03": [],
-    "2013-11-04|2013-11-10": [],
-    "2013-11-11|2013-11-17": [],
-    "2013-11-18|2013-11-24": [],
-    "2013-11-25|2013-12-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-435025/",
@@ -622,9 +395,7 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-41783/"
             }
-        }
-    ],
-    "2013-12-02|2013-12-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-440215/",
@@ -657,9 +428,106 @@
                 "name": "Lucky Luke",
                 "site_detail_url": "https://comicvine.gamespot.com/lucky-luke/4050-48134/"
             }
-        }
-    ],
-    "2013-12-09|2013-12-15": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441831/",
+            "cover_date": "2013-08-06",
+            "date_added": "2014-01-09 21:41:10",
+            "date_last_updated": "2016-02-07 12:05:27",
+            "deck": null,
+            "description": "<p><em>In Astro Boy: Space Snow Leopard, Tezuka does his take on the ìangel hairî snow phenomena! One snowy day, Astro discovers all the robots in the city completely drained of energy and rushes to investigate. Surprisingly, his search leads him to a crazed man and his mysterious \"space snow leopard!î Is the leopard responsible for the robotsí mass collapse? And why exactly isn't Astro affected?! Also included are Buddha, Dororo, and Black Jack!</em></p><h2>Story Titles</h2><ul><li>Astro Boy: Space Snow Leopard Chapter One</li><li>Buddha Part Three: Interview At Mt. Pandava Chapter Two</li><li>Dororo: The Cruel Cape</li><li>Black Jack: Drifter In A Ghost Town</li></ul>",
+            "has_staff_review": false,
+            "id": 441831,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3562927-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3562927-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3562927-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3562927-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3562927-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3562927-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3562927-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3562927-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3562927-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine-44-vol-44/4000-441831/",
+            "store_date": "2013-08-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70818/",
+                "id": 70818,
+                "name": "Weekly Astro Boy Magazine",
+                "site_detail_url": "https://comicvine.gamespot.com/weekly-astro-boy-magazine/4050-70818/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517583/",
+            "cover_date": "2013-10-04",
+            "date_added": "2016-02-28 12:48:45",
+            "date_last_updated": "2016-05-01 16:35:36",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 517583,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073893-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073893-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073893-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073893-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073893-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073893-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073893-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073893-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073893-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-44-vol-44/4000-517583/",
+            "store_date": "2013-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519504/",
+            "cover_date": "2013-05-31",
+            "date_added": "2016-03-12 13:25:55",
+            "date_last_updated": "2016-04-11 02:25:20",
+            "deck": null,
+            "description": "<p><em>This Digital Exclusive features OVER 140 PAGES of family fun! How did the kids from Riverdale High get to be so quirky, wacky, and fun? Judging by their families, it might be genetic! Join Archie, Betty, Veronica, and the whole gang as they hang out with their parents, cousins, siblings, and more. This Digital Exclusive features more than 15 stories about characters like Betty's seldom seen brother Chic, Veronica's bratty cousin Leroy, Coach Clayton, Raj Patel's family, and even Ms. Beazly's daughter! So settle down at the dinner table and celebrate family with Archie &amp; Friends!</em></p>",
+            "has_staff_review": false,
+            "id": 519504,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5145163-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5145163-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5145163-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5145163-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5145163-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5145163-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5145163-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5145163-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5145163-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Archie & Friends Family Values",
+            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-44-archie-and-friends-family-values/4000-519504/",
+            "store_date": "2013-05-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
+                "id": 86278,
+                "name": "PEP Digital",
+                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524660/",
@@ -692,7 +560,72 @@
                 "name": "Q.E.D.",
                 "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530129/",
+            "cover_date": "2013-03-28",
+            "date_added": "2016-05-12 10:39:45",
+            "date_last_updated": "2016-05-21 15:53:45",
+            "deck": null,
+            "description": "<h2> Round Titles</h2><ul><li>Round 465 - Lights, Camera...Action</li><li>Round 466 - An Odd Speech</li><li>Round 467 - Letting Go</li><li>Round 468 - Listening to Pokémon</li><li>Round 469 - Welcome to Striaton City!!</li><li>Round 470 - Their First Gym Battle</li><li>Round 471 - Battle at the Dreamyard</li></ul>",
+            "has_staff_review": false,
+            "id": 530129,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5220664-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5220664-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5220664-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5220664-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5220664-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5220664-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5220664-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5220664-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5220664-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Volume 44",
+            "site_detail_url": "https://comicvine.gamespot.com/pokemon-adventures-44-volume-44/4000-530129/",
+            "store_date": "2013-03-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90458/",
+                "id": 90458,
+                "name": "Pocket Monsters Special",
+                "site_detail_url": "https://comicvine.gamespot.com/pocket-monsters-special/4050-90458/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560788/",
+            "cover_date": "2013-02-15",
+            "date_added": "2016-11-27 02:02:39",
+            "date_last_updated": "2018-08-24 22:36:13",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 560788,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554318-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554318-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554318-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554318-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554318-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554318-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554318-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554318-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5554318-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-44-vol-44/4000-560788/",
+            "store_date": "2013-02-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
+                "id": 95919,
+                "name": "Q.E.D. - Shoumei Shuuryou",
+                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
+            }
         }
-    ],
-    "2013-12-16|2013-12-22": []
+    ]
 }

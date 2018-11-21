@@ -1,6 +1,5 @@
 {
-    "2017-12-25|2017-12-31": [],
-    "2017-01-02|2017-01-08": [
+    "2017-01-01|2017-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-575224/",
@@ -33,12 +32,7 @@
                 "name": "Teen Titans Go!",
                 "site_detail_url": "https://comicvine.gamespot.com/teen-titans-go/4050-69512/"
             }
-        }
-    ],
-    "2017-01-09|2017-01-15": [],
-    "2017-01-16|2017-01-22": [],
-    "2017-01-23|2017-01-29": [],
-    "2017-01-30|2017-02-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588044/",
@@ -74,44 +68,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600542/",
-            "cover_date": "2017-02-28",
-            "date_added": "2017-06-07 08:16:27",
-            "date_last_updated": "2017-06-08 15:19:15",
-            "deck": null,
-            "description": "<p><em>Chapter 28 part 2</em></p><p><em>Danny and Seth end up on opposite sides of a conflict, only to get more bad news.</em></p>",
-            "has_staff_review": false,
-            "id": 600542,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887001-39.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887001-39.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887001-39.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887001-39.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887001-39.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887001-39.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887001-39.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887001-39.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5887001-39.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": "Chapter 28 Part 2: Enemies Part 2",
-            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-39-chapter-28-part-2-enemies-part-2/4000-600542/",
-            "store_date": "2017-02-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
-                "id": 70796,
-                "name": "Sorcery 101",
-                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
-            }
-        }
-    ],
-    "2017-02-06|2017-02-12": [],
-    "2017-02-13|2017-02-19": [],
-    "2017-02-20|2017-02-26": [],
-    "2017-02-27|2017-03-05": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590416/",
             "cover_date": "2017-03-31",
             "date_added": "2017-04-01 09:47:36",
@@ -142,16 +98,7 @@
                 "name": "Les femmes en blanc",
                 "site_detail_url": "https://comicvine.gamespot.com/les-femmes-en-blanc/4050-96463/"
             }
-        }
-    ],
-    "2017-03-06|2017-03-12": [],
-    "2017-03-13|2017-03-19": [],
-    "2017-03-20|2017-03-26": [],
-    "2017-03-27|2017-04-02": [],
-    "2017-04-03|2017-04-09": [],
-    "2017-04-10|2017-04-16": [],
-    "2017-04-17|2017-04-23": [],
-    "2017-04-24|2017-04-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600398/",
@@ -184,16 +131,40 @@
                 "name": "Yamikin Ushijima-kun",
                 "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijimakun/4050-93691/"
             }
-        }
-    ],
-    "2017-05-01|2017-05-07": [],
-    "2017-05-08|2017-05-14": [],
-    "2017-05-15|2017-05-21": [],
-    "2017-05-22|2017-05-28": [],
-    "2017-05-29|2017-06-04": [],
-    "2017-06-05|2017-06-11": [],
-    "2017-06-12|2017-06-18": [],
-    "2017-06-19|2017-06-25": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600542/",
+            "cover_date": "2017-02-28",
+            "date_added": "2017-06-07 08:16:27",
+            "date_last_updated": "2017-06-08 15:19:15",
+            "deck": null,
+            "description": "<p><em>Chapter 28 part 2</em></p><p><em>Danny and Seth end up on opposite sides of a conflict, only to get more bad news.</em></p>",
+            "has_staff_review": false,
+            "id": 600542,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887001-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887001-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887001-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887001-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887001-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887001-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887001-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887001-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5887001-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": "Chapter 28 Part 2: Enemies Part 2",
+            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-39-chapter-28-part-2-enemies-part-2/4000-600542/",
+            "store_date": "2017-02-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
+                "id": 70796,
+                "name": "Sorcery 101",
+                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-604335/",
@@ -226,9 +197,7 @@
                 "name": "Berserk",
                 "site_detail_url": "https://comicvine.gamespot.com/berserk/4050-50270/"
             }
-        }
-    ],
-    "2017-06-26|2017-07-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-605141/",
@@ -294,13 +263,7 @@
                 "name": "Dengeki G's Comic",
                 "site_detail_url": "https://comicvine.gamespot.com/dengeki-gs-comic/4050-98478/"
             }
-        }
-    ],
-    "2017-07-03|2017-07-09": [],
-    "2017-07-10|2017-07-16": [],
-    "2017-07-17|2017-07-23": [],
-    "2017-07-24|2017-07-30": [],
-    "2017-07-31|2017-08-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-612144/",
@@ -333,47 +296,7 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-39219/"
             }
-        }
-    ],
-    "2017-08-07|2017-08-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657535/",
-            "cover_date": "2017-08-31",
-            "date_added": "2018-02-03 03:03:12",
-            "date_last_updated": "2018-02-09 22:03:31",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 657535,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261184-39.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261184-39.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261184-39.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261184-39.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261184-39.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261184-39.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261184-39.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261184-39.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6261184-39.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/itan-39/4000-657535/",
-            "store_date": "2017-08-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
-                "id": 108375,
-                "name": "ITAN",
-                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
-            }
-        }
-    ],
-    "2017-08-14|2017-08-20": [],
-    "2017-08-21|2017-08-27": [],
-    "2017-08-28|2017-09-03": [],
-    "2017-09-04|2017-09-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-619699/",
@@ -406,10 +329,7 @@
                 "name": "Skip Beat!",
                 "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-26275/"
             }
-        }
-    ],
-    "2017-09-11|2017-09-17": [],
-    "2017-09-18|2017-09-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-622695/",
@@ -475,9 +395,7 @@
                 "name": "Inhumanos",
                 "site_detail_url": "https://comicvine.gamespot.com/inhumanos/4050-92271/"
             }
-        }
-    ],
-    "2017-09-25|2017-10-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-625680/",
@@ -510,15 +428,7 @@
                 "name": "The Terminus Project",
                 "site_detail_url": "https://comicvine.gamespot.com/the-terminus-project/4050-76178/"
             }
-        }
-    ],
-    "2017-10-02|2017-10-08": [],
-    "2017-10-09|2017-10-15": [],
-    "2017-10-16|2017-10-22": [],
-    "2017-10-23|2017-10-29": [],
-    "2017-10-30|2017-11-05": [],
-    "2017-11-06|2017-11-12": [],
-    "2017-11-13|2017-11-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-640976/",
@@ -551,9 +461,7 @@
                 "name": "Kyokai no Rinne",
                 "site_detail_url": "https://comicvine.gamespot.com/kyokai-no-rinne/4050-58844/"
             }
-        }
-    ],
-    "2017-11-20|2017-11-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641417/",
@@ -619,11 +527,39 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-96530/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657535/",
+            "cover_date": "2017-08-31",
+            "date_added": "2018-02-03 03:03:12",
+            "date_last_updated": "2018-02-09 22:03:31",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 657535,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261184-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261184-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261184-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261184-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261184-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261184-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261184-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261184-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6261184-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/itan-39/4000-657535/",
+            "store_date": "2017-08-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
+                "id": 108375,
+                "name": "ITAN",
+                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
+            }
         }
-    ],
-    "2017-11-27|2017-12-03": [],
-    "2017-12-04|2017-12-10": [],
-    "2017-12-11|2017-12-17": [],
-    "2017-12-18|2017-12-24": [],
-    "2016-12-26|2017-01-01": []
+    ]
 }

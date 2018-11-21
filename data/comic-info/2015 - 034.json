@@ -1,78 +1,5 @@
 {
-    "2015-12-21|2015-12-27": [],
-    "2015-12-28|2016-01-03": [],
-    "2015-01-05|2015-01-11": [],
-    "2015-01-12|2015-01-18": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480089/",
-            "cover_date": "2015-02-28",
-            "date_added": "2015-02-18 04:22:54",
-            "date_last_updated": "2018-05-19 04:19:29",
-            "deck": null,
-            "description": "<p><em>Batman has to battle a whole team single-handed, and what a team it is! Meanwhile, in Batman &amp; Robin – ‘Robin Rises’ the Dark Knight fights his way across Apokolips, with only a handful of friends to help! And if that wasn’t enough, in Batman: Eternal, he has to venture into the world of the occult when a ghostly encounter leads him to scary goings-on at Arkham Asylum!</em></p>",
-            "has_staff_review": false,
-            "id": 480089,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4400744-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4400744-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4400744-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4400744-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4400744-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4400744-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4400744-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4400744-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4400744-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-34/4000-480089/",
-            "store_date": "2015-01-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51694/",
-                "id": 51694,
-                "name": "Batman",
-                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-51694/"
-            }
-        }
-    ],
-    "2015-01-19|2015-01-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481532/",
-            "cover_date": "2015-01-23",
-            "date_added": "2015-03-02 16:34:46",
-            "date_last_updated": "2015-03-02 17:35:44",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 481532,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4426270-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4426270-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4426270-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4426270-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4426270-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4426270-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4426270-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4426270-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4426270-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Vol. 34",
-            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-34-vol-34/4000-481532/",
-            "store_date": "2015-01-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
-                "id": 44126,
-                "name": "Giant Killing",
-                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
-            }
-        }
-    ],
-    "2015-01-26|2015-02-01": [
+    "2015-01-01|2015-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478188/",
@@ -105,15 +32,13 @@
                 "name": "Infinite Crisis: Fight For the Multiverse",
                 "site_detail_url": "https://comicvine.gamespot.com/infinite-crisis-fight-for-the-multiverse/4050-74090/"
             }
-        }
-    ],
-    "2015-02-02|2015-02-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478584/",
             "cover_date": "2015-01-31",
             "date_added": "2015-02-03 00:04:29",
-            "date_last_updated": "2015-04-27 03:09:20",
+            "date_last_updated": "2018-11-15 19:42:47",
             "deck": null,
             "description": "<p><em>Kei is reunited with his beloved Tae only to be torn from her and returned to the streets, where the Gantz warriors are hunted “terrorists,” accused of sabotaging the truce with the alien invaders. Thinking Tae is lost forever, Kei makes a one-man suicide assault against the monstrous ETs!</em></p><p><em><strong>Gantz</strong> has sold over fifteen million copies in Japan!</em></p><p><em>Popular anime series and live-action feature.</em></p>",
             "has_staff_review": false,
@@ -146,7 +71,7 @@
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478648/",
             "cover_date": "2015-02-28",
             "date_added": "2015-02-03 00:34:44",
-            "date_last_updated": "2015-03-03 11:31:00",
+            "date_last_updated": "2018-11-15 19:43:29",
             "deck": null,
             "description": "<p><em>“His 9 Lives, Part 2”</em></p><p><em>Our trip through Garfield’s 9 Lives continues with two more all-star artists! This month, Roger Langridge (The Musical Monsters of Turkey Hollow) brings us The Fat Cat on the High Seas, as we learn of Garfield’s pirate past! Also, Yehudi Mercado (Guardians of the Galaxy: Universal Weapon) draws Garfield in the Old West.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Andy Hirsch (a), Roger Langridge (a) &amp; Yehudi Mercado (a)</td><td>1</td></tr><tr><td>Var</td><td>1:10 Variant Cover</td><td>Roger Langridge (a) &amp; Lisa Moore (c)</td><td>2</td></tr></tbody></table>",
             "has_staff_review": false,
@@ -173,10 +98,40 @@
                 "name": "Garfield",
                 "site_detail_url": "https://comicvine.gamespot.com/garfield/4050-48557/"
             }
-        }
-    ],
-    "2015-02-09|2015-02-15": [],
-    "2015-02-16|2015-02-22": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480089/",
+            "cover_date": "2015-02-28",
+            "date_added": "2015-02-18 04:22:54",
+            "date_last_updated": "2018-05-19 04:19:29",
+            "deck": null,
+            "description": "<p><em>Batman has to battle a whole team single-handed, and what a team it is! Meanwhile, in Batman &amp; Robin – ‘Robin Rises’ the Dark Knight fights his way across Apokolips, with only a handful of friends to help! And if that wasn’t enough, in Batman: Eternal, he has to venture into the world of the occult when a ghostly encounter leads him to scary goings-on at Arkham Asylum!</em></p>",
+            "has_staff_review": false,
+            "id": 480089,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4400744-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4400744-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4400744-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4400744-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4400744-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4400744-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4400744-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4400744-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4400744-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-34/4000-480089/",
+            "store_date": "2015-01-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51694/",
+                "id": 51694,
+                "name": "Batman",
+                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-51694/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480454/",
@@ -209,9 +164,7 @@
                 "name": "Batman: The Jiro Kuwata Batmanga",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-the-jiro-kuwata-batmanga/4050-75410/"
             }
-        }
-    ],
-    "2015-02-23|2015-03-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-480582/",
@@ -244,9 +197,40 @@
                 "name": "The Wallflower",
                 "site_detail_url": "https://comicvine.gamespot.com/the-wallflower/4050-22986/"
             }
-        }
-    ],
-    "2015-03-02|2015-03-08": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481532/",
+            "cover_date": "2015-01-23",
+            "date_added": "2015-03-02 16:34:46",
+            "date_last_updated": "2015-03-02 17:35:44",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 481532,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4426270-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4426270-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4426270-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4426270-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4426270-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4426270-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4426270-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4426270-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4426270-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Vol. 34",
+            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-34-vol-34/4000-481532/",
+            "store_date": "2015-01-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
+                "id": 44126,
+                "name": "Giant Killing",
+                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481602/",
@@ -284,10 +268,7 @@
                 "name": "X-O Manowar",
                 "site_detail_url": "https://comicvine.gamespot.com/x-o-manowar/4050-48559/"
             }
-        }
-    ],
-    "2015-03-09|2015-03-15": [],
-    "2015-03-16|2015-03-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-482917/",
@@ -323,75 +304,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497839/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-08-16 09:01:50",
-            "date_last_updated": "2015-12-30 10:06:36",
-            "deck": null,
-            "description": "<p> Translates Batman #32-33.</p>",
-            "has_staff_review": false,
-            "id": 497839,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4749217-9942757807-BATMA.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4749217-9942757807-BATMA.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4749217-9942757807-BATMA.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4749217-9942757807-BATMA.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4749217-9942757807-BATMA.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4749217-9942757807-BATMA.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4749217-9942757807-BATMA.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4749217-9942757807-BATMA.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4749217-9942757807-BATMA.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-34/4000-497839/",
-            "store_date": "2015-03-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60760/",
-                "id": 60760,
-                "name": "Batman",
-                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-60760/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504838/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-11-02 12:19:33",
-            "date_last_updated": "2015-11-02 12:31:16",
-            "deck": null,
-            "description": "<p> Translats Action Comics Annual #3 &amp; Superman/Wonder Woman Annual #1.</p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Aaron Kuder &amp; Wil Quintana</td><td>1</td></tr><tr><td>Var</td><td>Leipziger Buchmesse 2015 Variant, Limited to 444</td><td>Unknown</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 504838,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4888136-9583958375-SUPER.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4888136-9583958375-SUPER.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4888136-9583958375-SUPER.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4888136-9583958375-SUPER.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4888136-9583958375-SUPER.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4888136-9583958375-SUPER.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4888136-9583958375-SUPER.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4888136-9583958375-SUPER.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4888136-9583958375-SUPER.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/superman-34/4000-504838/",
-            "store_date": "2015-03-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60404/",
-                "id": 60404,
-                "name": "Superman",
-                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-60404/"
-            }
-        }
-    ],
-    "2015-03-23|2015-03-29": [],
-    "2015-03-30|2015-04-05": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-484734/",
             "cover_date": "2015-04-30",
             "date_added": "2015-03-30 02:34:50",
@@ -421,6 +333,39 @@
                 "id": 26275,
                 "name": "Skip Beat!",
                 "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-26275/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486224/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-04-14 01:01:49",
+            "date_last_updated": "2018-05-03 20:14:34",
+            "deck": null,
+            "description": "<p><em>WELL OF DREAMS - PART TWO</em></p><p><em>An encounter with the elusive Antipathies and their Well of Dreams reveals a new darkness in Wonderland! Assisted by the Squire, Calie begins a quest to find the only artifact in the Realm that can contain the nightmare-fueled Terror.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Richard Ortiz &amp; Ylenia Dinapoli</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Vinz El Tabanas</td><td>3</td></tr><tr><td>C</td><td>Cover C</td><td>Jarreau Wimberly</td><td>4</td></tr><tr><td>D</td><td>Year10 Photo Shoot Exclusive Cover, Limited to 350</td><td>David Nakayama</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 486224,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4510941-34a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4510941-34a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4510941-34a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4510941-34a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4510941-34a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4510941-34a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4510941-34a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4510941-34a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4510941-34a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "The Well of Dreams Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/grimm-fairy-tales-presents-wonderland-34-the-well-/4000-486224/",
+            "store_date": "2015-04-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50639/",
+                "id": 50639,
+                "name": "Wonderland",
+                "site_detail_url": "https://comicvine.gamespot.com/wonderland/4050-50639/"
             }
         },
         {
@@ -456,111 +401,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-54809/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-505337/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-11-08 08:04:14",
-            "date_last_updated": "2015-11-08 09:20:36",
-            "deck": null,
-            "description": "<p> Translates Green Lantern #31 &amp; Green Lantern Corps #31.</p>",
-            "has_staff_review": false,
-            "id": 505337,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4897905-8265730993-GREEN.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4897905-8265730993-GREEN.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4897905-8265730993-GREEN.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4897905-8265730993-GREEN.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4897905-8265730993-GREEN.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4897905-8265730993-GREEN.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4897905-8265730993-GREEN.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4897905-8265730993-GREEN.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4897905-8265730993-GREEN.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/green-lantern-34/4000-505337/",
-            "store_date": "2015-03-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55261/",
-                "id": 55261,
-                "name": "Green Lantern",
-                "site_detail_url": "https://comicvine.gamespot.com/green-lantern/4050-55261/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509416/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-12-28 06:11:39",
-            "date_last_updated": "2015-12-28 06:13:57",
-            "deck": null,
-            "description": "<p> Translates Justice League #33 &amp; Teen Titans Annual 3.</p>",
-            "has_staff_review": false,
-            "id": 509416,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4972891-2238056945-JUSTI.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4972891-2238056945-JUSTI.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4972891-2238056945-JUSTI.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4972891-2238056945-JUSTI.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4972891-2238056945-JUSTI.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4972891-2238056945-JUSTI.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4972891-2238056945-JUSTI.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4972891-2238056945-JUSTI.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4972891-2238056945-JUSTI.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/justice-league-34/4000-509416/",
-            "store_date": "2015-03-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61598/",
-                "id": 61598,
-                "name": "Justice League",
-                "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-61598/"
-            }
-        }
-    ],
-    "2015-04-06|2015-04-12": [],
-    "2015-04-13|2015-04-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486224/",
-            "cover_date": "2015-04-30",
-            "date_added": "2015-04-14 01:01:49",
-            "date_last_updated": "2018-05-03 20:14:34",
-            "deck": null,
-            "description": "<p><em>WELL OF DREAMS - PART TWO</em></p><p><em>An encounter with the elusive Antipathies and their Well of Dreams reveals a new darkness in Wonderland! Assisted by the Squire, Calie begins a quest to find the only artifact in the Realm that can contain the nightmare-fueled Terror.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Richard Ortiz &amp; Ylenia Dinapoli</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Vinz El Tabanas</td><td>3</td></tr><tr><td>C</td><td>Cover C</td><td>Jarreau Wimberly</td><td>4</td></tr><tr><td>D</td><td>Year10 Photo Shoot Exclusive Cover, Limited to 350</td><td>David Nakayama</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 486224,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4510941-34a.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4510941-34a.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4510941-34a.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4510941-34a.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4510941-34a.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4510941-34a.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4510941-34a.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4510941-34a.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4510941-34a.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "The Well of Dreams Part Two",
-            "site_detail_url": "https://comicvine.gamespot.com/grimm-fairy-tales-presents-wonderland-34-the-well-/4000-486224/",
-            "store_date": "2015-04-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50639/",
-                "id": 50639,
-                "name": "Wonderland",
-                "site_detail_url": "https://comicvine.gamespot.com/wonderland/4050-50639/"
-            }
-        }
-    ],
-    "2015-04-20|2015-04-26": [],
-    "2015-04-27|2015-05-03": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-487254/",
@@ -626,10 +466,7 @@
                 "name": "Marvel Previews",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-previews/4050-51341/"
             }
-        }
-    ],
-    "2015-05-04|2015-05-10": [],
-    "2015-05-11|2015-05-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-488774/",
@@ -662,9 +499,7 @@
                 "name": "Sensation Comics Featuring Wonder Woman",
                 "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman/4050-76430/"
             }
-        }
-    ],
-    "2015-05-18|2015-05-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-489330/",
@@ -735,45 +570,7 @@
                 "name": "Classic Popeye",
                 "site_detail_url": "https://comicvine.gamespot.com/classic-popeye/4050-51285/"
             }
-        }
-    ],
-    "2015-05-25|2015-05-31": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524690/",
-            "cover_date": "2015-05-31",
-            "date_added": "2016-04-11 13:03:56",
-            "date_last_updated": "2016-05-05 12:23:13",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524690,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146451-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146451-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146451-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146451-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146451-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146451-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146451-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146451-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146451-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Vol. 34",
-            "site_detail_url": "https://comicvine.gamespot.com/toriko-34-vol-34/4000-524690/",
-            "store_date": "2015-05-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64082/",
-                "id": 64082,
-                "name": "Toriko",
-                "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-64082/"
-            }
-        }
-    ],
-    "2015-06-01|2015-06-07": [],
-    "2015-06-08|2015-06-14": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-491607/",
@@ -806,9 +603,7 @@
                 "name": "Rachel Rising",
                 "site_detail_url": "https://comicvine.gamespot.com/rachel-rising/4050-42011/"
             }
-        }
-    ],
-    "2015-06-15|2015-06-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-492184/",
@@ -874,10 +669,7 @@
                 "name": "Doctor Who: The Tenth Doctor Archives",
                 "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-tenth-doctor-archives/4050-82004/"
             }
-        }
-    ],
-    "2015-06-22|2015-06-28": [],
-    "2015-06-29|2015-07-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-493867/",
@@ -909,6 +701,501 @@
                 "id": 71701,
                 "name": "Comics Revue Presents",
                 "site_detail_url": "https://comicvine.gamespot.com/comics-revue-presents/4050-71701/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-494379/",
+            "cover_date": "2015-07-31",
+            "date_added": "2015-07-07 01:58:43",
+            "date_last_updated": "2018-05-19 05:28:04",
+            "deck": null,
+            "description": "<p><em>Kate Leth and Ian McGinty bring three years of Bravest Warriors comics to a close with their most epic story arc yet! Plum's home world is under attack from a creature even the Bravest Warriors might not be able to defeat!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Ian McGinty (a) &amp; Fred C. Stresing (c)</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Jina Noh</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 494379,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4721753-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4721753-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4721753-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4721753-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4721753-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4721753-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4721753-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4721753-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4721753-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "[Untitled]; Beardi Gras",
+            "site_detail_url": "https://comicvine.gamespot.com/bravest-warriors-34-untitled-beardi-gras/4000-494379/",
+            "store_date": "2015-07-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53346/",
+                "id": 53346,
+                "name": "Bravest Warriors",
+                "site_detail_url": "https://comicvine.gamespot.com/bravest-warriors/4050-53346/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-496373/",
+            "cover_date": "2015-07-29",
+            "date_added": "2015-07-28 00:04:06",
+            "date_last_updated": "2016-08-16 17:19:57",
+            "deck": null,
+            "description": "<p><em>The nature of the Crooked Man becomes clearer as Bigby furthers his investigation around the dives haunted by certain Fables.</em></p>",
+            "has_staff_review": false,
+            "id": 496373,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4713206-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4713206-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4713206-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4713206-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4713206-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4713206-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4713206-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4713206-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4713206-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Chapter Thirty-Four",
+            "site_detail_url": "https://comicvine.gamespot.com/fables-the-wolf-among-us-34-chapter-thirty-four/4000-496373/",
+            "store_date": "2015-07-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78767/",
+                "id": 78767,
+                "name": "Fables: The Wolf Among Us",
+                "site_detail_url": "https://comicvine.gamespot.com/fables-the-wolf-among-us/4050-78767/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497629/",
+            "cover_date": "2015-08-12",
+            "date_added": "2015-08-15 01:45:39",
+            "date_last_updated": "2015-10-03 14:03:40",
+            "deck": null,
+            "description": "<p><em>The big bad revealed at last! The mystery of the Hypothetical Gentelman and his identity has finally been unraveled by the Doctor, but is it too late to save himself, Clara and the other misplaced residents of 'sky world'?</em></p>",
+            "has_staff_review": false,
+            "id": 497629,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4747036-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4747036-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4747036-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4747036-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4747036-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4747036-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4747036-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4747036-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4747036-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Sky Jacks Part 4",
+            "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-eleventh-doctor-archives-34-sky-jac/4000-497629/",
+            "store_date": "2015-08-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-82879/",
+                "id": 82879,
+                "name": "Doctor Who: The Eleventh Doctor Archives",
+                "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-eleventh-doctor-archives/4050-82879/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497839/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-08-16 09:01:50",
+            "date_last_updated": "2015-12-30 10:06:36",
+            "deck": null,
+            "description": "<p> Translates Batman #32-33.</p>",
+            "has_staff_review": false,
+            "id": 497839,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4749217-9942757807-BATMA.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4749217-9942757807-BATMA.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4749217-9942757807-BATMA.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4749217-9942757807-BATMA.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4749217-9942757807-BATMA.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4749217-9942757807-BATMA.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4749217-9942757807-BATMA.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4749217-9942757807-BATMA.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4749217-9942757807-BATMA.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-34/4000-497839/",
+            "store_date": "2015-03-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60760/",
+                "id": 60760,
+                "name": "Batman",
+                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-60760/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-498152/",
+            "cover_date": "2015-08-23",
+            "date_added": "2015-08-22 13:58:44",
+            "date_last_updated": "2015-08-24 02:06:40",
+            "deck": null,
+            "description": "<p><em>With the Blood God destroyed and Havik neutralized, the champions of Earthrealm and Outworld attempt to return to their normal lives…and new forces begin to conspire against them.</em></p>",
+            "has_staff_review": false,
+            "id": 498152,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4761692-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4761692-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4761692-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4761692-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4761692-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4761692-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4761692-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4761692-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4761692-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Blood Island Chapter 34: Epilogues",
+            "site_detail_url": "https://comicvine.gamespot.com/mortal-kombat-x-34-blood-island-chapter-34-epilogu/4000-498152/",
+            "store_date": "2015-08-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79262/",
+                "id": 79262,
+                "name": "Mortal Kombat X",
+                "site_detail_url": "https://comicvine.gamespot.com/mortal-kombat-x/4050-79262/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500320/",
+            "cover_date": "2015-09-30",
+            "date_added": "2015-09-15 00:04:10",
+            "date_last_updated": "2018-04-28 18:16:12",
+            "deck": null,
+            "description": "<p><em>“Siege of the Crystal Empire” Part 1! A enigmatic new foe brings together some of the most villainous characters in Equestria to attack the Crystal Empire! What is their true aim and will our ponies be able to save the day?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Andy Price</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Sara Richard</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Stewart McKenny</td><td>3</td></tr><tr><td>RE</td><td>Hot Topic Exclusive Variant Cover</td><td>Tony Fleecs</td><td>4</td></tr><tr><td>RE</td><td>Salt Lake Comic-Con Exclusive Variant Cover</td><td>Tony Fleecs</td><td>5</td></tr></tbody></table><p><strong>Notes:</strong></p><p> </p><p> </p><p> </p><ul><li>The 1:10 Retailer Incentive cover is a homage of the cover of <em><a href=\"https://comicvine.gamespot.com/giant-size-x-men-1-deadly-genesis/4000-14890/\" data-ref-id=\"4000-14890\">Giant-Size X-Men #1</a></em>.</li></ul>",
+            "has_staff_review": false,
+            "id": 500320,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4802855-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4802855-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4802855-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4802855-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4802855-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4802855-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4802855-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4802855-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4802855-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Siege of the Crystal Empire Part 1",
+            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic-34-siege-of-the/4000-500320/",
+            "store_date": "2015-09-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54320/",
+                "id": 54320,
+                "name": "My Little Pony: Friendship Is Magic",
+                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic/4050-54320/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500842/",
+            "cover_date": "2015-10-02",
+            "date_added": "2015-09-20 21:51:38",
+            "date_last_updated": "2015-09-20 22:31:11",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 500842,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4813265-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4813265-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4813265-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4813265-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4813265-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4813265-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4813265-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4813265-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4813265-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Jungle City",
+            "site_detail_url": "https://comicvine.gamespot.com/jeremiah-34-jungle-city/4000-500842/",
+            "store_date": "2015-10-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40682/",
+                "id": 40682,
+                "name": "Jeremiah",
+                "site_detail_url": "https://comicvine.gamespot.com/jeremiah/4050-40682/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-502410/",
+            "cover_date": "2015-10-09",
+            "date_added": "2015-10-09 14:07:17",
+            "date_last_updated": "2015-10-11 03:11:38",
+            "deck": null,
+            "description": "<p><em>As Bruce and Alfred consider the future of Batman, Arkham Knight confronts the Scarecrow! Is this the beginning of a deadly new alliance?</em></p>",
+            "has_staff_review": false,
+            "id": 502410,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4844419-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4844419-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4844419-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4844419-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4844419-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4844419-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4844419-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4844419-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4844419-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Scare Tactics Part 2 of 6",
+            "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-knight-34-scare-tactics-part-2-of-6/4000-502410/",
+            "store_date": "2015-10-09",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80292/",
+                "id": 80292,
+                "name": "Batman: Arkham Knight",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-knight/4050-80292/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504375/",
+            "cover_date": "2015-10-31",
+            "date_added": "2015-10-27 02:53:20",
+            "date_last_updated": "2015-10-30 02:54:22",
+            "deck": null,
+            "description": "<p><em>An excellent jumping on point issue, focusing on Dana Cypress...sister, daughter, mother...and revenge-seeking cop with blood on her hands.</em></p>",
+            "has_staff_review": false,
+            "id": 504375,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4882878-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4882878-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4882878-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4882878-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4882878-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4882878-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4882878-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4882878-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4882878-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/revival-34/4000-504375/",
+            "store_date": "2015-10-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50379/",
+                "id": 50379,
+                "name": "Revival",
+                "site_detail_url": "https://comicvine.gamespot.com/revival/4050-50379/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504838/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-11-02 12:19:33",
+            "date_last_updated": "2015-11-02 12:31:16",
+            "deck": null,
+            "description": "<p> Translats Action Comics Annual #3 &amp; Superman/Wonder Woman Annual #1.</p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Aaron Kuder &amp; Wil Quintana</td><td>1</td></tr><tr><td>Var</td><td>Leipziger Buchmesse 2015 Variant, Limited to 444</td><td>Unknown</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 504838,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4888136-9583958375-SUPER.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4888136-9583958375-SUPER.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4888136-9583958375-SUPER.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4888136-9583958375-SUPER.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4888136-9583958375-SUPER.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4888136-9583958375-SUPER.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4888136-9583958375-SUPER.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4888136-9583958375-SUPER.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4888136-9583958375-SUPER.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/superman-34/4000-504838/",
+            "store_date": "2015-03-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60404/",
+                "id": 60404,
+                "name": "Superman",
+                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-60404/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-505337/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-11-08 08:04:14",
+            "date_last_updated": "2015-11-08 09:20:36",
+            "deck": null,
+            "description": "<p> Translates Green Lantern #31 &amp; Green Lantern Corps #31.</p>",
+            "has_staff_review": false,
+            "id": 505337,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4897905-8265730993-GREEN.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4897905-8265730993-GREEN.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4897905-8265730993-GREEN.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4897905-8265730993-GREEN.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4897905-8265730993-GREEN.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4897905-8265730993-GREEN.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4897905-8265730993-GREEN.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4897905-8265730993-GREEN.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4897905-8265730993-GREEN.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/green-lantern-34/4000-505337/",
+            "store_date": "2015-03-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55261/",
+                "id": 55261,
+                "name": "Green Lantern",
+                "site_detail_url": "https://comicvine.gamespot.com/green-lantern/4050-55261/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508199/",
+            "cover_date": "2015-12-31",
+            "date_added": "2015-12-13 22:05:40",
+            "date_last_updated": "2015-12-13 22:06:22",
+            "deck": null,
+            "description": "<p><em>Moonlit Prophecies</em></p><p><em>Chapter 06 of Avaiyo, Vol. 03</em></p><p><em>Heading back to Brosha, Sekken and Iyo meet up with their guild, Emerald Moon. Reunions are cut short as a new crisis emerges that has the means to threaten the entire world. With little time to spare, they depart for Preminx...in hopes of heading off the Dark Legion. With Emerald Moon standing between two armies, it is their hope the Region of Preminx will not be soaked in blood.</em></p>",
+            "has_staff_review": false,
+            "id": 508199,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4954231-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4954231-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4954231-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4954231-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4954231-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4954231-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4954231-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4954231-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4954231-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Moonlit Prophecies",
+            "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law-34-moonlit-prophecies/4000-508199/",
+            "store_date": "2015-12-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80799/",
+                "id": 80799,
+                "name": "Avaiyo: Myriad Law",
+                "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law/4050-80799/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-509416/",
+            "cover_date": "2015-04-30",
+            "date_added": "2015-12-28 06:11:39",
+            "date_last_updated": "2015-12-28 06:13:57",
+            "deck": null,
+            "description": "<p> Translates Justice League #33 &amp; Teen Titans Annual 3.</p>",
+            "has_staff_review": false,
+            "id": 509416,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4972891-2238056945-JUSTI.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4972891-2238056945-JUSTI.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4972891-2238056945-JUSTI.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4972891-2238056945-JUSTI.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4972891-2238056945-JUSTI.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4972891-2238056945-JUSTI.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4972891-2238056945-JUSTI.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4972891-2238056945-JUSTI.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4972891-2238056945-JUSTI.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/justice-league-34/4000-509416/",
+            "store_date": "2015-03-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61598/",
+                "id": 61598,
+                "name": "Justice League",
+                "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-61598/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521133/",
+            "cover_date": "2016-10-31",
+            "date_added": "2016-03-21 01:34:44",
+            "date_last_updated": "2016-03-21 01:35:24",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 521133,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108578-wwwww.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108578-wwwww.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108578-wwwww.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108578-wwwww.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108578-wwwww.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108578-wwwww.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108578-wwwww.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108578-wwwww.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5108578-wwwww.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-34/4000-521133/",
+            "store_date": "2015-08-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
+                "id": 89126,
+                "name": "Comic X-Eros",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524690/",
+            "cover_date": "2015-05-31",
+            "date_added": "2016-04-11 13:03:56",
+            "date_last_updated": "2016-05-05 12:23:13",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524690,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146451-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146451-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146451-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146451-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146451-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146451-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146451-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146451-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146451-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Vol. 34",
+            "site_detail_url": "https://comicvine.gamespot.com/toriko-34-vol-34/4000-524690/",
+            "store_date": "2015-05-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64082/",
+                "id": 64082,
+                "name": "Toriko",
+                "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-64082/"
             }
         },
         {
@@ -946,74 +1233,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554496/",
-            "cover_date": "2015-07-31",
-            "date_added": "2016-10-18 14:23:36",
-            "date_last_updated": "2017-04-14 00:02:55",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 554496,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491351-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491351-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491351-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491351-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491351-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491351-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491351-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491351-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491351-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Голоса 1",
-            "site_detail_url": "https://comicvine.gamespot.com/mayor-grom-34-golosa-1/4000-554496/",
-            "store_date": "2015-07-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53590/",
-                "id": 53590,
-                "name": "Mayor Grom",
-                "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
-            }
-        }
-    ],
-    "2015-07-06|2015-07-12": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-494379/",
-            "cover_date": "2015-07-31",
-            "date_added": "2015-07-07 01:58:43",
-            "date_last_updated": "2018-05-19 05:28:04",
-            "deck": null,
-            "description": "<p><em>Kate Leth and Ian McGinty bring three years of Bravest Warriors comics to a close with their most epic story arc yet! Plum's home world is under attack from a creature even the Bravest Warriors might not be able to defeat!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Ian McGinty (a) &amp; Fred C. Stresing (c)</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Jina Noh</td><td>2</td></tr></tbody></table>",
-            "has_staff_review": false,
-            "id": 494379,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4721753-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4721753-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4721753-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4721753-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4721753-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4721753-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4721753-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4721753-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4721753-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "[Untitled]; Beardi Gras",
-            "site_detail_url": "https://comicvine.gamespot.com/bravest-warriors-34-untitled-beardi-gras/4000-494379/",
-            "store_date": "2015-07-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53346/",
-                "id": 53346,
-                "name": "Bravest Warriors",
-                "site_detail_url": "https://comicvine.gamespot.com/bravest-warriors/4050-53346/"
-            }
-        },
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554467/",
             "cover_date": "2015-07-31",
             "date_added": "2016-10-18 14:22:21",
@@ -1044,9 +1263,7 @@
                 "name": "Inok",
                 "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
             }
-        }
-    ],
-    "2015-07-13|2015-07-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554482/",
@@ -1079,334 +1296,105 @@
                 "name": "Krasnaya Furiya",
                 "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya/4050-53592/"
             }
-        }
-    ],
-    "2015-07-20|2015-07-26": [],
-    "2015-07-27|2015-08-02": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-496373/",
-            "cover_date": "2015-07-29",
-            "date_added": "2015-07-28 00:04:06",
-            "date_last_updated": "2016-08-16 17:19:57",
-            "deck": null,
-            "description": "<p><em>The nature of the Crooked Man becomes clearer as Bigby furthers his investigation around the dives haunted by certain Fables.</em></p>",
-            "has_staff_review": false,
-            "id": 496373,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4713206-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4713206-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4713206-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4713206-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4713206-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4713206-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4713206-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4713206-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4713206-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Chapter Thirty-Four",
-            "site_detail_url": "https://comicvine.gamespot.com/fables-the-wolf-among-us-34-chapter-thirty-four/4000-496373/",
-            "store_date": "2015-07-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78767/",
-                "id": 78767,
-                "name": "Fables: The Wolf Among Us",
-                "site_detail_url": "https://comicvine.gamespot.com/fables-the-wolf-among-us/4050-78767/"
-            }
-        }
-    ],
-    "2015-08-03|2015-08-09": [],
-    "2015-08-10|2015-08-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497629/",
-            "cover_date": "2015-08-12",
-            "date_added": "2015-08-15 01:45:39",
-            "date_last_updated": "2015-10-03 14:03:40",
-            "deck": null,
-            "description": "<p><em>The big bad revealed at last! The mystery of the Hypothetical Gentelman and his identity has finally been unraveled by the Doctor, but is it too late to save himself, Clara and the other misplaced residents of 'sky world'?</em></p>",
-            "has_staff_review": false,
-            "id": 497629,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4747036-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4747036-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4747036-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4747036-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4747036-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4747036-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4747036-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4747036-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4747036-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Sky Jacks Part 4",
-            "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-eleventh-doctor-archives-34-sky-jac/4000-497629/",
-            "store_date": "2015-08-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-82879/",
-                "id": 82879,
-                "name": "Doctor Who: The Eleventh Doctor Archives",
-                "site_detail_url": "https://comicvine.gamespot.com/doctor-who-the-eleventh-doctor-archives/4050-82879/"
-            }
-        }
-    ],
-    "2015-08-17|2015-08-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-498152/",
-            "cover_date": "2015-08-23",
-            "date_added": "2015-08-22 13:58:44",
-            "date_last_updated": "2015-08-24 02:06:40",
-            "deck": null,
-            "description": "<p><em>With the Blood God destroyed and Havik neutralized, the champions of Earthrealm and Outworld attempt to return to their normal lives…and new forces begin to conspire against them.</em></p>",
-            "has_staff_review": false,
-            "id": 498152,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4761692-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4761692-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4761692-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4761692-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4761692-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4761692-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4761692-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4761692-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4761692-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Blood Island Chapter 34: Epilogues",
-            "site_detail_url": "https://comicvine.gamespot.com/mortal-kombat-x-34-blood-island-chapter-34-epilogu/4000-498152/",
-            "store_date": "2015-08-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79262/",
-                "id": 79262,
-                "name": "Mortal Kombat X",
-                "site_detail_url": "https://comicvine.gamespot.com/mortal-kombat-x/4050-79262/"
-            }
-        }
-    ],
-    "2015-08-24|2015-08-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521133/",
-            "cover_date": "2016-10-31",
-            "date_added": "2016-03-21 01:34:44",
-            "date_last_updated": "2016-03-21 01:35:24",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554496/",
+            "cover_date": "2015-07-31",
+            "date_added": "2016-10-18 14:23:36",
+            "date_last_updated": "2017-04-14 00:02:55",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 521133,
+            "id": 554496,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108578-wwwww.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108578-wwwww.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108578-wwwww.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108578-wwwww.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108578-wwwww.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108578-wwwww.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108578-wwwww.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108578-wwwww.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5108578-wwwww.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491351-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491351-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491351-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491351-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491351-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491351-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491351-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491351-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491351-34.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-34/4000-521133/",
-            "store_date": "2015-08-26",
+            "name": "Голоса 1",
+            "site_detail_url": "https://comicvine.gamespot.com/mayor-grom-34-golosa-1/4000-554496/",
+            "store_date": "2015-07-05",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
-                "id": 89126,
-                "name": "Comic X-Eros",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53590/",
+                "id": 53590,
+                "name": "Mayor Grom",
+                "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
             }
-        }
-    ],
-    "2015-08-31|2015-09-06": [],
-    "2015-09-07|2015-09-13": [],
-    "2015-09-14|2015-09-20": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500320/",
-            "cover_date": "2015-09-30",
-            "date_added": "2015-09-15 00:04:10",
-            "date_last_updated": "2018-04-28 18:16:12",
-            "deck": null,
-            "description": "<p><em>“Siege of the Crystal Empire” Part 1! A enigmatic new foe brings together some of the most villainous characters in Equestria to attack the Crystal Empire! What is their true aim and will our ponies be able to save the day?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Andy Price</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Sara Richard</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Stewart McKenny</td><td>3</td></tr><tr><td>RE</td><td>Hot Topic Exclusive Variant Cover</td><td>Tony Fleecs</td><td>4</td></tr><tr><td>RE</td><td>Salt Lake Comic-Con Exclusive Variant Cover</td><td>Tony Fleecs</td><td>5</td></tr></tbody></table><p><strong>Notes:</strong></p><p> </p><p> </p><p> </p><ul><li>The 1:10 Retailer Incentive cover is a homage of the cover of <em><a href=\"https://comicvine.gamespot.com/giant-size-x-men-1-deadly-genesis/4000-14890/\" data-ref-id=\"4000-14890\">Giant-Size X-Men #1</a></em>.</li></ul>",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562153/",
+            "cover_date": "2015-07-01",
+            "date_added": "2016-11-28 06:21:16",
+            "date_last_updated": "2018-10-27 00:40:42",
+            "deck": "Un'inquietante presenza aleggia sull'antica magione dei Kilgorne!",
+            "description": "<p><em>Inghilterra del Nord, 1827. Il villaggio di Coltonbridge sonnecchia sotto una pioggia che pare eterna, all’ombra dell’antica magione dei Kilgorne. Gravi lutti si sono abbattuti sulla casata e tutto sembra oppresso da un’aura di decadenza… Ma, oltre il velo della malinconia, fermentano forze ben più temibili. Una presenza spettrale sta per manifestarsi. Una presenza che terrorizza e… uccide!</em></p>",
             "has_staff_review": false,
-            "id": 500320,
+            "id": 562153,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4802855-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4802855-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4802855-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4802855-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4802855-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4802855-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4802855-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4802855-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4802855-34.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557557-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557557-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557557-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557557-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557557-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557557-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557557-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557557-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557557-34.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "34",
-            "name": "Siege of the Crystal Empire Part 1",
-            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic-34-siege-of-the/4000-500320/",
-            "store_date": "2015-09-16",
+            "name": "L'innocente",
+            "site_detail_url": "https://comicvine.gamespot.com/le-storie-34-linnocente/4000-562153/",
+            "store_date": "2015-07-11",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54320/",
-                "id": 54320,
-                "name": "My Little Pony: Friendship Is Magic",
-                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic/4050-54320/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85062/",
+                "id": 85062,
+                "name": "Le Storie",
+                "site_detail_url": "https://comicvine.gamespot.com/le-storie/4050-85062/"
             }
-        }
-    ],
-    "2015-09-21|2015-09-27": [],
-    "2015-09-28|2015-10-04": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500842/",
-            "cover_date": "2015-10-02",
-            "date_added": "2015-09-20 21:51:38",
-            "date_last_updated": "2015-09-20 22:31:11",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-564063/",
+            "cover_date": "2015-11-01",
+            "date_added": "2016-12-08 18:15:28",
+            "date_last_updated": "2018-11-03 18:56:27",
             "deck": null,
-            "description": null,
+            "description": "<p><em>En Afrique, César s'apprête à livrer une bataille décisive contre les derniers partisans de Pompée. Pendant ce temps-là, à Rome, Héraklion est frappé par un mal étrange. La sauvegarde de l'enfant conduira Alix aux confins de la Numidie. Là, il recevra une aide inattendue, venue du malheureux passé d'Héraklion. Des lacs salés du désert à l'orgueilleuse ville d'Utica, qui supplante l'ancienne Carthage, Alix devra braver mercenaires avides et assassins sans scrupules pour tenter de sauver Héraklion.</em></p>",
             "has_staff_review": false,
-            "id": 500842,
+            "id": 564063,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4813265-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4813265-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4813265-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4813265-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4813265-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4813265-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4813265-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4813265-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4813265-34.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5577110-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5577110-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5577110-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5577110-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5577110-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5577110-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5577110-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5577110-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5577110-34.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "34",
-            "name": "Jungle City",
-            "site_detail_url": "https://comicvine.gamespot.com/jeremiah-34-jungle-city/4000-500842/",
-            "store_date": "2015-10-02",
+            "name": "Par-delà le Styx",
+            "site_detail_url": "https://comicvine.gamespot.com/alix-34-par-dela-le-styx/4000-564063/",
+            "store_date": "2015-11-04",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40682/",
-                "id": 40682,
-                "name": "Jeremiah",
-                "site_detail_url": "https://comicvine.gamespot.com/jeremiah/4050-40682/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51194/",
+                "id": 51194,
+                "name": "Alix",
+                "site_detail_url": "https://comicvine.gamespot.com/alix/4050-51194/"
             }
         }
-    ],
-    "2015-10-05|2015-10-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-502410/",
-            "cover_date": "2015-10-09",
-            "date_added": "2015-10-09 14:07:17",
-            "date_last_updated": "2015-10-11 03:11:38",
-            "deck": null,
-            "description": "<p><em>As Bruce and Alfred consider the future of Batman, Arkham Knight confronts the Scarecrow! Is this the beginning of a deadly new alliance?</em></p>",
-            "has_staff_review": false,
-            "id": 502410,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4844419-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4844419-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4844419-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4844419-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4844419-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4844419-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4844419-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4844419-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4844419-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Scare Tactics Part 2 of 6",
-            "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-knight-34-scare-tactics-part-2-of-6/4000-502410/",
-            "store_date": "2015-10-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80292/",
-                "id": 80292,
-                "name": "Batman: Arkham Knight",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-knight/4050-80292/"
-            }
-        }
-    ],
-    "2015-10-12|2015-10-18": [],
-    "2015-10-19|2015-10-25": [],
-    "2015-10-26|2015-11-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504375/",
-            "cover_date": "2015-10-31",
-            "date_added": "2015-10-27 02:53:20",
-            "date_last_updated": "2015-10-30 02:54:22",
-            "deck": null,
-            "description": "<p><em>An excellent jumping on point issue, focusing on Dana Cypress...sister, daughter, mother...and revenge-seeking cop with blood on her hands.</em></p>",
-            "has_staff_review": false,
-            "id": 504375,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4882878-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4882878-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4882878-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4882878-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4882878-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4882878-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4882878-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4882878-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4882878-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/revival-34/4000-504375/",
-            "store_date": "2015-10-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50379/",
-                "id": 50379,
-                "name": "Revival",
-                "site_detail_url": "https://comicvine.gamespot.com/revival/4050-50379/"
-            }
-        }
-    ],
-    "2015-11-02|2015-11-08": [],
-    "2015-11-09|2015-11-15": [],
-    "2015-11-16|2015-11-22": [],
-    "2015-11-23|2015-11-29": [],
-    "2015-11-30|2015-12-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-508199/",
-            "cover_date": "2015-12-31",
-            "date_added": "2015-12-13 22:05:40",
-            "date_last_updated": "2015-12-13 22:06:22",
-            "deck": null,
-            "description": "<p><em>Moonlit Prophecies</em></p><p><em>Chapter 06 of Avaiyo, Vol. 03</em></p><p><em>Heading back to Brosha, Sekken and Iyo meet up with their guild, Emerald Moon. Reunions are cut short as a new crisis emerges that has the means to threaten the entire world. With little time to spare, they depart for Preminx...in hopes of heading off the Dark Legion. With Emerald Moon standing between two armies, it is their hope the Region of Preminx will not be soaked in blood.</em></p>",
-            "has_staff_review": false,
-            "id": 508199,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4954231-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4954231-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4954231-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4954231-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4954231-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4954231-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4954231-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4954231-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4954231-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Moonlit Prophecies",
-            "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law-34-moonlit-prophecies/4000-508199/",
-            "store_date": "2015-12-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80799/",
-                "id": 80799,
-                "name": "Avaiyo: Myriad Law",
-                "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law/4050-80799/"
-            }
-        }
-    ],
-    "2015-12-07|2015-12-13": [],
-    "2015-12-14|2015-12-20": []
+    ]
 }

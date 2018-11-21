@@ -1,40 +1,5 @@
 {
-    "2016-12-26|2017-01-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-569999/",
-            "cover_date": "2016-12-31",
-            "date_added": "2016-12-22 17:28:30",
-            "date_last_updated": "2017-05-23 08:31:33",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 569999,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5606427-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5606427-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5606427-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5606427-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5606427-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5606427-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5606427-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5606427-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5606427-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Vol. 43",
-            "site_detail_url": "https://comicvine.gamespot.com/toriko-43-vol-43/4000-569999/",
-            "store_date": "2016-12-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54809/",
-                "id": 54809,
-                "name": "Toriko",
-                "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-54809/"
-            }
-        }
-    ],
-    "2016-01-04|2016-01-10": [
+    "2016-01-01|2016-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-510487/",
@@ -100,11 +65,7 @@
                 "name": "Yowamushi Pedal",
                 "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal/4050-77394/"
             }
-        }
-    ],
-    "2016-01-11|2016-01-17": [],
-    "2016-01-18|2016-01-24": [],
-    "2016-01-25|2016-01-31": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-512500/",
@@ -137,9 +98,7 @@
                 "name": "Wonderland",
                 "site_detail_url": "https://comicvine.gamespot.com/wonderland/4050-50639/"
             }
-        }
-    ],
-    "2016-02-01|2016-02-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-513673/",
@@ -172,81 +131,7 @@
                 "name": "Classic Popeye",
                 "site_detail_url": "https://comicvine.gamespot.com/classic-popeye/4050-51285/"
             }
-        }
-    ],
-    "2016-02-08|2016-02-14": [],
-    "2016-02-15|2016-02-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539392/",
-            "cover_date": "2016-02-17",
-            "date_added": "2016-07-12 18:07:06",
-            "date_last_updated": "2016-07-12 18:07:39",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 539392,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5318253-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5318253-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5318253-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5318253-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5318253-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5318253-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5318253-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5318253-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5318253-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Raindrop Narrow Down (the second)",
-            "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora-43-raindrop-narrow-down-the-second/4000-539392/",
-            "store_date": "2016-02-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50012/",
-                "id": 50012,
-                "name": "Ahiru no Sora",
-                "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora/4050-50012/"
-            }
-        }
-    ],
-    "2016-02-22|2016-02-28": [],
-    "2016-02-29|2016-03-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-546403/",
-            "cover_date": "2016-03-31",
-            "date_added": "2016-08-25 08:30:01",
-            "date_last_updated": "2016-08-25 18:42:39",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 546403,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5400463-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5400463-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5400463-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5400463-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5400463-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5400463-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5400463-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5400463-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5400463-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Band 43",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-43-band-43/4000-546403/",
-            "store_date": "2016-03-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60256/",
-                "id": 60256,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-60256/"
-            }
-        }
-    ],
-    "2016-03-07|2016-03-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-518920/",
@@ -282,77 +167,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559287/",
-            "cover_date": "2016-03-08",
-            "date_added": "2016-11-26 05:35:15",
-            "date_last_updated": "2017-04-15 17:22:53",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 559287,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551097-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551097-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551097-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551097-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551097-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551097-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551097-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551097-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551097-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Vol. 43",
-            "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi-43-vol-43/4000-559287/",
-            "store_date": "2016-03-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95882/",
-                "id": 95882,
-                "name": "Area no Kishi",
-                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-95882/"
-            }
-        }
-    ],
-    "2016-03-14|2016-03-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-536247/",
-            "cover_date": "2016-06-30",
-            "date_added": "2016-06-19 10:43:26",
-            "date_last_updated": "2016-08-25 18:18:59",
-            "deck": null,
-            "description": "<h4><em>FIND OUT ABOUT DOCTOR WHO'S RICH HISTORY OF SPECIAL EFFECTS!</em></h4><p><em>The latest Doctor Who Magazine Special Edition celebrates the series’ greatest special effects and meets the people who created them. From the trailblazers of the 1960s to the digital artists of today, this is the story of Doctor Who’s journeys into the impossible. Highlights include:</em></p><ul><li><em>Interviews with visual effects designers Peter Day (<strong>Fury from the Deep</strong>, <strong>The Dæmons</strong>, <strong>Genesis of the Daleks</strong>), Tony Harding (<strong>The Invisible Enemy</strong>, <strong>The Awakening</strong>), Mat Irvine (<strong>The Face of Evil</strong>, <strong>Warriors’ Gate</strong>), Peter Logan (<strong>Destiny of the Daleks</strong>, <strong>Kinda</strong>), Colin Mapson (<strong>Image of the Fendahl</strong>, <strong>Time and the Rani</strong>) and Eric Alba (the TV Movie) plus crew members Ian Gosling (<strong>The Curse of Peladon</strong>, <strong>The Green Death</strong>) and George Reed (<strong>The Seeds of Doom</strong>, <strong>The Talons of Weng-Chiang</strong>).</em></li><li><em>Rare and previously unseen images from the scrapbooks of visual effects designer Ian Scoones (<strong>Pyramids of Mars</strong>, <strong>City of Death</strong>).</em></li><li><em>Guides to techniques by BAFTA-winning visual effects designer Mike Tucker.</em></li><li><em>Visual effects producers Will Cohen and Dave Houghton reveal the stories behind <strong>Doctor Who</strong>’s adoption of twenty-first century effects.</em></li><li><em>Inside the making of <strong>Heaven Sent</strong> with the teams from BBC Wales, Milk VFX and Millennium FX.</em></li><li><em>Grant Hewlett of axisVFX on the making of <strong>Flatline</strong> and <strong>The Husbands of River Song</strong>.</em></li><li><em>Afterword by Oscar-winning visual effects supervisor Paul Franklin (<strong>Inception</strong>, <strong>Interstellar</strong>).</em></li></ul><p><em>This lavish 100-page Special is edited by Marcus Hearn. “<strong>Doctor Who</strong> has been pioneering television visual effects for more than 50 years,” he says. “It was our aim to cover as much of that incredible legacy as possible. In many ways it’s an alternative history of the series itself, brought to life by some amazing photographs, designs and sketches.”</em></p>",
-            "has_staff_review": false,
-            "id": 536247,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5275277-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5275277-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5275277-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5275277-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5275277-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5275277-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5275277-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5275277-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5275277-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Special Effects",
-            "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition-43-special-eff/4000-536247/",
-            "store_date": "2016-03-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46363/",
-                "id": 46363,
-                "name": "Doctor Who Magazine Special Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition/4050-46363/"
-            }
-        }
-    ],
-    "2016-03-21|2016-03-27": [],
-    "2016-03-28|2016-04-03": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524742/",
             "cover_date": "2016-04-30",
             "date_added": "2016-04-11 16:21:46",
@@ -383,48 +197,7 @@
                 "name": "Flare",
                 "site_detail_url": "https://comicvine.gamespot.com/flare/4050-33197/"
             }
-        }
-    ],
-    "2016-04-04|2016-04-10": [],
-    "2016-04-11|2016-04-17": [],
-    "2016-04-18|2016-04-24": [],
-    "2016-04-25|2016-05-01": [],
-    "2016-05-02|2016-05-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554505/",
-            "cover_date": "2016-05-31",
-            "date_added": "2016-10-18 14:23:58",
-            "date_last_updated": "2017-04-14 00:04:02",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 554505,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491360-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491360-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491360-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491360-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491360-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491360-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491360-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491360-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491360-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Загадка Сфинкса 2",
-            "site_detail_url": "https://comicvine.gamespot.com/mayor-grom-43-zagadka-sfinksa-2/4000-554505/",
-            "store_date": "2016-05-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53590/",
-                "id": 53590,
-                "name": "Mayor Grom",
-                "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
-            }
-        }
-    ],
-    "2016-05-09|2016-05-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530286/",
@@ -460,74 +233,70 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554476/",
-            "cover_date": "2016-05-31",
-            "date_added": "2016-10-18 14:22:44",
-            "date_last_updated": "2017-04-13 23:42:01",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535263/",
+            "cover_date": "2016-06-30",
+            "date_added": "2016-06-13 09:54:34",
+            "date_last_updated": "2018-05-04 13:37:44",
             "deck": null,
-            "description": null,
+            "description": "<p><em>“Ponies of Dark Water Part 1”</em></p><p><em>The Ponies go on an adventure to a newly erupted geyser. After some fun playing in the water, the ponies begin to act a bit strange, perhaps even… sinister? What happens when good ponies turn bad?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Tony Fleecs</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Sara Richard</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Mary Bellamy</td><td>3</td></tr><tr><td>RE</td><td>Hot Topic Exclusive Variant Cover</td><td>Tony Fleecs</td><td>4</td></tr><tr><td>RE</td><td>Indy Pop Con Exclusive Cover</td><td>Andy Price</td><td>5</td></tr></tbody></table>",
             "has_staff_review": false,
-            "id": 554476,
+            "id": 535263,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491302-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491302-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491302-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491302-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491302-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491302-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491302-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491302-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491302-43.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5263738-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5263738-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5263738-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5263738-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5263738-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5263738-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5263738-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5263738-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5263738-43.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "43",
-            "name": "Путь к бессмертию 1",
-            "site_detail_url": "https://comicvine.gamespot.com/inok-43-put-k-bessmertiiu-1/4000-554476/",
-            "store_date": "2016-05-09",
+            "name": "Ponies of Dark Water Part 1",
+            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic-43-ponies-of-da/4000-535263/",
+            "store_date": "2016-06-15",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53591/",
-                "id": 53591,
-                "name": "Inok",
-                "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54320/",
+                "id": 54320,
+                "name": "My Little Pony: Friendship Is Magic",
+                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic/4050-54320/"
             }
-        }
-    ],
-    "2016-05-16|2016-05-22": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554491/",
-            "cover_date": "2016-05-31",
-            "date_added": "2016-10-18 14:23:22",
-            "date_last_updated": "2017-04-13 23:37:19",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-536247/",
+            "cover_date": "2016-06-30",
+            "date_added": "2016-06-19 10:43:26",
+            "date_last_updated": "2016-08-25 18:18:59",
             "deck": null,
-            "description": null,
+            "description": "<h4><em>FIND OUT ABOUT DOCTOR WHO'S RICH HISTORY OF SPECIAL EFFECTS!</em></h4><p><em>The latest Doctor Who Magazine Special Edition celebrates the series’ greatest special effects and meets the people who created them. From the trailblazers of the 1960s to the digital artists of today, this is the story of Doctor Who’s journeys into the impossible. Highlights include:</em></p><ul><li><em>Interviews with visual effects designers Peter Day (<strong>Fury from the Deep</strong>, <strong>The Dæmons</strong>, <strong>Genesis of the Daleks</strong>), Tony Harding (<strong>The Invisible Enemy</strong>, <strong>The Awakening</strong>), Mat Irvine (<strong>The Face of Evil</strong>, <strong>Warriors’ Gate</strong>), Peter Logan (<strong>Destiny of the Daleks</strong>, <strong>Kinda</strong>), Colin Mapson (<strong>Image of the Fendahl</strong>, <strong>Time and the Rani</strong>) and Eric Alba (the TV Movie) plus crew members Ian Gosling (<strong>The Curse of Peladon</strong>, <strong>The Green Death</strong>) and George Reed (<strong>The Seeds of Doom</strong>, <strong>The Talons of Weng-Chiang</strong>).</em></li><li><em>Rare and previously unseen images from the scrapbooks of visual effects designer Ian Scoones (<strong>Pyramids of Mars</strong>, <strong>City of Death</strong>).</em></li><li><em>Guides to techniques by BAFTA-winning visual effects designer Mike Tucker.</em></li><li><em>Visual effects producers Will Cohen and Dave Houghton reveal the stories behind <strong>Doctor Who</strong>’s adoption of twenty-first century effects.</em></li><li><em>Inside the making of <strong>Heaven Sent</strong> with the teams from BBC Wales, Milk VFX and Millennium FX.</em></li><li><em>Grant Hewlett of axisVFX on the making of <strong>Flatline</strong> and <strong>The Husbands of River Song</strong>.</em></li><li><em>Afterword by Oscar-winning visual effects supervisor Paul Franklin (<strong>Inception</strong>, <strong>Interstellar</strong>).</em></li></ul><p><em>This lavish 100-page Special is edited by Marcus Hearn. “<strong>Doctor Who</strong> has been pioneering television visual effects for more than 50 years,” he says. “It was our aim to cover as much of that incredible legacy as possible. In many ways it’s an alternative history of the series itself, brought to life by some amazing photographs, designs and sketches.”</em></p>",
             "has_staff_review": false,
-            "id": 554491,
+            "id": 536247,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491340-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491340-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491340-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491340-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491340-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491340-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491340-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491340-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491340-43.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5275277-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5275277-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5275277-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5275277-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5275277-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5275277-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5275277-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5275277-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5275277-43.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "43",
-            "name": "Агент Симмонс 2",
-            "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya-43-agent-simmons-2/4000-554491/",
-            "store_date": "2016-05-16",
+            "name": "Special Effects",
+            "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition-43-special-eff/4000-536247/",
+            "store_date": "2016-03-14",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53592/",
-                "id": 53592,
-                "name": "Krasnaya Furiya",
-                "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya/4050-53592/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46363/",
+                "id": 46363,
+                "name": "Doctor Who Magazine Special Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/doctor-who-magazine-special-edition/4050-46363/"
             }
-        }
-    ],
-    "2016-05-23|2016-05-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-536495/",
@@ -560,50 +329,40 @@
                 "name": "Comic X-Eros",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
             }
-        }
-    ],
-    "2016-05-30|2016-06-05": [],
-    "2016-06-06|2016-06-12": [],
-    "2016-06-13|2016-06-19": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535263/",
-            "cover_date": "2016-06-30",
-            "date_added": "2016-06-13 09:54:34",
-            "date_last_updated": "2018-05-04 13:37:44",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539392/",
+            "cover_date": "2016-02-17",
+            "date_added": "2016-07-12 18:07:06",
+            "date_last_updated": "2016-07-12 18:07:39",
             "deck": null,
-            "description": "<p><em>“Ponies of Dark Water Part 1”</em></p><p><em>The Ponies go on an adventure to a newly erupted geyser. After some fun playing in the water, the ponies begin to act a bit strange, perhaps even… sinister? What happens when good ponies turn bad?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Tony Fleecs</td><td>1</td></tr><tr><td>Sub</td><td>Subscription Cover</td><td>Sara Richard</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Mary Bellamy</td><td>3</td></tr><tr><td>RE</td><td>Hot Topic Exclusive Variant Cover</td><td>Tony Fleecs</td><td>4</td></tr><tr><td>RE</td><td>Indy Pop Con Exclusive Cover</td><td>Andy Price</td><td>5</td></tr></tbody></table>",
+            "description": null,
             "has_staff_review": false,
-            "id": 535263,
+            "id": 539392,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5263738-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5263738-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5263738-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5263738-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5263738-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5263738-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5263738-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5263738-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5263738-43.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5318253-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5318253-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5318253-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5318253-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5318253-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5318253-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5318253-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5318253-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5318253-43.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "43",
-            "name": "Ponies of Dark Water Part 1",
-            "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic-43-ponies-of-da/4000-535263/",
-            "store_date": "2016-06-15",
+            "name": "Raindrop Narrow Down (the second)",
+            "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora-43-raindrop-narrow-down-the-second/4000-539392/",
+            "store_date": "2016-02-17",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54320/",
-                "id": 54320,
-                "name": "My Little Pony: Friendship Is Magic",
-                "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic/4050-54320/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50012/",
+                "id": 50012,
+                "name": "Ahiru no Sora",
+                "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora/4050-50012/"
             }
-        }
-    ],
-    "2016-06-20|2016-06-26": [],
-    "2016-06-27|2016-07-03": [],
-    "2016-07-04|2016-07-10": [],
-    "2016-07-11|2016-07-17": [],
-    "2016-07-18|2016-07-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539685/",
@@ -636,12 +395,7 @@
                 "name": "Kingdom",
                 "site_detail_url": "https://comicvine.gamespot.com/kingdom/4050-74502/"
             }
-        }
-    ],
-    "2016-07-25|2016-07-31": [],
-    "2016-08-01|2016-08-07": [],
-    "2016-08-08|2016-08-14": [],
-    "2016-08-15|2016-08-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-545099/",
@@ -674,12 +428,40 @@
                 "name": "Usogui",
                 "site_detail_url": "https://comicvine.gamespot.com/usogui/4050-90827/"
             }
-        }
-    ],
-    "2016-08-22|2016-08-28": [],
-    "2016-08-29|2016-09-04": [],
-    "2016-09-05|2016-09-11": [],
-    "2016-09-12|2016-09-18": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-546403/",
+            "cover_date": "2016-03-31",
+            "date_added": "2016-08-25 08:30:01",
+            "date_last_updated": "2016-08-25 18:42:39",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 546403,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5400463-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5400463-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5400463-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5400463-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5400463-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5400463-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5400463-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5400463-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5400463-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Band 43",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-43-band-43/4000-546403/",
+            "store_date": "2016-03-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60256/",
+                "id": 60256,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-60256/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-549847/",
@@ -712,11 +494,7 @@
                 "name": "Le Scrameustache",
                 "site_detail_url": "https://comicvine.gamespot.com/le-scrameustache/4050-71730/"
             }
-        }
-    ],
-    "2016-09-19|2016-09-25": [],
-    "2016-09-26|2016-10-02": [],
-    "2016-10-03|2016-10-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-552200/",
@@ -749,46 +527,106 @@
                 "name": "Revival",
                 "site_detail_url": "https://comicvine.gamespot.com/revival/4050-50379/"
             }
-        }
-    ],
-    "2016-10-10|2016-10-16": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561578/",
-            "cover_date": "2016-11-01",
-            "date_added": "2016-11-27 20:25:55",
-            "date_last_updated": "2018-09-02 17:43:58",
-            "deck": " ",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554476/",
+            "cover_date": "2016-05-31",
+            "date_added": "2016-10-18 14:22:44",
+            "date_last_updated": "2017-04-13 23:42:01",
+            "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 561578,
+            "id": 554476,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5556515-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5556515-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5556515-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5556515-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5556515-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5556515-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5556515-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5556515-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5556515-43.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491302-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491302-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491302-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491302-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491302-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491302-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491302-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491302-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491302-43.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "43",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium-43/4000-561578/",
-            "store_date": "2016-10-13",
+            "name": "Путь к бессмертию 1",
+            "site_detail_url": "https://comicvine.gamespot.com/inok-43-put-k-bessmertiiu-1/4000-554476/",
+            "store_date": "2016-05-09",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67387/",
-                "id": 67387,
-                "name": "Comic Anthurium",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53591/",
+                "id": 53591,
+                "name": "Inok",
+                "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
             }
-        }
-    ],
-    "2016-10-17|2016-10-23": [],
-    "2016-10-24|2016-10-30": [],
-    "2016-10-31|2016-11-06": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554491/",
+            "cover_date": "2016-05-31",
+            "date_added": "2016-10-18 14:23:22",
+            "date_last_updated": "2017-04-13 23:37:19",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554491,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491340-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491340-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491340-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491340-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491340-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491340-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491340-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491340-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491340-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Агент Симмонс 2",
+            "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya-43-agent-simmons-2/4000-554491/",
+            "store_date": "2016-05-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53592/",
+                "id": 53592,
+                "name": "Krasnaya Furiya",
+                "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya/4050-53592/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554505/",
+            "cover_date": "2016-05-31",
+            "date_added": "2016-10-18 14:23:58",
+            "date_last_updated": "2017-04-14 00:04:02",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554505,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491360-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491360-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491360-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491360-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491360-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491360-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491360-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491360-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491360-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Загадка Сфинкса 2",
+            "site_detail_url": "https://comicvine.gamespot.com/mayor-grom-43-zagadka-sfinksa-2/4000-554505/",
+            "store_date": "2016-05-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53590/",
+                "id": 53590,
+                "name": "Mayor Grom",
+                "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-556536/",
@@ -821,13 +659,106 @@
                 "name": "Comics Revue Presents",
                 "site_detail_url": "https://comicvine.gamespot.com/comics-revue-presents/4050-71701/"
             }
-        }
-    ],
-    "2016-11-07|2016-11-13": [],
-    "2016-11-14|2016-11-20": [],
-    "2016-11-21|2016-11-27": [],
-    "2016-11-28|2016-12-04": [],
-    "2016-12-05|2016-12-11": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559287/",
+            "cover_date": "2016-03-08",
+            "date_added": "2016-11-26 05:35:15",
+            "date_last_updated": "2017-04-15 17:22:53",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 559287,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551097-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551097-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551097-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551097-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551097-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551097-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551097-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551097-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551097-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi-43-vol-43/4000-559287/",
+            "store_date": "2016-03-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95882/",
+                "id": 95882,
+                "name": "Area no Kishi",
+                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-95882/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561578/",
+            "cover_date": "2016-11-01",
+            "date_added": "2016-11-27 20:25:55",
+            "date_last_updated": "2018-09-02 17:43:58",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 561578,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5556515-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5556515-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5556515-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5556515-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5556515-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5556515-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5556515-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5556515-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5556515-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium-43/4000-561578/",
+            "store_date": "2016-10-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67387/",
+                "id": 67387,
+                "name": "Comic Anthurium",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562162/",
+            "cover_date": "2016-04-01",
+            "date_added": "2016-11-28 06:21:41",
+            "date_last_updated": "2018-10-27 00:45:55",
+            "deck": "Tra le macerie del passato di un piccolo borgo francese si nascondono le radici di un'incancellabile tragedia...",
+            "description": "<p><em>Una piccola cittadina nella provincia francese, un borgo sommerso dalle brume di un autunno infinito. Onesto lavoro, piccole esistenze e grandi sogni: tutto è travolto dalla morte violenta di una giovane donna… È come gettare un sasso in uno stagno, innescare una valanga destinata a travolgere altre vite… Molti anni dopo, qualcuno dovrà scavare nelle macerie del passato, per trovare un senso alla tragedia e dissipare… le nebbie di Boisbonnard.</em></p>",
+            "has_staff_review": false,
+            "id": 562162,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557566-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557566-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557566-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557566-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557566-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557566-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557566-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557566-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557566-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Le Nebbie Di Boisbonnard",
+            "site_detail_url": "https://comicvine.gamespot.com/le-storie-43-le-nebbie-di-boisbonnard/4000-562162/",
+            "store_date": "2016-04-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85062/",
+                "id": 85062,
+                "name": "Le Storie",
+                "site_detail_url": "https://comicvine.gamespot.com/le-storie/4050-85062/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-685377/",
@@ -861,6 +792,5 @@
                 "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
             }
         }
-    ],
-    "2016-12-12|2016-12-18": []
+    ]
 }

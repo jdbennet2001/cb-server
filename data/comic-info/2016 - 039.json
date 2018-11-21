@@ -1,6 +1,5 @@
 {
-    "2016-12-26|2017-01-01": [],
-    "2016-01-04|2016-01-10": [
+    "2016-01-01|2016-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-511362/",
@@ -33,10 +32,7 @@
                 "name": "Avaiyo: Myriad Law",
                 "site_detail_url": "https://comicvine.gamespot.com/avaiyo-myriad-law/4050-80799/"
             }
-        }
-    ],
-    "2016-01-11|2016-01-17": [],
-    "2016-01-18|2016-01-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-511597/",
@@ -69,45 +65,7 @@
                 "name": "Rachel Rising",
                 "site_detail_url": "https://comicvine.gamespot.com/rachel-rising/4050-42011/"
             }
-        }
-    ],
-    "2016-01-25|2016-01-31": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521116/",
-            "cover_date": "2016-03-31",
-            "date_added": "2016-03-20 16:34:34",
-            "date_last_updated": "2016-03-21 04:18:42",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 521116,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108128-wwwww.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108128-wwwww.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108128-wwwww.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108128-wwwww.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108128-wwwww.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108128-wwwww.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108128-wwwww.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108128-wwwww.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5108128-wwwww.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-39/4000-521116/",
-            "store_date": "2016-01-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
-                "id": 89126,
-                "name": "Comic X-Eros",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
-            }
-        }
-    ],
-    "2016-02-01|2016-02-07": [],
-    "2016-02-08|2016-02-14": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-514473/",
@@ -140,10 +98,7 @@
                 "name": "My Little Pony: Friendship Is Magic",
                 "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friendship-is-magic/4050-54320/"
             }
-        }
-    ],
-    "2016-02-15|2016-02-21": [],
-    "2016-02-22|2016-02-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517044/",
@@ -176,11 +131,40 @@
                 "name": "Comics Revue Presents",
                 "site_detail_url": "https://comicvine.gamespot.com/comics-revue-presents/4050-71701/"
             }
-        }
-    ],
-    "2016-02-29|2016-03-06": [],
-    "2016-03-07|2016-03-13": [],
-    "2016-03-14|2016-03-20": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521116/",
+            "cover_date": "2016-03-31",
+            "date_added": "2016-03-20 16:34:34",
+            "date_last_updated": "2016-03-21 04:18:42",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 521116,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108128-wwwww.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108128-wwwww.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108128-wwwww.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108128-wwwww.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108128-wwwww.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108128-wwwww.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108128-wwwww.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108128-wwwww.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5108128-wwwww.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-39/4000-521116/",
+            "store_date": "2016-01-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
+                "id": 89126,
+                "name": "Comic X-Eros",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-522222/",
@@ -213,9 +197,7 @@
                 "name": "Baby Steps",
                 "site_detail_url": "https://comicvine.gamespot.com/baby-steps/4050-50225/"
             }
-        }
-    ],
-    "2016-03-21|2016-03-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-522270/",
@@ -248,11 +230,7 @@
                 "name": "Giant Killing",
                 "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
             }
-        }
-    ],
-    "2016-03-28|2016-04-03": [],
-    "2016-04-04|2016-04-10": [],
-    "2016-04-11|2016-04-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-525335/",
@@ -285,11 +263,7 @@
                 "name": "DC Comics Bombshells",
                 "site_detail_url": "https://comicvine.gamespot.com/dc-comics-bombshells/4050-83493/"
             }
-        }
-    ],
-    "2016-04-18|2016-04-24": [],
-    "2016-04-25|2016-05-01": [],
-    "2016-05-02|2016-05-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-528548/",
@@ -322,12 +296,7 @@
                 "name": "Revival",
                 "site_detail_url": "https://comicvine.gamespot.com/revival/4050-50379/"
             }
-        }
-    ],
-    "2016-05-09|2016-05-15": [],
-    "2016-05-16|2016-05-22": [],
-    "2016-05-23|2016-05-29": [],
-    "2016-05-30|2016-06-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532579/",
@@ -360,10 +329,7 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-54809/"
             }
-        }
-    ],
-    "2016-06-06|2016-06-12": [],
-    "2016-06-13|2016-06-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-536447/",
@@ -399,42 +365,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-584493/",
-            "cover_date": "2016-06-18",
-            "date_added": "2017-03-04 21:09:54",
-            "date_last_updated": "2018-02-17 03:31:05",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 584493,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5731195-39.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5731195-39.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5731195-39.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5731195-39.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5731195-39.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5731195-39.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5731195-39.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5731195-39.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5731195-39.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": "Vol. 39",
-            "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi-39-vol-39/4000-584493/",
-            "store_date": "2016-06-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99339/",
-                "id": 99339,
-                "name": "Sake no Hosomichi",
-                "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi/4050-99339/"
-            }
-        }
-    ],
-    "2016-06-20|2016-06-26": [],
-    "2016-06-27|2016-07-03": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-539590/",
             "cover_date": "2016-07-01",
             "date_added": "2016-07-14 14:10:03",
@@ -465,52 +395,7 @@
                 "name": "The Astonishing Spider-Man",
                 "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spiderman/4050-79511/"
             }
-        }
-    ],
-    "2016-07-04|2016-07-10": [],
-    "2016-07-11|2016-07-17": [],
-    "2016-07-18|2016-07-24": [],
-    "2016-07-25|2016-07-31": [],
-    "2016-08-01|2016-08-07": [],
-    "2016-08-08|2016-08-14": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562082/",
-            "cover_date": "2016-08-01",
-            "date_added": "2016-11-28 06:17:47",
-            "date_last_updated": "2018-09-15 19:42:11",
-            "deck": "Seguendo le visioni che lo tormentano, Dragonero scoprirà l'origine segreta della spada che impugna!",
-            "description": "<p><em>Qual è il significato delle visioni che tormentano Ian? Perché lo conducono alla ricerca del leggendario palazzo di Brokkr, il forgiatore di lame? Per avere una risposta, Dragonero dovrà seguire il cammino tracciato secoli prima dal suo antenato, Aarno Voltoferoce! Soltanto in questo modo potrà scoprire l’oscura origine della sua spada… la temibile Tagliatrice Crudele!</em></p>",
-            "has_staff_review": false,
-            "id": 562082,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557455-39.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557455-39.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557455-39.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557455-39.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557455-39.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557455-39.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557455-39.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557455-39.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5557455-39.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": "Tagliatrice crudele",
-            "site_detail_url": "https://comicvine.gamespot.com/dragonero-39-tagliatrice-crudele/4000-562082/",
-            "store_date": "2016-08-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
-                "id": 67599,
-                "name": "Dragonero",
-                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
-            }
-        }
-    ],
-    "2016-08-15|2016-08-21": [],
-    "2016-08-22|2016-08-28": [],
-    "2016-08-29|2016-09-04": [],
-    "2016-09-05|2016-09-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-548644/",
@@ -543,9 +428,7 @@
                 "name": "Regular Show",
                 "site_detail_url": "https://comicvine.gamespot.com/regular-show/4050-61288/"
             }
-        }
-    ],
-    "2016-09-12|2016-09-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-549422/",
@@ -578,44 +461,7 @@
                 "name": "Injustice: Gods Among Us Year Five",
                 "site_detail_url": "https://comicvine.gamespot.com/injustice-gods-among-us-year-five/4050-86759/"
             }
-        }
-    ],
-    "2016-09-19|2016-09-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550872/",
-            "cover_date": "2016-09-20",
-            "date_added": "2016-09-25 05:24:57",
-            "date_last_updated": "2016-09-25 07:27:31",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 550872,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5452223-39.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5452223-39.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5452223-39.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5452223-39.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5452223-39.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5452223-39.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5452223-39.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5452223-39.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5452223-39.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": "Vol. 39",
-            "site_detail_url": "https://comicvine.gamespot.com/skip-beat-39-vol-39/4000-550872/",
-            "store_date": "2016-09-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94359/",
-                "id": 94359,
-                "name": "Skip Beat!",
-                "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
-            }
-        }
-    ],
-    "2016-09-26|2016-10-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550202/",
@@ -651,6 +497,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550872/",
+            "cover_date": "2016-09-20",
+            "date_added": "2016-09-25 05:24:57",
+            "date_last_updated": "2016-09-25 07:27:31",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 550872,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5452223-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5452223-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5452223-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5452223-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5452223-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5452223-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5452223-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5452223-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5452223-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": "Vol. 39",
+            "site_detail_url": "https://comicvine.gamespot.com/skip-beat-39-vol-39/4000-550872/",
+            "store_date": "2016-09-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94359/",
+                "id": 94359,
+                "name": "Skip Beat!",
+                "site_detail_url": "https://comicvine.gamespot.com/skip-beat/4050-94359/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-551262/",
             "cover_date": "2016-11-30",
             "date_added": "2016-09-27 10:24:03",
@@ -681,46 +560,7 @@
                 "name": "Astro City",
                 "site_detail_url": "https://comicvine.gamespot.com/astro-city/4050-62857/"
             }
-        }
-    ],
-    "2016-10-03|2016-10-09": [],
-    "2016-10-10|2016-10-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-591455/",
-            "cover_date": "2016-10-31",
-            "date_added": "2017-04-08 14:06:22",
-            "date_last_updated": "2017-04-08 17:20:31",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 591455,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794340-39.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794340-39.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794340-39.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5794340-39.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794340-39.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794340-39.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794340-39.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794340-39.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5794340-39.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "39",
-            "name": "Der Tag der Stille",
-            "site_detail_url": "https://comicvine.gamespot.com/yakari-39-der-tag-der-stille/4000-591455/",
-            "store_date": "2016-10-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81793/",
-                "id": 81793,
-                "name": "Yakari",
-                "site_detail_url": "https://comicvine.gamespot.com/yakari/4050-81793/"
-            }
-        }
-    ],
-    "2016-10-17|2016-10-23": [],
-    "2016-10-24|2016-10-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-555566/",
@@ -753,10 +593,7 @@
                 "name": "Saga",
                 "site_detail_url": "https://comicvine.gamespot.com/saga/4050-46568/"
             }
-        }
-    ],
-    "2016-10-31|2016-11-06": [],
-    "2016-11-07|2016-11-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-557559/",
@@ -789,13 +626,40 @@
                 "name": "Scooby-Doo! Team-Up",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-team-up/4050-69510/"
             }
-        }
-    ],
-    "2016-11-14|2016-11-20": [],
-    "2016-11-21|2016-11-27": [],
-    "2016-11-28|2016-12-04": [],
-    "2016-12-05|2016-12-11": [],
-    "2016-12-12|2016-12-18": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562082/",
+            "cover_date": "2016-08-01",
+            "date_added": "2016-11-28 06:17:47",
+            "date_last_updated": "2018-09-15 19:42:11",
+            "deck": "Seguendo le visioni che lo tormentano, Dragonero scoprirà l'origine segreta della spada che impugna!",
+            "description": "<p><em>Qual è il significato delle visioni che tormentano Ian? Perché lo conducono alla ricerca del leggendario palazzo di Brokkr, il forgiatore di lame? Per avere una risposta, Dragonero dovrà seguire il cammino tracciato secoli prima dal suo antenato, Aarno Voltoferoce! Soltanto in questo modo potrà scoprire l’oscura origine della sua spada… la temibile Tagliatrice Crudele!</em></p>",
+            "has_staff_review": false,
+            "id": 562082,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557455-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557455-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557455-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557455-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557455-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557455-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557455-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557455-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557455-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": "Tagliatrice crudele",
+            "site_detail_url": "https://comicvine.gamespot.com/dragonero-39-tagliatrice-crudele/4000-562082/",
+            "store_date": "2016-08-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
+                "id": 67599,
+                "name": "Dragonero",
+                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-566914/",
@@ -827,6 +691,72 @@
                 "id": 81328,
                 "name": "Boys Over Flowers Season 2",
                 "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2/4050-81328/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-584493/",
+            "cover_date": "2016-06-18",
+            "date_added": "2017-03-04 21:09:54",
+            "date_last_updated": "2018-02-17 03:31:05",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 584493,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5731195-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5731195-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5731195-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5731195-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5731195-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5731195-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5731195-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5731195-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5731195-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": "Vol. 39",
+            "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi-39-vol-39/4000-584493/",
+            "store_date": "2016-06-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99339/",
+                "id": 99339,
+                "name": "Sake no Hosomichi",
+                "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi/4050-99339/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-591455/",
+            "cover_date": "2016-10-31",
+            "date_added": "2017-04-08 14:06:22",
+            "date_last_updated": "2017-04-08 17:20:31",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 591455,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5794340-39.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5794340-39.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5794340-39.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5794340-39.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5794340-39.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5794340-39.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5794340-39.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5794340-39.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5794340-39.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "39",
+            "name": "Der Tag der Stille",
+            "site_detail_url": "https://comicvine.gamespot.com/yakari-39-der-tag-der-stille/4000-591455/",
+            "store_date": "2016-10-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81793/",
+                "id": 81793,
+                "name": "Yakari",
+                "site_detail_url": "https://comicvine.gamespot.com/yakari/4050-81793/"
             }
         }
     ]

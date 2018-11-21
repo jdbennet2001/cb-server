@@ -1,10 +1,5 @@
 {
-    "2014-12-22|2014-12-28": [],
-    "2014-12-29|2015-01-04": [],
-    "2014-01-06|2014-01-12": [],
-    "2014-01-13|2014-01-19": [],
-    "2014-01-20|2014-01-26": [],
-    "2014-01-27|2014-02-02": [
+    "2014-01-01|2014-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-444020/",
@@ -70,14 +65,7 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-41783/"
             }
-        }
-    ],
-    "2014-02-03|2014-02-09": [],
-    "2014-02-10|2014-02-16": [],
-    "2014-02-17|2014-02-23": [],
-    "2014-02-24|2014-03-02": [],
-    "2014-03-03|2014-03-09": [],
-    "2014-03-10|2014-03-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-447433/",
@@ -110,47 +98,7 @@
                 "name": "Adventures of Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman/4050-60518/"
             }
-        }
-    ],
-    "2014-03-17|2014-03-23": [],
-    "2014-03-24|2014-03-30": [],
-    "2014-03-31|2014-04-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517585/",
-            "cover_date": "2014-04-04",
-            "date_added": "2016-02-28 12:51:18",
-            "date_last_updated": "2016-05-01 16:36:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 517585,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073904-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073904-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073904-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073904-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073904-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073904-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073904-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073904-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5073904-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Vol. 46",
-            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-46-vol-46/4000-517585/",
-            "store_date": "2014-04-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
-                "id": 88523,
-                "name": "Kinnikuman",
-                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
-            }
-        }
-    ],
-    "2014-04-07|2014-04-13": [],
-    "2014-04-14|2014-04-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450640/",
@@ -183,22 +131,13 @@
                 "name": "Lucky Luke",
                 "site_detail_url": "https://comicvine.gamespot.com/lucky-luke/4050-48134/"
             }
-        }
-    ],
-    "2014-04-21|2014-04-27": [],
-    "2014-04-28|2014-05-04": [],
-    "2014-05-05|2014-05-11": [],
-    "2014-05-12|2014-05-18": [],
-    "2014-05-19|2014-05-25": [],
-    "2014-05-26|2014-06-01": [],
-    "2014-06-02|2014-06-08": [],
-    "2014-06-09|2014-06-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456008/",
             "cover_date": "2014-08-31",
             "date_added": "2014-06-10 00:01:56",
-            "date_last_updated": "2015-03-17 10:28:44",
+            "date_last_updated": "2018-11-10 12:24:56",
             "deck": null,
             "description": "<p><em>When Shaggy and Scooby dig up a mysterious artifact on the beach, they take it to the local college, where the head of the Marine Archaeology Department claims to have recovered hundreds of similar artifacts - evidence that the lost civilization of Atlantis was real! So when some creatures calling themselves Atlanteans show up to cause trouble, the whole gang has to figure out what's up.</em></p>",
             "has_staff_review": false,
@@ -216,8 +155,8 @@
                 "image_tags": "All Images"
             },
             "issue_number": "46",
-            "name": "Awesomelantis Rises",
-            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-46-awesomelantis-rises/4000-456008/",
+            "name": "Awesomelantis Rises; A Wolf in Creep's Clothing",
+            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-46-awesomelantis-rises-a-/4000-456008/",
             "store_date": "2014-06-11",
             "volume": {
                 "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35462/",
@@ -225,16 +164,7 @@
                 "name": "Scooby-Doo, Where Are You?",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you/4050-35462/"
             }
-        }
-    ],
-    "2014-06-16|2014-06-22": [],
-    "2014-06-23|2014-06-29": [],
-    "2014-06-30|2014-07-06": [],
-    "2014-07-07|2014-07-13": [],
-    "2014-07-14|2014-07-20": [],
-    "2014-07-21|2014-07-27": [],
-    "2014-07-28|2014-08-03": [],
-    "2014-08-04|2014-08-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461705/",
@@ -270,45 +200,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474452/",
-            "cover_date": "2014-09-30",
-            "date_added": "2014-12-20 09:17:21",
-            "date_last_updated": "2014-12-20 10:08:05",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474452,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285693-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285693-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285693-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285693-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285693-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285693-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285693-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285693-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285693-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-46/4000-474452/",
-            "store_date": "2014-08-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2014-08-11|2014-08-17": [],
-    "2014-08-18|2014-08-24": [],
-    "2014-08-25|2014-08-31": [],
-    "2014-09-01|2014-09-07": [],
-    "2014-09-08|2014-09-14": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-465077/",
             "cover_date": "2014-09-30",
             "date_added": "2014-09-09 00:06:15",
@@ -339,15 +230,7 @@
                 "name": "Knights of the Dinner Table: Bundle of Trouble",
                 "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
             }
-        }
-    ],
-    "2014-09-15|2014-09-21": [],
-    "2014-09-22|2014-09-28": [],
-    "2014-09-29|2014-10-05": [],
-    "2014-10-06|2014-10-12": [],
-    "2014-10-13|2014-10-19": [],
-    "2014-10-20|2014-10-26": [],
-    "2014-10-27|2014-11-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-469131/",
@@ -380,11 +263,73 @@
                 "name": "Batman '66",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-66/4050-64763/"
             }
-        }
-    ],
-    "2014-11-03|2014-11-09": [],
-    "2014-11-10|2014-11-16": [],
-    "2014-11-17|2014-11-23": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-473716/",
+            "cover_date": "2015-02-01",
+            "date_added": "2014-12-16 00:48:53",
+            "date_last_updated": "2015-09-11 11:35:21",
+            "deck": null,
+            "description": "<p><em>Archie and Jughead are spending their weekend at school? No, it's not some kind of massive detention torture, they've been hired to do some repairs and paint the walls of Riverdale High School. They're ready to do a job well done, but each crack and tear reminds them of a special memory they associate with it. Will they be too distracted to get the job done? Find out in \"Between the Cracks,\" the hilarious new lead story to this <b>jumbo</b> comics digest!</em></p><p> </p><p><em>Also includes reprints of classic Golden Age Suzie Comics.</em></p><p> </p>",
+            "has_staff_review": false,
+            "id": 473716,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285830-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285830-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285830-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285830-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285830-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285830-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285830-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285830-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285830-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Between the Cracks",
+            "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest-46-between-the-crack/4000-473716/",
+            "store_date": "2014-12-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36743/",
+                "id": 36743,
+                "name": "World of Archie Double Digest",
+                "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474452/",
+            "cover_date": "2014-09-30",
+            "date_added": "2014-12-20 09:17:21",
+            "date_last_updated": "2014-12-20 10:08:05",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474452,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285693-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285693-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285693-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285693-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285693-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285693-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285693-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285693-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285693-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-46/4000-474452/",
+            "store_date": "2014-08-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-475122/",
@@ -417,43 +362,38 @@
                 "name": "Fairy Tail",
                 "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
             }
-        }
-    ],
-    "2014-11-24|2014-11-30": [],
-    "2014-12-01|2014-12-07": [],
-    "2014-12-08|2014-12-14": [],
-    "2014-12-15|2014-12-21": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-473716/",
-            "cover_date": "2015-02-01",
-            "date_added": "2014-12-16 00:48:53",
-            "date_last_updated": "2015-09-11 11:35:21",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517585/",
+            "cover_date": "2014-04-04",
+            "date_added": "2016-02-28 12:51:18",
+            "date_last_updated": "2016-05-01 16:36:00",
             "deck": null,
-            "description": "<p><em>Archie and Jughead are spending their weekend at school? No, it's not some kind of massive detention torture, they've been hired to do some repairs and paint the walls of Riverdale High School. They're ready to do a job well done, but each crack and tear reminds them of a special memory they associate with it. Will they be too distracted to get the job done? Find out in \"Between the Cracks,\" the hilarious new lead story to this <b>jumbo</b> comics digest!</em></p><p> </p><p><em>Also includes reprints of classic Golden Age Suzie Comics.</em></p><p> </p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 473716,
+            "id": 517585,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285830-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285830-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285830-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285830-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285830-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285830-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285830-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285830-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285830-46.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073904-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073904-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073904-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073904-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073904-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073904-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073904-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073904-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073904-46.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "46",
-            "name": "Between the Cracks",
-            "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest-46-between-the-crack/4000-473716/",
-            "store_date": "2014-12-17",
+            "name": "Vol. 46",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-46-vol-46/4000-517585/",
+            "store_date": "2014-04-04",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36743/",
-                "id": 36743,
-                "name": "World of Archie Double Digest",
-                "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
             }
         }
     ]

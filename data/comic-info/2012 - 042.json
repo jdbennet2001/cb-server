@@ -1,90 +1,5 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [],
-    "2012-01-23|2012-01-29": [],
-    "2012-01-30|2012-02-05": [],
-    "2012-02-06|2012-02-12": [],
-    "2012-02-13|2012-02-19": [],
-    "2012-02-20|2012-02-26": [],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408622/",
-            "cover_date": "2012-03-03",
-            "date_added": "2013-06-02 23:37:52",
-            "date_last_updated": "2013-06-03 00:02:34",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408622,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084579-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084579-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084579-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084579-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084579-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084579-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084579-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084579-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3084579-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Vol. 42",
-            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-42-vol-42/4000-408622/",
-            "store_date": "2012-03-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
-                "id": 62827,
-                "name": "Gin Tama",
-                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
-            }
-        }
-    ],
-    "2012-03-26|2012-04-01": [],
-    "2012-04-02|2012-04-08": [],
-    "2012-04-09|2012-04-15": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416312/",
-            "cover_date": "2012-04-05",
-            "date_added": "2013-07-05 00:11:29",
-            "date_last_updated": "2013-07-05 00:38:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416312,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153086-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153086-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153086-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153086-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153086-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153086-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153086-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153086-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3153086-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Vol. 42",
-            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-42-vol-42/4000-416312/",
-            "store_date": "2012-04-13",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64975/",
-                "id": 64975,
-                "name": "Kenichi: The Mightiest Disciple",
-                "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple/4050-64975/"
-            }
-        }
-    ],
-    "2012-04-16|2012-04-22": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-331966/",
@@ -117,46 +32,7 @@
                 "name": "Next Men: Aftermath",
                 "site_detail_url": "https://comicvine.gamespot.com/next-men-aftermath/4050-45783/"
             }
-        }
-    ],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452736/",
-            "cover_date": "2012-05-31",
-            "date_added": "2014-05-11 15:13:04",
-            "date_last_updated": "2014-05-11 15:25:43",
-            "deck": null,
-            "description": "<p><em>Buffy's mom is dead, the emotions of Buffy and her friends are running high, and lots of little things are causing lots of little problems. With everybody preoccupied with grief, anger, guilt, and regret the fight against the forces of darkness doesn't seem all that crucial somehow. Somebody should have told that to the swarm of angry, deformed, green demon-children that are tearing apart Buffy's house and trying to chew off her face. Want it or not, Buffy has a fight on her hands. But one of her closest friends is keeping a secret that is either the key to victory -- or could get them all killed. Collecting the four-issue series, plus the super-spooky, slam-bang festival of fangs <strong>Night of 1000 Vampires</strong> one-shot!</em></p><p>Collects <a href=\"/buffy-the-vampire-slayer/4050-6239/\" data-ref-id=\"4050-6239\">Buffy the Vampire Slayer</a> #39-42.</p>",
-            "has_staff_review": false,
-            "id": 452736,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3815694-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3815694-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3815694-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3815694-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3815694-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3815694-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3815694-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3815694-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3815694-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Night of 1000 Vampires/Ugly Little Monsters",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-42-night-of-1000-/4000-452736/",
-            "store_date": "2012-05-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
-                "id": 56135,
-                "name": "Buffy the Vampire Slayer Classic",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
-            }
-        }
-    ],
-    "2012-05-14|2012-05-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-335927/",
@@ -189,49 +65,7 @@
                 "name": "New Mutants",
                 "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
             }
-        }
-    ],
-    "2012-05-21|2012-05-27": [],
-    "2012-05-28|2012-06-03": [],
-    "2012-06-04|2012-06-10": [],
-    "2012-06-11|2012-06-17": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560786/",
-            "cover_date": "2012-06-15",
-            "date_added": "2016-11-27 02:02:34",
-            "date_last_updated": "2018-08-24 22:36:12",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 560786,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554316-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554316-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554316-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554316-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554316-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554316-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554316-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554316-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5554316-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Vol. 42",
-            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-42-vol-42/4000-560786/",
-            "store_date": "2012-06-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
-                "id": 95919,
-                "name": "Q.E.D. - Shoumei Shuuryou",
-                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
-            }
-        }
-    ],
-    "2012-06-18|2012-06-24": [],
-    "2012-06-25|2012-07-01": [],
-    "2012-07-02|2012-07-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-344206/",
@@ -264,44 +98,40 @@
                 "name": "Bleach",
                 "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
             }
-        }
-    ],
-    "2012-07-09|2012-07-15": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-418233/",
-            "cover_date": "2012-07-31",
-            "date_added": "2013-07-17 22:54:31",
-            "date_last_updated": "2017-07-17 20:59:26",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-351236/",
+            "cover_date": "2012-08-01",
+            "date_added": "2012-08-15 09:00:12",
+            "date_last_updated": "2018-11-15 05:26:26",
             "deck": null,
-            "description": "<p><em>There's a good reason The Overstreet Comic Book Price Guide has been the definitive guide for collectors and dealers alike since 1970. In addition to being the preeminent source of comic book pricing information, it features a ton of other data as well. The 42nd edition includes all new insights and features and along with the most comprehensive listing of comics, all new entries in the Overstreet Hall of Fame, and more. This edition offers a choice of covers: A vibrant Catwoman caught in the act by signature artist Adam Hughes, or a stunning re-creation of John Buscema's Avengers #58 cover by superstar painter Joe Jusko. Either version is perfect for both new collectors and seasoned enthusiasts alike, and they're both available in softcover and hardcover editions.</em></p>",
+            "description": "<p><i>'SLEEPING PARTNERS,' Part One</i></p><p><i>Sahara is pregnant, Panya is pregnant... and their lives are at risk.</i></p>",
             "has_staff_review": false,
-            "id": 418233,
+            "id": 351236,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3181288-42a.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3181288-42a.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3181288-42a.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3181288-42a.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3181288-42a.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3181288-42a.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3181288-42a.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3181288-42a.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3181288-42a.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3434594-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3434594-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3434594-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3434594-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3434594-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3434594-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3434594-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3434594-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3434594-42.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "42",
-            "name": "2012 - 2013",
-            "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide-42-2012-2013/4000-418233/",
-            "store_date": "2012-07-11",
+            "name": "Sleeping Partners, Part One: The Seed of Opposite Species",
+            "site_detail_url": "https://comicvine.gamespot.com/elephantmen-42-sleeping-partners-part-one-the-seed/4000-351236/",
+            "store_date": "2012-08-15",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65397/",
-                "id": 65397,
-                "name": "The Overstreet Comic Book Price Guide",
-                "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide/4050-65397/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-20056/",
+                "id": 20056,
+                "name": "Elephantmen",
+                "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
             }
-        }
-    ],
-    "2012-07-16|2012-07-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-351907/",
@@ -334,47 +164,7 @@
                 "name": "Sonic Universe",
                 "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
             }
-        }
-    ],
-    "2012-07-23|2012-07-29": [],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-351236/",
-            "cover_date": "2012-08-01",
-            "date_added": "2012-08-15 09:00:12",
-            "date_last_updated": "2013-11-10 06:33:07",
-            "deck": null,
-            "description": "<p><i>'SLEEPING PARTNERS,' Part One</i></p><p><i>Sahara is pregnant, Panya is pregnant... and their lives are at risk.</i></p>",
-            "has_staff_review": false,
-            "id": 351236,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3434594-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3434594-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3434594-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3434594-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3434594-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3434594-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3434594-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3434594-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3434594-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": "Sleeping Partners, Part One: The Seed of Opposite Species",
-            "site_detail_url": "https://comicvine.gamespot.com/elephantmen-42-sleeping-partners-part-one-the-seed/4000-351236/",
-            "store_date": "2012-08-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-20056/",
-                "id": 20056,
-                "name": "Elephantmen",
-                "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
-            }
-        }
-    ],
-    "2012-08-20|2012-08-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-355817/",
@@ -407,11 +197,7 @@
                 "name": "Oh My Goddess!",
                 "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess/4050-27627/"
             }
-        }
-    ],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [],
-    "2012-09-10|2012-09-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-356844/",
@@ -444,10 +230,7 @@
                 "name": "Batman: Arkham Unhinged",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-unhinged/4050-43361/"
             }
-        }
-    ],
-    "2012-09-17|2012-09-23": [],
-    "2012-09-24|2012-09-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-358843/",
@@ -480,46 +263,7 @@
                 "name": "The Goon",
                 "site_detail_url": "https://comicvine.gamespot.com/the-goon/4050-18632/"
             }
-        }
-    ],
-    "2012-10-01|2012-10-07": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-421802/",
-            "cover_date": "2012-10-01",
-            "date_added": "2013-08-13 05:19:45",
-            "date_last_updated": "2017-08-12 01:04:03",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 421802,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002871-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002871-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002871-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002871-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002871-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002871-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002871-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002871-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6002871-42.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "42",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-42/4000-421802/",
-            "store_date": "2012-10-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
-                "id": 67886,
-                "name": "Comic Magnum",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
-            }
-        }
-    ],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [],
-    "2012-10-22|2012-10-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-363085/",
@@ -555,6 +299,204 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373368/",
+            "cover_date": "2012-12-01",
+            "date_added": "2012-12-18 00:18:01",
+            "date_last_updated": "2012-12-18 23:15:20",
+            "deck": null,
+            "description": "<p><i>Michael and Abi have separated, following their own paths. Striking out on her own, Abi soon has her own personal pilgrimage when she finds the town of Sunspot, birthplace of the Sunner faith. But the town is hurting, trying to recover from a sickness sweeping through the population. Abi knows what she has to do... but what will it cost her?</i></p>",
+            "has_staff_review": false,
+            "id": 373368,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2758855-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2758855-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2758855-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2758855-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2758855-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2758855-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2758855-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2758855-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2758855-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "This Woman's Work",
+            "site_detail_url": "https://comicvine.gamespot.com/wasteland-42-this-womans-work/4000-373368/",
+            "store_date": "2012-12-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-17996/",
+                "id": 17996,
+                "name": "Wasteland",
+                "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408622/",
+            "cover_date": "2012-03-03",
+            "date_added": "2013-06-02 23:37:52",
+            "date_last_updated": "2013-06-03 00:02:34",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408622,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084579-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084579-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084579-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084579-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084579-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084579-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084579-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084579-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3084579-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Vol. 42",
+            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-42-vol-42/4000-408622/",
+            "store_date": "2012-03-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
+                "id": 62827,
+                "name": "Gin Tama",
+                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416312/",
+            "cover_date": "2012-04-05",
+            "date_added": "2013-07-05 00:11:29",
+            "date_last_updated": "2013-07-05 00:38:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416312,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153086-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153086-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153086-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153086-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153086-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153086-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153086-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153086-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3153086-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Vol. 42",
+            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-42-vol-42/4000-416312/",
+            "store_date": "2012-04-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64975/",
+                "id": 64975,
+                "name": "Kenichi: The Mightiest Disciple",
+                "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple/4050-64975/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-418233/",
+            "cover_date": "2012-07-31",
+            "date_added": "2013-07-17 22:54:31",
+            "date_last_updated": "2017-07-17 20:59:26",
+            "deck": null,
+            "description": "<p><em>There's a good reason The Overstreet Comic Book Price Guide has been the definitive guide for collectors and dealers alike since 1970. In addition to being the preeminent source of comic book pricing information, it features a ton of other data as well. The 42nd edition includes all new insights and features and along with the most comprehensive listing of comics, all new entries in the Overstreet Hall of Fame, and more. This edition offers a choice of covers: A vibrant Catwoman caught in the act by signature artist Adam Hughes, or a stunning re-creation of John Buscema's Avengers #58 cover by superstar painter Joe Jusko. Either version is perfect for both new collectors and seasoned enthusiasts alike, and they're both available in softcover and hardcover editions.</em></p>",
+            "has_staff_review": false,
+            "id": 418233,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3181288-42a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3181288-42a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3181288-42a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3181288-42a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3181288-42a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3181288-42a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3181288-42a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3181288-42a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3181288-42a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "2012 - 2013",
+            "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide-42-2012-2013/4000-418233/",
+            "store_date": "2012-07-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65397/",
+                "id": 65397,
+                "name": "The Overstreet Comic Book Price Guide",
+                "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide/4050-65397/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-421802/",
+            "cover_date": "2012-10-01",
+            "date_added": "2013-08-13 05:19:45",
+            "date_last_updated": "2017-08-12 01:04:03",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 421802,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002871-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002871-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002871-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002871-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002871-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002871-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002871-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002871-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6002871-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-42/4000-421802/",
+            "store_date": "2012-10-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
+                "id": 67886,
+                "name": "Comic Magnum",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452736/",
+            "cover_date": "2012-05-31",
+            "date_added": "2014-05-11 15:13:04",
+            "date_last_updated": "2014-05-11 15:25:43",
+            "deck": null,
+            "description": "<p><em>Buffy's mom is dead, the emotions of Buffy and her friends are running high, and lots of little things are causing lots of little problems. With everybody preoccupied with grief, anger, guilt, and regret the fight against the forces of darkness doesn't seem all that crucial somehow. Somebody should have told that to the swarm of angry, deformed, green demon-children that are tearing apart Buffy's house and trying to chew off her face. Want it or not, Buffy has a fight on her hands. But one of her closest friends is keeping a secret that is either the key to victory -- or could get them all killed. Collecting the four-issue series, plus the super-spooky, slam-bang festival of fangs <strong>Night of 1000 Vampires</strong> one-shot!</em></p><p>Collects <a href=\"/buffy-the-vampire-slayer/4050-6239/\" data-ref-id=\"4050-6239\">Buffy the Vampire Slayer</a> #39-42.</p>",
+            "has_staff_review": false,
+            "id": 452736,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3815694-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3815694-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3815694-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3815694-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3815694-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3815694-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3815694-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3815694-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3815694-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Night of 1000 Vampires/Ugly Little Monsters",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-42-night-of-1000-/4000-452736/",
+            "store_date": "2012-05-09",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
+                "id": 56135,
+                "name": "Buffy the Vampire Slayer Classic",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530127/",
             "cover_date": "2012-10-26",
             "date_added": "2016-05-12 10:37:38",
@@ -585,47 +527,38 @@
                 "name": "Pocket Monsters Special",
                 "site_detail_url": "https://comicvine.gamespot.com/pocket-monsters-special/4050-90458/"
             }
-        }
-    ],
-    "2012-10-29|2012-11-04": [],
-    "2012-11-05|2012-11-11": [],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373368/",
-            "cover_date": "2012-12-01",
-            "date_added": "2012-12-18 00:18:01",
-            "date_last_updated": "2012-12-18 23:15:20",
-            "deck": null,
-            "description": "<p><i>Michael and Abi have separated, following their own paths. Striking out on her own, Abi soon has her own personal pilgrimage when she finds the town of Sunspot, birthplace of the Sunner faith. But the town is hurting, trying to recover from a sickness sweeping through the population. Abi knows what she has to do... but what will it cost her?</i></p>",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560786/",
+            "cover_date": "2012-06-15",
+            "date_added": "2016-11-27 02:02:34",
+            "date_last_updated": "2018-08-24 22:36:12",
+            "deck": " ",
+            "description": null,
             "has_staff_review": false,
-            "id": 373368,
+            "id": 560786,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2758855-42.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2758855-42.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2758855-42.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2758855-42.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2758855-42.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2758855-42.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2758855-42.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2758855-42.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2758855-42.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554316-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554316-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554316-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554316-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554316-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554316-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554316-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554316-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5554316-42.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "42",
-            "name": "This Woman's Work",
-            "site_detail_url": "https://comicvine.gamespot.com/wasteland-42-this-womans-work/4000-373368/",
-            "store_date": "2012-12-19",
+            "name": "Vol. 42",
+            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-42-vol-42/4000-560786/",
+            "store_date": "2012-06-15",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-17996/",
-                "id": 17996,
-                "name": "Wasteland",
-                "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
+                "id": 95919,
+                "name": "Q.E.D. - Shoumei Shuuryou",
+                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
             }
         }
     ]

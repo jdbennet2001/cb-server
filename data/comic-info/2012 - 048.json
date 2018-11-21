@@ -1,9 +1,5 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-311818/",
@@ -41,10 +37,7 @@
                 "name": "Tiny Titans",
                 "site_detail_url": "https://comicvine.gamespot.com/tiny-titans/4050-20512/"
             }
-        }
-    ],
-    "2012-01-23|2012-01-29": [],
-    "2012-01-30|2012-02-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-313922/",
@@ -77,9 +70,7 @@
                 "name": "Hulk",
                 "site_detail_url": "https://comicvine.gamespot.com/hulk/4050-20291/"
             }
-        }
-    ],
-    "2012-02-06|2012-02-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-314952/",
@@ -112,83 +103,7 @@
                 "name": "Northlanders",
                 "site_detail_url": "https://comicvine.gamespot.com/northlanders/4050-20035/"
             }
-        }
-    ],
-    "2012-02-13|2012-02-19": [],
-    "2012-02-20|2012-02-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403037/",
-            "cover_date": "2012-02-16",
-            "date_added": "2013-05-16 00:48:39",
-            "date_last_updated": "2013-05-16 00:57:58",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 403037,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3047042-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3047042-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3047042-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3047042-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3047042-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3047042-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3047042-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3047042-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3047042-48.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": "Vol. 48",
-            "site_detail_url": "https://comicvine.gamespot.com/glass-no-kamen-48-vol-48/4000-403037/",
-            "store_date": "2012-02-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61490/",
-                "id": 61490,
-                "name": "Glass no Kamen",
-                "site_detail_url": "https://comicvine.gamespot.com/glass-no-kamen/4050-61490/"
-            }
-        }
-    ],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439551/",
-            "cover_date": "2012-05-01",
-            "date_added": "2013-12-28 04:37:50",
-            "date_last_updated": "2013-12-29 00:55:53",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 439551,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532057-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532057-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532057-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532057-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532057-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532057-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532057-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532057-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532057-48.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-48/4000-439551/",
-            "store_date": "2012-03-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
-                "id": 70468,
-                "name": "Comic Penguin Celeb",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
-            }
-        }
-    ],
-    "2012-03-26|2012-04-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-324899/",
@@ -226,14 +141,205 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-10746/"
             }
-        }
-    ],
-    "2012-04-02|2012-04-08": [],
-    "2012-04-09|2012-04-15": [],
-    "2012-04-16|2012-04-22": [],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-354129/",
+            "cover_date": "2012-10-01",
+            "date_added": "2012-08-28 05:46:34",
+            "date_last_updated": "2014-05-31 09:59:52",
+            "deck": null,
+            "description": "<p><i>FEAR THE FUTURE Part Two! The New Mutants are in dire straits as they face a deadly foe.</i></p>",
+            "has_staff_review": false,
+            "id": 354129,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3461254-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3461254-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3461254-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3461254-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3461254-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3461254-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3461254-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3461254-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3461254-48.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "Fight The Future, Part 2",
+            "site_detail_url": "https://comicvine.gamespot.com/new-mutants-48-fight-the-future-part-2/4000-354129/",
+            "store_date": "2012-08-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26327/",
+                "id": 26327,
+                "name": "New Mutants",
+                "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-359235/",
+            "cover_date": "2012-09-30",
+            "date_added": "2012-09-27 12:13:24",
+            "date_last_updated": "2014-09-17 21:26:48",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Battle 448. \"Miu's Whereabouts\"</li><li>Battle 449. \"A Village Deep In The Mountains\"</li><li>Battle 450. \"Tidat's Kingdom\"</li><li>Battle 451. \"To Tidat Kingdom\"</li><li>Battle 452. \"Follow the Lead\"</li><li>Battle 453. \"Successor to the Throne\"</li><li>Battle 454. \"Oath of the Queen\"</li><li>Battle 455. \"Clue\"</li><li>Battle 456. \"Bulu Indah\"</li><li>Battle 457. \"Common Front\"</li></ul>",
+            "has_staff_review": false,
+            "id": 359235,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4107359-4644060305-183%252.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4107359-4644060305-183%252.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4107359-4644060305-183%252.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4107359-4644060305-183%252.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4107359-4644060305-183%252.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4107359-4644060305-183%252.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4107359-4644060305-183%252.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4107359-4644060305-183%252.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4107359-4644060305-183%252.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "Volume 48",
+            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-48-volume-48/4000-359235/",
+            "store_date": "2012-09-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44184/",
+                "id": 44184,
+                "name": "Shijō Saikyō no Deshi Ken'ichi",
+                "site_detail_url": "https://comicvine.gamespot.com/shijo-saikyo-no-deshi-ken-ichi/4050-44184/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-360048/",
+            "cover_date": "2012-09-01",
+            "date_added": "2012-10-03 11:38:32",
+            "date_last_updated": "2014-02-13 01:28:46",
+            "deck": null,
+            "description": "<p><i>As Aizen strolls through Karakura Town, Ichigo undergoes furious training in order to master the one technique that could bring an end to the conflict. But when the battle is finally over, how will Ichigo’s world have changed…?</i></p><h2>Chapter Titles</h2><ul><li>Chapter 414: DEICIDE 16</li><li>Chapter 415: DEICIDE 17</li><li>Chapter 416: DEICIDE 18 (THE END)</li><li>Chapter 417: DEICIDE 19</li><li>Chapter 418: DEICIDE 20</li><li>Chapter 419: DEICIDE 21 (Transcendent God Rock)</li><li>Chapter 420: DEICIDE 22</li><li>Chapter 421: DEICIDE 23</li><li>Chapter 422: The Silent Victory</li><li>Chapter 423: Bleach My Soul</li></ul>",
+            "has_staff_review": false,
+            "id": 360048,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3640083-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3640083-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3640083-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3640083-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3640083-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3640083-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3640083-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3640083-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3640083-48.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "God Is Dead",
+            "site_detail_url": "https://comicvine.gamespot.com/bleach-48-god-is-dead/4000-360048/",
+            "store_date": "2012-10-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-34586/",
+                "id": 34586,
+                "name": "Bleach",
+                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-363167/",
+            "cover_date": "2012-10-23",
+            "date_added": "2012-10-23 07:14:27",
+            "date_last_updated": "2012-10-24 15:44:20",
+            "deck": null,
+            "description": "<p><i>Tensions rise as protests against Arkham City reach a fever pitch. Councilman Grove introduces a plan for cutting off crime at its roots while Batman comes face to face with corruption within the GCPD.</i></p>",
+            "has_staff_review": false,
+            "id": 363167,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2663765-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2663765-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2663765-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2663765-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2663765-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2663765-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2663765-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2663765-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2663765-48.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "Welcome to the Slough of Despond, Part 5",
+            "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-unhinged-48-welcome-to-the-slough-of/4000-363167/",
+            "store_date": "2012-10-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43361/",
+                "id": 43361,
+                "name": "Batman: Arkham Unhinged",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-unhinged/4050-43361/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-365591/",
+            "cover_date": "2012-01-01",
+            "date_added": "2012-11-05 11:05:56",
+            "date_last_updated": "2013-06-08 06:52:00",
+            "deck": null,
+            "description": "<p>Translates <a href=\"/punishermax/4050-29687/\" data-ref-id=\"4050-29687\">PunisherMAX</a> #12-16.</p>",
+            "has_staff_review": false,
+            "id": 365591,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2686352-marvelmaximum48punisherfrank_565.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "Punisher Max: Frank",
+            "site_detail_url": "https://comicvine.gamespot.com/max-48-punisher-max-frank/4000-365591/",
+            "store_date": "2012-09-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42761/",
+                "id": 42761,
+                "name": "MAX",
+                "site_detail_url": "https://comicvine.gamespot.com/max/4050-42761/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403037/",
+            "cover_date": "2012-02-16",
+            "date_added": "2013-05-16 00:48:39",
+            "date_last_updated": "2013-05-16 00:57:58",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 403037,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3047042-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3047042-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3047042-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3047042-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3047042-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3047042-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3047042-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3047042-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3047042-48.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "Vol. 48",
+            "site_detail_url": "https://comicvine.gamespot.com/glass-no-kamen-48-vol-48/4000-403037/",
+            "store_date": "2012-02-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61490/",
+                "id": 61490,
+                "name": "Glass no Kamen",
+                "site_detail_url": "https://comicvine.gamespot.com/glass-no-kamen/4050-61490/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412010/",
@@ -269,42 +375,70 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559400/",
-            "cover_date": "2012-05-31",
-            "date_added": "2016-11-26 05:40:10",
-            "date_last_updated": "2017-04-15 19:17:31",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412019/",
+            "cover_date": "2012-10-18",
+            "date_added": "2013-06-18 13:05:55",
+            "date_last_updated": "2013-06-18 13:08:08",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 559400,
+            "id": 412019,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551255-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551255-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551255-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551255-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551255-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551255-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551255-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551255-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551255-48.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3116166-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3116166-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3116166-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3116166-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3116166-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3116166-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3116166-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3116166-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3116166-48.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "48",
-            "name": "God Is Dead",
-            "site_detail_url": "https://comicvine.gamespot.com/bleach-48-god-is-dead/4000-559400/",
-            "store_date": "2012-05-09",
+            "name": "Vol. 48",
+            "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry-48-vol-48/4000-412019/",
+            "store_date": "2012-10-19",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51841/",
-                "id": 51841,
-                "name": "Bleach",
-                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-51841/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41887/",
+                "id": 41887,
+                "name": "Curry naru Shokutaku",
+                "site_detail_url": "https://comicvine.gamespot.com/curry-naru-shokutaku/4050-41887/"
             }
-        }
-    ],
-    "2012-05-14|2012-05-20": [],
-    "2012-05-21|2012-05-27": [],
-    "2012-05-28|2012-06-03": [],
-    "2012-06-04|2012-06-10": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439551/",
+            "cover_date": "2012-05-01",
+            "date_added": "2013-12-28 04:37:50",
+            "date_last_updated": "2013-12-29 00:55:53",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 439551,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532057-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532057-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532057-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532057-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532057-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532057-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532057-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532057-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532057-48.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-48/4000-439551/",
+            "store_date": "2012-03-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
+                "id": 70468,
+                "name": "Comic Penguin Celeb",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452742/",
@@ -337,238 +471,39 @@
                 "name": "Buffy the Vampire Slayer Classic",
                 "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
             }
-        }
-    ],
-    "2012-06-11|2012-06-17": [],
-    "2012-06-18|2012-06-24": [],
-    "2012-06-25|2012-07-01": [],
-    "2012-07-02|2012-07-08": [],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [],
-    "2012-07-23|2012-07-29": [],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [],
-    "2012-08-20|2012-08-26": [],
-    "2012-08-27|2012-09-02": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-354129/",
-            "cover_date": "2012-10-01",
-            "date_added": "2012-08-28 05:46:34",
-            "date_last_updated": "2014-05-31 09:59:52",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559400/",
+            "cover_date": "2012-05-31",
+            "date_added": "2016-11-26 05:40:10",
+            "date_last_updated": "2017-04-15 19:17:31",
             "deck": null,
-            "description": "<p><i>FEAR THE FUTURE Part Two! The New Mutants are in dire straits as they face a deadly foe.</i></p>",
+            "description": null,
             "has_staff_review": false,
-            "id": 354129,
+            "id": 559400,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3461254-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3461254-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3461254-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3461254-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3461254-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3461254-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3461254-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3461254-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3461254-48.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": "Fight The Future, Part 2",
-            "site_detail_url": "https://comicvine.gamespot.com/new-mutants-48-fight-the-future-part-2/4000-354129/",
-            "store_date": "2012-08-29",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26327/",
-                "id": 26327,
-                "name": "New Mutants",
-                "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
-            }
-        }
-    ],
-    "2012-09-03|2012-09-09": [],
-    "2012-09-10|2012-09-16": [],
-    "2012-09-17|2012-09-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-359235/",
-            "cover_date": "2012-09-30",
-            "date_added": "2012-09-27 12:13:24",
-            "date_last_updated": "2014-09-17 21:26:48",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Battle 448. \"Miu's Whereabouts\"</li><li>Battle 449. \"A Village Deep In The Mountains\"</li><li>Battle 450. \"Tidat's Kingdom\"</li><li>Battle 451. \"To Tidat Kingdom\"</li><li>Battle 452. \"Follow the Lead\"</li><li>Battle 453. \"Successor to the Throne\"</li><li>Battle 454. \"Oath of the Queen\"</li><li>Battle 455. \"Clue\"</li><li>Battle 456. \"Bulu Indah\"</li><li>Battle 457. \"Common Front\"</li></ul>",
-            "has_staff_review": false,
-            "id": 359235,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4107359-4644060305-183%252.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4107359-4644060305-183%252.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4107359-4644060305-183%252.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4107359-4644060305-183%252.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4107359-4644060305-183%252.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4107359-4644060305-183%252.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4107359-4644060305-183%252.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4107359-4644060305-183%252.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4107359-4644060305-183%252.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": "Volume 48",
-            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-48-volume-48/4000-359235/",
-            "store_date": "2012-09-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44184/",
-                "id": 44184,
-                "name": "Shijō Saikyō no Deshi Ken'ichi",
-                "site_detail_url": "https://comicvine.gamespot.com/shijo-saikyo-no-deshi-ken-ichi/4050-44184/"
-            }
-        }
-    ],
-    "2012-09-24|2012-09-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-365591/",
-            "cover_date": "2012-01-01",
-            "date_added": "2012-11-05 11:05:56",
-            "date_last_updated": "2013-06-08 06:52:00",
-            "deck": null,
-            "description": "<p>Translates <a href=\"/punishermax/4050-29687/\" data-ref-id=\"4050-29687\">PunisherMAX</a> #12-16.</p>",
-            "has_staff_review": false,
-            "id": 365591,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2686352-marvelmaximum48punisherfrank_565.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": "Punisher Max: Frank",
-            "site_detail_url": "https://comicvine.gamespot.com/max-48-punisher-max-frank/4000-365591/",
-            "store_date": "2012-09-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42761/",
-                "id": 42761,
-                "name": "MAX",
-                "site_detail_url": "https://comicvine.gamespot.com/max/4050-42761/"
-            }
-        }
-    ],
-    "2012-10-01|2012-10-07": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-360048/",
-            "cover_date": "2012-09-01",
-            "date_added": "2012-10-03 11:38:32",
-            "date_last_updated": "2014-02-13 01:28:46",
-            "deck": null,
-            "description": "<p><i>As Aizen strolls through Karakura Town, Ichigo undergoes furious training in order to master the one technique that could bring an end to the conflict. But when the battle is finally over, how will Ichigo’s world have changed…?</i></p><h2>Chapter Titles</h2><ul><li>Chapter 414: DEICIDE 16</li><li>Chapter 415: DEICIDE 17</li><li>Chapter 416: DEICIDE 18 (THE END)</li><li>Chapter 417: DEICIDE 19</li><li>Chapter 418: DEICIDE 20</li><li>Chapter 419: DEICIDE 21 (Transcendent God Rock)</li><li>Chapter 420: DEICIDE 22</li><li>Chapter 421: DEICIDE 23</li><li>Chapter 422: The Silent Victory</li><li>Chapter 423: Bleach My Soul</li></ul>",
-            "has_staff_review": false,
-            "id": 360048,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3640083-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3640083-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3640083-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3640083-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3640083-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3640083-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3640083-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3640083-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3640083-48.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551255-48.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551255-48.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551255-48.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551255-48.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551255-48.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551255-48.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551255-48.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551255-48.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551255-48.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "48",
             "name": "God Is Dead",
-            "site_detail_url": "https://comicvine.gamespot.com/bleach-48-god-is-dead/4000-360048/",
-            "store_date": "2012-10-03",
+            "site_detail_url": "https://comicvine.gamespot.com/bleach-48-god-is-dead/4000-559400/",
+            "store_date": "2012-05-09",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-34586/",
-                "id": 34586,
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51841/",
+                "id": 51841,
                 "name": "Bleach",
-                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
+                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-51841/"
             }
         }
-    ],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412019/",
-            "cover_date": "2012-10-18",
-            "date_added": "2013-06-18 13:05:55",
-            "date_last_updated": "2013-06-18 13:08:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 412019,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3116166-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3116166-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3116166-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3116166-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3116166-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3116166-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3116166-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3116166-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3116166-48.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": "Vol. 48",
-            "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry-48-vol-48/4000-412019/",
-            "store_date": "2012-10-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41887/",
-                "id": 41887,
-                "name": "Curry naru Shokutaku",
-                "site_detail_url": "https://comicvine.gamespot.com/curry-naru-shokutaku/4050-41887/"
-            }
-        }
-    ],
-    "2012-10-22|2012-10-28": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-363167/",
-            "cover_date": "2012-10-23",
-            "date_added": "2012-10-23 07:14:27",
-            "date_last_updated": "2012-10-24 15:44:20",
-            "deck": null,
-            "description": "<p><i>Tensions rise as protests against Arkham City reach a fever pitch. Councilman Grove introduces a plan for cutting off crime at its roots while Batman comes face to face with corruption within the GCPD.</i></p>",
-            "has_staff_review": false,
-            "id": 363167,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2663765-48.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2663765-48.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2663765-48.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2663765-48.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2663765-48.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2663765-48.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2663765-48.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2663765-48.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2663765-48.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "48",
-            "name": "Welcome to the Slough of Despond, Part 5",
-            "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-unhinged-48-welcome-to-the-slough-of/4000-363167/",
-            "store_date": "2012-10-24",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43361/",
-                "id": 43361,
-                "name": "Batman: Arkham Unhinged",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-arkham-unhinged/4050-43361/"
-            }
-        }
-    ],
-    "2012-10-29|2012-11-04": [],
-    "2012-11-05|2012-11-11": [],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": []
+    ]
 }

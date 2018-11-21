@@ -1,12 +1,5 @@
 {
-    "2014-12-22|2014-12-28": [],
-    "2014-12-29|2015-01-04": [],
-    "2014-01-06|2014-01-12": [],
-    "2014-01-13|2014-01-19": [],
-    "2014-01-20|2014-01-26": [],
-    "2014-01-27|2014-02-02": [],
-    "2014-02-03|2014-02-09": [],
-    "2014-02-10|2014-02-16": [
+    "2014-01-01|2014-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445226/",
@@ -39,9 +32,7 @@
                 "name": "Crossed Badlands",
                 "site_detail_url": "https://comicvine.gamespot.com/crossed-badlands/4050-46576/"
             }
-        }
-    ],
-    "2014-02-17|2014-02-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445894/",
@@ -77,44 +68,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560791/",
-            "cover_date": "2014-02-17",
-            "date_added": "2016-11-27 02:02:51",
-            "date_last_updated": "2018-08-24 22:36:14",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 560791,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554328-47.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554328-47.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554328-47.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554328-47.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554328-47.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554328-47.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554328-47.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554328-47.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5554328-47.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "47",
-            "name": "Vol. 47",
-            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-47-vol-47/4000-560791/",
-            "store_date": "2014-02-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
-                "id": 95919,
-                "name": "Q.E.D. - Shoumei Shuuryou",
-                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
-            }
-        }
-    ],
-    "2014-02-24|2014-03-02": [],
-    "2014-03-03|2014-03-09": [],
-    "2014-03-10|2014-03-16": [],
-    "2014-03-17|2014-03-23": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-447945/",
             "cover_date": "2014-03-01",
             "date_added": "2014-03-17 20:21:19",
@@ -144,6 +97,39 @@
                 "id": 60518,
                 "name": "Adventures of Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman/4050-60518/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456652/",
+            "cover_date": "2014-06-30",
+            "date_added": "2014-06-17 00:46:47",
+            "date_last_updated": "2014-06-17 13:28:09",
+            "deck": null,
+            "description": "<p><em>Everyone knows Joe, Jack, William and Averell Dalton, the four dumbest desperadoes in the Old West and the worst enemies of Lucky Luke’s holidays. But before them, Luke had also encountered their cousins: real-life legends of the West Bob, Grat, Bill and Emmett. When these four began making too much trouble, Luke was called to get rid of them. Fortunately for him, they weren’t much brighter than their successors… but they did provide plenty of entertainment!</em></p>",
+            "has_staff_review": false,
+            "id": 456652,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3898587-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3898587-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3898587-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3898587-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3898587-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3898587-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3898587-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3898587-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3898587-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": "Outlaws",
+            "site_detail_url": "https://comicvine.gamespot.com/lucky-luke-47-outlaws/4000-456652/",
+            "store_date": "2014-06-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-48134/",
+                "id": 48134,
+                "name": "Lucky Luke",
+                "site_detail_url": "https://comicvine.gamespot.com/lucky-luke/4050-48134/"
             }
         },
         {
@@ -178,132 +164,13 @@
                 "name": "Ā Megami-sama",
                 "site_detail_url": "https://comicvine.gamespot.com/a-megami-sama/4050-42245/"
             }
-        }
-    ],
-    "2014-03-24|2014-03-30": [],
-    "2014-03-31|2014-04-06": [],
-    "2014-04-07|2014-04-13": [],
-    "2014-04-14|2014-04-20": [],
-    "2014-04-21|2014-04-27": [],
-    "2014-04-28|2014-05-04": [],
-    "2014-05-05|2014-05-11": [],
-    "2014-05-12|2014-05-18": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524514/",
-            "cover_date": "2014-05-12",
-            "date_added": "2016-04-11 12:22:53",
-            "date_last_updated": "2016-04-23 13:25:01",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524514,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146192-47.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146192-47.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146192-47.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146192-47.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146192-47.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146192-47.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146192-47.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146192-47.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146192-47.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "47",
-            "name": "Vol. 47",
-            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-47-vol-47/4000-524514/",
-            "store_date": "2014-05-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62750/",
-                "id": 62750,
-                "name": "Ah! My Goddess",
-                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-62750/"
-            }
-        }
-    ],
-    "2014-05-19|2014-05-25": [],
-    "2014-05-26|2014-06-01": [],
-    "2014-06-02|2014-06-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456652/",
-            "cover_date": "2014-06-30",
-            "date_added": "2014-06-17 00:46:47",
-            "date_last_updated": "2014-06-17 13:28:09",
-            "deck": null,
-            "description": "<p><em>Everyone knows Joe, Jack, William and Averell Dalton, the four dumbest desperadoes in the Old West and the worst enemies of Lucky Luke’s holidays. But before them, Luke had also encountered their cousins: real-life legends of the West Bob, Grat, Bill and Emmett. When these four began making too much trouble, Luke was called to get rid of them. Fortunately for him, they weren’t much brighter than their successors… but they did provide plenty of entertainment!</em></p>",
-            "has_staff_review": false,
-            "id": 456652,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3898587-47.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3898587-47.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3898587-47.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3898587-47.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3898587-47.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3898587-47.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3898587-47.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3898587-47.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3898587-47.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "47",
-            "name": "Outlaws",
-            "site_detail_url": "https://comicvine.gamespot.com/lucky-luke-47-outlaws/4000-456652/",
-            "store_date": "2014-06-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-48134/",
-                "id": 48134,
-                "name": "Lucky Luke",
-                "site_detail_url": "https://comicvine.gamespot.com/lucky-luke/4050-48134/"
-            }
-        }
-    ],
-    "2014-06-09|2014-06-15": [],
-    "2014-06-16|2014-06-22": [],
-    "2014-06-23|2014-06-29": [],
-    "2014-06-30|2014-07-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517586/",
-            "cover_date": "2014-07-04",
-            "date_added": "2016-02-28 12:52:13",
-            "date_last_updated": "2016-05-01 16:35:44",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 517586,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073906-47.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073906-47.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073906-47.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073906-47.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073906-47.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073906-47.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073906-47.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073906-47.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5073906-47.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "47",
-            "name": "Vol. 47",
-            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-47-vol-47/4000-517586/",
-            "store_date": "2014-07-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
-                "id": 88523,
-                "name": "Kinnikuman",
-                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
-            }
-        }
-    ],
-    "2014-07-07|2014-07-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-459152/",
             "cover_date": "2014-09-30",
             "date_added": "2014-07-08 00:01:41",
-            "date_last_updated": "2018-06-09 01:05:43",
+            "date_last_updated": "2018-11-10 12:27:49",
             "deck": null,
             "description": "<p><em>Velma enters a tournament of her favorite competitive trading card game. But when the Monsters from the game show up in real life, it's up to the rest of the gang to save the day!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Scott Neely &amp; Candace Schinzler-Bell</td><td>1</td></tr><tr><td>RE</td><td>San Diego Comic Con Exclusive Cover</td><td>Scott Neely</td><td>2</td></tr></tbody></table>",
             "has_staff_review": false,
@@ -321,7 +188,7 @@
                 "image_tags": "All Images"
             },
             "issue_number": "47",
-            "name": "Comic Convention Card Tricks",
+            "name": "Comic Convention Card Tricks; The Night Marchers",
             "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-47-comic-convention-card-/4000-459152/",
             "store_date": "2014-07-09",
             "volume": {
@@ -330,55 +197,7 @@
                 "name": "Scooby-Doo, Where Are You?",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you/4050-35462/"
             }
-        }
-    ],
-    "2014-07-14|2014-07-20": [],
-    "2014-07-21|2014-07-27": [],
-    "2014-07-28|2014-08-03": [],
-    "2014-08-04|2014-08-10": [],
-    "2014-08-11|2014-08-17": [],
-    "2014-08-18|2014-08-24": [],
-    "2014-08-25|2014-08-31": [],
-    "2014-09-01|2014-09-07": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474453/",
-            "cover_date": "2014-10-31",
-            "date_added": "2014-12-20 09:17:23",
-            "date_last_updated": "2014-12-20 10:08:06",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474453,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285694-47.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285694-47.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285694-47.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285694-47.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285694-47.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285694-47.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285694-47.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285694-47.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285694-47.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "47",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-47/4000-474453/",
-            "store_date": "2014-09-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2014-09-08|2014-09-14": [],
-    "2014-09-15|2014-09-21": [],
-    "2014-09-22|2014-09-28": [],
-    "2014-09-29|2014-10-05": [],
-    "2014-10-06|2014-10-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467773/",
@@ -411,13 +230,7 @@
                 "name": "Knights of the Dinner Table: Bundle of Trouble",
                 "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
             }
-        }
-    ],
-    "2014-10-13|2014-10-19": [],
-    "2014-10-20|2014-10-26": [],
-    "2014-10-27|2014-11-02": [],
-    "2014-11-03|2014-11-09": [],
-    "2014-11-10|2014-11-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470051/",
@@ -450,11 +263,138 @@
                 "name": "Batman '66",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-66/4050-64763/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474453/",
+            "cover_date": "2014-10-31",
+            "date_added": "2014-12-20 09:17:23",
+            "date_last_updated": "2014-12-20 10:08:06",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474453,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285694-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285694-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285694-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285694-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285694-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285694-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285694-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285694-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285694-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-47/4000-474453/",
+            "store_date": "2014-09-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517586/",
+            "cover_date": "2014-07-04",
+            "date_added": "2016-02-28 12:52:13",
+            "date_last_updated": "2016-05-01 16:35:44",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 517586,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073906-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073906-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073906-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073906-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073906-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073906-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073906-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073906-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073906-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": "Vol. 47",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-47-vol-47/4000-517586/",
+            "store_date": "2014-07-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524514/",
+            "cover_date": "2014-05-12",
+            "date_added": "2016-04-11 12:22:53",
+            "date_last_updated": "2016-04-23 13:25:01",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524514,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146192-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146192-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146192-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146192-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146192-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146192-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146192-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146192-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146192-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": "Vol. 47",
+            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-47-vol-47/4000-524514/",
+            "store_date": "2014-05-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62750/",
+                "id": 62750,
+                "name": "Ah! My Goddess",
+                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-62750/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560791/",
+            "cover_date": "2014-02-17",
+            "date_added": "2016-11-27 02:02:51",
+            "date_last_updated": "2018-08-24 22:36:14",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 560791,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554328-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554328-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554328-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554328-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554328-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554328-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554328-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554328-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5554328-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": "Vol. 47",
+            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-47-vol-47/4000-560791/",
+            "store_date": "2014-02-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
+                "id": 95919,
+                "name": "Q.E.D. - Shoumei Shuuryou",
+                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
+            }
         }
-    ],
-    "2014-11-17|2014-11-23": [],
-    "2014-11-24|2014-11-30": [],
-    "2014-12-01|2014-12-07": [],
-    "2014-12-08|2014-12-14": [],
-    "2014-12-15|2014-12-21": []
+    ]
 }

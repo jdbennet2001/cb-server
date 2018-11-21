@@ -1,13 +1,5 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [],
-    "2012-01-23|2012-01-29": [],
-    "2012-01-30|2012-02-05": [],
-    "2012-02-06|2012-02-12": [],
-    "2012-02-13|2012-02-19": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-316144/",
@@ -40,9 +32,7 @@
                 "name": "Bleach",
                 "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
             }
-        }
-    ],
-    "2012-02-20|2012-02-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-316789/",
@@ -75,12 +65,7 @@
                 "name": "New Mutants",
                 "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
             }
-        }
-    ],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-323487/",
@@ -146,15 +131,13 @@
                 "name": "Sonic Universe",
                 "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
             }
-        }
-    ],
-    "2012-03-26|2012-04-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-324793/",
             "cover_date": "2012-03-01",
             "date_added": "2012-03-27 08:15:00",
-            "date_last_updated": "2012-10-20 00:21:36",
+            "date_last_updated": "2018-11-15 05:26:25",
             "deck": null,
             "description": "<p><em>RAZORBACK versus BLACKTHORNE.... one lives, one dies!</em></p>",
             "has_staff_review": false,
@@ -181,187 +164,7 @@
                 "name": "Elephantmen",
                 "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
             }
-        }
-    ],
-    "2012-04-02|2012-04-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412571/",
-            "cover_date": "2012-04-30",
-            "date_added": "2013-06-20 18:11:57",
-            "date_last_updated": "2016-10-11 13:33:58",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: <i>Jukai kuru!</i> (呪解来る!)</p><h2>Chapter Titles</h2><ul><li>Target 362: Cure for the Curse (呪解 <i>Jukai</i>)</li><li>Target 363: The Threat Team (脅威のチーム <i>Kyōi no Chīmu</i>)</li><li>Target 364: The Second Day (2日目 <i>Futsukame</i>)</li><li>Target 365: Uni's Premonition (ユニの予言 <i>Yuni no Yogen</i>)</li><li>Target 366: The Second Day of Battle Begins!! (2日目開戦!! <i>Futsukame Kaisen!!</i>)</li><li>Target 367: A Single Strike (一撃 <i>Ichigeki</i>)</li><li>Target 368: The Second Battle (第二射 <i>Dainisha</i>)</li><li>Target 369: Rematch (再戦 <i>Saisen</i>)</li><li>Target 370: Lesson (レッスン <i>Ressun</i>)</li><li>Target 371: Non-standard (規格外 <i>Kikakugai</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 412571,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121019-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121019-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121019-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121019-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121019-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121019-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121019-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121019-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3121019-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Lifted Curse Arrives!",
-            "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn-38-lifted-curse-arrives/4000-412571/",
-            "store_date": "2012-04-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35414/",
-                "id": 35414,
-                "name": "Katekyō Hitman Reborn!",
-                "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn/4050-35414/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517577/",
-            "cover_date": "2012-04-04",
-            "date_added": "2016-02-28 12:41:00",
-            "date_last_updated": "2016-05-01 16:35:58",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 517577,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073877-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073877-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073877-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073877-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073877-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073877-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073877-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073877-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5073877-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Vol. 38",
-            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-38-vol-38/4000-517577/",
-            "store_date": "2012-04-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
-                "id": 88523,
-                "name": "Kinnikuman",
-                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
-            }
-        }
-    ],
-    "2012-04-09|2012-04-15": [],
-    "2012-04-16|2012-04-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425820/",
-            "cover_date": "2012-04-30",
-            "date_added": "2013-09-15 15:42:20",
-            "date_last_updated": "2017-06-30 10:46:07",
-            "deck": null,
-            "description": "<p><em>A huntress is stalking demons in L.A. Normally this would be a good thing, except she's leaving survivors and telling them Angel sent her. Now Angel has an army of demons on his tail, hell-bent on revenge. What's a vampire to do? And how long can his human companions, Cordelia and Wesley, remain safe? Meanwhile, monsters are fleeing the carnage in L.A. and seeking refuge in Sunnydale, where they're being dealt with by the Slayer. Buffy, Giles, and the gang learn about the havoc, and Buffy determines that she must go to Angel's side to lend a hand; a decision that does not sit at all well with Buffy's vampire-hunting boyfriend, Riley.</em></p>",
-            "has_staff_review": false,
-            "id": 425820,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Past Lives",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-38-past-lives/4000-425820/",
-            "store_date": "2012-04-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
-                "id": 56135,
-                "name": "Buffy the Vampire Slayer Classic",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
-            }
-        }
-    ],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [],
-    "2012-05-14|2012-05-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560255/",
-            "cover_date": "2012-05-17",
-            "date_added": "2016-11-26 18:14:59",
-            "date_last_updated": "2018-03-10 17:41:40",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 560255,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552999-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552999-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552999-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552999-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552999-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552999-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552999-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552999-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5552999-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Vol. 38",
-            "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima-38-vol-38/4000-560255/",
-            "store_date": "2012-05-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95909/",
-                "id": 95909,
-                "name": "Mahou Sensei Negima!",
-                "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima/4050-95909/"
-            }
-        }
-    ],
-    "2012-05-21|2012-05-27": [],
-    "2012-05-28|2012-06-03": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-424260/",
-            "cover_date": "2012-06-01",
-            "date_added": "2013-08-30 22:05:55",
-            "date_last_updated": "2017-08-12 01:02:32",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 424260,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002867-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002867-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002867-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002867-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002867-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002867-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002867-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002867-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6002867-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-38/4000-424260/",
-            "store_date": "2012-06-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
-                "id": 67886,
-                "name": "Comic Magnum",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
-            }
-        }
-    ],
-    "2012-06-04|2012-06-10": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-339560/",
@@ -394,10 +197,7 @@
                 "name": "Wasteland",
                 "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
             }
-        }
-    ],
-    "2012-06-11|2012-06-17": [],
-    "2012-06-18|2012-06-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-342159/",
@@ -430,158 +230,7 @@
                 "name": "The Unwritten",
                 "site_detail_url": "https://comicvine.gamespot.com/the-unwritten/4050-2626/"
             }
-        }
-    ],
-    "2012-06-25|2012-07-01": [],
-    "2012-07-02|2012-07-08": [],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412537/",
-            "cover_date": "2012-07-20",
-            "date_added": "2013-06-20 17:22:14",
-            "date_last_updated": "2013-06-20 17:36:07",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 412537,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120735-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120735-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120735-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120735-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120735-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120735-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120735-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120735-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3120735-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Vol. 38",
-            "site_detail_url": "https://comicvine.gamespot.com/reborn-38-vol-38/4000-412537/",
-            "store_date": "2012-07-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
-                "id": 63952,
-                "name": "Reborn!",
-                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532925/",
-            "cover_date": "2012-07-19",
-            "date_added": "2016-05-29 19:26:48",
-            "date_last_updated": "2016-05-29 20:09:04",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 532925,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5236386-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5236386-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5236386-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5236386-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5236386-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5236386-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5236386-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5236386-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5236386-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "38th Battle: Kiichi and Kakugo",
-            "site_detail_url": "https://comicvine.gamespot.com/tough-38-38th-battle-kiichi-and-kakugo/4000-532925/",
-            "store_date": "2012-07-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90838/",
-                "id": 90838,
-                "name": "Tough",
-                "site_detail_url": "https://comicvine.gamespot.com/tough/4050-90838/"
-            }
-        }
-    ],
-    "2012-07-23|2012-07-29": [],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [],
-    "2012-08-20|2012-08-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-410266/",
-            "cover_date": "2012-08-10",
-            "date_added": "2013-06-10 20:48:26",
-            "date_last_updated": "2013-06-10 21:03:41",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 410266,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3101112-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3101112-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3101112-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3101112-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3101112-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3101112-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3101112-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3101112-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3101112-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Vol. 38",
-            "site_detail_url": "https://comicvine.gamespot.com/negima-38-vol-38/4000-410266/",
-            "store_date": "2012-08-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63280/",
-                "id": 63280,
-                "name": "Negima",
-                "site_detail_url": "https://comicvine.gamespot.com/negima/4050-63280/"
-            }
-        }
-    ],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [],
-    "2012-09-10|2012-09-16": [],
-    "2012-09-17|2012-09-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438412/",
-            "cover_date": "2012-09-01",
-            "date_added": "2013-12-23 07:47:01",
-            "date_last_updated": "2013-12-23 08:54:55",
-            "deck": null,
-            "description": "<p><em>This new perfectbound trade paperback contains all the classic strips from the award-winning Knights of the Dinner Table #127-130, plus loads of new material. These hysterically funny strips are the perfect addition to any gamer's bookshelf.</em></p>",
-            "has_staff_review": false,
-            "id": 438412,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3521805-38.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3521805-38.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3521805-38.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3521805-38.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3521805-38.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3521805-38.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3521805-38.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3521805-38.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3521805-38.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": "Volume Thirty-Eight",
-            "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble-38-v/4000-438412/",
-            "store_date": "2012-09-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55383/",
-                "id": 55383,
-                "name": "Knights of the Dinner Table: Bundle of Trouble",
-                "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
-            }
-        }
-    ],
-    "2012-09-24|2012-09-30": [],
-    "2012-10-01|2012-10-07": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-360031/",
@@ -647,47 +296,7 @@
                 "name": "Sweet Tooth",
                 "site_detail_url": "https://comicvine.gamespot.com/sweet-tooth/4050-27671/"
             }
-        }
-    ],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [],
-    "2012-10-22|2012-10-28": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403293/",
-            "cover_date": "2012-11-29",
-            "date_added": "2013-05-16 12:01:32",
-            "date_last_updated": "2013-06-29 09:22:26",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/penguin-pain-prejudice/4050-43119/\" data-ref-id=\"4050-43119\">Penguin: Pain &amp; Prejudice</a> #1-5.</p>",
-            "has_staff_review": false,
-            "id": 403293,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "38",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband-38/4000-403293/",
-            "store_date": "2012-10-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41863/",
-                "id": 41863,
-                "name": "Batman Sonderband",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband/4050-41863/"
-            }
-        }
-    ],
-    "2012-10-29|2012-11-04": [],
-    "2012-11-05|2012-11-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-366182/",
@@ -720,12 +329,336 @@
                 "name": "X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-34221/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403293/",
+            "cover_date": "2012-11-29",
+            "date_added": "2013-05-16 12:01:32",
+            "date_last_updated": "2013-06-29 09:22:26",
+            "deck": null,
+            "description": "<p> Translates <a href=\"/penguin-pain-prejudice/4050-43119/\" data-ref-id=\"4050-43119\">Penguin: Pain &amp; Prejudice</a> #1-5.</p>",
+            "has_staff_review": false,
+            "id": 403293,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3048009-batmansonderband38pinguinschmerzundvorurteil_709.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband-38/4000-403293/",
+            "store_date": "2012-10-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41863/",
+                "id": 41863,
+                "name": "Batman Sonderband",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband/4050-41863/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-410266/",
+            "cover_date": "2012-08-10",
+            "date_added": "2013-06-10 20:48:26",
+            "date_last_updated": "2013-06-10 21:03:41",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 410266,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3101112-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3101112-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3101112-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3101112-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3101112-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3101112-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3101112-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3101112-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3101112-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Vol. 38",
+            "site_detail_url": "https://comicvine.gamespot.com/negima-38-vol-38/4000-410266/",
+            "store_date": "2012-08-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63280/",
+                "id": 63280,
+                "name": "Negima",
+                "site_detail_url": "https://comicvine.gamespot.com/negima/4050-63280/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412537/",
+            "cover_date": "2012-07-20",
+            "date_added": "2013-06-20 17:22:14",
+            "date_last_updated": "2013-06-20 17:36:07",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412537,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120735-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120735-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120735-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120735-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120735-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120735-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120735-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120735-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3120735-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Vol. 38",
+            "site_detail_url": "https://comicvine.gamespot.com/reborn-38-vol-38/4000-412537/",
+            "store_date": "2012-07-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
+                "id": 63952,
+                "name": "Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412571/",
+            "cover_date": "2012-04-30",
+            "date_added": "2013-06-20 18:11:57",
+            "date_last_updated": "2016-10-11 13:33:58",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: <i>Jukai kuru!</i> (呪解来る!)</p><h2>Chapter Titles</h2><ul><li>Target 362: Cure for the Curse (呪解 <i>Jukai</i>)</li><li>Target 363: The Threat Team (脅威のチーム <i>Kyōi no Chīmu</i>)</li><li>Target 364: The Second Day (2日目 <i>Futsukame</i>)</li><li>Target 365: Uni's Premonition (ユニの予言 <i>Yuni no Yogen</i>)</li><li>Target 366: The Second Day of Battle Begins!! (2日目開戦!! <i>Futsukame Kaisen!!</i>)</li><li>Target 367: A Single Strike (一撃 <i>Ichigeki</i>)</li><li>Target 368: The Second Battle (第二射 <i>Dainisha</i>)</li><li>Target 369: Rematch (再戦 <i>Saisen</i>)</li><li>Target 370: Lesson (レッスン <i>Ressun</i>)</li><li>Target 371: Non-standard (規格外 <i>Kikakugai</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 412571,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121019-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121019-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121019-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121019-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121019-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121019-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121019-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121019-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3121019-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Lifted Curse Arrives!",
+            "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn-38-lifted-curse-arrives/4000-412571/",
+            "store_date": "2012-04-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35414/",
+                "id": 35414,
+                "name": "Katekyō Hitman Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn/4050-35414/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-424260/",
+            "cover_date": "2012-06-01",
+            "date_added": "2013-08-30 22:05:55",
+            "date_last_updated": "2017-08-12 01:02:32",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 424260,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002867-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002867-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002867-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002867-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002867-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002867-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002867-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002867-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6002867-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-38/4000-424260/",
+            "store_date": "2012-06-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
+                "id": 67886,
+                "name": "Comic Magnum",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425820/",
+            "cover_date": "2012-04-30",
+            "date_added": "2013-09-15 15:42:20",
+            "date_last_updated": "2017-06-30 10:46:07",
+            "deck": null,
+            "description": "<p><em>A huntress is stalking demons in L.A. Normally this would be a good thing, except she's leaving survivors and telling them Angel sent her. Now Angel has an army of demons on his tail, hell-bent on revenge. What's a vampire to do? And how long can his human companions, Cordelia and Wesley, remain safe? Meanwhile, monsters are fleeing the carnage in L.A. and seeking refuge in Sunnydale, where they're being dealt with by the Slayer. Buffy, Giles, and the gang learn about the havoc, and Buffy determines that she must go to Angel's side to lend a hand; a decision that does not sit at all well with Buffy's vampire-hunting boyfriend, Riley.</em></p>",
+            "has_staff_review": false,
+            "id": 425820,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3312797-buffy%20the%20vampire%20slayer%20classic%20%20-%20past%20lives%20%2338%20%282012%29%20-%20page%201.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Past Lives",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-38-past-lives/4000-425820/",
+            "store_date": "2012-04-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
+                "id": 56135,
+                "name": "Buffy the Vampire Slayer Classic",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438412/",
+            "cover_date": "2012-09-01",
+            "date_added": "2013-12-23 07:47:01",
+            "date_last_updated": "2013-12-23 08:54:55",
+            "deck": null,
+            "description": "<p><em>This new perfectbound trade paperback contains all the classic strips from the award-winning Knights of the Dinner Table #127-130, plus loads of new material. These hysterically funny strips are the perfect addition to any gamer's bookshelf.</em></p>",
+            "has_staff_review": false,
+            "id": 438412,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3521805-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3521805-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3521805-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3521805-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3521805-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3521805-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3521805-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3521805-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3521805-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Volume Thirty-Eight",
+            "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble-38-v/4000-438412/",
+            "store_date": "2012-09-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55383/",
+                "id": 55383,
+                "name": "Knights of the Dinner Table: Bundle of Trouble",
+                "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517577/",
+            "cover_date": "2012-04-04",
+            "date_added": "2016-02-28 12:41:00",
+            "date_last_updated": "2016-05-01 16:35:58",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 517577,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073877-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073877-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073877-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073877-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073877-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073877-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073877-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073877-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073877-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Vol. 38",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-38-vol-38/4000-517577/",
+            "store_date": "2012-04-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532925/",
+            "cover_date": "2012-07-19",
+            "date_added": "2016-05-29 19:26:48",
+            "date_last_updated": "2016-05-29 20:09:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 532925,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5236386-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5236386-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5236386-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5236386-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5236386-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5236386-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5236386-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5236386-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5236386-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "38th Battle: Kiichi and Kakugo",
+            "site_detail_url": "https://comicvine.gamespot.com/tough-38-38th-battle-kiichi-and-kakugo/4000-532925/",
+            "store_date": "2012-07-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90838/",
+                "id": 90838,
+                "name": "Tough",
+                "site_detail_url": "https://comicvine.gamespot.com/tough/4050-90838/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560255/",
+            "cover_date": "2012-05-17",
+            "date_added": "2016-11-26 18:14:59",
+            "date_last_updated": "2018-03-10 17:41:40",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 560255,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552999-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552999-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552999-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552999-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552999-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552999-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552999-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552999-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5552999-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Vol. 38",
+            "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima-38-vol-38/4000-560255/",
+            "store_date": "2012-05-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95909/",
+                "id": 95909,
+                "name": "Mahou Sensei Negima!",
+                "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima/4050-95909/"
+            }
         }
-    ],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": []
+    ]
 }

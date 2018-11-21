@@ -1,112 +1,5 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-395189/",
-            "cover_date": "2013-01-18",
-            "date_added": "2013-03-22 04:59:03",
-            "date_last_updated": "2013-06-18 13:15:26",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 395189,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3116198-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3116198-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3116198-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3116198-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3116198-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3116198-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3116198-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3116198-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3116198-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Vol. 46",
-            "site_detail_url": "https://comicvine.gamespot.com/initial-d-46-vol-46/4000-395189/",
-            "store_date": "2013-01-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59344/",
-                "id": 59344,
-                "name": "Initial D",
-                "site_detail_url": "https://comicvine.gamespot.com/initial-d/4050-59344/"
-            }
-        }
-    ],
-    "2012-01-02|2012-01-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559398/",
-            "cover_date": "2012-01-31",
-            "date_added": "2016-11-26 05:40:05",
-            "date_last_updated": "2017-04-15 19:17:30",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 559398,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551252-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551252-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551252-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551252-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551252-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551252-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551252-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551252-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551252-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Back From Blind",
-            "site_detail_url": "https://comicvine.gamespot.com/bleach-46-back-from-blind/4000-559398/",
-            "store_date": "2012-01-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51841/",
-                "id": 51841,
-                "name": "Bleach",
-                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-51841/"
-            }
-        }
-    ],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439549/",
-            "cover_date": "2012-03-01",
-            "date_added": "2013-12-28 04:37:45",
-            "date_last_updated": "2013-12-29 00:55:52",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 439549,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532055-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532055-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532055-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532055-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532055-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532055-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532055-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532055-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532055-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-46/4000-439549/",
-            "store_date": "2012-01-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
-                "id": 70468,
-                "name": "Comic Penguin Celeb",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
-            }
-        }
-    ],
-    "2012-01-23|2012-01-29": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-312717/",
@@ -144,53 +37,7 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-10746/"
             }
-        }
-    ],
-    "2012-01-30|2012-02-05": [],
-    "2012-02-06|2012-02-12": [],
-    "2012-02-13|2012-02-19": [],
-    "2012-02-20|2012-02-26": [],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-343947/",
-            "cover_date": "2012-03-01",
-            "date_added": "2012-07-02 09:32:55",
-            "date_last_updated": "2013-09-10 08:33:22",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Battle 428. \"Revenge\"</li><li>Battle 429. \"Why is he Dead?\"</li><li>Battle 430. \"Saiga &amp; Shizuka\"</li><li>Battle 431. \"An Approaching Life or Death Battle\"</li><li>Battle 432. \"The One Shadow Nine Fists Scheme\"</li><li>Battle 433. \"The Two Rivals Start To Move\"</li><li>Battle 434. \"Yami's Chivalrous Order\"</li><li>Battle 435. \"The True Karate\"</li><li>Battle 436. \"The Battle Of Shockwave's Orbit\"</li><li>Battle 437. \"The Three Men of Valor\"</li></ul>",
-            "has_staff_review": false,
-            "id": 343947,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2443163-kenichi_46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2443163-kenichi_46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2443163-kenichi_46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2443163-kenichi_46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2443163-kenichi_46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2443163-kenichi_46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2443163-kenichi_46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2443163-kenichi_46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2443163-kenichi_46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Volume 46",
-            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-46-volume-46/4000-343947/",
-            "store_date": "2012-03-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44184/",
-                "id": 44184,
-                "name": "Shijō Saikyō no Deshi Ken'ichi",
-                "site_detail_url": "https://comicvine.gamespot.com/shijo-saikyo-no-deshi-ken-ichi/4050-44184/"
-            }
-        }
-    ],
-    "2012-03-19|2012-03-25": [],
-    "2012-03-26|2012-04-01": [],
-    "2012-04-02|2012-04-08": [],
-    "2012-04-09|2012-04-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-331321/",
@@ -223,96 +70,46 @@
                 "name": "Richie Rich Gems",
                 "site_detail_url": "https://comicvine.gamespot.com/richie-rich-gems/4050-45964/"
             }
-        }
-    ],
-    "2012-04-16|2012-04-22": [],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [],
-    "2012-05-14|2012-05-20": [],
-    "2012-05-21|2012-05-27": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-365100/",
-            "cover_date": null,
-            "date_added": "2012-11-04 04:06:26",
-            "date_last_updated": "2013-06-08 06:49:53",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-343947/",
+            "cover_date": "2012-03-01",
+            "date_added": "2012-07-02 09:32:55",
+            "date_last_updated": "2013-09-10 08:33:22",
             "deck": null,
-            "description": "<p> Translates <a href=\"/deadpool-max/4050-35847/\" data-ref-id=\"4050-35847\">Deadpool Max</a> #7-12.</p>",
+            "description": "<h2>Chapter Titles</h2><ul><li>Battle 428. \"Revenge\"</li><li>Battle 429. \"Why is he Dead?\"</li><li>Battle 430. \"Saiga &amp; Shizuka\"</li><li>Battle 431. \"An Approaching Life or Death Battle\"</li><li>Battle 432. \"The One Shadow Nine Fists Scheme\"</li><li>Battle 433. \"The Two Rivals Start To Move\"</li><li>Battle 434. \"Yami's Chivalrous Order\"</li><li>Battle 435. \"The True Karate\"</li><li>Battle 436. \"The Battle Of Shockwave's Orbit\"</li><li>Battle 437. \"The Three Men of Valor\"</li></ul>",
             "has_staff_review": false,
-            "id": 365100,
+            "id": 343947,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2684084-maximum46deadpoolmax2_742.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2684084-maximum46deadpoolmax2_742.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2684084-maximum46deadpoolmax2_742.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2684084-maximum46deadpoolmax2_742.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2684084-maximum46deadpoolmax2_742.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2684084-maximum46deadpoolmax2_742.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2684084-maximum46deadpoolmax2_742.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2684084-maximum46deadpoolmax2_742.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2684084-maximum46deadpoolmax2_742.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2443163-kenichi_46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2443163-kenichi_46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2443163-kenichi_46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2443163-kenichi_46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2443163-kenichi_46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2443163-kenichi_46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2443163-kenichi_46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2443163-kenichi_46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2443163-kenichi_46.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "46",
-            "name": "Deadpool Max: Lang Lebe Hydra!",
-            "site_detail_url": "https://comicvine.gamespot.com/max-46-deadpool-max-lang-lebe-hydra/4000-365100/",
-            "store_date": "2012-05-22",
+            "name": "Volume 46",
+            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-46-volume-46/4000-343947/",
+            "store_date": "2012-03-16",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42761/",
-                "id": 42761,
-                "name": "MAX",
-                "site_detail_url": "https://comicvine.gamespot.com/max/4050-42761/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44184/",
+                "id": 44184,
+                "name": "Shijō Saikyō no Deshi Ken'ichi",
+                "site_detail_url": "https://comicvine.gamespot.com/shijo-saikyo-no-deshi-ken-ichi/4050-44184/"
             }
-        }
-    ],
-    "2012-05-28|2012-06-03": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452740/",
-            "cover_date": "2012-05-31",
-            "date_added": "2014-05-11 15:13:21",
-            "date_last_updated": "2014-05-11 15:44:26",
-            "deck": null,
-            "description": "<p><em>Buffy is dead. Her friends are trying to get on with their lives. Between them, there is enough anger, frustration, loss, guilt, and tragedy to resurrect an ancient demon. Things aren't looking too good for Willow, Xander, and the gang. A lovelorn demon has been set free into our dimension, and its food is the grief of Buffy's nearest and dearest. If that's not bad enough, a horde of demonic reptilian sorcerers plan to resurrect their fallen comrade and paint the town blood red. Can Buffy's friends face the threat without a Slayer to defend them? Willow finds that she can learn a great deal from these reptilian mystics. And if there's going to be one resurrection, why can't there be TWO?</em></p><p>Collects <a href=\"/buffy-the-vampire-slayer/4050-6239/\" data-ref-id=\"4050-6239\">Buffy the Vampire Slayer</a> #43-45.</p>",
-            "has_staff_review": false,
-            "id": 452740,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3815698-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3815698-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3815698-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3815698-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3815698-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3815698-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3815698-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3815698-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3815698-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "The Death of Buffy",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-46-the-death-of-b/4000-452740/",
-            "store_date": "2012-05-30",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
-                "id": 56135,
-                "name": "Buffy the Vampire Slayer Classic",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
-            }
-        }
-    ],
-    "2012-06-04|2012-06-10": [],
-    "2012-06-11|2012-06-17": [],
-    "2012-06-18|2012-06-24": [],
-    "2012-06-25|2012-07-01": [],
-    "2012-07-02|2012-07-08": [],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-346265/",
             "cover_date": "2012-09-01",
             "date_added": "2012-07-16 22:29:36",
-            "date_last_updated": "2013-01-16 17:31:34",
+            "date_last_updated": "2018-11-06 03:11:42",
             "deck": null,
             "description": "<p><i>It continues here: the climax of all the sinister seeds that DnA have been planting…in “Fear The Future”!</i></p>",
             "has_staff_review": false,
@@ -340,85 +137,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412017/",
-            "cover_date": "2012-07-18",
-            "date_added": "2013-06-18 13:05:51",
-            "date_last_updated": "2013-06-18 13:08:07",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 412017,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3116165-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3116165-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3116165-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3116165-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3116165-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3116165-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3116165-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3116165-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3116165-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Vol. 46",
-            "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry-46-vol-46/4000-412017/",
-            "store_date": "2012-07-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41887/",
-                "id": 41887,
-                "name": "Curry naru Shokutaku",
-                "site_detail_url": "https://comicvine.gamespot.com/curry-naru-shokutaku/4050-41887/"
-            }
-        }
-    ],
-    "2012-07-23|2012-07-29": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-440041/",
-            "cover_date": "2012-07-01",
-            "date_added": "2013-12-28 06:48:07",
-            "date_last_updated": "2013-12-28 22:28:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 440041,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532679-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532679-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532679-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532679-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532679-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532679-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532679-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532679-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532679-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Vol. 46",
-            "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time-46-vol-46/4000-440041/",
-            "store_date": "2012-07-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70472/",
-                "id": 70472,
-                "name": "The Ravages of Time",
-                "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time/4050-70472/"
-            }
-        }
-    ],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [],
-    "2012-08-20|2012-08-26": [],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [],
-    "2012-09-10|2012-09-16": [],
-    "2012-09-17|2012-09-23": [],
-    "2012-09-24|2012-09-30": [],
-    "2012-10-01|2012-10-07": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-361164/",
@@ -454,6 +172,72 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-365100/",
+            "cover_date": null,
+            "date_added": "2012-11-04 04:06:26",
+            "date_last_updated": "2013-06-08 06:49:53",
+            "deck": null,
+            "description": "<p> Translates <a href=\"/deadpool-max/4050-35847/\" data-ref-id=\"4050-35847\">Deadpool Max</a> #7-12.</p>",
+            "has_staff_review": false,
+            "id": 365100,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2684084-maximum46deadpoolmax2_742.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2684084-maximum46deadpoolmax2_742.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2684084-maximum46deadpoolmax2_742.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2684084-maximum46deadpoolmax2_742.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2684084-maximum46deadpoolmax2_742.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2684084-maximum46deadpoolmax2_742.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2684084-maximum46deadpoolmax2_742.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2684084-maximum46deadpoolmax2_742.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2684084-maximum46deadpoolmax2_742.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Deadpool Max: Lang Lebe Hydra!",
+            "site_detail_url": "https://comicvine.gamespot.com/max-46-deadpool-max-lang-lebe-hydra/4000-365100/",
+            "store_date": "2012-05-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42761/",
+                "id": 42761,
+                "name": "MAX",
+                "site_detail_url": "https://comicvine.gamespot.com/max/4050-42761/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369111/",
+            "cover_date": "2013-01-01",
+            "date_added": "2012-11-20 02:03:44",
+            "date_last_updated": "2017-09-12 18:23:16",
+            "deck": null,
+            "description": "<p><i>Months ago, Mighty and Ray went on a quest to find Mighty's sister. Now the Chaotix have grown worried for their missing friends, so they're off to investigate! Will they pick up the trail in Mercia? Or will the Dark Egg Legion close our heroes' investigation early?</i></p>",
+            "has_staff_review": false,
+            "id": 369111,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3546807-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3546807-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3546807-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3546807-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3546807-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3546807-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3546807-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3546807-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3546807-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Chaotix Quest Part 1 of 4; All For One Part One: Picking Up the Trail!",
+            "site_detail_url": "https://comicvine.gamespot.com/sonic-universe-46-chaotix-quest-part-1-of-4-all-fo/4000-369111/",
+            "store_date": "2012-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25981/",
+                "id": 25981,
+                "name": "Sonic Universe",
+                "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369729/",
             "cover_date": "2012-10-04",
             "date_added": "2012-11-23 16:14:00",
@@ -484,10 +268,205 @@
                 "name": "Gintama",
                 "site_detail_url": "https://comicvine.gamespot.com/gintama/4050-42491/"
             }
-        }
-    ],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408626/",
+            "cover_date": "2012-11-03",
+            "date_added": "2013-06-02 23:38:00",
+            "date_last_updated": "2013-06-03 00:02:36",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408626,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084583-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084583-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084583-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084583-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084583-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084583-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084583-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084583-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3084583-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Vol. 46",
+            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-46-vol-46/4000-408626/",
+            "store_date": "2012-11-09",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
+                "id": 62827,
+                "name": "Gin Tama",
+                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412017/",
+            "cover_date": "2012-07-18",
+            "date_added": "2013-06-18 13:05:51",
+            "date_last_updated": "2013-06-18 13:08:07",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412017,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3116165-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3116165-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3116165-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3116165-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3116165-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3116165-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3116165-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3116165-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3116165-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Vol. 46",
+            "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry-46-vol-46/4000-412017/",
+            "store_date": "2012-07-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41887/",
+                "id": 41887,
+                "name": "Curry naru Shokutaku",
+                "site_detail_url": "https://comicvine.gamespot.com/curry-naru-shokutaku/4050-41887/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439549/",
+            "cover_date": "2012-03-01",
+            "date_added": "2013-12-28 04:37:45",
+            "date_last_updated": "2013-12-29 00:55:52",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 439549,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532055-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532055-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532055-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532055-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532055-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532055-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532055-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532055-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532055-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-46/4000-439549/",
+            "store_date": "2012-01-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
+                "id": 70468,
+                "name": "Comic Penguin Celeb",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-440041/",
+            "cover_date": "2012-07-01",
+            "date_added": "2013-12-28 06:48:07",
+            "date_last_updated": "2013-12-28 22:28:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 440041,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532679-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532679-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532679-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532679-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532679-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532679-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532679-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532679-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532679-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Vol. 46",
+            "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time-46-vol-46/4000-440041/",
+            "store_date": "2012-07-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70472/",
+                "id": 70472,
+                "name": "The Ravages of Time",
+                "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time/4050-70472/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452740/",
+            "cover_date": "2012-05-31",
+            "date_added": "2014-05-11 15:13:21",
+            "date_last_updated": "2014-05-11 15:44:26",
+            "deck": null,
+            "description": "<p><em>Buffy is dead. Her friends are trying to get on with their lives. Between them, there is enough anger, frustration, loss, guilt, and tragedy to resurrect an ancient demon. Things aren't looking too good for Willow, Xander, and the gang. A lovelorn demon has been set free into our dimension, and its food is the grief of Buffy's nearest and dearest. If that's not bad enough, a horde of demonic reptilian sorcerers plan to resurrect their fallen comrade and paint the town blood red. Can Buffy's friends face the threat without a Slayer to defend them? Willow finds that she can learn a great deal from these reptilian mystics. And if there's going to be one resurrection, why can't there be TWO?</em></p><p>Collects <a href=\"/buffy-the-vampire-slayer/4050-6239/\" data-ref-id=\"4050-6239\">Buffy the Vampire Slayer</a> #43-45.</p>",
+            "has_staff_review": false,
+            "id": 452740,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3815698-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3815698-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3815698-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3815698-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3815698-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3815698-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3815698-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3815698-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3815698-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "The Death of Buffy",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-46-the-death-of-b/4000-452740/",
+            "store_date": "2012-05-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
+                "id": 56135,
+                "name": "Buffy the Vampire Slayer Classic",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559398/",
+            "cover_date": "2012-01-31",
+            "date_added": "2016-11-26 05:40:05",
+            "date_last_updated": "2017-04-15 19:17:30",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 559398,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551252-46.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551252-46.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551252-46.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551252-46.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551252-46.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551252-46.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551252-46.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551252-46.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551252-46.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "46",
+            "name": "Back From Blind",
+            "site_detail_url": "https://comicvine.gamespot.com/bleach-46-back-from-blind/4000-559398/",
+            "store_date": "2012-01-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51841/",
+                "id": 51841,
+                "name": "Bleach",
+                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-51841/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-580020/",
@@ -521,82 +500,5 @@
                 "site_detail_url": "https://comicvine.gamespot.com/onihei-hankachou/4050-98623/"
             }
         }
-    ],
-    "2012-10-22|2012-10-28": [],
-    "2012-10-29|2012-11-04": [],
-    "2012-11-05|2012-11-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408626/",
-            "cover_date": "2012-11-03",
-            "date_added": "2013-06-02 23:38:00",
-            "date_last_updated": "2013-06-03 00:02:36",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408626,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084583-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084583-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084583-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084583-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084583-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084583-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084583-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084583-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3084583-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Vol. 46",
-            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-46-vol-46/4000-408626/",
-            "store_date": "2012-11-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
-                "id": 62827,
-                "name": "Gin Tama",
-                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
-            }
-        }
-    ],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369111/",
-            "cover_date": "2013-01-01",
-            "date_added": "2012-11-20 02:03:44",
-            "date_last_updated": "2017-09-12 18:23:16",
-            "deck": null,
-            "description": "<p><i>Months ago, Mighty and Ray went on a quest to find Mighty's sister. Now the Chaotix have grown worried for their missing friends, so they're off to investigate! Will they pick up the trail in Mercia? Or will the Dark Egg Legion close our heroes' investigation early?</i></p>",
-            "has_staff_review": false,
-            "id": 369111,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3546807-46.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3546807-46.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3546807-46.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3546807-46.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3546807-46.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3546807-46.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3546807-46.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3546807-46.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3546807-46.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "46",
-            "name": "Chaotix Quest Part 1 of 4; All For One Part One: Picking Up the Trail!",
-            "site_detail_url": "https://comicvine.gamespot.com/sonic-universe-46-chaotix-quest-part-1-of-4-all-fo/4000-369111/",
-            "store_date": "2012-11-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25981/",
-                "id": 25981,
-                "name": "Sonic Universe",
-                "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
-            }
-        }
-    ],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": []
+    ]
 }

@@ -1,78 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [],
-    "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": [],
-    "2011-01-17|2011-01-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-389705/",
-            "cover_date": null,
-            "date_added": "2013-03-02 04:15:21",
-            "date_last_updated": "2013-05-30 23:49:50",
-            "deck": null,
-            "description": "<p><i>After Harry betrayed him, Spidey is Norman Osborn’s prisoner and Bullseye’s plaything! Can the wall-crawler survive long enough to rescue harry and Lily from Osborn’s clutches (or should he)?</i></p><p><i>Plus, shocking revelations!</i></p><p><i>Also, classic action in the mighty Marvel manner, as Pete and MJ find themselves homeless on Christmas Eve!</i></p><p><i>Includes material reprinted from Amazing Spider-Man #597-598 and Amazing Spider-Man #314! 76 pages!</i></p>",
-            "has_staff_review": false,
-            "id": 389705,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2903963-pwiu.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2903963-pwiu.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2903963-pwiu.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2903963-pwiu.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2903963-pwiu.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2903963-pwiu.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2903963-pwiu.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2903963-pwiu.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2903963-pwiu.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-30/4000-389705/",
-            "store_date": "2011-01-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
-                "id": 33937,
-                "name": "The Astonishing Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
-            }
-        }
-    ],
-    "2011-01-24|2011-01-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408012/",
-            "cover_date": "2011-01-02",
-            "date_added": "2013-06-02 00:41:26",
-            "date_last_updated": "2013-06-02 00:55:20",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408012,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082428-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082428-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082428-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082428-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082428-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082428-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082428-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082428-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3082428-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-30-vol-30/4000-408012/",
-            "store_date": "2011-01-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62753/",
-                "id": 62753,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-62753/"
-            }
-        }
-    ],
-    "2011-01-31|2011-02-06": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-259837/",
@@ -105,77 +32,7 @@
                 "name": "Secret Six",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-six/4050-22841/"
             }
-        }
-    ],
-    "2011-02-07|2011-02-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-262639/",
-            "cover_date": "2011-01-01",
-            "date_added": "2011-02-16 07:18:18",
-            "date_last_updated": "2012-08-02 10:44:41",
-            "deck": null,
-            "description": "<p><i>The “Enemy Within” story arc continues! Our focus turns at last to Golden Voice — renowned Sun-Singer and holy man, turned violent revolutionary! Marcus’ decision to conscript Sunners into the city Watch forces Golden Voice’s hand, and even his own people aren’t sure about his new tactics. Can he bring them to freedom? Or is the rebellion doomed?</i></p>",
-            "has_staff_review": false,
-            "id": 262639,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2207561-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2207561-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2207561-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2207561-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2207561-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2207561-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2207561-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2207561-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2207561-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "How To Be Dead",
-            "site_detail_url": "https://comicvine.gamespot.com/wasteland-30-how-to-be-dead/4000-262639/",
-            "store_date": "2011-02-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-17996/",
-                "id": 17996,
-                "name": "Wasteland",
-                "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517934/",
-            "cover_date": "2011-02-28",
-            "date_added": "2016-03-01 22:31:13",
-            "date_last_updated": "2016-03-01 22:38:57",
-            "deck": null,
-            "description": "<h2> Story Titles</h2><ul><li>Ausgetrickst</li><li>Ein hinterhältiger Finanzberater</li><li>Aufstand der Taler</li><li>Aus der Traum!</li><li>Lob der Sparsamkeit</li><li>Kostenlose Verköstigung</li><li>Einsamer Triumph</li><li>Gelernt ist eben gelernt</li><li>Ein Sturz mit Folgen</li><li>Einfach untrennbar</li><li>Gesetze und ihre Lücken</li></ul>",
-            "has_staff_review": false,
-            "id": 517934,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5077939-30%200001_img_0002_seite_000.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5077939-30%200001_img_0002_seite_000.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5077939-30%200001_img_0002_seite_000.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5077939-30%200001_img_0002_seite_000.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5077939-30%200001_img_0002_seite_000.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5077939-30%200001_img_0002_seite_000.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5077939-30%200001_img_0002_seite_000.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5077939-30%200001_img_0002_seite_000.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5077939-30%200001_img_0002_seite_000.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Der Boss von Entenhausen",
-            "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-enten-edition-30-der-boss-von/4000-517934/",
-            "store_date": "2011-02-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88447/",
-                "id": 88447,
-                "name": "Lustiges Taschenbuch Enten-Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
-            }
-        }
-    ],
-    "2011-02-14|2011-02-20": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-262614/",
@@ -211,47 +68,43 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-355677/",
-            "cover_date": "2011-02-17",
-            "date_added": "2012-09-03 00:51:26",
-            "date_last_updated": "2013-12-22 07:30:33",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-262639/",
+            "cover_date": "2011-01-01",
+            "date_added": "2011-02-16 07:18:18",
+            "date_last_updated": "2012-08-02 10:44:41",
             "deck": null,
-            "description": null,
+            "description": "<p><i>The “Enemy Within” story arc continues! Our focus turns at last to Golden Voice — renowned Sun-Singer and holy man, turned violent revolutionary! Marcus’ decision to conscript Sunners into the city Watch forces Golden Voice’s hand, and even his own people aren’t sure about his new tactics. Can he bring them to freedom? Or is the rebellion doomed?</i></p>",
             "has_staff_review": false,
-            "id": 355677,
+            "id": 262639,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2570505-30_front.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2570505-30_front.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2570505-30_front.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2570505-30_front.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2570505-30_front.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2570505-30_front.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2570505-30_front.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2570505-30_front.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2570505-30_front.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2207561-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2207561-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2207561-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2207561-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2207561-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2207561-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2207561-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2207561-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2207561-30.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora-30-vol-30/4000-355677/",
-            "store_date": "2011-02-17",
+            "name": "How To Be Dead",
+            "site_detail_url": "https://comicvine.gamespot.com/wasteland-30-how-to-be-dead/4000-262639/",
+            "store_date": "2011-02-09",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50012/",
-                "id": 50012,
-                "name": "Ahiru no Sora",
-                "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora/4050-50012/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-17996/",
+                "id": 17996,
+                "name": "Wasteland",
+                "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
             }
-        }
-    ],
-    "2011-02-21|2011-02-27": [],
-    "2011-02-28|2011-03-06": [],
-    "2011-03-07|2011-03-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-265541/",
             "cover_date": "2011-03-01",
             "date_added": "2011-03-09 09:01:48",
-            "date_last_updated": "2012-10-20 00:21:24",
+            "date_last_updated": "2018-11-15 05:24:43",
             "deck": null,
             "description": "<p><i>Miki and Hip spend a night in...</i></p>",
             "has_staff_review": false,
@@ -278,157 +131,7 @@
                 "name": "Elephantmen",
                 "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
             }
-        }
-    ],
-    "2011-03-14|2011-03-20": [],
-    "2011-03-21|2011-03-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-284988/",
-            "cover_date": "2011-04-29",
-            "date_added": "2011-08-06 23:24:31",
-            "date_last_updated": "2013-06-29 08:47:49",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/detective-comics/4050-18058/\" data-ref-id=\"4050-18058\">Detective Comics</a> #861-865 and <a href=\"/dc-universe-holiday-special/4050-24878/\" data-ref-id=\"4050-24878\">DC Universe Holiday Special</a>.</p>",
-            "has_staff_review": false,
-            "id": 284988,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1951517-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1951517-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1951517-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1951517-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1951517-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1951517-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1951517-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1951517-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1951517-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband-30/4000-284988/",
-            "store_date": "2011-03-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41863/",
-                "id": 41863,
-                "name": "Batman Sonderband",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband/4050-41863/"
-            }
-        }
-    ],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542324/",
-            "cover_date": "2011-04-04",
-            "date_added": "2016-07-31 22:13:05",
-            "date_last_updated": "2016-07-31 22:37:21",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 542324,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5353447-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5353447-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5353447-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5353447-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5353447-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5353447-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5353447-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5353447-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5353447-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/osama-no-shitateya-sarto-finito-30-vol-30/4000-542324/",
-            "store_date": "2011-04-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92689/",
-                "id": 92689,
-                "name": "Ōsama no Shitateya: Sarto Finito",
-                "site_detail_url": "https://comicvine.gamespot.com/osama-no-shitateya-sarto-finito/4050-92689/"
-            }
-        }
-    ],
-    "2011-04-11|2011-04-17": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-289797/",
-            "cover_date": "2011-05-01",
-            "date_added": "2011-08-27 21:27:55",
-            "date_last_updated": "2013-08-27 17:04:45",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/ms-marvel/4050-17990/\" data-ref-id=\"4050-17990\">Ms. Marvel</a> #47 and <a href=\"//www.comicvine.com/the-amazing-spider-man/4050-2127/\" data-ref-id=\"4050-2127\">The Amazing Spider-Man</a> #627-629.</p>",
-            "has_staff_review": false,
-            "id": 289797,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1983362-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1983362-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1983362-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1983362-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1983362-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1983362-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1983362-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1983362-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1983362-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/im-netz-von-spider-man-30/4000-289797/",
-            "store_date": "2011-04-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42422/",
-                "id": 42422,
-                "name": "Im Netz von Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/im-netz-von-spider-man/4050-42422/"
-            }
-        }
-    ],
-    "2011-04-18|2011-04-24": [],
-    "2011-04-25|2011-05-01": [],
-    "2011-05-02|2011-05-08": [],
-    "2011-05-09|2011-05-15": [],
-    "2011-05-16|2011-05-22": [],
-    "2011-05-23|2011-05-29": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-275483/",
-            "cover_date": "2011-05-21",
-            "date_added": "2011-06-21 05:50:56",
-            "date_last_updated": "2018-06-08 02:24:40",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/supergirl/4050-18012/\" data-ref-id=\"4050-18012\">Supergirl</a> #43, 48-50 and <a href=\"/supergirl-annual/4050-27685/\" data-ref-id=\"4050-27685\">Supergirl Annual</a> #1.</p>",
-            "has_staff_review": false,
-            "id": 275483,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1870844-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1870844-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1870844-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1870844-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1870844-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1870844-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1870844-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1870844-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1870844-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Supergirl: Der Tod Und Die Familie!",
-            "site_detail_url": "https://comicvine.gamespot.com/100-dc-30-supergirl-der-tod-und-die-familie/4000-275483/",
-            "store_date": "2011-05-24",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40861/",
-                "id": 40861,
-                "name": "100% DC",
-                "site_detail_url": "https://comicvine.gamespot.com/100-dc/4050-40861/"
-            }
-        }
-    ],
-    "2011-05-30|2011-06-05": [],
-    "2011-06-06|2011-06-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-273401/",
@@ -461,10 +164,40 @@
                 "name": "ECHO",
                 "site_detail_url": "https://comicvine.gamespot.com/echo/4050-20806/"
             }
-        }
-    ],
-    "2011-06-13|2011-06-19": [],
-    "2011-06-20|2011-06-26": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-275483/",
+            "cover_date": "2011-05-21",
+            "date_added": "2011-06-21 05:50:56",
+            "date_last_updated": "2018-06-08 02:24:40",
+            "deck": null,
+            "description": "<p> Translates <a href=\"/supergirl/4050-18012/\" data-ref-id=\"4050-18012\">Supergirl</a> #43, 48-50 and <a href=\"/supergirl-annual/4050-27685/\" data-ref-id=\"4050-27685\">Supergirl Annual</a> #1.</p>",
+            "has_staff_review": false,
+            "id": 275483,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1870844-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1870844-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1870844-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1870844-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1870844-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1870844-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1870844-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1870844-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1870844-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Supergirl: Der Tod Und Die Familie!",
+            "site_detail_url": "https://comicvine.gamespot.com/100-dc-30-supergirl-der-tod-und-die-familie/4000-275483/",
+            "store_date": "2011-05-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40861/",
+                "id": 40861,
+                "name": "100% DC",
+                "site_detail_url": "https://comicvine.gamespot.com/100-dc/4050-40861/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-275969/",
@@ -500,43 +233,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422332/",
-            "cover_date": "2011-06-01",
-            "date_added": "2013-08-18 12:30:57",
-            "date_last_updated": "2013-08-18 12:52:14",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 422332,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3249694-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3249694-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3249694-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3249694-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3249694-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3249694-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3249694-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3249694-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3249694-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru-30-vol-30/4000-422332/",
-            "store_date": "2011-06-24",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66545/",
-                "id": 66545,
-                "name": "Kaze Hikaru",
-                "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-66545/"
-            }
-        }
-    ],
-    "2011-06-27|2011-07-03": [],
-    "2011-07-04|2011-07-10": [],
-    "2011-07-11|2011-07-17": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278569/",
             "cover_date": "2011-07-31",
             "date_added": "2011-07-12 08:13:17",
@@ -568,41 +264,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/horrorhound/4050-36493/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-300590/",
-            "cover_date": "2011-08-31",
-            "date_added": "2011-10-28 22:45:52",
-            "date_last_updated": "2016-06-16 14:44:52",
-            "deck": null,
-            "description": "<p>Translates <a href=\"/x-men-curse-of-the-mutants-storm-gambit/4050-35104/\" data-ref-id=\"4050-35104\">X-Men: Curse of the Mutants - Storm &amp; Gambit</a>, <a href=\"/x-men-curse-of-the-mutants-blade/4050-35108/\" data-ref-id=\"4050-35108\">X-Men: Curse of the Mutants - Blade</a> and <a href=\"/x-men-curse-of-the-mutants-smoke-and-blood/4050-35292/\" data-ref-id=\"4050-35292\">X-Men: Curse of the Mutants - Smoke &amp; Blood</a>.</p>",
-            "has_staff_review": false,
-            "id": 300590,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2061741-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2061741-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2061741-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2061741-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2061741-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2061741-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2061741-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2061741-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2061741-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/x-men-sonderheft-30/4000-300590/",
-            "store_date": "2011-07-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43677/",
-                "id": 43677,
-                "name": "X-Men Sonderheft",
-                "site_detail_url": "https://comicvine.gamespot.com/x-men-sonderheft/4050-43677/"
-            }
-        }
-    ],
-    "2011-07-18|2011-07-24": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-280223/",
@@ -638,41 +299,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-281991/",
-            "cover_date": "2011-07-01",
-            "date_added": "2011-07-29 08:14:21",
-            "date_last_updated": "2012-08-19 01:54:42",
-            "deck": null,
-            "description": "<p><i>'Inside Job' Part Two: Scourge the 'Evil Sonic' is imprisoned in Zone Jail! He's going to need support to escape, but the mercenary gang of the Destructix aren't interested. Can Scourge delve into their dark pasts and find a reason to gain their trust? Or will he wind up a green smear on the wall?</i></p>",
-            "has_staff_review": false,
-            "id": 281991,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2516560-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2516560-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2516560-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2516560-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2516560-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2516560-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2516560-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2516560-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2516560-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Inside Job, Part Two",
-            "site_detail_url": "https://comicvine.gamespot.com/sonic-universe-30-inside-job-part-two/4000-281991/",
-            "store_date": "2011-07-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25981/",
-                "id": 25981,
-                "name": "Sonic Universe",
-                "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
-            }
-        }
-    ],
-    "2011-07-25|2011-07-31": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-281522/",
             "cover_date": "2011-07-27",
             "date_added": "2011-07-26 04:24:52",
@@ -703,46 +329,73 @@
                 "name": "The Walking Dead Weekly",
                 "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
             }
-        }
-    ],
-    "2011-08-01|2011-08-07": [],
-    "2011-08-08|2011-08-14": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370033/",
-            "cover_date": "2011-08-01",
-            "date_added": "2012-11-24 21:30:48",
-            "date_last_updated": "2013-08-25 19:58:28",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-281991/",
+            "cover_date": "2011-07-01",
+            "date_added": "2011-07-29 08:14:21",
+            "date_last_updated": "2012-08-19 01:54:42",
             "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 244: The Visit</li><li>Chapter 245: Father and Son: The Encounter</li><li>Chapter 246: A Father To Love</li><li>Chapter 247: Rock-Paper-Scissors Hanma Style</li><li>Chapter 248: The Riot Team Report</li><li>Chapter 249: The Last Supper</li><li>Chapter 250: The Battle of the Strongest Father and Son</li></ul>",
+            "description": "<p><i>'Inside Job' Part Two: Scourge the 'Evil Sonic' is imprisoned in Zone Jail! He's going to need support to escape, but the mercenary gang of the Destructix aren't interested. Can Scourge delve into their dark pasts and find a reason to gain their trust? Or will he wind up a green smear on the wall?</i></p>",
             "has_staff_review": false,
-            "id": 370033,
+            "id": 281991,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2720272-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2720272-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2720272-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2720272-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2720272-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2720272-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2720272-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2720272-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2720272-30.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2516560-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2516560-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2516560-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2516560-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2516560-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2516560-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2516560-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2516560-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2516560-30.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/baki-son-of-ogre-30-vol-30/4000-370033/",
-            "store_date": "2011-08-08",
+            "name": "Inside Job, Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/sonic-universe-30-inside-job-part-two/4000-281991/",
+            "store_date": "2011-07-20",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50228/",
-                "id": 50228,
-                "name": "Hanma Baki",
-                "site_detail_url": "https://comicvine.gamespot.com/hanma-baki/4050-50228/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-25981/",
+                "id": 25981,
+                "name": "Sonic Universe",
+                "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
             }
-        }
-    ],
-    "2011-08-15|2011-08-21": [],
-    "2011-08-22|2011-08-28": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-284988/",
+            "cover_date": "2011-04-29",
+            "date_added": "2011-08-06 23:24:31",
+            "date_last_updated": "2013-06-29 08:47:49",
+            "deck": null,
+            "description": "<p> Translates <a href=\"/detective-comics/4050-18058/\" data-ref-id=\"4050-18058\">Detective Comics</a> #861-865 and <a href=\"/dc-universe-holiday-special/4050-24878/\" data-ref-id=\"4050-24878\">DC Universe Holiday Special</a>.</p>",
+            "has_staff_review": false,
+            "id": 284988,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1951517-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1951517-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1951517-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1951517-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1951517-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1951517-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1951517-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1951517-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1951517-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband-30/4000-284988/",
+            "store_date": "2011-03-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41863/",
+                "id": 41863,
+                "name": "Batman Sonderband",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband/4050-41863/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-288679/",
@@ -775,83 +428,40 @@
                 "name": "New Mutants",
                 "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
             }
-        }
-    ],
-    "2011-08-29|2011-09-04": [],
-    "2011-09-05|2011-09-11": [],
-    "2011-09-12|2011-09-18": [],
-    "2011-09-19|2011-09-25": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-404255/",
-            "cover_date": "2011-09-18",
-            "date_added": "2013-05-18 18:59:41",
-            "date_last_updated": "2013-05-18 19:27:01",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-289797/",
+            "cover_date": "2011-05-01",
+            "date_added": "2011-08-27 21:27:55",
+            "date_last_updated": "2013-08-27 17:04:45",
             "deck": null,
-            "description": null,
+            "description": "<p> Translates <a href=\"/ms-marvel/4050-17990/\" data-ref-id=\"4050-17990\">Ms. Marvel</a> #47 and <a href=\"//www.comicvine.com/the-amazing-spider-man/4050-2127/\" data-ref-id=\"4050-2127\">The Amazing Spider-Man</a> #627-629.</p>",
             "has_staff_review": false,
-            "id": 404255,
+            "id": 289797,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3053854-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3053854-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3053854-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3053854-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3053854-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3053854-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3053854-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3053854-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3053854-30.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku-30-vol-30/4000-404255/",
-            "store_date": "2011-09-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61717/",
-                "id": 61717,
-                "name": "Kami no Shizuku",
-                "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
-            }
-        }
-    ],
-    "2011-09-26|2011-10-02": [],
-    "2011-10-03|2011-10-09": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-399927/",
-            "cover_date": "2011-10-01",
-            "date_added": "2013-04-28 20:53:32",
-            "date_last_updated": "2017-08-12 01:02:14",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 399927,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002859-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002859-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002859-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002859-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002859-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002859-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002859-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002859-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6002859-30.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1983362-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1983362-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1983362-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1983362-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1983362-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1983362-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1983362-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1983362-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1983362-30.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "30",
             "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-30/4000-399927/",
-            "store_date": "2011-10-07",
+            "site_detail_url": "https://comicvine.gamespot.com/im-netz-von-spider-man-30/4000-289797/",
+            "store_date": "2011-04-12",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
-                "id": 67886,
-                "name": "Comic Magnum",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42422/",
+                "id": 42422,
+                "name": "Im Netz von Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/im-netz-von-spider-man/4050-42422/"
             }
-        }
-    ],
-    "2011-10-10|2011-10-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-294892/",
@@ -917,47 +527,40 @@
                 "name": "Irredeemable",
                 "site_detail_url": "https://comicvine.gamespot.com/irredeemable/4050-26096/"
             }
-        }
-    ],
-    "2011-10-17|2011-10-23": [],
-    "2011-10-24|2011-10-30": [],
-    "2011-10-31|2011-11-06": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423578/",
-            "cover_date": "2011-11-01",
-            "date_added": "2013-08-26 09:39:01",
-            "date_last_updated": "2013-08-26 09:50:54",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-300590/",
+            "cover_date": "2011-08-31",
+            "date_added": "2011-10-28 22:45:52",
+            "date_last_updated": "2016-06-16 14:44:52",
             "deck": null,
-            "description": null,
+            "description": "<p>Translates <a href=\"/x-men-curse-of-the-mutants-storm-gambit/4050-35104/\" data-ref-id=\"4050-35104\">X-Men: Curse of the Mutants - Storm &amp; Gambit</a>, <a href=\"/x-men-curse-of-the-mutants-blade/4050-35108/\" data-ref-id=\"4050-35108\">X-Men: Curse of the Mutants - Blade</a> and <a href=\"/x-men-curse-of-the-mutants-smoke-and-blood/4050-35292/\" data-ref-id=\"4050-35292\">X-Men: Curse of the Mutants - Smoke &amp; Blood</a>.</p>",
             "has_staff_review": false,
-            "id": 423578,
+            "id": 300590,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267997-30.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267997-30.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267997-30.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267997-30.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267997-30.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267997-30.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267997-30.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267997-30.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3267997-30.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2061741-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2061741-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2061741-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2061741-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2061741-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2061741-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2061741-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2061741-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2061741-30.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "30",
-            "name": "Vol. 30",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-30-vol-30/4000-423578/",
-            "store_date": "2011-11-03",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/x-men-sonderheft-30/4000-300590/",
+            "store_date": "2011-07-12",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66764/",
-                "id": 66764,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-66764/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43677/",
+                "id": 43677,
+                "name": "X-Men Sonderheft",
+                "site_detail_url": "https://comicvine.gamespot.com/x-men-sonderheft/4050-43677/"
             }
-        }
-    ],
-    "2011-11-07|2011-11-13": [],
-    "2011-11-14|2011-11-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-302723/",
@@ -990,12 +593,7 @@
                 "name": "The Transformers",
                 "site_detail_url": "https://comicvine.gamespot.com/the-transformers/4050-29903/"
             }
-        }
-    ],
-    "2011-11-21|2011-11-27": [],
-    "2011-11-28|2011-12-04": [],
-    "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-332619/",
@@ -1027,6 +625,369 @@
                 "id": 46777,
                 "name": "Fairy Tail",
                 "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-355677/",
+            "cover_date": "2011-02-17",
+            "date_added": "2012-09-03 00:51:26",
+            "date_last_updated": "2013-12-22 07:30:33",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 355677,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2570505-30_front.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2570505-30_front.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2570505-30_front.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2570505-30_front.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2570505-30_front.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2570505-30_front.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2570505-30_front.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2570505-30_front.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2570505-30_front.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora-30-vol-30/4000-355677/",
+            "store_date": "2011-02-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50012/",
+                "id": 50012,
+                "name": "Ahiru no Sora",
+                "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora/4050-50012/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370033/",
+            "cover_date": "2011-08-01",
+            "date_added": "2012-11-24 21:30:48",
+            "date_last_updated": "2013-08-25 19:58:28",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 244: The Visit</li><li>Chapter 245: Father and Son: The Encounter</li><li>Chapter 246: A Father To Love</li><li>Chapter 247: Rock-Paper-Scissors Hanma Style</li><li>Chapter 248: The Riot Team Report</li><li>Chapter 249: The Last Supper</li><li>Chapter 250: The Battle of the Strongest Father and Son</li></ul>",
+            "has_staff_review": false,
+            "id": 370033,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2720272-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2720272-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2720272-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2720272-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2720272-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2720272-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2720272-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2720272-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2720272-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/baki-son-of-ogre-30-vol-30/4000-370033/",
+            "store_date": "2011-08-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50228/",
+                "id": 50228,
+                "name": "Hanma Baki",
+                "site_detail_url": "https://comicvine.gamespot.com/hanma-baki/4050-50228/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-389705/",
+            "cover_date": null,
+            "date_added": "2013-03-02 04:15:21",
+            "date_last_updated": "2013-05-30 23:49:50",
+            "deck": null,
+            "description": "<p><i>After Harry betrayed him, Spidey is Norman Osborn’s prisoner and Bullseye’s plaything! Can the wall-crawler survive long enough to rescue harry and Lily from Osborn’s clutches (or should he)?</i></p><p><i>Plus, shocking revelations!</i></p><p><i>Also, classic action in the mighty Marvel manner, as Pete and MJ find themselves homeless on Christmas Eve!</i></p><p><i>Includes material reprinted from Amazing Spider-Man #597-598 and Amazing Spider-Man #314! 76 pages!</i></p>",
+            "has_staff_review": false,
+            "id": 389705,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2903963-pwiu.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2903963-pwiu.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2903963-pwiu.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2903963-pwiu.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2903963-pwiu.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2903963-pwiu.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2903963-pwiu.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2903963-pwiu.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2903963-pwiu.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-30/4000-389705/",
+            "store_date": "2011-01-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
+                "id": 33937,
+                "name": "The Astonishing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-399927/",
+            "cover_date": "2011-10-01",
+            "date_added": "2013-04-28 20:53:32",
+            "date_last_updated": "2017-08-12 01:02:14",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 399927,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002859-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002859-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002859-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002859-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002859-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002859-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002859-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002859-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6002859-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-30/4000-399927/",
+            "store_date": "2011-10-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
+                "id": 67886,
+                "name": "Comic Magnum",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-404255/",
+            "cover_date": "2011-09-18",
+            "date_added": "2013-05-18 18:59:41",
+            "date_last_updated": "2013-05-18 19:27:01",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 404255,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3053854-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3053854-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3053854-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3053854-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3053854-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3053854-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3053854-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3053854-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3053854-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku-30-vol-30/4000-404255/",
+            "store_date": "2011-09-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61717/",
+                "id": 61717,
+                "name": "Kami no Shizuku",
+                "site_detail_url": "https://comicvine.gamespot.com/kami-no-shizuku/4050-61717/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408012/",
+            "cover_date": "2011-01-02",
+            "date_added": "2013-06-02 00:41:26",
+            "date_last_updated": "2013-06-02 00:55:20",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408012,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082428-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082428-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082428-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082428-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082428-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082428-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082428-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082428-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3082428-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-30-vol-30/4000-408012/",
+            "store_date": "2011-01-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62753/",
+                "id": 62753,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-62753/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422332/",
+            "cover_date": "2011-06-01",
+            "date_added": "2013-08-18 12:30:57",
+            "date_last_updated": "2013-08-18 12:52:14",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 422332,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3249694-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3249694-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3249694-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3249694-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3249694-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3249694-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3249694-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3249694-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3249694-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru-30-vol-30/4000-422332/",
+            "store_date": "2011-06-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66545/",
+                "id": 66545,
+                "name": "Kaze Hikaru",
+                "site_detail_url": "https://comicvine.gamespot.com/kaze-hikaru/4050-66545/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-423578/",
+            "cover_date": "2011-11-01",
+            "date_added": "2013-08-26 09:39:01",
+            "date_last_updated": "2013-08-26 09:50:54",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 423578,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3267997-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3267997-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3267997-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3267997-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3267997-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3267997-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3267997-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3267997-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3267997-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-30-vol-30/4000-423578/",
+            "store_date": "2011-11-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66764/",
+                "id": 66764,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-66764/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517934/",
+            "cover_date": "2011-02-28",
+            "date_added": "2016-03-01 22:31:13",
+            "date_last_updated": "2016-03-01 22:38:57",
+            "deck": null,
+            "description": "<h2> Story Titles</h2><ul><li>Ausgetrickst</li><li>Ein hinterhältiger Finanzberater</li><li>Aufstand der Taler</li><li>Aus der Traum!</li><li>Lob der Sparsamkeit</li><li>Kostenlose Verköstigung</li><li>Einsamer Triumph</li><li>Gelernt ist eben gelernt</li><li>Ein Sturz mit Folgen</li><li>Einfach untrennbar</li><li>Gesetze und ihre Lücken</li></ul>",
+            "has_staff_review": false,
+            "id": 517934,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5077939-30%200001_img_0002_seite_000.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5077939-30%200001_img_0002_seite_000.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5077939-30%200001_img_0002_seite_000.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5077939-30%200001_img_0002_seite_000.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5077939-30%200001_img_0002_seite_000.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5077939-30%200001_img_0002_seite_000.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5077939-30%200001_img_0002_seite_000.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5077939-30%200001_img_0002_seite_000.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5077939-30%200001_img_0002_seite_000.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Der Boss von Entenhausen",
+            "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-enten-edition-30-der-boss-von/4000-517934/",
+            "store_date": "2011-02-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88447/",
+                "id": 88447,
+                "name": "Lustiges Taschenbuch Enten-Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/lustiges-taschenbuch-entenedition/4050-88447/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542324/",
+            "cover_date": "2011-04-04",
+            "date_added": "2016-07-31 22:13:05",
+            "date_last_updated": "2016-07-31 22:37:21",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 542324,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5353447-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5353447-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5353447-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5353447-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5353447-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5353447-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5353447-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5353447-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5353447-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/osama-no-shitateya-sarto-finito-30-vol-30/4000-542324/",
+            "store_date": "2011-04-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92689/",
+                "id": 92689,
+                "name": "Ōsama no Shitateya: Sarto Finito",
+                "site_detail_url": "https://comicvine.gamespot.com/osama-no-shitateya-sarto-finito/4050-92689/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-584484/",
+            "cover_date": "2011-12-19",
+            "date_added": "2017-03-04 21:09:38",
+            "date_last_updated": "2018-02-17 03:28:13",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 584484,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5731187-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5731187-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5731187-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5731187-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5731187-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5731187-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5731187-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5731187-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5731187-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi-30-vol-30/4000-584484/",
+            "store_date": "2011-12-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99339/",
+                "id": 99339,
+                "name": "Sake no Hosomichi",
+                "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi/4050-99339/"
             }
         }
     ]

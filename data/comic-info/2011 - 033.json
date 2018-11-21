@@ -1,6 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [],
-    "2011-01-03|2011-01-09": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-254673/",
@@ -33,82 +32,7 @@
                 "name": "House of Mystery",
                 "site_detail_url": "https://comicvine.gamespot.com/house-of-mystery/4050-21513/"
             }
-        }
-    ],
-    "2011-01-10|2011-01-16": [],
-    "2011-01-17|2011-01-23": [],
-    "2011-01-24|2011-01-30": [],
-    "2011-01-31|2011-02-06": [],
-    "2011-02-07|2011-02-13": [],
-    "2011-02-14|2011-02-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422368/",
-            "cover_date": "2011-02-01",
-            "date_added": "2013-08-18 13:12:23",
-            "date_last_updated": "2013-08-18 14:15:46",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 316: Fate (因果, <i>\"Inga\")</i></li><li>Chapter 317: Father and Son (父と子, <i>\"Chichi to Ko\")</i></li><li>Chapter 318: The Return of the King (風向き, <i>\"Kazamuki\")</i></li><li>Chapter 319: Nura Kidoin (鬼童院ぬら, <i>\"Kidoin Nura\")</i></li><li>Chapter 320: The Thunder God (雷神, <i>\"Raijin\")</i></li><li>Chapter 321: Comrades (同志, <i>\"Dōshi\")</i></li><li>Chapter 322: Smile (笑顔, <i>\"Egao\")</i></li><li>Chapter 323: Hakuma (覇久魔, <i>\"Hakuma\")</i></li><li>Chapter 324: The Mission (使命, <i>\"Shimei\")</i></li><li>Chapter 325: Infiltration (潜入, <i>\"Sennyū\")</i></li></ul>",
-            "has_staff_review": false,
-            "id": 422368,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3249896-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3249896-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3249896-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3249896-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3249896-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3249896-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3249896-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3249896-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3249896-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "Vol. 33",
-            "site_detail_url": "https://comicvine.gamespot.com/kekkaishi-33-vol-33/4000-422368/",
-            "store_date": "2011-02-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66546/",
-                "id": 66546,
-                "name": "Kekkaishi",
-                "site_detail_url": "https://comicvine.gamespot.com/kekkaishi/4050-66546/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560250/",
-            "cover_date": "2011-02-17",
-            "date_added": "2016-11-26 18:14:45",
-            "date_last_updated": "2018-03-10 17:41:38",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 560250,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552994-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552994-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552994-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552994-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552994-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552994-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552994-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552994-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5552994-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "Vol. 33",
-            "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima-33-vol-33/4000-560250/",
-            "store_date": "2011-02-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95909/",
-                "id": 95909,
-                "name": "Mahou Sensei Negima!",
-                "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima/4050-95909/"
-            }
-        }
-    ],
-    "2011-02-21|2011-02-27": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-263716/",
@@ -141,77 +65,7 @@
                 "name": "Deadpool",
                 "site_detail_url": "https://comicvine.gamespot.com/deadpool/4050-22955/"
             }
-        }
-    ],
-    "2011-02-28|2011-03-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-389708/",
-            "cover_date": null,
-            "date_added": "2013-03-02 04:18:34",
-            "date_last_updated": "2013-05-30 23:52:36",
-            "deck": null,
-            "description": "<p><i>The Chameleon returns with a terrifying new mission that has Mayor J Jonah Jameson squarely in his sights! Meanwhile, Jameson’s Anti-Spider Squad narrows its dragnet around the Wall-Crawler, and Peter Parker gets a brand new job.</i></p><p><i>Plus, Pete's love life takes a turn for the worse just as his old flame Mary Jane (finally) returns to New York City.</i></p><p><i>Also, classic adventure as Spidey finds himself fighting for his life against Hydro Man and Venom returns!</i></p><p><i>Includes material reprinted from Amazing Spider-Man #601-602 and Amazing Spider-Man #315, 76 pages!</i></p>",
-            "has_staff_review": false,
-            "id": 389708,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2903967-oirehg.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2903967-oirehg.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2903967-oirehg.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2903967-oirehg.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2903967-oirehg.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2903967-oirehg.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2903967-oirehg.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2903967-oirehg.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2903967-oirehg.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-33/4000-389708/",
-            "store_date": "2011-03-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
-                "id": 33937,
-                "name": "The Astonishing Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412566/",
-            "cover_date": "2011-03-31",
-            "date_added": "2013-06-20 18:11:41",
-            "date_last_updated": "2016-10-11 14:13:05",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: <i>Kurai Kage Kuru!</i> (濃い影来る!)<i></i></p><h2>Chapter Titles</h2><ul><li>Target 311: Lambo vs Rauji Oyama (ランボvs大山らうじ <i>Ranbo Bāsasu Ōyama Rauji</i>)</li><li>Target 312: Lambo's Feelings (ランボの思い <i>Ranbo no Omoi</i>)</li><li>Target 313: Brother (兄ちゃん <i>Nii-chan</i>)</li><li>Target 314: For Whose Sake (誰がために <i>Ta ga Tame ni</i>)</li><li>Target 315: Hayato Gokudera vs Shitt P! (獄寺隼人 VS SHITT・P! <i>Gokudera Hayato Bāsasu Shitto Pī!</i>)</li><li>Target 316: Tears (涙 <i>Namida</i>)</li><li>Target 317: Enma's Anger (炎真の怒り <i>Enma no Ikari</i>)</li><li>Target 318: Beyond the Mist (霧の向こう <i>Kiri no Mukō</i>)</li><li>Target 319: Dark Shadow (濃い影 <i>Kurai Kage</i>)</li><li>Target 320: Hibari Comes Flying! (雲雀飛来! <i>Hibari Hirai!</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 412566,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121016-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121016-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121016-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121016-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121016-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121016-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121016-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121016-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3121016-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "Dark Shadow Arrives!",
-            "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn-33-dark-shadow-arrives/4000-412566/",
-            "store_date": "2011-03-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35414/",
-                "id": 35414,
-                "name": "Katekyō Hitman Reborn!",
-                "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn/4050-35414/"
-            }
-        }
-    ],
-    "2011-03-07|2011-03-13": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-265487/",
@@ -244,83 +98,7 @@
                 "name": "Titans",
                 "site_detail_url": "https://comicvine.gamespot.com/titans/4050-21159/"
             }
-        }
-    ],
-    "2011-03-14|2011-03-20": [],
-    "2011-03-21|2011-03-27": [],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [],
-    "2011-04-11|2011-04-17": [],
-    "2011-04-18|2011-04-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-410261/",
-            "cover_date": "2011-04-10",
-            "date_added": "2013-06-10 20:48:14",
-            "date_last_updated": "2013-06-10 21:03:39",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 410261,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3101107-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3101107-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3101107-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3101107-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3101107-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3101107-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3101107-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3101107-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3101107-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "Vol. 33",
-            "site_detail_url": "https://comicvine.gamespot.com/negima-33-vol-33/4000-410261/",
-            "store_date": "2011-04-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63280/",
-                "id": 63280,
-                "name": "Negima",
-                "site_detail_url": "https://comicvine.gamespot.com/negima/4050-63280/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412532/",
-            "cover_date": "2011-04-20",
-            "date_added": "2013-06-20 17:21:58",
-            "date_last_updated": "2013-06-20 17:36:04",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 412532,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120730-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120730-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120730-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120730-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120730-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120730-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120730-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120730-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3120730-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "Vol. 33",
-            "site_detail_url": "https://comicvine.gamespot.com/reborn-33-vol-33/4000-412532/",
-            "store_date": "2011-04-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
-                "id": 63952,
-                "name": "Reborn!",
-                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
-            }
-        }
-    ],
-    "2011-04-25|2011-05-01": [],
-    "2011-05-02|2011-05-08": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269465/",
@@ -353,10 +131,7 @@
                 "name": "Secret Six",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-six/4050-22841/"
             }
-        }
-    ],
-    "2011-05-09|2011-05-15": [],
-    "2011-05-16|2011-05-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-270463/",
@@ -389,89 +164,7 @@
                 "name": "Hulk",
                 "site_detail_url": "https://comicvine.gamespot.com/hulk/4050-20291/"
             }
-        }
-    ],
-    "2011-05-23|2011-05-29": [],
-    "2011-05-30|2011-06-05": [],
-    "2011-06-06|2011-06-12": [],
-    "2011-06-13|2011-06-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532920/",
-            "cover_date": "2011-06-17",
-            "date_added": "2016-05-29 19:22:43",
-            "date_last_updated": "2016-05-29 20:08:37",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 532920,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5236381-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5236381-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5236381-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5236381-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5236381-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5236381-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5236381-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5236381-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5236381-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "33rd Battle: Hunt Down \"Nada\"",
-            "site_detail_url": "https://comicvine.gamespot.com/tough-33-33rd-battle-hunt-down-nada/4000-532920/",
-            "store_date": "2011-06-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90838/",
-                "id": 90838,
-                "name": "Tough",
-                "site_detail_url": "https://comicvine.gamespot.com/tough/4050-90838/"
-            }
-        }
-    ],
-    "2011-06-20|2011-06-26": [],
-    "2011-06-27|2011-07-03": [],
-    "2011-07-04|2011-07-10": [],
-    "2011-07-11|2011-07-17": [],
-    "2011-07-18|2011-07-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-291791/",
-            "cover_date": "2011-07-01",
-            "date_added": "2011-09-09 10:11:36",
-            "date_last_updated": "2016-05-01 11:02:48",
-            "deck": null,
-            "description": "<p><i>BULLETPROOF COFFIN artist and Legend, SHAKY KANE, joins ELEPHANTMEN for the freaky tale of Doctor Sebastian Bone and his wife, Victoria, and her lust for something belonging to Elephantmen.</i></p>",
-            "has_staff_review": false,
-            "id": 291791,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1999867-elephantmen_033__2011__pagecover.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1999867-elephantmen_033__2011__pagecover.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1999867-elephantmen_033__2011__pagecover.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1999867-elephantmen_033__2011__pagecover.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1999867-elephantmen_033__2011__pagecover.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1999867-elephantmen_033__2011__pagecover.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1999867-elephantmen_033__2011__pagecover.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1999867-elephantmen_033__2011__pagecover.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1999867-elephantmen_033__2011__pagecover.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "The Lovely Bones",
-            "site_detail_url": "https://comicvine.gamespot.com/elephantmen-33-the-lovely-bones/4000-291791/",
-            "store_date": "2011-07-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-20056/",
-                "id": 20056,
-                "name": "Elephantmen",
-                "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
-            }
-        }
-    ],
-    "2011-07-25|2011-07-31": [],
-    "2011-08-01|2011-08-07": [],
-    "2011-08-08|2011-08-14": [],
-    "2011-08-15|2011-08-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-286824/",
@@ -507,6 +200,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-291791/",
+            "cover_date": "2011-07-01",
+            "date_added": "2011-09-09 10:11:36",
+            "date_last_updated": "2018-11-15 05:24:44",
+            "deck": null,
+            "description": "<p><i>BULLETPROOF COFFIN artist and Legend, SHAKY KANE, joins ELEPHANTMEN for the freaky tale of Doctor Sebastian Bone and his wife, Victoria, and her lust for something belonging to Elephantmen.</i></p>",
+            "has_staff_review": false,
+            "id": 291791,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1999867-elephantmen_033__2011__pagecover.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1999867-elephantmen_033__2011__pagecover.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1999867-elephantmen_033__2011__pagecover.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1999867-elephantmen_033__2011__pagecover.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1999867-elephantmen_033__2011__pagecover.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1999867-elephantmen_033__2011__pagecover.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1999867-elephantmen_033__2011__pagecover.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1999867-elephantmen_033__2011__pagecover.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1999867-elephantmen_033__2011__pagecover.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "The Lovely Bones",
+            "site_detail_url": "https://comicvine.gamespot.com/elephantmen-33-the-lovely-bones/4000-291791/",
+            "store_date": "2011-07-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-20056/",
+                "id": 20056,
+                "name": "Elephantmen",
+                "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-294339/",
             "cover_date": "2011-08-01",
             "date_added": "2011-10-05 20:05:08",
@@ -537,86 +263,40 @@
                 "name": "Vincent Price Presents",
                 "site_detail_url": "https://comicvine.gamespot.com/vincent-price-presents/4050-24672/"
             }
-        }
-    ],
-    "2011-08-22|2011-08-28": [],
-    "2011-08-29|2011-09-04": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438408/",
-            "cover_date": "2011-08-01",
-            "date_added": "2013-12-23 07:46:52",
-            "date_last_updated": "2013-12-23 07:53:09",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-301071/",
+            "cover_date": "2012-01-01",
+            "date_added": "2011-11-03 04:11:23",
+            "date_last_updated": "2013-02-15 07:30:45",
             "deck": null,
-            "description": "<p><em>This new perfectbound trade paperback contains three full issues worth of classic strips from Knights of the Dinner Table #107 to #109! It's always a great time to pick up these hysterically funny strips, so don't miss out on this incredible addition to any gamer's bookshelf!</em></p>",
+            "description": "<p><i>In the wake of the events of X-MEN: SCHISM the New Mutants find themselves at a crossroads. A decision needs to be made that will change their lives forever. Featuring fan-favorite artist David Lopez (Hawkeye &amp; Mockingbird, Mystic).</i></p>",
             "has_staff_review": false,
-            "id": 438408,
+            "id": 301071,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3521705-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3521705-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3521705-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3521705-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3521705-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3521705-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3521705-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3521705-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3521705-33.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2066511-new_mutants_33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2066511-new_mutants_33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2066511-new_mutants_33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2066511-new_mutants_33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2066511-new_mutants_33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2066511-new_mutants_33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2066511-new_mutants_33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2066511-new_mutants_33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2066511-new_mutants_33.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "33",
-            "name": "Volume Thirty-Three",
-            "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble-33-v/4000-438408/",
-            "store_date": "2011-08-31",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/new-mutants-33/4000-301071/",
+            "store_date": "2011-11-02",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55383/",
-                "id": 55383,
-                "name": "Knights of the Dinner Table: Bundle of Trouble",
-                "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26327/",
+                "id": 26327,
+                "name": "New Mutants",
+                "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
             }
-        }
-    ],
-    "2011-09-05|2011-09-11": [],
-    "2011-09-12|2011-09-18": [],
-    "2011-09-19|2011-09-25": [],
-    "2011-09-26|2011-10-02": [],
-    "2011-10-03|2011-10-09": [],
-    "2011-10-10|2011-10-16": [],
-    "2011-10-17|2011-10-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-355746/",
-            "cover_date": "2011-10-17",
-            "date_added": "2012-09-03 15:12:10",
-            "date_last_updated": "2013-12-22 07:20:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 355746,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3519616-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3519616-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3519616-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3519616-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3519616-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3519616-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3519616-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3519616-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3519616-33.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": "Vol. 33",
-            "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora-33-vol-33/4000-355746/",
-            "store_date": "2011-10-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50012/",
-                "id": 50012,
-                "name": "Ahiru no Sora",
-                "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora/4050-50012/"
-            }
-        }
-    ],
-    "2011-10-24|2011-10-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-303656/",
@@ -685,6 +365,72 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-355746/",
+            "cover_date": "2011-10-17",
+            "date_added": "2012-09-03 15:12:10",
+            "date_last_updated": "2013-12-22 07:20:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 355746,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3519616-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3519616-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3519616-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3519616-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3519616-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3519616-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3519616-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3519616-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3519616-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Vol. 33",
+            "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora-33-vol-33/4000-355746/",
+            "store_date": "2011-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50012/",
+                "id": 50012,
+                "name": "Ahiru no Sora",
+                "site_detail_url": "https://comicvine.gamespot.com/ahiru-no-sora/4050-50012/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-389708/",
+            "cover_date": null,
+            "date_added": "2013-03-02 04:18:34",
+            "date_last_updated": "2013-05-30 23:52:36",
+            "deck": null,
+            "description": "<p><i>The Chameleon returns with a terrifying new mission that has Mayor J Jonah Jameson squarely in his sights! Meanwhile, Jameson’s Anti-Spider Squad narrows its dragnet around the Wall-Crawler, and Peter Parker gets a brand new job.</i></p><p><i>Plus, Pete's love life takes a turn for the worse just as his old flame Mary Jane (finally) returns to New York City.</i></p><p><i>Also, classic adventure as Spidey finds himself fighting for his life against Hydro Man and Venom returns!</i></p><p><i>Includes material reprinted from Amazing Spider-Man #601-602 and Amazing Spider-Man #315, 76 pages!</i></p>",
+            "has_staff_review": false,
+            "id": 389708,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2903967-oirehg.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2903967-oirehg.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2903967-oirehg.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2903967-oirehg.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2903967-oirehg.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2903967-oirehg.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2903967-oirehg.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2903967-oirehg.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2903967-oirehg.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-33/4000-389708/",
+            "store_date": "2011-03-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
+                "id": 33937,
+                "name": "The Astonishing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-402562/",
             "cover_date": "2011-11-14",
             "date_added": "2013-05-14 14:31:04",
@@ -715,40 +461,269 @@
                 "name": "Im Netz von Spider-Man",
                 "site_detail_url": "https://comicvine.gamespot.com/im-netz-von-spider-man/4050-42422/"
             }
-        }
-    ],
-    "2011-10-31|2011-11-06": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-301071/",
-            "cover_date": "2012-01-01",
-            "date_added": "2011-11-03 04:11:23",
-            "date_last_updated": "2013-02-15 07:30:45",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403288/",
+            "cover_date": "2011-12-29",
+            "date_added": "2013-05-16 12:01:18",
+            "date_last_updated": "2013-06-29 09:03:18",
             "deck": null,
-            "description": "<p><i>In the wake of the events of X-MEN: SCHISM the New Mutants find themselves at a crossroads. A decision needs to be made that will change their lives forever. Featuring fan-favorite artist David Lopez (Hawkeye &amp; Mockingbird, Mystic).</i></p>",
+            "description": "<p> Translates <a href=\"/batman-streets-of-gotham/4050-26754/\" data-ref-id=\"4050-26754\">Batman: Streets of Gotham</a> #14, 16-21.</p>",
             "has_staff_review": false,
-            "id": 301071,
+            "id": 403288,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2066511-new_mutants_33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2066511-new_mutants_33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2066511-new_mutants_33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2066511-new_mutants_33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2066511-new_mutants_33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2066511-new_mutants_33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2066511-new_mutants_33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2066511-new_mutants_33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2066511-new_mutants_33.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3048004-batmansonderband33familiengeschichten_170.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3048004-batmansonderband33familiengeschichten_170.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "33",
             "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/new-mutants-33/4000-301071/",
-            "store_date": "2011-11-02",
+            "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband-33/4000-403288/",
+            "store_date": "2011-11-22",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-26327/",
-                "id": 26327,
-                "name": "New Mutants",
-                "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41863/",
+                "id": 41863,
+                "name": "Batman Sonderband",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband/4050-41863/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408015/",
+            "cover_date": "2011-11-02",
+            "date_added": "2013-06-02 00:41:32",
+            "date_last_updated": "2013-06-02 00:55:21",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408015,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082431-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082431-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082431-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082431-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082431-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082431-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082431-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082431-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3082431-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Vol. 33",
+            "site_detail_url": "https://comicvine.gamespot.com/air-gear-33-vol-33/4000-408015/",
+            "store_date": "2011-11-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62753/",
+                "id": 62753,
+                "name": "Air Gear",
+                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-62753/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-410261/",
+            "cover_date": "2011-04-10",
+            "date_added": "2013-06-10 20:48:14",
+            "date_last_updated": "2013-06-10 21:03:39",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 410261,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3101107-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3101107-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3101107-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3101107-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3101107-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3101107-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3101107-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3101107-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3101107-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Vol. 33",
+            "site_detail_url": "https://comicvine.gamespot.com/negima-33-vol-33/4000-410261/",
+            "store_date": "2011-04-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63280/",
+                "id": 63280,
+                "name": "Negima",
+                "site_detail_url": "https://comicvine.gamespot.com/negima/4050-63280/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412532/",
+            "cover_date": "2011-04-20",
+            "date_added": "2013-06-20 17:21:58",
+            "date_last_updated": "2013-06-20 17:36:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412532,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120730-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120730-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120730-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120730-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120730-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120730-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120730-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120730-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3120730-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Vol. 33",
+            "site_detail_url": "https://comicvine.gamespot.com/reborn-33-vol-33/4000-412532/",
+            "store_date": "2011-04-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
+                "id": 63952,
+                "name": "Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412566/",
+            "cover_date": "2011-03-31",
+            "date_added": "2013-06-20 18:11:41",
+            "date_last_updated": "2016-10-11 14:13:05",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: <i>Kurai Kage Kuru!</i> (濃い影来る!)<i></i></p><h2>Chapter Titles</h2><ul><li>Target 311: Lambo vs Rauji Oyama (ランボvs大山らうじ <i>Ranbo Bāsasu Ōyama Rauji</i>)</li><li>Target 312: Lambo's Feelings (ランボの思い <i>Ranbo no Omoi</i>)</li><li>Target 313: Brother (兄ちゃん <i>Nii-chan</i>)</li><li>Target 314: For Whose Sake (誰がために <i>Ta ga Tame ni</i>)</li><li>Target 315: Hayato Gokudera vs Shitt P! (獄寺隼人 VS SHITT・P! <i>Gokudera Hayato Bāsasu Shitto Pī!</i>)</li><li>Target 316: Tears (涙 <i>Namida</i>)</li><li>Target 317: Enma's Anger (炎真の怒り <i>Enma no Ikari</i>)</li><li>Target 318: Beyond the Mist (霧の向こう <i>Kiri no Mukō</i>)</li><li>Target 319: Dark Shadow (濃い影 <i>Kurai Kage</i>)</li><li>Target 320: Hibari Comes Flying! (雲雀飛来! <i>Hibari Hirai!</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 412566,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121016-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121016-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121016-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121016-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121016-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121016-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121016-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121016-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3121016-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Dark Shadow Arrives!",
+            "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn-33-dark-shadow-arrives/4000-412566/",
+            "store_date": "2011-03-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35414/",
+                "id": 35414,
+                "name": "Katekyō Hitman Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn/4050-35414/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422368/",
+            "cover_date": "2011-02-01",
+            "date_added": "2013-08-18 13:12:23",
+            "date_last_updated": "2013-08-18 14:15:46",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 316: Fate (因果, <i>\"Inga\")</i></li><li>Chapter 317: Father and Son (父と子, <i>\"Chichi to Ko\")</i></li><li>Chapter 318: The Return of the King (風向き, <i>\"Kazamuki\")</i></li><li>Chapter 319: Nura Kidoin (鬼童院ぬら, <i>\"Kidoin Nura\")</i></li><li>Chapter 320: The Thunder God (雷神, <i>\"Raijin\")</i></li><li>Chapter 321: Comrades (同志, <i>\"Dōshi\")</i></li><li>Chapter 322: Smile (笑顔, <i>\"Egao\")</i></li><li>Chapter 323: Hakuma (覇久魔, <i>\"Hakuma\")</i></li><li>Chapter 324: The Mission (使命, <i>\"Shimei\")</i></li><li>Chapter 325: Infiltration (潜入, <i>\"Sennyū\")</i></li></ul>",
+            "has_staff_review": false,
+            "id": 422368,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3249896-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3249896-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3249896-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3249896-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3249896-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3249896-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3249896-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3249896-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3249896-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Vol. 33",
+            "site_detail_url": "https://comicvine.gamespot.com/kekkaishi-33-vol-33/4000-422368/",
+            "store_date": "2011-02-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-66546/",
+                "id": 66546,
+                "name": "Kekkaishi",
+                "site_detail_url": "https://comicvine.gamespot.com/kekkaishi/4050-66546/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438408/",
+            "cover_date": "2011-08-01",
+            "date_added": "2013-12-23 07:46:52",
+            "date_last_updated": "2013-12-23 07:53:09",
+            "deck": null,
+            "description": "<p><em>This new perfectbound trade paperback contains three full issues worth of classic strips from Knights of the Dinner Table #107 to #109! It's always a great time to pick up these hysterically funny strips, so don't miss out on this incredible addition to any gamer's bookshelf!</em></p>",
+            "has_staff_review": false,
+            "id": 438408,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3521705-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3521705-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3521705-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3521705-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3521705-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3521705-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3521705-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3521705-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3521705-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Volume Thirty-Three",
+            "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble-33-v/4000-438408/",
+            "store_date": "2011-08-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55383/",
+                "id": 55383,
+                "name": "Knights of the Dinner Table: Bundle of Trouble",
+                "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439536/",
+            "cover_date": "2011-02-01",
+            "date_added": "2013-12-28 04:37:16",
+            "date_last_updated": "2013-12-29 00:55:46",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 439536,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532040-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532040-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532040-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532040-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532040-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532040-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532040-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532040-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532040-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-33/4000-439536/",
+            "store_date": "2011-12-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
+                "id": 70468,
+                "name": "Comic Penguin Celeb",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
             }
         },
         {
@@ -783,80 +758,105 @@
                 "name": "Thorgal",
                 "site_detail_url": "https://comicvine.gamespot.com/thorgal/4050-72160/"
             }
-        }
-    ],
-    "2011-11-07|2011-11-13": [],
-    "2011-11-14|2011-11-20": [],
-    "2011-11-21|2011-11-27": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403288/",
-            "cover_date": "2011-12-29",
-            "date_added": "2013-05-16 12:01:18",
-            "date_last_updated": "2013-06-29 09:03:18",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/batman-streets-of-gotham/4050-26754/\" data-ref-id=\"4050-26754\">Batman: Streets of Gotham</a> #14, 16-21.</p>",
-            "has_staff_review": false,
-            "id": 403288,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3048004-batmansonderband33familiengeschichten_170.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "33",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband-33/4000-403288/",
-            "store_date": "2011-11-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41863/",
-                "id": 41863,
-                "name": "Batman Sonderband",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-sonderband/4050-41863/"
-            }
-        }
-    ],
-    "2011-11-28|2011-12-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408015/",
-            "cover_date": "2011-11-02",
-            "date_added": "2013-06-02 00:41:32",
-            "date_last_updated": "2013-06-02 00:55:21",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532920/",
+            "cover_date": "2011-06-17",
+            "date_added": "2016-05-29 19:22:43",
+            "date_last_updated": "2016-05-29 20:08:37",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 408015,
+            "id": 532920,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082431-33.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082431-33.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082431-33.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082431-33.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082431-33.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082431-33.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082431-33.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082431-33.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3082431-33.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5236381-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5236381-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5236381-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5236381-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5236381-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5236381-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5236381-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5236381-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5236381-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "33rd Battle: Hunt Down \"Nada\"",
+            "site_detail_url": "https://comicvine.gamespot.com/tough-33-33rd-battle-hunt-down-nada/4000-532920/",
+            "store_date": "2011-06-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90838/",
+                "id": 90838,
+                "name": "Tough",
+                "site_detail_url": "https://comicvine.gamespot.com/tough/4050-90838/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560250/",
+            "cover_date": "2011-02-17",
+            "date_added": "2016-11-26 18:14:45",
+            "date_last_updated": "2018-03-10 17:41:38",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 560250,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5552994-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5552994-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5552994-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5552994-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5552994-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5552994-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5552994-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5552994-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5552994-33.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "33",
             "name": "Vol. 33",
-            "site_detail_url": "https://comicvine.gamespot.com/air-gear-33-vol-33/4000-408015/",
-            "store_date": "2011-11-30",
+            "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima-33-vol-33/4000-560250/",
+            "store_date": "2011-02-17",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62753/",
-                "id": 62753,
-                "name": "Air Gear",
-                "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-62753/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95909/",
+                "id": 95909,
+                "name": "Mahou Sensei Negima!",
+                "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima/4050-95909/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-564213/",
+            "cover_date": "2011-09-01",
+            "date_added": "2016-12-08 18:23:46",
+            "date_last_updated": "2018-11-03 23:52:59",
+            "deck": " ",
+            "description": "<p><em>À l'abordage, hardis moussaillons ! Le drapeau noir flotte au fond du jardin où Bill, Boule, Caroline et tous leurs amis voguent au gré du vent, vivant mille aventures hilarantes, débordant de joie et de bonne humeur. Foi de cocker, les combats seront rudes, et les vaillants pirates repartiront les poches pleines d'os, par « Bill sabords » !</em></p>",
+            "has_staff_review": false,
+            "id": 564213,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5577390-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5577390-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5577390-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5577390-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5577390-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5577390-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5577390-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5577390-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5577390-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "À l'abordage ! !",
+            "site_detail_url": "https://comicvine.gamespot.com/boule-and-bill-33-a-labordage/4000-564213/",
+            "store_date": "2011-09-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70187/",
+                "id": 70187,
+                "name": "Boule & Bill",
+                "site_detail_url": "https://comicvine.gamespot.com/boule-bill/4050-70187/"
             }
         }
-    ],
-    "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    ]
 }

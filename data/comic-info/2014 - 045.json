@@ -1,9 +1,5 @@
 {
-    "2014-12-22|2014-12-28": [],
-    "2014-12-29|2015-01-04": [],
-    "2014-01-06|2014-01-12": [],
-    "2014-01-13|2014-01-19": [],
-    "2014-01-20|2014-01-26": [
+    "2014-01-01|2014-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-442954/",
@@ -36,10 +32,7 @@
                 "name": "Crossed Badlands",
                 "site_detail_url": "https://comicvine.gamespot.com/crossed-badlands/4050-46576/"
             }
-        }
-    ],
-    "2014-01-27|2014-02-02": [],
-    "2014-02-03|2014-02-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445781/",
@@ -72,12 +65,7 @@
                 "name": "Lucky Luke",
                 "site_detail_url": "https://comicvine.gamespot.com/lucky-luke/4050-48134/"
             }
-        }
-    ],
-    "2014-02-10|2014-02-16": [],
-    "2014-02-17|2014-02-23": [],
-    "2014-02-24|2014-03-02": [],
-    "2014-03-03|2014-03-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-446939/",
@@ -110,9 +98,7 @@
                 "name": "Adventures of Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/adventures-of-superman/4050-60518/"
             }
-        }
-    ],
-    "2014-03-10|2014-03-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-447613/",
@@ -145,23 +131,13 @@
                 "name": "Ultimate Marvel",
                 "site_detail_url": "https://comicvine.gamespot.com/ultimate-marvel/4050-53463/"
             }
-        }
-    ],
-    "2014-03-17|2014-03-23": [],
-    "2014-03-24|2014-03-30": [],
-    "2014-03-31|2014-04-06": [],
-    "2014-04-07|2014-04-13": [],
-    "2014-04-14|2014-04-20": [],
-    "2014-04-21|2014-04-27": [],
-    "2014-04-28|2014-05-04": [],
-    "2014-05-05|2014-05-11": [],
-    "2014-05-12|2014-05-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452837/",
             "cover_date": "2014-07-31",
             "date_added": "2014-05-13 00:03:53",
-            "date_last_updated": "2015-03-17 10:29:19",
+            "date_last_updated": "2018-11-10 12:22:44",
             "deck": null,
             "description": "<p><em>When the Primordial Ooze took over the water park, kids of all ages were disappointed. But then the Mystery Machine arrived in town, and the gang vowed to get to the bottom of things and clean up the mess!</em></p>",
             "has_staff_review": false,
@@ -179,7 +155,7 @@
                 "image_tags": "All Images"
             },
             "issue_number": "45",
-            "name": "Scooby Slides Into Danger",
+            "name": "Scooby Slides into Danger; The Freeloading Ghost; The Creature of Lagoona Beach",
             "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you-45-scooby-slides-into-dan/4000-452837/",
             "store_date": "2014-05-14",
             "volume": {
@@ -188,87 +164,7 @@
                 "name": "Scooby-Doo, Where Are You?",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-where-are-you/4050-35462/"
             }
-        }
-    ],
-    "2014-05-19|2014-05-25": [],
-    "2014-05-26|2014-06-01": [],
-    "2014-06-02|2014-06-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524661/",
-            "cover_date": "2014-06-30",
-            "date_added": "2016-04-11 13:02:26",
-            "date_last_updated": "2016-05-05 12:11:01",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524661,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146419-45.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146419-45.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146419-45.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146419-45.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146419-45.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146419-45.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146419-45.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146419-45.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146419-45.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "45",
-            "name": "Vol. 45",
-            "site_detail_url": "https://comicvine.gamespot.com/qed-45-vol-45/4000-524661/",
-            "store_date": "2014-06-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65005/",
-                "id": 65005,
-                "name": "Q.E.D.",
-                "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
-            }
-        }
-    ],
-    "2014-06-09|2014-06-15": [],
-    "2014-06-16|2014-06-22": [],
-    "2014-06-23|2014-06-29": [],
-    "2014-06-30|2014-07-06": [],
-    "2014-07-07|2014-07-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474451/",
-            "cover_date": "2014-08-31",
-            "date_added": "2014-12-20 09:17:19",
-            "date_last_updated": "2014-12-20 10:08:04",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474451,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285692-45.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285692-45.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285692-45.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285692-45.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285692-45.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285692-45.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285692-45.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285692-45.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285692-45.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "45",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-45/4000-474451/",
-            "store_date": "2014-07-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2014-07-14|2014-07-20": [],
-    "2014-07-21|2014-07-27": [],
-    "2014-07-28|2014-08-03": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461008/",
@@ -301,10 +197,7 @@
                 "name": "Prophet",
                 "site_detail_url": "https://comicvine.gamespot.com/prophet/4050-45269/"
             }
-        }
-    ],
-    "2014-08-04|2014-08-10": [],
-    "2014-08-11|2014-08-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-462330/",
@@ -337,13 +230,7 @@
                 "name": "Knights of the Dinner Table: Bundle of Trouble",
                 "site_detail_url": "https://comicvine.gamespot.com/knights-of-the-dinner-table-bundle-of-trouble/4050-55383/"
             }
-        }
-    ],
-    "2014-08-18|2014-08-24": [],
-    "2014-08-25|2014-08-31": [],
-    "2014-09-01|2014-09-07": [],
-    "2014-09-08|2014-09-14": [],
-    "2014-09-15|2014-09-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-466119/",
@@ -376,46 +263,7 @@
                 "name": "Fairy Tail",
                 "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-46777/"
             }
-        }
-    ],
-    "2014-09-22|2014-09-28": [],
-    "2014-09-29|2014-10-05": [],
-    "2014-10-06|2014-10-12": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470226/",
-            "cover_date": "2014-10-06",
-            "date_added": "2014-11-16 09:03:41",
-            "date_last_updated": "2014-11-16 09:08:56",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 470226,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4222310-dis-ch-45-0-title.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4222310-dis-ch-45-0-title.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4222310-dis-ch-45-0-title.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4222310-dis-ch-45-0-title.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4222310-dis-ch-45-0-title.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4222310-dis-ch-45-0-title.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4222310-dis-ch-45-0-title.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4222310-dis-ch-45-0-title.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4222310-dis-ch-45-0-title.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "45",
-            "name": "Episode 45",
-            "site_detail_url": "https://comicvine.gamespot.com/disenchanted-45-episode-45/4000-470226/",
-            "store_date": "2014-10-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68702/",
-                "id": 68702,
-                "name": "Disenchanted",
-                "site_detail_url": "https://comicvine.gamespot.com/disenchanted/4050-68702/"
-            }
-        }
-    ],
-    "2014-10-13|2014-10-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-468050/",
@@ -448,81 +296,40 @@
                 "name": "Batman '66",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-66/4050-64763/"
             }
-        }
-    ],
-    "2014-10-20|2014-10-26": [],
-    "2014-10-27|2014-11-02": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524572/",
-            "cover_date": "2014-10-31",
-            "date_added": "2016-04-11 12:25:23",
-            "date_last_updated": "2016-05-05 11:36:20",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470226/",
+            "cover_date": "2014-10-06",
+            "date_added": "2014-11-16 09:03:41",
+            "date_last_updated": "2014-11-16 09:08:56",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 524572,
+            "id": 470226,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146266-45.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146266-45.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146266-45.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146266-45.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146266-45.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146266-45.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146266-45.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146266-45.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146266-45.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4222310-dis-ch-45-0-title.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4222310-dis-ch-45-0-title.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4222310-dis-ch-45-0-title.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4222310-dis-ch-45-0-title.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4222310-dis-ch-45-0-title.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4222310-dis-ch-45-0-title.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4222310-dis-ch-45-0-title.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4222310-dis-ch-45-0-title.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4222310-dis-ch-45-0-title.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "45",
-            "name": "Vol. 45",
-            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-45-vol-45/4000-524572/",
-            "store_date": "2014-10-29",
+            "name": "Episode 45",
+            "site_detail_url": "https://comicvine.gamespot.com/disenchanted-45-episode-45/4000-470226/",
+            "store_date": "2014-10-06",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
-                "id": 64966,
-                "name": "Fairy Tail",
-                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68702/",
+                "id": 68702,
+                "name": "Disenchanted",
+                "site_detail_url": "https://comicvine.gamespot.com/disenchanted/4050-68702/"
             }
-        }
-    ],
-    "2014-11-03|2014-11-09": [],
-    "2014-11-10|2014-11-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474064/",
-            "cover_date": "2014-12-31",
-            "date_added": "2014-12-19 04:50:12",
-            "date_last_updated": "2018-08-23 01:34:11",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474064,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4283275-45.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4283275-45.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4283275-45.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4283275-45.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4283275-45.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4283275-45.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4283275-45.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4283275-45.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4283275-45.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "45",
-            "name": "201412",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-45-201412/4000-474064/",
-            "store_date": "2014-11-12",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
-                "id": 76424,
-                "name": "Comic Earth Star Magazine",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
-            }
-        }
-    ],
-    "2014-11-17|2014-11-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470503/",
@@ -555,10 +362,7 @@
                 "name": "World of Archie Double Digest",
                 "site_detail_url": "https://comicvine.gamespot.com/world-of-archie-double-digest/4050-36743/"
             }
-        }
-    ],
-    "2014-11-24|2014-11-30": [],
-    "2014-12-01|2014-12-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-471928/",
@@ -629,8 +433,171 @@
                 "name": "The Sixth Gun",
                 "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun/4050-33090/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474064/",
+            "cover_date": "2014-12-31",
+            "date_added": "2014-12-19 04:50:12",
+            "date_last_updated": "2018-08-23 01:34:11",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474064,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4283275-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4283275-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4283275-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4283275-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4283275-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4283275-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4283275-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4283275-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4283275-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "201412",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine-45-201412/4000-474064/",
+            "store_date": "2014-11-12",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76424/",
+                "id": 76424,
+                "name": "Comic Earth Star Magazine",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-earth-star-magazine/4050-76424/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474451/",
+            "cover_date": "2014-08-31",
+            "date_added": "2014-12-20 09:17:19",
+            "date_last_updated": "2014-12-20 10:08:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474451,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285692-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285692-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285692-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285692-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285692-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285692-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285692-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285692-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285692-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-45/4000-474451/",
+            "store_date": "2014-07-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517584/",
+            "cover_date": "2014-01-04",
+            "date_added": "2016-02-28 12:49:42",
+            "date_last_updated": "2016-05-01 16:35:41",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 517584,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5073898-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5073898-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5073898-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5073898-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5073898-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5073898-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5073898-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5073898-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5073898-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "Vol. 45",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-45-vol-45/4000-517584/",
+            "store_date": "2014-01-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524572/",
+            "cover_date": "2014-10-31",
+            "date_added": "2016-04-11 12:25:23",
+            "date_last_updated": "2016-05-05 11:36:20",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524572,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146266-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146266-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146266-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146266-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146266-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146266-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146266-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146266-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146266-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "Vol. 45",
+            "site_detail_url": "https://comicvine.gamespot.com/fairy-tail-45-vol-45/4000-524572/",
+            "store_date": "2014-10-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64966/",
+                "id": 64966,
+                "name": "Fairy Tail",
+                "site_detail_url": "https://comicvine.gamespot.com/fairy-tail/4050-64966/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524661/",
+            "cover_date": "2014-06-30",
+            "date_added": "2016-04-11 13:02:26",
+            "date_last_updated": "2016-05-05 12:11:01",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524661,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146419-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146419-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146419-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146419-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146419-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146419-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146419-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146419-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146419-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "Vol. 45",
+            "site_detail_url": "https://comicvine.gamespot.com/qed-45-vol-45/4000-524661/",
+            "store_date": "2014-06-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65005/",
+                "id": 65005,
+                "name": "Q.E.D.",
+                "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
+            }
         }
-    ],
-    "2014-12-08|2014-12-14": [],
-    "2014-12-15|2014-12-21": []
+    ]
 }

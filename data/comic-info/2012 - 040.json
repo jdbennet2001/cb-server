@@ -1,12 +1,5 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [],
-    "2012-01-23|2012-01-29": [],
-    "2012-01-30|2012-02-05": [],
-    "2012-02-06|2012-02-12": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-315297/",
@@ -39,84 +32,7 @@
                 "name": "Next Men: Aftermath",
                 "site_detail_url": "https://comicvine.gamespot.com/next-men-aftermath/4050-45783/"
             }
-        }
-    ],
-    "2012-02-13|2012-02-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438667/",
-            "cover_date": "2012-02-01",
-            "date_added": "2013-12-25 19:18:43",
-            "date_last_updated": "2013-12-25 19:20:22",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 438667,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3526650-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3526650-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3526650-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3526650-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3526650-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3526650-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3526650-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3526650-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3526650-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Vol. 40",
-            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-40-vol-40/4000-438667/",
-            "store_date": "2012-02-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45080/",
-                "id": 45080,
-                "name": "Ah! My Goddess",
-                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-45080/"
-            }
-        }
-    ],
-    "2012-02-20|2012-02-26": [],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-402507/",
-            "cover_date": null,
-            "date_added": "2013-05-14 10:30:41",
-            "date_last_updated": "2013-06-09 02:25:33",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/incredible-hulks/4050-35303/\" data-ref-id=\"4050-35303\">Incredible Hulks</a> #612-622.</p>",
-            "has_staff_review": false,
-            "id": 402507,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3043254-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3043254-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3043254-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3043254-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3043254-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3043254-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3043254-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3043254-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3043254-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Hulk",
-            "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition-40-hulk/4000-402507/",
-            "store_date": "2012-03-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42742/",
-                "id": 42742,
-                "name": "Marvel Monster Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition/4050-42742/"
-            }
-        }
-    ],
-    "2012-03-26|2012-04-01": [],
-    "2012-04-02|2012-04-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-326872/",
@@ -149,48 +65,7 @@
                 "name": "New Mutants",
                 "site_detail_url": "https://comicvine.gamespot.com/new-mutants/4050-26327/"
             }
-        }
-    ],
-    "2012-04-09|2012-04-15": [],
-    "2012-04-16|2012-04-22": [],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425822/",
-            "cover_date": "2012-05-31",
-            "date_added": "2013-09-15 15:44:51",
-            "date_last_updated": "2017-06-30 10:49:24",
-            "deck": null,
-            "description": "<p><em>Buffy the Vampire Slayer's own Amber \"Tara\" Benson takes up scripting duties on these stories of everyone's favorite Wiccan couple, Willow and Tara, with the help of writer Christopher Golden (Angel, Buffy TVS: The Watcher's Guide, BPRD).</em></p><p><em>This volume collects the Willow and Tara one-shot \"WannaBlessedBe\" drawn by Terry Moore, and Andi Watson's two- part Willow and Tara comic strip featured in Dark Horse Extra!</em></p>",
-            "has_staff_review": false,
-            "id": 425822,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Willow & Tara: WannaBlessedBe; Demonology",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-40-willow-and-tar/4000-425822/",
-            "store_date": "2012-05-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
-                "id": 56135,
-                "name": "Buffy the Vampire Slayer Classic",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
-            }
-        }
-    ],
-    "2012-05-07|2012-05-13": [],
-    "2012-05-14|2012-05-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-336287/",
@@ -223,79 +98,7 @@
                 "name": "Sonic Universe",
                 "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
             }
-        }
-    ],
-    "2012-05-21|2012-05-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416717/",
-            "cover_date": "2012-05-06",
-            "date_added": "2013-07-06 07:35:14",
-            "date_last_updated": "2013-07-06 08:02:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416717,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3155874-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3155874-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3155874-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3155874-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3155874-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3155874-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3155874-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3155874-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3155874-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Vol. 40",
-            "site_detail_url": "https://comicvine.gamespot.com/q-e-d-40-vol-40/4000-416717/",
-            "store_date": "2012-05-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65005/",
-                "id": 65005,
-                "name": "Q.E.D.",
-                "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
-            }
-        }
-    ],
-    "2012-05-28|2012-06-03": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530125/",
-            "cover_date": "2012-05-28",
-            "date_added": "2016-05-12 10:35:12",
-            "date_last_updated": "2016-05-21 15:53:39",
-            "deck": null,
-            "description": "<h2> Round Titles</h2><ul><li>Round 431 - The Final Dimensional Duel I</li><li>Round 432 - The Final Dimensional Duel II</li><li>Round 433 - The Final Dimensional Duel III</li><li>Round 434 - The Final Dimensional Duel IV</li><li>Round 435 - The Final Dimensional Duel V</li><li>Round 436 - The Final Dimensional Duel VI</li><li>Round 437 - The Final Dimensional Duel VII</li><li>Round 438 - The Final Dimensional Duel VIII</li><li>Round 439 - The Final Dimensional Duel IX</li><li>Round 440 - The Final Dimensional Duel X</li><li>Round 441 - The Final Dimensional Duel XI</li></ul>",
-            "has_staff_review": false,
-            "id": 530125,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5220653-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5220653-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5220653-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5220653-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5220653-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5220653-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5220653-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5220653-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5220653-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Volume 40",
-            "site_detail_url": "https://comicvine.gamespot.com/pokemon-adventures-40-volume-40/4000-530125/",
-            "store_date": "2012-05-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90458/",
-                "id": 90458,
-                "name": "Pocket Monsters Special",
-                "site_detail_url": "https://comicvine.gamespot.com/pocket-monsters-special/4050-90458/"
-            }
-        }
-    ],
-    "2012-06-04|2012-06-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-338732/",
@@ -328,16 +131,13 @@
                 "name": "Bleach",
                 "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
             }
-        }
-    ],
-    "2012-06-11|2012-06-17": [],
-    "2012-06-18|2012-06-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-341912/",
             "cover_date": "2012-06-01",
             "date_added": "2012-06-19 15:13:14",
-            "date_last_updated": "2012-11-17 12:33:47",
+            "date_last_updated": "2018-11-15 05:26:25",
             "deck": null,
             "description": "<p><i>Do Androids Dream of Electric Sheep artist TONY PARKER illustrates this issue as Destiny's father tracks down the Silencer intent on revenge - and Panya decides that's NOT okay with her.</i></p>",
             "has_staff_review": false,
@@ -364,13 +164,7 @@
                 "name": "Elephantmen",
                 "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
             }
-        }
-    ],
-    "2012-06-25|2012-07-01": [],
-    "2012-07-02|2012-07-08": [],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [],
-    "2012-07-23|2012-07-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-347234/",
@@ -403,46 +197,7 @@
                 "name": "The Goon",
                 "site_detail_url": "https://comicvine.gamespot.com/the-goon/4050-18632/"
             }
-        }
-    ],
-    "2012-07-30|2012-08-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-411947/",
-            "cover_date": "2012-08-01",
-            "date_added": "2013-06-18 02:37:24",
-            "date_last_updated": "2017-08-12 01:02:36",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 411947,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002869-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002869-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002869-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002869-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002869-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002869-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002869-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002869-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6002869-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-40/4000-411947/",
-            "store_date": "2012-08-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
-                "id": 67886,
-                "name": "Comic Magnum",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
-            }
-        }
-    ],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [],
-    "2012-08-20|2012-08-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-352649/",
@@ -475,10 +230,172 @@
                 "name": "The Unwritten",
                 "site_detail_url": "https://comicvine.gamespot.com/the-unwritten/4050-2626/"
             }
-        }
-    ],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-364193/",
+            "cover_date": "2012-10-01",
+            "date_added": "2012-10-30 05:11:34",
+            "date_last_updated": "2012-10-31 08:49:33",
+            "deck": null,
+            "description": "<p><i>BRAND NEW STORY ARC STARTS HERE! Michael and Abi journey ever farther west, searching for A-Ree-Yass-I. In the shadow of a Precity they find the small town of Far Enough, and a very special encounter that could answer some of their questions. But family ties are strong, and a falling meteor that shatters the Precity could spell disaster for their quest...</i></p>",
+            "has_staff_review": false,
+            "id": 364193,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2675628-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2675628-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2675628-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2675628-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2675628-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2675628-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2675628-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2675628-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2675628-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Beneath Black Skies",
+            "site_detail_url": "https://comicvine.gamespot.com/wasteland-40-beneath-black-skies/4000-364193/",
+            "store_date": "2012-10-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-17996/",
+                "id": 17996,
+                "name": "Wasteland",
+                "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373939/",
+            "cover_date": null,
+            "date_added": "2012-12-21 16:20:31",
+            "date_last_updated": "2013-06-10 05:39:42",
+            "deck": null,
+            "description": "<p><em>A ‘Fear Itself’ chapter! As the world falls into chaos, X-Force battle with the mutant-hating Purifiers!</em></p><p><em>Also: Deadpool’s less-than brilliant plan to kill himself continues, as he gets the Hulk even madder than last issue!</em></p><p>Includes material reprinted from Fear Itself: Uncanny X-Force #1-2 and Deadpool #39.</p>",
+            "has_staff_review": false,
+            "id": 373939,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2764702-w_d40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2764702-w_d40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2764702-w_d40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2764702-w_d40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2764702-w_d40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2764702-w_d40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2764702-w_d40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2764702-w_d40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2764702-w_d40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool-40/4000-373939/",
+            "store_date": "2012-12-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36793/",
+                "id": 36793,
+                "name": "Wolverine and Deadpool",
+                "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool/4050-36793/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-402507/",
+            "cover_date": null,
+            "date_added": "2013-05-14 10:30:41",
+            "date_last_updated": "2013-06-09 02:25:33",
+            "deck": null,
+            "description": "<p> Translates <a href=\"/incredible-hulks/4050-35303/\" data-ref-id=\"4050-35303\">Incredible Hulks</a> #612-622.</p>",
+            "has_staff_review": false,
+            "id": 402507,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3043254-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3043254-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3043254-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3043254-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3043254-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3043254-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3043254-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3043254-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3043254-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Hulk",
+            "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition-40-hulk/4000-402507/",
+            "store_date": "2012-03-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42742/",
+                "id": 42742,
+                "name": "Marvel Monster Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition/4050-42742/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-411947/",
+            "cover_date": "2012-08-01",
+            "date_added": "2013-06-18 02:37:24",
+            "date_last_updated": "2017-08-12 01:02:36",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 411947,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002869-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002869-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002869-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002869-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002869-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002869-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002869-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002869-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6002869-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-40/4000-411947/",
+            "store_date": "2012-08-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
+                "id": 67886,
+                "name": "Comic Magnum",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412539/",
+            "cover_date": "2012-10-20",
+            "date_added": "2013-06-20 17:22:19",
+            "date_last_updated": "2013-06-20 17:36:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412539,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120737-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120737-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120737-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120737-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120737-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120737-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120737-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120737-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3120737-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Vol. 40",
+            "site_detail_url": "https://comicvine.gamespot.com/reborn-40-vol-40/4000-412539/",
+            "store_date": "2012-10-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
+                "id": 63952,
+                "name": "Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412573/",
@@ -514,6 +431,105 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416717/",
+            "cover_date": "2012-05-06",
+            "date_added": "2013-07-06 07:35:14",
+            "date_last_updated": "2013-07-06 08:02:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416717,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3155874-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3155874-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3155874-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3155874-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3155874-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3155874-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3155874-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3155874-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3155874-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Vol. 40",
+            "site_detail_url": "https://comicvine.gamespot.com/q-e-d-40-vol-40/4000-416717/",
+            "store_date": "2012-05-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65005/",
+                "id": 65005,
+                "name": "Q.E.D.",
+                "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425822/",
+            "cover_date": "2012-05-31",
+            "date_added": "2013-09-15 15:44:51",
+            "date_last_updated": "2017-06-30 10:49:24",
+            "deck": null,
+            "description": "<p><em>Buffy the Vampire Slayer's own Amber \"Tara\" Benson takes up scripting duties on these stories of everyone's favorite Wiccan couple, Willow and Tara, with the help of writer Christopher Golden (Angel, Buffy TVS: The Watcher's Guide, BPRD).</em></p><p><em>This volume collects the Willow and Tara one-shot \"WannaBlessedBe\" drawn by Terry Moore, and Andi Watson's two- part Willow and Tara comic strip featured in Dark Horse Extra!</em></p>",
+            "has_staff_review": false,
+            "id": 425822,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3312800-buffy%20the%20vampire%20slayer%20classic%20%20-%20willow%20%26%20tara%20-%20wannablessedbe%20--%20demonology%20%2340%20%282012%29%20-%20page%201.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Willow & Tara: WannaBlessedBe; Demonology",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-40-willow-and-tar/4000-425822/",
+            "store_date": "2012-05-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
+                "id": 56135,
+                "name": "Buffy the Vampire Slayer Classic",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438667/",
+            "cover_date": "2012-02-01",
+            "date_added": "2013-12-25 19:18:43",
+            "date_last_updated": "2013-12-25 19:20:22",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 438667,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3526650-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3526650-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3526650-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3526650-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3526650-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3526650-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3526650-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3526650-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3526650-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Vol. 40",
+            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-40-vol-40/4000-438667/",
+            "store_date": "2012-02-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45080/",
+                "id": 45080,
+                "name": "Ah! My Goddess",
+                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-45080/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-517579/",
             "cover_date": "2012-09-04",
             "date_added": "2016-02-28 12:44:47",
@@ -544,123 +560,39 @@
                 "name": "Kinnikuman",
                 "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
             }
-        }
-    ],
-    "2012-09-10|2012-09-16": [],
-    "2012-09-17|2012-09-23": [],
-    "2012-09-24|2012-09-30": [],
-    "2012-10-01|2012-10-07": [],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [],
-    "2012-10-22|2012-10-28": [
+        },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412539/",
-            "cover_date": "2012-10-20",
-            "date_added": "2013-06-20 17:22:19",
-            "date_last_updated": "2013-06-20 17:36:08",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-530125/",
+            "cover_date": "2012-05-28",
+            "date_added": "2016-05-12 10:35:12",
+            "date_last_updated": "2016-05-21 15:53:39",
             "deck": null,
-            "description": null,
+            "description": "<h2> Round Titles</h2><ul><li>Round 431 - The Final Dimensional Duel I</li><li>Round 432 - The Final Dimensional Duel II</li><li>Round 433 - The Final Dimensional Duel III</li><li>Round 434 - The Final Dimensional Duel IV</li><li>Round 435 - The Final Dimensional Duel V</li><li>Round 436 - The Final Dimensional Duel VI</li><li>Round 437 - The Final Dimensional Duel VII</li><li>Round 438 - The Final Dimensional Duel VIII</li><li>Round 439 - The Final Dimensional Duel IX</li><li>Round 440 - The Final Dimensional Duel X</li><li>Round 441 - The Final Dimensional Duel XI</li></ul>",
             "has_staff_review": false,
-            "id": 412539,
+            "id": 530125,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120737-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120737-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120737-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120737-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120737-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120737-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120737-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120737-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3120737-40.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5220653-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5220653-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5220653-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5220653-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5220653-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5220653-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5220653-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5220653-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5220653-40.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "40",
-            "name": "Vol. 40",
-            "site_detail_url": "https://comicvine.gamespot.com/reborn-40-vol-40/4000-412539/",
-            "store_date": "2012-10-24",
+            "name": "Volume 40",
+            "site_detail_url": "https://comicvine.gamespot.com/pokemon-adventures-40-volume-40/4000-530125/",
+            "store_date": "2012-05-28",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
-                "id": 63952,
-                "name": "Reborn!",
-                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90458/",
+                "id": 90458,
+                "name": "Pocket Monsters Special",
+                "site_detail_url": "https://comicvine.gamespot.com/pocket-monsters-special/4050-90458/"
             }
         }
-    ],
-    "2012-10-29|2012-11-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-364193/",
-            "cover_date": "2012-10-01",
-            "date_added": "2012-10-30 05:11:34",
-            "date_last_updated": "2012-10-31 08:49:33",
-            "deck": null,
-            "description": "<p><i>BRAND NEW STORY ARC STARTS HERE! Michael and Abi journey ever farther west, searching for A-Ree-Yass-I. In the shadow of a Precity they find the small town of Far Enough, and a very special encounter that could answer some of their questions. But family ties are strong, and a falling meteor that shatters the Precity could spell disaster for their quest...</i></p>",
-            "has_staff_review": false,
-            "id": 364193,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2675628-40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2675628-40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2675628-40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2675628-40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2675628-40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2675628-40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2675628-40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2675628-40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2675628-40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": "Beneath Black Skies",
-            "site_detail_url": "https://comicvine.gamespot.com/wasteland-40-beneath-black-skies/4000-364193/",
-            "store_date": "2012-10-31",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-17996/",
-                "id": 17996,
-                "name": "Wasteland",
-                "site_detail_url": "https://comicvine.gamespot.com/wasteland/4050-17996/"
-            }
-        }
-    ],
-    "2012-11-05|2012-11-11": [],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373939/",
-            "cover_date": null,
-            "date_added": "2012-12-21 16:20:31",
-            "date_last_updated": "2013-06-10 05:39:42",
-            "deck": null,
-            "description": "<p><em>A ‘Fear Itself’ chapter! As the world falls into chaos, X-Force battle with the mutant-hating Purifiers!</em></p><p><em>Also: Deadpool’s less-than brilliant plan to kill himself continues, as he gets the Hulk even madder than last issue!</em></p><p>Includes material reprinted from Fear Itself: Uncanny X-Force #1-2 and Deadpool #39.</p>",
-            "has_staff_review": false,
-            "id": 373939,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2764702-w_d40.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2764702-w_d40.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2764702-w_d40.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2764702-w_d40.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2764702-w_d40.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2764702-w_d40.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2764702-w_d40.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2764702-w_d40.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2764702-w_d40.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "40",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool-40/4000-373939/",
-            "store_date": "2012-12-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36793/",
-                "id": 36793,
-                "name": "Wolverine and Deadpool",
-                "site_detail_url": "https://comicvine.gamespot.com/wolverine-and-deadpool/4050-36793/"
-            }
-        }
-    ],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": []
+    ]
 }

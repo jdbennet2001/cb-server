@@ -1,81 +1,5 @@
 {
-    "2016-12-26|2017-01-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571710/",
-            "cover_date": "2016-12-31",
-            "date_added": "2016-12-27 02:30:49",
-            "date_last_updated": "2017-03-19 16:58:11",
-            "deck": null,
-            "description": "<p><em>A change is gonna come.</em></p>",
-            "has_staff_review": false,
-            "id": 571710,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614034-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614034-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614034-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614034-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614034-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614034-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614034-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614034-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5614034-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "The Show Must Go On",
-            "site_detail_url": "https://comicvine.gamespot.com/sex-34-the-show-must-go-on/4000-571710/",
-            "store_date": "2016-12-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-58439/",
-                "id": 58439,
-                "name": "Sex",
-                "site_detail_url": "https://comicvine.gamespot.com/sex/4050-58439/"
-            }
-        }
-    ],
-    "2016-01-04|2016-01-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521107/",
-            "cover_date": "2016-02-29",
-            "date_added": "2016-03-20 14:32:11",
-            "date_last_updated": "2017-02-24 13:51:35",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 521107,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5717813-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5717813-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5717813-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5717813-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5717813-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5717813-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5717813-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5717813-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5717813-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium-34/4000-521107/",
-            "store_date": "2016-01-09",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67387/",
-                "id": 67387,
-                "name": "Comic Anthurium",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
-            }
-        }
-    ],
-    "2016-01-11|2016-01-17": [],
-    "2016-01-18|2016-01-24": [],
-    "2016-01-25|2016-01-31": [],
-    "2016-02-01|2016-02-07": [],
-    "2016-02-08|2016-02-14": [],
-    "2016-02-15|2016-02-21": [],
-    "2016-02-22|2016-02-28": [
+    "2016-01-01|2016-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-516988/",
@@ -108,10 +32,7 @@
                 "name": "Saga",
                 "site_detail_url": "https://comicvine.gamespot.com/saga/4050-46568/"
             }
-        }
-    ],
-    "2016-02-29|2016-03-06": [],
-    "2016-03-07|2016-03-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-519152/",
@@ -147,42 +68,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562077/",
-            "cover_date": "2016-03-01",
-            "date_added": "2016-11-28 06:17:31",
-            "date_last_updated": "2018-09-15 19:38:09",
-            "deck": "Un'antica pietra sepolta è la chiave per il ritorno dei terribili Abominii!",
-            "description": "<p><em>Un vecchio nemico di Dragonero torna dal regno degli Inferi alla guida di un esercito di feroci famigli. La sua missione: recuperare un'antica pietra custodita nelle viscere di una miniera che, se trafugata, renderebbe il mondo impotente di fronte a una nuova invasione degli Abominii. Ian, Gmor e Myrva chiederanno aiuto ai Nani Minatori che, per l'occasione, riprenderanno le armi che avevano deposto secoli prima.</em></p>",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521107/",
+            "cover_date": "2016-02-29",
+            "date_added": "2016-03-20 14:32:11",
+            "date_last_updated": "2017-02-24 13:51:35",
+            "deck": null,
+            "description": null,
             "has_staff_review": false,
-            "id": 562077,
+            "id": 521107,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557450-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557450-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557450-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557450-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557450-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557450-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557450-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557450-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5557450-34.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5717813-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5717813-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5717813-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5717813-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5717813-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5717813-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5717813-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5717813-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5717813-34.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "34",
-            "name": "Il ritorno di Zehfir",
-            "site_detail_url": "https://comicvine.gamespot.com/dragonero-34-il-ritorno-di-zehfir/4000-562077/",
-            "store_date": "2016-03-10",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium-34/4000-521107/",
+            "store_date": "2016-01-09",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
-                "id": 67599,
-                "name": "Dragonero",
-                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67387/",
+                "id": 67387,
+                "name": "Comic Anthurium",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
             }
-        }
-    ],
-    "2016-03-14|2016-03-20": [],
-    "2016-03-21|2016-03-27": [],
-    "2016-03-28|2016-04-03": [],
-    "2016-04-04|2016-04-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-523308/",
@@ -218,41 +134,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-528287/",
-            "cover_date": "2016-05-31",
-            "date_added": "2016-05-02 10:08:37",
-            "date_last_updated": "2016-05-02 10:10:44",
-            "deck": null,
-            "description": "<p> Translates Secret Wars 2099 #5 &amp; Civil War #1.</p>",
-            "has_staff_review": false,
-            "id": 528287,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5186105-5805345429-AVENG.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5186105-5805345429-AVENG.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5186105-5805345429-AVENG.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5186105-5805345429-AVENG.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5186105-5805345429-AVENG.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5186105-5805345429-AVENG.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5186105-5805345429-AVENG.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5186105-5805345429-AVENG.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5186105-5805345429-AVENG.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/avengers-34/4000-528287/",
-            "store_date": "2016-04-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67397/",
-                "id": 67397,
-                "name": "Avengers",
-                "site_detail_url": "https://comicvine.gamespot.com/avengers/4050-67397/"
-            }
-        }
-    ],
-    "2016-04-11|2016-04-17": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524863/",
             "cover_date": "2016-04-30",
             "date_added": "2016-04-11 18:02:42",
@@ -283,9 +164,7 @@
                 "name": "Air Gear",
                 "site_detail_url": "https://comicvine.gamespot.com/air-gear/4050-25071/"
             }
-        }
-    ],
-    "2016-04-18|2016-04-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-526011/",
@@ -354,44 +233,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535488/",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-528287/",
             "cover_date": "2016-05-31",
-            "date_added": "2016-06-15 14:47:14",
-            "date_last_updated": "2016-06-15 14:48:52",
+            "date_added": "2016-05-02 10:08:37",
+            "date_last_updated": "2016-05-02 10:10:44",
             "deck": null,
-            "description": "<p> Translates Years of Future Past #5 and Age of Apocalypse #1.</p>",
+            "description": "<p> Translates Secret Wars 2099 #5 &amp; Civil War #1.</p>",
             "has_staff_review": false,
-            "id": 535488,
+            "id": 528287,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5267840-0685900134-DIENE.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5267840-0685900134-DIENE.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5267840-0685900134-DIENE.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5267840-0685900134-DIENE.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5267840-0685900134-DIENE.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5267840-0685900134-DIENE.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5267840-0685900134-DIENE.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5267840-0685900134-DIENE.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5267840-0685900134-DIENE.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5186105-5805345429-AVENG.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5186105-5805345429-AVENG.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5186105-5805345429-AVENG.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5186105-5805345429-AVENG.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5186105-5805345429-AVENG.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5186105-5805345429-AVENG.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5186105-5805345429-AVENG.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5186105-5805345429-AVENG.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5186105-5805345429-AVENG.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "34",
             "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men-34/4000-535488/",
-            "store_date": "2016-04-19",
+            "site_detail_url": "https://comicvine.gamespot.com/avengers-34/4000-528287/",
+            "store_date": "2016-04-05",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65646/",
-                "id": 65646,
-                "name": "Die Neuen X-Men",
-                "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men/4050-65646/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67397/",
+                "id": 67397,
+                "name": "Avengers",
+                "site_detail_url": "https://comicvine.gamespot.com/avengers/4050-67397/"
             }
-        }
-    ],
-    "2016-04-25|2016-05-01": [],
-    "2016-05-02|2016-05-08": [],
-    "2016-05-09|2016-05-15": [],
-    "2016-05-16|2016-05-22": [],
-    "2016-05-23|2016-05-29": [],
-    "2016-05-30|2016-06-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-532974/",
@@ -424,9 +296,7 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-39219/"
             }
-        }
-    ],
-    "2016-06-06|2016-06-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-534245/",
@@ -459,17 +329,40 @@
                 "name": "Abe Sapien",
                 "site_detail_url": "https://comicvine.gamespot.com/abe-sapien/4050-59507/"
             }
-        }
-    ],
-    "2016-06-13|2016-06-19": [],
-    "2016-06-20|2016-06-26": [],
-    "2016-06-27|2016-07-03": [],
-    "2016-07-04|2016-07-10": [],
-    "2016-07-11|2016-07-17": [],
-    "2016-07-18|2016-07-24": [],
-    "2016-07-25|2016-07-31": [],
-    "2016-08-01|2016-08-07": [],
-    "2016-08-08|2016-08-14": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-535488/",
+            "cover_date": "2016-05-31",
+            "date_added": "2016-06-15 14:47:14",
+            "date_last_updated": "2016-06-15 14:48:52",
+            "deck": null,
+            "description": "<p> Translates Years of Future Past #5 and Age of Apocalypse #1.</p>",
+            "has_staff_review": false,
+            "id": 535488,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5267840-0685900134-DIENE.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5267840-0685900134-DIENE.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5267840-0685900134-DIENE.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5267840-0685900134-DIENE.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5267840-0685900134-DIENE.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5267840-0685900134-DIENE.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5267840-0685900134-DIENE.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5267840-0685900134-DIENE.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5267840-0685900134-DIENE.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men-34/4000-535488/",
+            "store_date": "2016-04-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65646/",
+                "id": 65646,
+                "name": "Die Neuen X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/die-neuen-x-men/4050-65646/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-543515/",
@@ -535,9 +428,7 @@
                 "name": "Teen Titans Go!",
                 "site_detail_url": "https://comicvine.gamespot.com/teen-titans-go/4050-69512/"
             }
-        }
-    ],
-    "2016-08-15|2016-08-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-544791/",
@@ -570,9 +461,7 @@
                 "name": "The Maxx: Maxximized",
                 "site_detail_url": "https://comicvine.gamespot.com/the-maxx-maxximized/4050-69578/"
             }
-        }
-    ],
-    "2016-08-22|2016-08-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-546085/",
@@ -605,9 +494,7 @@
                 "name": "Thief of Thieves",
                 "site_detail_url": "https://comicvine.gamespot.com/thief-of-thieves/4050-45727/"
             }
-        }
-    ],
-    "2016-08-29|2016-09-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-547187/",
@@ -640,45 +527,7 @@
                 "name": "Scooby-Doo! Team-Up",
                 "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-team-up/4050-69510/"
             }
-        }
-    ],
-    "2016-09-05|2016-09-11": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561640/",
-            "cover_date": "2016-10-01",
-            "date_added": "2016-11-27 20:29:15",
-            "date_last_updated": "2018-09-15 15:18:33",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 561640,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5556600-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5556600-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5556600-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5556600-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5556600-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5556600-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5556600-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5556600-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5556600-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei-34/4000-561640/",
-            "store_date": "2016-09-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89106/",
-                "id": 89106,
-                "name": "Comic Mugen Tensei",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
-            }
-        }
-    ],
-    "2016-09-12|2016-09-18": [],
-    "2016-09-19|2016-09-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-550267/",
@@ -711,85 +560,7 @@
                 "name": "Boys Over Flowers Season 2",
                 "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2/4050-81328/"
             }
-        }
-    ],
-    "2016-09-26|2016-10-02": [],
-    "2016-10-03|2016-10-09": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657530/",
-            "cover_date": "2016-10-31",
-            "date_added": "2018-02-03 03:03:02",
-            "date_last_updated": "2018-02-09 22:02:10",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 657530,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261178-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261178-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261178-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261178-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261178-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261178-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261178-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261178-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6261178-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/itan-34/4000-657530/",
-            "store_date": "2016-10-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
-                "id": 108375,
-                "name": "ITAN",
-                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
-            }
-        }
-    ],
-    "2016-10-10|2016-10-16": [],
-    "2016-10-17|2016-10-23": [],
-    "2016-10-24|2016-10-30": [],
-    "2016-10-31|2016-11-06": [],
-    "2016-11-07|2016-11-13": [],
-    "2016-11-14|2016-11-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600537/",
-            "cover_date": "2016-11-30",
-            "date_added": "2017-06-07 08:16:19",
-            "date_last_updated": "2017-06-08 15:12:16",
-            "deck": null,
-            "description": "<p><em>Chapter 24</em></p><p><em>Ally’s sister tries to kill her mom. Ally has to enlist Seth’s help to stop her.</em></p>",
-            "has_staff_review": false,
-            "id": 600537,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5886997-34.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5886997-34.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5886997-34.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5886997-34.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5886997-34.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5886997-34.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5886997-34.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5886997-34.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5886997-34.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "34",
-            "name": "Chapter 24: Burnt",
-            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-34-chapter-24-burnt/4000-600537/",
-            "store_date": "2016-11-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
-                "id": 70796,
-                "name": "Sorcery 101",
-                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
-            }
-        }
-    ],
-    "2016-11-21|2016-11-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-558873/",
@@ -822,11 +593,106 @@
                 "name": "My Little Pony: Friends Forever",
                 "site_detail_url": "https://comicvine.gamespot.com/my-little-pony-friends-forever/4050-71074/"
             }
-        }
-    ],
-    "2016-11-28|2016-12-04": [],
-    "2016-12-05|2016-12-11": [],
-    "2016-12-12|2016-12-18": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561640/",
+            "cover_date": "2016-10-01",
+            "date_added": "2016-11-27 20:29:15",
+            "date_last_updated": "2018-09-15 15:18:33",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 561640,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5556600-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5556600-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5556600-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5556600-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5556600-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5556600-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5556600-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5556600-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5556600-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei-34/4000-561640/",
+            "store_date": "2016-09-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89106/",
+                "id": 89106,
+                "name": "Comic Mugen Tensei",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562077/",
+            "cover_date": "2016-03-01",
+            "date_added": "2016-11-28 06:17:31",
+            "date_last_updated": "2018-09-15 19:38:09",
+            "deck": "Un'antica pietra sepolta è la chiave per il ritorno dei terribili Abominii!",
+            "description": "<p><em>Un vecchio nemico di Dragonero torna dal regno degli Inferi alla guida di un esercito di feroci famigli. La sua missione: recuperare un'antica pietra custodita nelle viscere di una miniera che, se trafugata, renderebbe il mondo impotente di fronte a una nuova invasione degli Abominii. Ian, Gmor e Myrva chiederanno aiuto ai Nani Minatori che, per l'occasione, riprenderanno le armi che avevano deposto secoli prima.</em></p>",
+            "has_staff_review": false,
+            "id": 562077,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557450-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557450-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557450-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557450-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557450-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557450-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557450-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557450-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557450-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Il ritorno di Zehfir",
+            "site_detail_url": "https://comicvine.gamespot.com/dragonero-34-il-ritorno-di-zehfir/4000-562077/",
+            "store_date": "2016-03-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67599/",
+                "id": 67599,
+                "name": "Dragonero",
+                "site_detail_url": "https://comicvine.gamespot.com/dragonero/4050-67599/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-562266/",
+            "cover_date": "2016-03-01",
+            "date_added": "2016-11-28 08:13:42",
+            "date_last_updated": "2018-10-28 13:43:50",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 562266,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5557866-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5557866-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5557866-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5557866-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5557866-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5557866-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5557866-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5557866-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5557866-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou-34/4000-562266/",
+            "store_date": "2016-03-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68505/",
+                "id": 68505,
+                "name": "Les Trésors de Picsou",
+                "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou/4050-68505/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-566640/",
@@ -858,6 +724,138 @@
                 "id": 58844,
                 "name": "Kyokai no Rinne",
                 "site_detail_url": "https://comicvine.gamespot.com/kyokai-no-rinne/4050-58844/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571710/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:30:49",
+            "date_last_updated": "2017-03-19 16:58:11",
+            "deck": null,
+            "description": "<p><em>A change is gonna come.</em></p>",
+            "has_staff_review": false,
+            "id": 571710,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614034-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614034-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614034-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614034-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614034-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614034-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614034-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614034-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614034-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "The Show Must Go On",
+            "site_detail_url": "https://comicvine.gamespot.com/sex-34-the-show-must-go-on/4000-571710/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-58439/",
+                "id": 58439,
+                "name": "Sex",
+                "site_detail_url": "https://comicvine.gamespot.com/sex/4050-58439/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588040/",
+            "cover_date": "2017-02-28",
+            "date_added": "2017-03-18 15:27:27",
+            "date_last_updated": "2017-03-19 10:55:52",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 588040,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5756046-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5756046-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5756046-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5756046-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5756046-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5756046-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5756046-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5756046-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5756046-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Vol. 34",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-milf-34-vol-34/4000-588040/",
+            "store_date": "2016-12-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68872/",
+                "id": 68872,
+                "name": "Comic MILF",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-milf/4050-68872/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600537/",
+            "cover_date": "2016-11-30",
+            "date_added": "2017-06-07 08:16:19",
+            "date_last_updated": "2017-06-08 15:12:16",
+            "deck": null,
+            "description": "<p><em>Chapter 24</em></p><p><em>Ally’s sister tries to kill her mom. Ally has to enlist Seth’s help to stop her.</em></p>",
+            "has_staff_review": false,
+            "id": 600537,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5886997-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5886997-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5886997-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5886997-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5886997-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5886997-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5886997-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5886997-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5886997-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Chapter 24: Burnt",
+            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-34-chapter-24-burnt/4000-600537/",
+            "store_date": "2016-11-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
+                "id": 70796,
+                "name": "Sorcery 101",
+                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657530/",
+            "cover_date": "2016-10-31",
+            "date_added": "2018-02-03 03:03:02",
+            "date_last_updated": "2018-02-09 22:02:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 657530,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261178-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261178-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261178-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261178-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261178-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261178-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261178-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261178-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6261178-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/itan-34/4000-657530/",
+            "store_date": "2016-10-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
+                "id": 108375,
+                "name": "ITAN",
+                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
             }
         }
     ]

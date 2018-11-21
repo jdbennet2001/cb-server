@@ -1,43 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [],
-    "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": [],
-    "2011-01-17|2011-01-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-303960/",
-            "cover_date": "2011-01-31",
-            "date_added": "2011-11-26 07:54:47",
-            "date_last_updated": "2016-01-16 08:18:08",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Battle 379. \"Kugatachi Style Jou-Jutsu\"</li><li>Battle 380. \"House Arrest\"</li><li>Battle 380.5. \"Gaiden\"</li><li>Battle 381. \"Reaction\"</li><li>Battle 382. \"To Okinawa\"</li><li>Battle 383. \"Anxious Friends\"</li><li>Battle 384. \"Front-On Attack\"</li><li>Battle 385. \"Base Invasion\"</li><li>Battle 386. \"Battles On All Fronts\"</li><li>Battle 387. \"Shigure Vs The Lance of the West\"</li></ul>",
-            "has_staff_review": false,
-            "id": 303960,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Volume 41",
-            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-41-volume-41/4000-303960/",
-            "store_date": "2011-01-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44184/",
-                "id": 44184,
-                "name": "Shijō Saikyō no Deshi Ken'ichi",
-                "site_detail_url": "https://comicvine.gamespot.com/shijo-saikyo-no-deshi-ken-ichi/4050-44184/"
-            }
-        }
-    ],
-    "2011-01-24|2011-01-30": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-260597/",
@@ -70,11 +32,7 @@
                 "name": "Angel",
                 "site_detail_url": "https://comicvine.gamespot.com/angel/4050-19692/"
             }
-        }
-    ],
-    "2011-01-31|2011-02-06": [],
-    "2011-02-07|2011-02-13": [],
-    "2011-02-14|2011-02-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-262590/",
@@ -107,83 +65,7 @@
                 "name": "Booster Gold",
                 "site_detail_url": "https://comicvine.gamespot.com/booster-gold/4050-19025/"
             }
-        }
-    ],
-    "2011-02-21|2011-02-27": [],
-    "2011-02-28|2011-03-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559393/",
-            "cover_date": "2011-03-31",
-            "date_added": "2016-11-26 05:39:52",
-            "date_last_updated": "2017-04-15 19:17:27",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 559393,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551247-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551247-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551247-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551247-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551247-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551247-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551247-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551247-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551247-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Heart",
-            "site_detail_url": "https://comicvine.gamespot.com/bleach-41-heart/4000-559393/",
-            "store_date": "2011-03-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51841/",
-                "id": 51841,
-                "name": "Bleach",
-                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-51841/"
-            }
-        }
-    ],
-    "2011-03-07|2011-03-13": [],
-    "2011-03-14|2011-03-20": [],
-    "2011-03-21|2011-03-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-440036/",
-            "cover_date": "2011-03-01",
-            "date_added": "2013-12-28 06:47:54",
-            "date_last_updated": "2013-12-28 22:27:57",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 440036,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532674-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532674-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532674-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532674-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532674-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532674-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532674-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532674-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532674-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Vol. 41",
-            "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time-41-vol-41/4000-440036/",
-            "store_date": "2011-03-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70472/",
-                "id": 70472,
-                "name": "The Ravages of Time",
-                "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time/4050-70472/"
-            }
-        }
-    ],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-267526/",
@@ -216,52 +98,7 @@
                 "name": "The Prince of Tennis",
                 "site_detail_url": "https://comicvine.gamespot.com/the-prince-of-tennis/4050-32880/"
             }
-        }
-    ],
-    "2011-04-11|2011-04-17": [],
-    "2011-04-18|2011-04-24": [],
-    "2011-04-25|2011-05-01": [],
-    "2011-05-02|2011-05-08": [],
-    "2011-05-09|2011-05-15": [],
-    "2011-05-16|2011-05-22": [],
-    "2011-05-23|2011-05-29": [],
-    "2011-05-30|2011-06-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445619/",
-            "cover_date": "2011-06-01",
-            "date_added": "2014-02-14 22:02:57",
-            "date_last_updated": "2015-09-18 03:04:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 445619,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3644246-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3644246-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3644246-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3644246-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3644246-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3644246-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3644246-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3644246-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3644246-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Le Lauréat \"K22\"",
-            "site_detail_url": "https://comicvine.gamespot.com/le-scrameustache-41-le-laureat-k22/4000-445619/",
-            "store_date": "2011-06-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71730/",
-                "id": 71730,
-                "name": "Le Scrameustache",
-                "site_detail_url": "https://comicvine.gamespot.com/le-scrameustache/4050-71730/"
-            }
-        }
-    ],
-    "2011-06-06|2011-06-12": [],
-    "2011-06-13|2011-06-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-274425/",
@@ -327,152 +164,7 @@
                 "name": "Tiny Titans",
                 "site_detail_url": "https://comicvine.gamespot.com/tiny-titans/4050-20512/"
             }
-        }
-    ],
-    "2011-06-20|2011-06-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-319579/",
-            "cover_date": "2011-07-06",
-            "date_added": "2012-03-07 13:52:06",
-            "date_last_updated": "2015-10-31 08:21:59",
-            "deck": null,
-            "description": "<p><i>A locked room mystery! A string of brutal murders! A missing girl! One of Peter Parker's closest friends on the brink of ruin! This looks like a job for the Amazing Spider-Sleuth... and all clues point to the sinister Sandman! But all of Spidey's classic villains are being reinvented as part of <strong>The Gauntlet</strong>, and the Sandman is no different!</i></p><p><i>Also, With The Hood and Mr Negative locked in a battle to the death, Betty Brant is poised to unlock the secret origin of the Chinatown's lord of crime, and to stop her he has sent his newest corrupted enforcer to end her life – Peter Parker, the Lacerating Spider-Man!</i></p><p>Includes material reprinted from Amazing Spider-Man #615-616 and Dark Reign: Mr Negative #3.</p>",
-            "has_staff_review": false,
-            "id": 319579,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2233265-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2233265-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2233265-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2233265-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2233265-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2233265-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2233265-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2233265-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2233265-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-41/4000-319579/",
-            "store_date": "2011-06-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
-                "id": 33937,
-                "name": "The Astonishing Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
-            }
-        }
-    ],
-    "2011-06-27|2011-07-03": [],
-    "2011-07-04|2011-07-10": [],
-    "2011-07-11|2011-07-17": [],
-    "2011-07-18|2011-07-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-418232/",
-            "cover_date": "2011-07-31",
-            "date_added": "2013-07-17 22:54:29",
-            "date_last_updated": "2017-07-17 20:57:45",
-            "deck": null,
-            "description": "<p><em>Entering its fifth decade as the preeminent source of comic book pricing information, The Overstreet Comic Book Price Guide has been the definitive guide for collectors and dealers alike since 1970. In addition to a choice of covers - Thor (by signature Mighty Thor artist, Walter Simonson!) or Supergirl/Batgirl (by Power Girl superstar Amanda Conner!), this 41st edition includes all the new insights, features, and data, along with the most comprehensive listing of comics and all-new entries in the Overstreet Hall of Fame. Perfect for both new collectors and seasoned enthusiasts. Available in Softcover and Hardcover editions of both cover designs.</em></p>",
-            "has_staff_review": false,
-            "id": 418232,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3181286-41a.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3181286-41a.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3181286-41a.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3181286-41a.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3181286-41a.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3181286-41a.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3181286-41a.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3181286-41a.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3181286-41a.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "2011 - 2012",
-            "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide-41-2011-2012/4000-418232/",
-            "store_date": "2011-07-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65397/",
-                "id": 65397,
-                "name": "The Overstreet Comic Book Price Guide",
-                "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide/4050-65397/"
-            }
-        }
-    ],
-    "2011-07-25|2011-07-31": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-353701/",
-            "cover_date": null,
-            "date_added": "2012-08-26 05:38:08",
-            "date_last_updated": "2013-06-08 06:43:35",
-            "deck": null,
-            "description": "<p> Translates <a href=\"/deathlok/4050-29298/\" data-ref-id=\"4050-29298\">Deathlok</a> #1-7.</p>",
-            "has_staff_review": false,
-            "id": 353701,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2552938-max41deathlok_420.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2552938-max41deathlok_420.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2552938-max41deathlok_420.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2552938-max41deathlok_420.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2552938-max41deathlok_420.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2552938-max41deathlok_420.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2552938-max41deathlok_420.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2552938-max41deathlok_420.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2552938-max41deathlok_420.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/max-41/4000-353701/",
-            "store_date": "2011-07-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42761/",
-                "id": 42761,
-                "name": "MAX",
-                "site_detail_url": "https://comicvine.gamespot.com/max/4050-42761/"
-            }
-        }
-    ],
-    "2011-08-01|2011-08-07": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416311/",
-            "cover_date": "2011-08-05",
-            "date_added": "2013-07-05 00:11:27",
-            "date_last_updated": "2013-07-05 00:37:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416311,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153085-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153085-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153085-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153085-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153085-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153085-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153085-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153085-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3153085-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Vol. 41",
-            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-41-vol-41/4000-416311/",
-            "store_date": "2011-08-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64975/",
-                "id": 64975,
-                "name": "Kenichi: The Mightiest Disciple",
-                "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple/4050-64975/"
-            }
-        }
-    ],
-    "2011-08-08|2011-08-14": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-285557/",
@@ -505,44 +197,7 @@
                 "name": "Deadpool",
                 "site_detail_url": "https://comicvine.gamespot.com/deadpool/4050-22955/"
             }
-        }
-    ],
-    "2011-08-15|2011-08-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439544/",
-            "cover_date": "2011-10-01",
-            "date_added": "2013-12-28 04:37:35",
-            "date_last_updated": "2013-12-29 00:55:50",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 439544,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532049-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532049-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532049-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532049-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532049-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532049-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532049-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532049-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532049-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-41/4000-439544/",
-            "store_date": "2011-08-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
-                "id": 70468,
-                "name": "Comic Penguin Celeb",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
-            }
-        }
-    ],
-    "2011-08-22|2011-08-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-288516/",
@@ -575,44 +230,7 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-10746/"
             }
-        }
-    ],
-    "2011-08-29|2011-09-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-353057/",
-            "cover_date": "2011-09-02",
-            "date_added": "2012-08-23 00:20:45",
-            "date_last_updated": "2016-06-22 15:14:49",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: さよなライオンなんか言わせない</p><h2>Chapter Titles</h2><ul><li>Lesson 353. \"The end of a picture story show and a show of dreams\" (紙芝居 夢芝居 これでオシマイ)</li><li>Lesson 354. \"A forgotten guy will come at the time he is least remembered\" (宇宙ブルルン滞在記)</li><li>Lesson 355. \"Space Bururun Taizaki\" (宇宙ブルルン滞在記)</li><li>Lesson 356. \"If you're a man, try the cockpit at least once\" (男だったら一度はコックピット)</li><li>Lesson 357. \"A Senryouhako is just a trash bin\" (千両箱とガラクタの箱)</li><li>Lesson 358. \"Empty Star\" (空の星)</li><li>Lesson 359. \"Business Transactions are Fierce Battles\" (商いとは戦い)</li><li>Lesson 360. \"Don't say Sayonaraion\" (さよなライオンなんか言わせない)</li></ul>",
-            "has_staff_review": false,
-            "id": 353057,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2547195-41_cropped.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2547195-41_cropped.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2547195-41_cropped.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2547195-41_cropped.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2547195-41_cropped.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2547195-41_cropped.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2547195-41_cropped.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2547195-41_cropped.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2547195-41_cropped.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Don't Say Sayonaraion",
-            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-41-dont-say-sayonaraion/4000-353057/",
-            "store_date": "2011-09-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42491/",
-                "id": 42491,
-                "name": "Gintama",
-                "site_detail_url": "https://comicvine.gamespot.com/gintama/4050-42491/"
-            }
-        }
-    ],
-    "2011-09-05|2011-09-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-291198/",
@@ -645,10 +263,7 @@
                 "name": "House of Mystery",
                 "site_detail_url": "https://comicvine.gamespot.com/house-of-mystery/4050-21513/"
             }
-        }
-    ],
-    "2011-09-12|2011-09-18": [],
-    "2011-09-19|2011-09-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-293357/",
@@ -681,11 +296,7 @@
                 "name": "Hulk",
                 "site_detail_url": "https://comicvine.gamespot.com/hulk/4050-20291/"
             }
-        }
-    ],
-    "2011-09-26|2011-10-02": [],
-    "2011-10-03|2011-10-09": [],
-    "2011-10-10|2011-10-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-295069/",
@@ -718,15 +329,336 @@
                 "name": "The Walking Dead Weekly",
                 "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-303960/",
+            "cover_date": "2011-01-31",
+            "date_added": "2011-11-26 07:54:47",
+            "date_last_updated": "2016-01-16 08:18:08",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Battle 379. \"Kugatachi Style Jou-Jutsu\"</li><li>Battle 380. \"House Arrest\"</li><li>Battle 380.5. \"Gaiden\"</li><li>Battle 381. \"Reaction\"</li><li>Battle 382. \"To Okinawa\"</li><li>Battle 383. \"Anxious Friends\"</li><li>Battle 384. \"Front-On Attack\"</li><li>Battle 385. \"Base Invasion\"</li><li>Battle 386. \"Battles On All Fronts\"</li><li>Battle 387. \"Shigure Vs The Lance of the West\"</li></ul>",
+            "has_staff_review": false,
+            "id": 303960,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2102650-428594_kenichi_vol_41_full_copia_super.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Volume 41",
+            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-41-volume-41/4000-303960/",
+            "store_date": "2011-01-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44184/",
+                "id": 44184,
+                "name": "Shijō Saikyō no Deshi Ken'ichi",
+                "site_detail_url": "https://comicvine.gamespot.com/shijo-saikyo-no-deshi-ken-ichi/4050-44184/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-319579/",
+            "cover_date": "2011-07-06",
+            "date_added": "2012-03-07 13:52:06",
+            "date_last_updated": "2015-10-31 08:21:59",
+            "deck": null,
+            "description": "<p><i>A locked room mystery! A string of brutal murders! A missing girl! One of Peter Parker's closest friends on the brink of ruin! This looks like a job for the Amazing Spider-Sleuth... and all clues point to the sinister Sandman! But all of Spidey's classic villains are being reinvented as part of <strong>The Gauntlet</strong>, and the Sandman is no different!</i></p><p><i>Also, With The Hood and Mr Negative locked in a battle to the death, Betty Brant is poised to unlock the secret origin of the Chinatown's lord of crime, and to stop her he has sent his newest corrupted enforcer to end her life – Peter Parker, the Lacerating Spider-Man!</i></p><p>Includes material reprinted from Amazing Spider-Man #615-616 and Dark Reign: Mr Negative #3.</p>",
+            "has_staff_review": false,
+            "id": 319579,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2233265-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2233265-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2233265-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2233265-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2233265-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2233265-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2233265-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2233265-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2233265-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-41/4000-319579/",
+            "store_date": "2011-06-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
+                "id": 33937,
+                "name": "The Astonishing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-353057/",
+            "cover_date": "2011-09-02",
+            "date_added": "2012-08-23 00:20:45",
+            "date_last_updated": "2016-06-22 15:14:49",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: さよなライオンなんか言わせない</p><h2>Chapter Titles</h2><ul><li>Lesson 353. \"The end of a picture story show and a show of dreams\" (紙芝居 夢芝居 これでオシマイ)</li><li>Lesson 354. \"A forgotten guy will come at the time he is least remembered\" (宇宙ブルルン滞在記)</li><li>Lesson 355. \"Space Bururun Taizaki\" (宇宙ブルルン滞在記)</li><li>Lesson 356. \"If you're a man, try the cockpit at least once\" (男だったら一度はコックピット)</li><li>Lesson 357. \"A Senryouhako is just a trash bin\" (千両箱とガラクタの箱)</li><li>Lesson 358. \"Empty Star\" (空の星)</li><li>Lesson 359. \"Business Transactions are Fierce Battles\" (商いとは戦い)</li><li>Lesson 360. \"Don't say Sayonaraion\" (さよなライオンなんか言わせない)</li></ul>",
+            "has_staff_review": false,
+            "id": 353057,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2547195-41_cropped.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2547195-41_cropped.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2547195-41_cropped.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2547195-41_cropped.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2547195-41_cropped.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2547195-41_cropped.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2547195-41_cropped.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2547195-41_cropped.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2547195-41_cropped.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Don't Say Sayonaraion",
+            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-41-dont-say-sayonaraion/4000-353057/",
+            "store_date": "2011-09-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42491/",
+                "id": 42491,
+                "name": "Gintama",
+                "site_detail_url": "https://comicvine.gamespot.com/gintama/4050-42491/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-353701/",
+            "cover_date": null,
+            "date_added": "2012-08-26 05:38:08",
+            "date_last_updated": "2013-06-08 06:43:35",
+            "deck": null,
+            "description": "<p> Translates <a href=\"/deathlok/4050-29298/\" data-ref-id=\"4050-29298\">Deathlok</a> #1-7.</p>",
+            "has_staff_review": false,
+            "id": 353701,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2552938-max41deathlok_420.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2552938-max41deathlok_420.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2552938-max41deathlok_420.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2552938-max41deathlok_420.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2552938-max41deathlok_420.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2552938-max41deathlok_420.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2552938-max41deathlok_420.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2552938-max41deathlok_420.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2552938-max41deathlok_420.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/max-41/4000-353701/",
+            "store_date": "2011-07-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42761/",
+                "id": 42761,
+                "name": "MAX",
+                "site_detail_url": "https://comicvine.gamespot.com/max/4050-42761/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416311/",
+            "cover_date": "2011-08-05",
+            "date_added": "2013-07-05 00:11:27",
+            "date_last_updated": "2013-07-05 00:37:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416311,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153085-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153085-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153085-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153085-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153085-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153085-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153085-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153085-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3153085-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Vol. 41",
+            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-41-vol-41/4000-416311/",
+            "store_date": "2011-08-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64975/",
+                "id": 64975,
+                "name": "Kenichi: The Mightiest Disciple",
+                "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple/4050-64975/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-418232/",
+            "cover_date": "2011-07-31",
+            "date_added": "2013-07-17 22:54:29",
+            "date_last_updated": "2017-07-17 20:57:45",
+            "deck": null,
+            "description": "<p><em>Entering its fifth decade as the preeminent source of comic book pricing information, The Overstreet Comic Book Price Guide has been the definitive guide for collectors and dealers alike since 1970. In addition to a choice of covers - Thor (by signature Mighty Thor artist, Walter Simonson!) or Supergirl/Batgirl (by Power Girl superstar Amanda Conner!), this 41st edition includes all the new insights, features, and data, along with the most comprehensive listing of comics and all-new entries in the Overstreet Hall of Fame. Perfect for both new collectors and seasoned enthusiasts. Available in Softcover and Hardcover editions of both cover designs.</em></p>",
+            "has_staff_review": false,
+            "id": 418232,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3181286-41a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3181286-41a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3181286-41a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3181286-41a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3181286-41a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3181286-41a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3181286-41a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3181286-41a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3181286-41a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "2011 - 2012",
+            "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide-41-2011-2012/4000-418232/",
+            "store_date": "2011-07-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65397/",
+                "id": 65397,
+                "name": "The Overstreet Comic Book Price Guide",
+                "site_detail_url": "https://comicvine.gamespot.com/the-overstreet-comic-book-price-guide/4050-65397/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439544/",
+            "cover_date": "2011-10-01",
+            "date_added": "2013-12-28 04:37:35",
+            "date_last_updated": "2013-12-29 00:55:50",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 439544,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532049-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532049-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532049-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532049-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532049-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532049-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532049-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532049-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532049-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-41/4000-439544/",
+            "store_date": "2011-08-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
+                "id": 70468,
+                "name": "Comic Penguin Celeb",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-440036/",
+            "cover_date": "2011-03-01",
+            "date_added": "2013-12-28 06:47:54",
+            "date_last_updated": "2013-12-28 22:27:57",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 440036,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532674-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532674-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532674-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532674-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532674-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532674-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532674-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532674-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532674-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Vol. 41",
+            "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time-41-vol-41/4000-440036/",
+            "store_date": "2011-03-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70472/",
+                "id": 70472,
+                "name": "The Ravages of Time",
+                "site_detail_url": "https://comicvine.gamespot.com/the-ravages-of-time/4050-70472/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445619/",
+            "cover_date": "2011-06-01",
+            "date_added": "2014-02-14 22:02:57",
+            "date_last_updated": "2015-09-18 03:04:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 445619,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3644246-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3644246-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3644246-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3644246-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3644246-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3644246-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3644246-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3644246-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3644246-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Le Lauréat \"K22\"",
+            "site_detail_url": "https://comicvine.gamespot.com/le-scrameustache-41-le-laureat-k22/4000-445619/",
+            "store_date": "2011-06-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71730/",
+                "id": 71730,
+                "name": "Le Scrameustache",
+                "site_detail_url": "https://comicvine.gamespot.com/le-scrameustache/4050-71730/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559393/",
+            "cover_date": "2011-03-31",
+            "date_added": "2016-11-26 05:39:52",
+            "date_last_updated": "2017-04-15 19:17:27",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 559393,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551247-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551247-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551247-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551247-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551247-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551247-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551247-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551247-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551247-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Heart",
+            "site_detail_url": "https://comicvine.gamespot.com/bleach-41-heart/4000-559393/",
+            "store_date": "2011-03-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51841/",
+                "id": 51841,
+                "name": "Bleach",
+                "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-51841/"
+            }
         }
-    ],
-    "2011-10-17|2011-10-23": [],
-    "2011-10-24|2011-10-30": [],
-    "2011-10-31|2011-11-06": [],
-    "2011-11-07|2011-11-13": [],
-    "2011-11-14|2011-11-20": [],
-    "2011-11-21|2011-11-27": [],
-    "2011-11-28|2011-12-04": [],
-    "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    ]
 }

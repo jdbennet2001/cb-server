@@ -1,8 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [],
-    "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": [],
-    "2011-01-17|2011-01-23": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-258335/",
@@ -71,44 +68,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-310471/",
-            "cover_date": "2011-01-01",
-            "date_added": "2012-01-09 23:16:35",
-            "date_last_updated": "2014-03-10 16:23:20",
-            "deck": null,
-            "description": "<p><i>Maintenant qu’elle connaît l’orgasme, Yura se montre de plus en plus insatiable, au point d’épuiser littéralement Makoto ! De son côté Kyoko n’a pas supporté l’infidélité de Matsuzaki et est retournée chez ses parents. Matsuzaki va la retrouver pour lui présenter ses excuses et lui promettre de ne plus recommencer. Elle lui apprend alors qu’elle est enceinte…</i></p>",
-            "has_staff_review": false,
-            "id": 310471,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2156200-36.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2156200-36.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2156200-36.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2156200-36.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2156200-36.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2156200-36.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2156200-36.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2156200-36.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2156200-36.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "36",
-            "name": "Tome 36",
-            "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story-36-tome-36/4000-310471/",
-            "store_date": "2011-01-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45084/",
-                "id": 45084,
-                "name": "Step Up Love Story",
-                "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
-            }
-        }
-    ],
-    "2011-01-24|2011-01-30": [],
-    "2011-01-31|2011-02-06": [],
-    "2011-02-07|2011-02-13": [],
-    "2011-02-14|2011-02-20": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-262925/",
             "cover_date": "2011-03-01",
             "date_added": "2011-02-16 14:07:36",
@@ -139,9 +98,7 @@
                 "name": "The Outsiders",
                 "site_detail_url": "https://comicvine.gamespot.com/the-outsiders/4050-25804/"
             }
-        }
-    ],
-    "2011-02-21|2011-02-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-263709/",
@@ -174,48 +131,7 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-10746/"
             }
-        }
-    ],
-    "2011-02-28|2011-03-06": [],
-    "2011-03-07|2011-03-13": [],
-    "2011-03-14|2011-03-20": [],
-    "2011-03-21|2011-03-27": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439539/",
-            "cover_date": "2011-05-01",
-            "date_added": "2013-12-28 04:37:22",
-            "date_last_updated": "2013-12-29 00:55:47",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 439539,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532043-36.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532043-36.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532043-36.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532043-36.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532043-36.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532043-36.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532043-36.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532043-36.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532043-36.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "36",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-36/4000-439539/",
-            "store_date": "2011-03-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
-                "id": 70468,
-                "name": "Comic Penguin Celeb",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
-            }
-        }
-    ],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-267599/",
@@ -248,11 +164,7 @@
                 "name": "House of Mystery",
                 "site_detail_url": "https://comicvine.gamespot.com/house-of-mystery/4050-21513/"
             }
-        }
-    ],
-    "2011-04-11|2011-04-17": [],
-    "2011-04-18|2011-04-24": [],
-    "2011-04-25|2011-05-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269027/",
@@ -285,14 +197,7 @@
                 "name": "Deadpool",
                 "site_detail_url": "https://comicvine.gamespot.com/deadpool/4050-22955/"
             }
-        }
-    ],
-    "2011-05-02|2011-05-08": [],
-    "2011-05-09|2011-05-15": [],
-    "2011-05-16|2011-05-22": [],
-    "2011-05-23|2011-05-29": [],
-    "2011-05-30|2011-06-05": [],
-    "2011-06-06|2011-06-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-273077/",
@@ -325,12 +230,7 @@
                 "name": "Titans",
                 "site_detail_url": "https://comicvine.gamespot.com/titans/4050-21159/"
             }
-        }
-    ],
-    "2011-06-13|2011-06-19": [],
-    "2011-06-20|2011-06-26": [],
-    "2011-06-27|2011-07-03": [],
-    "2011-07-04|2011-07-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-277374/",
@@ -396,12 +296,7 @@
                 "name": "Hulk",
                 "site_detail_url": "https://comicvine.gamespot.com/hulk/4050-20291/"
             }
-        }
-    ],
-    "2011-07-11|2011-07-17": [],
-    "2011-07-18|2011-07-24": [],
-    "2011-07-25|2011-07-31": [],
-    "2011-08-01|2011-08-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-282960/",
@@ -439,13 +334,7 @@
                 "name": "Secret Six",
                 "site_detail_url": "https://comicvine.gamespot.com/secret-six/4050-22841/"
             }
-        }
-    ],
-    "2011-08-08|2011-08-14": [],
-    "2011-08-15|2011-08-21": [],
-    "2011-08-22|2011-08-28": [],
-    "2011-08-29|2011-09-04": [],
-    "2011-09-05|2011-09-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-291138/",
@@ -511,50 +400,7 @@
                 "name": "The Walking Dead Weekly",
                 "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
             }
-        }
-    ],
-    "2011-09-12|2011-09-18": [],
-    "2011-09-19|2011-09-25": [],
-    "2011-09-26|2011-10-02": [],
-    "2011-10-03|2011-10-09": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412569/",
-            "cover_date": "2011-10-31",
-            "date_added": "2013-06-20 18:11:51",
-            "date_last_updated": "2016-10-11 13:21:00",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: <i>Niji no Noroi Kuru!</i> (虹の呪い来る!)<i></i></p><h2>Chapter Titles</h2><ul><li>Target 342: Direction (行方 <i>Yukue</i>)</li><li>Target 343: Oath (誓い <i>Chikai</i>)</li><li>Target 344: Trump Card (切り札 <i>Kirifuda</i>)</li><li>Target 345: Eternal Elena (永遠のエレナ <i>Eien no Erena</i>)</li><li>Target 346: And Smile... (そして笑顔・・・ <i>Soshite Egao...</i>)</li><li>Target 347: Mamon and the New Battle Force (マーモンと新戦力 <i>Māmon to Shin Senryoku</i>)</li><li>Target 348: Mamon and the New Battle Force 2 (マーモンと新戦力2 <i>Māmon to Shin Senryoku 2</i>)</li><li>Target 349: Unexpected Problem (ふとした疑問 <i>Futoshita Gimon</i>)</li><li>Target 350: Nightmare (悪夢 <i>Akumu</i>)</li><li>Target 351: Request (頼み <i>Tanomi</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 412569,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121028-36.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121028-36.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121028-36.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121028-36.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121028-36.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121028-36.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121028-36.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121028-36.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3121028-36.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "36",
-            "name": "Curse of The Rainbow Arrives!",
-            "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn-36-curse-of-the-rainbow-arri/4000-412569/",
-            "store_date": "2011-10-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35414/",
-                "id": 35414,
-                "name": "Katekyō Hitman Reborn!",
-                "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn/4050-35414/"
-            }
-        }
-    ],
-    "2011-10-10|2011-10-16": [],
-    "2011-10-17|2011-10-23": [],
-    "2011-10-24|2011-10-30": [],
-    "2011-10-31|2011-11-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-301020/",
@@ -587,16 +433,13 @@
                 "name": "The Goon",
                 "site_detail_url": "https://comicvine.gamespot.com/the-goon/4050-18632/"
             }
-        }
-    ],
-    "2011-11-07|2011-11-13": [],
-    "2011-11-14|2011-11-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-302814/",
             "cover_date": "2011-11-01",
             "date_added": "2011-11-17 17:58:27",
-            "date_last_updated": "2013-05-28 20:09:46",
+            "date_last_updated": "2018-11-15 05:24:45",
             "deck": null,
             "description": "<p><i>'THE KILLING SEASON,' Part One Hip's remark 'Seems like the Elephantmen are in season,' continues to ring true.</i></p>",
             "has_staff_review": false,
@@ -622,6 +465,138 @@
                 "id": 20056,
                 "name": "Elephantmen",
                 "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-310471/",
+            "cover_date": "2011-01-01",
+            "date_added": "2012-01-09 23:16:35",
+            "date_last_updated": "2014-03-10 16:23:20",
+            "deck": null,
+            "description": "<p><i>Maintenant qu’elle connaît l’orgasme, Yura se montre de plus en plus insatiable, au point d’épuiser littéralement Makoto ! De son côté Kyoko n’a pas supporté l’infidélité de Matsuzaki et est retournée chez ses parents. Matsuzaki va la retrouver pour lui présenter ses excuses et lui promettre de ne plus recommencer. Elle lui apprend alors qu’elle est enceinte…</i></p>",
+            "has_staff_review": false,
+            "id": 310471,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2156200-36.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2156200-36.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2156200-36.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2156200-36.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2156200-36.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2156200-36.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2156200-36.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2156200-36.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2156200-36.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": "Tome 36",
+            "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story-36-tome-36/4000-310471/",
+            "store_date": "2011-01-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45084/",
+                "id": 45084,
+                "name": "Step Up Love Story",
+                "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412535/",
+            "cover_date": "2011-12-20",
+            "date_added": "2013-06-20 17:22:05",
+            "date_last_updated": "2013-06-20 17:36:06",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 412535,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3120733-36.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3120733-36.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3120733-36.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3120733-36.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3120733-36.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3120733-36.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3120733-36.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3120733-36.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3120733-36.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": "Vol. 36",
+            "site_detail_url": "https://comicvine.gamespot.com/reborn-36-vol-36/4000-412535/",
+            "store_date": "2011-12-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-63952/",
+                "id": 63952,
+                "name": "Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/reborn/4050-63952/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-412569/",
+            "cover_date": "2011-10-31",
+            "date_added": "2013-06-20 18:11:51",
+            "date_last_updated": "2016-10-11 13:21:00",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: <i>Niji no Noroi Kuru!</i> (虹の呪い来る!)<i></i></p><h2>Chapter Titles</h2><ul><li>Target 342: Direction (行方 <i>Yukue</i>)</li><li>Target 343: Oath (誓い <i>Chikai</i>)</li><li>Target 344: Trump Card (切り札 <i>Kirifuda</i>)</li><li>Target 345: Eternal Elena (永遠のエレナ <i>Eien no Erena</i>)</li><li>Target 346: And Smile... (そして笑顔・・・ <i>Soshite Egao...</i>)</li><li>Target 347: Mamon and the New Battle Force (マーモンと新戦力 <i>Māmon to Shin Senryoku</i>)</li><li>Target 348: Mamon and the New Battle Force 2 (マーモンと新戦力2 <i>Māmon to Shin Senryoku 2</i>)</li><li>Target 349: Unexpected Problem (ふとした疑問 <i>Futoshita Gimon</i>)</li><li>Target 350: Nightmare (悪夢 <i>Akumu</i>)</li><li>Target 351: Request (頼み <i>Tanomi</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 412569,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3121028-36.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3121028-36.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3121028-36.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3121028-36.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3121028-36.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3121028-36.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3121028-36.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3121028-36.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3121028-36.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": "Curse of The Rainbow Arrives!",
+            "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn-36-curse-of-the-rainbow-arri/4000-412569/",
+            "store_date": "2011-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35414/",
+                "id": 35414,
+                "name": "Katekyō Hitman Reborn!",
+                "site_detail_url": "https://comicvine.gamespot.com/katekyo-hitman-reborn/4050-35414/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439539/",
+            "cover_date": "2011-05-01",
+            "date_added": "2013-12-28 04:37:22",
+            "date_last_updated": "2013-12-29 00:55:47",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 439539,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532043-36.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532043-36.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532043-36.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532043-36.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532043-36.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532043-36.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532043-36.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532043-36.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532043-36.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "36",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-36/4000-439539/",
+            "store_date": "2011-03-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
+                "id": 70468,
+                "name": "Comic Penguin Celeb",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
             }
         },
         {
@@ -657,9 +632,5 @@
                 "site_detail_url": "https://comicvine.gamespot.com/mahou-sensei-negima/4050-95909/"
             }
         }
-    ],
-    "2011-11-21|2011-11-27": [],
-    "2011-11-28|2011-12-04": [],
-    "2011-12-05|2011-12-11": [],
-    "2011-12-12|2011-12-18": []
+    ]
 }

@@ -1,45 +1,5 @@
 {
-    "2015-12-21|2015-12-27": [],
-    "2015-12-28|2016-01-03": [],
-    "2015-01-05|2015-01-11": [],
-    "2015-01-12|2015-01-18": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-482960/",
-            "cover_date": "2015-01-16",
-            "date_added": "2015-03-19 07:30:17",
-            "date_last_updated": "2015-03-20 02:07:26",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 482960,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4457011-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4457011-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4457011-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4457011-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4457011-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4457011-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4457011-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4457011-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4457011-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Volume 44",
-            "site_detail_url": "https://comicvine.gamespot.com/the-knight-in-the-area-44-volume-44/4000-482960/",
-            "store_date": "2015-01-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50089/",
-                "id": 50089,
-                "name": "Area no Kishi",
-                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-50089/"
-            }
-        }
-    ],
-    "2015-01-19|2015-01-25": [],
-    "2015-01-26|2015-02-01": [],
-    "2015-02-02|2015-02-08": [
+    "2015-01-01|2015-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-478563/",
@@ -72,46 +32,7 @@
                 "name": "Batman Eternal",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-eternal/4050-72915/"
             }
-        }
-    ],
-    "2015-02-09|2015-02-15": [],
-    "2015-02-16|2015-02-22": [],
-    "2015-02-23|2015-03-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554384/",
-            "cover_date": "2015-02-27",
-            "date_added": "2016-10-18 13:40:15",
-            "date_last_updated": "2017-04-13 21:34:30",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 554384,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491091-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491091-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491091-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491091-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491091-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491091-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491091-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491091-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491091-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Vol. 44",
-            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-44-vol-44/4000-554384/",
-            "store_date": "2015-02-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
-                "id": 93693,
-                "name": "Mogura no Uta",
-                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
-            }
-        }
-    ],
-    "2015-03-02|2015-03-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481566/",
@@ -144,9 +65,7 @@
                 "name": "The New 52: Futures End",
                 "site_detail_url": "https://comicvine.gamespot.com/the-new-52-futures-end/4050-73528/"
             }
-        }
-    ],
-    "2015-03-09|2015-03-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-482249/",
@@ -179,9 +98,7 @@
                 "name": "Sketch Magazine",
                 "site_detail_url": "https://comicvine.gamespot.com/sketch-magazine/4050-64090/"
             }
-        }
-    ],
-    "2015-03-16|2015-03-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-482719/",
@@ -252,15 +169,46 @@
                 "name": "Hayate no Gotoku!",
                 "site_detail_url": "https://comicvine.gamespot.com/hayate-no-gotoku/4050-54620/"
             }
-        }
-    ],
-    "2015-03-23|2015-03-29": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-482960/",
+            "cover_date": "2015-01-16",
+            "date_added": "2015-03-19 07:30:17",
+            "date_last_updated": "2015-03-20 02:07:26",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 482960,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4457011-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4457011-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4457011-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4457011-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4457011-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4457011-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4457011-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4457011-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4457011-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Volume 44",
+            "site_detail_url": "https://comicvine.gamespot.com/the-knight-in-the-area-44-volume-44/4000-482960/",
+            "store_date": "2015-01-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50089/",
+                "id": 50089,
+                "name": "Area no Kishi",
+                "site_detail_url": "https://comicvine.gamespot.com/area-no-kishi/4050-50089/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-483347/",
             "cover_date": "2015-05-31",
             "date_added": "2015-03-24 00:06:34",
-            "date_last_updated": "2015-03-24 05:09:16",
+            "date_last_updated": "2018-10-26 00:24:51",
             "deck": null,
             "description": "<p><em>Deadpool &amp; Shiklah enter the Tomb of Scariness!</em></p><p><em>Guest-starring Omega Red and damned dirty bamfers!</em></p>",
             "has_staff_review": {
@@ -325,11 +273,7 @@
                 "name": "Morning Glories",
                 "site_detail_url": "https://comicvine.gamespot.com/morning-glories/4050-34852/"
             }
-        }
-    ],
-    "2015-03-30|2015-04-05": [],
-    "2015-04-06|2015-04-12": [],
-    "2015-04-13|2015-04-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486178/",
@@ -362,10 +306,7 @@
                 "name": "Star Trek",
                 "site_detail_url": "https://comicvine.gamespot.com/star-trek/4050-42972/"
             }
-        }
-    ],
-    "2015-04-20|2015-04-26": [],
-    "2015-04-27|2015-05-03": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-487201/",
@@ -431,10 +372,7 @@
                 "name": "Batman: The Jiro Kuwata Batmanga",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-the-jiro-kuwata-batmanga/4050-75410/"
             }
-        }
-    ],
-    "2015-05-04|2015-05-10": [],
-    "2015-05-11|2015-05-17": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-488717/",
@@ -467,18 +405,7 @@
                 "name": "SpongeBob Comics",
                 "site_detail_url": "https://comicvine.gamespot.com/spongebob-comics/4050-38914/"
             }
-        }
-    ],
-    "2015-05-18|2015-05-24": [],
-    "2015-05-25|2015-05-31": [],
-    "2015-06-01|2015-06-07": [],
-    "2015-06-08|2015-06-14": [],
-    "2015-06-15|2015-06-21": [],
-    "2015-06-22|2015-06-28": [],
-    "2015-06-29|2015-07-05": [],
-    "2015-07-06|2015-07-12": [],
-    "2015-07-13|2015-07-19": [],
-    "2015-07-20|2015-07-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-495988/",
@@ -511,10 +438,7 @@
                 "name": "Sensation Comics Featuring Wonder Woman",
                 "site_detail_url": "https://comicvine.gamespot.com/sensation-comics-featuring-wonder-woman/4050-76430/"
             }
-        }
-    ],
-    "2015-07-27|2015-08-02": [],
-    "2015-08-03|2015-08-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-496911/",
@@ -547,12 +471,7 @@
                 "name": "The Transformers",
                 "site_detail_url": "https://comicvine.gamespot.com/the-transformers/4050-78066/"
             }
-        }
-    ],
-    "2015-08-10|2015-08-16": [],
-    "2015-08-17|2015-08-23": [],
-    "2015-08-24|2015-08-30": [],
-    "2015-08-31|2015-09-06": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499016/",
@@ -689,9 +608,7 @@
                 "name": "The Transformers: More Than Meets the Eye",
                 "site_detail_url": "https://comicvine.gamespot.com/the-transformers-more-than-meets-the-eye/4050-45154/"
             }
-        }
-    ],
-    "2015-09-07|2015-09-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-499716/",
@@ -803,41 +720,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524508/",
-            "cover_date": "2015-09-11",
-            "date_added": "2016-04-11 12:22:39",
-            "date_last_updated": "2016-04-23 13:22:02",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524508,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146183-44.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146183-44.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146183-44.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146183-44.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146183-44.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146183-44.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146183-44.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146183-44.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146183-44.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "44",
-            "name": "Vol. 44",
-            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-44-vol-44/4000-524508/",
-            "store_date": "2015-09-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64952/",
-                "id": 64952,
-                "name": "Ace of Diamond",
-                "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond/4050-64952/"
-            }
-        }
-    ],
-    "2015-09-14|2015-09-20": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500280/",
             "cover_date": "2015-11-30",
             "date_added": "2015-09-15 00:02:26",
@@ -868,9 +750,7 @@
                 "name": "Wonder Woman",
                 "site_detail_url": "https://comicvine.gamespot.com/wonder-woman/4050-42953/"
             }
-        }
-    ],
-    "2015-09-21|2015-09-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-500997/",
@@ -974,9 +854,7 @@
                 "name": "Adventure Time",
                 "site_detail_url": "https://comicvine.gamespot.com/adventure-time/4050-45728/"
             }
-        }
-    ],
-    "2015-09-28|2015-10-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-501588/",
@@ -1080,10 +958,7 @@
                 "name": "Superman",
                 "site_detail_url": "https://comicvine.gamespot.com/superman/4050-42986/"
             }
-        }
-    ],
-    "2015-10-05|2015-10-11": [],
-    "2015-10-12|2015-10-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-502798/",
@@ -1116,10 +991,7 @@
                 "name": "Fables: The Wolf Among Us",
                 "site_detail_url": "https://comicvine.gamespot.com/fables-the-wolf-among-us/4050-78767/"
             }
-        }
-    ],
-    "2015-10-19|2015-10-25": [],
-    "2015-10-26|2015-11-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-504389/",
@@ -1152,9 +1024,7 @@
                 "name": "God Is Dead",
                 "site_detail_url": "https://comicvine.gamespot.com/god-is-dead/4050-67042/"
             }
-        }
-    ],
-    "2015-11-02|2015-11-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-505257/",
@@ -1187,11 +1057,7 @@
                 "name": "Marvel Chess Collection",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-chess-collection/4050-75094/"
             }
-        }
-    ],
-    "2015-11-09|2015-11-15": [],
-    "2015-11-16|2015-11-22": [],
-    "2015-11-23|2015-11-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-512047/",
@@ -1224,9 +1090,72 @@
                 "name": "Step Up Love Story",
                 "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524508/",
+            "cover_date": "2015-09-11",
+            "date_added": "2016-04-11 12:22:39",
+            "date_last_updated": "2016-04-23 13:22:02",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524508,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146183-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146183-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146183-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146183-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146183-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146183-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146183-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146183-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146183-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond-44-vol-44/4000-524508/",
+            "store_date": "2015-09-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64952/",
+                "id": 64952,
+                "name": "Ace of Diamond",
+                "site_detail_url": "https://comicvine.gamespot.com/ace-of-diamond/4050-64952/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554384/",
+            "cover_date": "2015-02-27",
+            "date_added": "2016-10-18 13:40:15",
+            "date_last_updated": "2017-04-13 21:34:30",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 554384,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491091-44.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491091-44.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491091-44.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491091-44.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491091-44.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491091-44.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491091-44.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491091-44.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491091-44.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "44",
+            "name": "Vol. 44",
+            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-44-vol-44/4000-554384/",
+            "store_date": "2015-02-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
+                "id": 93693,
+                "name": "Mogura no Uta",
+                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
+            }
         }
-    ],
-    "2015-11-30|2015-12-06": [],
-    "2015-12-07|2015-12-13": [],
-    "2015-12-14|2015-12-20": []
+    ]
 }

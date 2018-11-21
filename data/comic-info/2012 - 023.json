@@ -1,7 +1,38 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [
+    "2012-01-01|2012-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-267817/",
+            "cover_date": "2012-04-10",
+            "date_added": "2011-04-10 14:27:20",
+            "date_last_updated": "2013-04-10 20:59:20",
+            "deck": null,
+            "description": "<p><em>Guided to the retreat by his students, Dr. Ramzi meets his counterpart in Madame Deneuve, a former gem-bearer who has developed the retreat as a haven for gem-bearers and others with special abilities. Here, like Ramzi's foundation the gem-bearers are encouraged to develop their gifts in peaceful surroundings. But something sinister is lurking and evil is revealed as Blackwolf and the Sphinx rear their ugly heads.</em></p>",
+            "has_staff_review": false,
+            "id": 267817,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1765141-the_99_issue_23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1765141-the_99_issue_23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1765141-the_99_issue_23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1765141-the_99_issue_23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1765141-the_99_issue_23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1765141-the_99_issue_23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1765141-the_99_issue_23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1765141-the_99_issue_23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1765141-the_99_issue_23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Different Paths: Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/the-99-23-different-paths-part-two/4000-267817/",
+            "store_date": "2012-04-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-22548/",
+                "id": 22548,
+                "name": "The 99",
+                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-22548/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-309394/",
@@ -34,10 +65,7 @@
                 "name": "X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-34221/"
             }
-        }
-    ],
-    "2012-01-09|2012-01-15": [],
-    "2012-01-16|2012-01-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-311762/",
@@ -70,9 +98,7 @@
                 "name": "Chew",
                 "site_detail_url": "https://comicvine.gamespot.com/chew/4050-26611/"
             }
-        }
-    ],
-    "2012-01-23|2012-01-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-312699/",
@@ -105,10 +131,7 @@
                 "name": "American Vampire",
                 "site_detail_url": "https://comicvine.gamespot.com/american-vampire/4050-32051/"
             }
-        }
-    ],
-    "2012-01-30|2012-02-05": [],
-    "2012-02-06|2012-02-12": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-315412/",
@@ -141,9 +164,7 @@
                 "name": "Marvel Adventures Super Heroes",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-adventures-super-heroes/4050-32628/"
             }
-        }
-    ],
-    "2012-02-13|2012-02-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-315780/",
@@ -242,9 +263,7 @@
                 "name": "Glamourpuss",
                 "site_detail_url": "https://comicvine.gamespot.com/glamourpuss/4050-23362/"
             }
-        }
-    ],
-    "2012-02-20|2012-02-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-316714/",
@@ -315,9 +334,7 @@
                 "name": "Marvel Adventures Spider-Man",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-adventures-spider-man/4050-32888/"
             }
-        }
-    ],
-    "2012-02-27|2012-03-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-317925/",
@@ -353,41 +370,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-392931/",
-            "cover_date": "2012-03-31",
-            "date_added": "2013-03-14 20:50:56",
-            "date_last_updated": "2017-12-28 00:45:59",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: オクルコトバ <em>(Okuru Kotoba)</em></p><h2><span>Chapters Titles</span></h2><ul><li>Chapter 199: The Sister Who is Worried About Her Brother Who is Worried About His Sister Worries Her Friends, Part 2 (妹の悩みに悩む兄に悩む妹とその仲間達中編, <i>Imōto no nayami ni nayamu ani ni nayamu imōto to sono nakamatachi chūhen</i>)</li><li>Chapter 200: The Sister Who is Worried About Her Brother Who is Worried About His Sister Worries Her Friends, Part 3 (妹の悩みに悩む兄に悩む妹とその仲間達後編, <i>Imōto no nayami ni nayamu ani ni nayamu imōto to sono nakamatachi kōhen</i>)</li><li>Chapter 201: Tsukkomi Prohibition Battle (ツッコミ禁止バトル, <i>Tsukkomi kinshi batoru</i>)</li><li>Chapter 202: The Gallant Chronicle of the 3rd Years' Farewell Ceremony, Part 1 (3年生を送る会奮戦記　前編, <i>Sannensei o okurukai funsenki zenpen</i>)</li><li>Chapter 203: The Gallant Chronicle of the 3rd Years' Farewell Ceremony, Part 2 (3年生を送る会奮戦記　後編, <i>Sannensei o okurukai funsenki kōhen</i>)</li><li>Chapter 204: Words Given to You: A Farewell Address (オクルコトバ　送辞, <i>Okuru kotoba sōji</i>)</li><li>Chapter 205: Words Given to You: The Response (オクルコトバ　答辞, <i>Okuru kotoba tōji</i>)</li><li>Chapter 206: The Topic is a Super High-Schooler (話題のスーパー高校生, <i>Wadai no sūpaa kōkōsei</i>)</li><li>Chapter 207: Demons' Demonstration (ﾃﾞﾓﾝｽﾞ･ﾃﾞﾓﾝｽﾄﾚｰｼｮﾝ, <i>Demonzu demonsutoreeshon</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 392931,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2929122-10426_v23_front.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2929122-10426_v23_front.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2929122-10426_v23_front.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2929122-10426_v23_front.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2929122-10426_v23_front.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2929122-10426_v23_front.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2929122-10426_v23_front.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2929122-10426_v23_front.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2929122-10426_v23_front.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Okuru Kotoba",
-            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-23-okuru-kotoba/4000-392931/",
-            "store_date": "2012-03-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
-                "id": 43866,
-                "name": "Sket Dance",
-                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
-            }
-        }
-    ],
-    "2012-03-05|2012-03-11": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-319057/",
             "cover_date": "2012-05-01",
             "date_added": "2012-03-06 05:16:51",
@@ -418,10 +400,7 @@
                 "name": "iZombie",
                 "site_detail_url": "https://comicvine.gamespot.com/izombie/4050-32937/"
             }
-        }
-    ],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-323168/",
@@ -488,41 +467,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/prophet/4050-45269/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-491319/",
-            "cover_date": "2012-03-23",
-            "date_added": "2015-06-06 14:05:44",
-            "date_last_updated": "2015-07-24 23:31:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 491319,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4610137-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4610137-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4610137-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4610137-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4610137-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4610137-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4610137-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4610137-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4610137-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Volume 23",
-            "site_detail_url": "https://comicvine.gamespot.com/keroro-gunsou-23-volume-23/4000-491319/",
-            "store_date": "2012-03-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77496/",
-                "id": 77496,
-                "name": "Keroro Gunsou",
-                "site_detail_url": "https://comicvine.gamespot.com/keroro-gunsou/4050-77496/"
-            }
-        }
-    ],
-    "2012-03-26|2012-04-01": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-324701/",
@@ -659,9 +603,7 @@
                 "name": "New Avengers",
                 "site_detail_url": "https://comicvine.gamespot.com/new-avengers/4050-33777/"
             }
-        }
-    ],
-    "2012-04-02|2012-04-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-326858/",
@@ -693,74 +635,6 @@
                 "id": 33140,
                 "name": "Robert Jordan's Wheel of Time: The Eye of the World",
                 "site_detail_url": "https://comicvine.gamespot.com/robert-jordans-wheel-of-time-the-eye-of-the-world/4050-33140/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-346704/",
-            "cover_date": "2012-04-04",
-            "date_added": "2012-07-19 13:49:53",
-            "date_last_updated": "2013-12-23 11:33:52",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: <i>Ayumi dasu mono</i> (歩みだすもの)</p><h2>Chapter Titles</h2><ul><li>Chapter 206: \"Maria's Eyes\" (マリアの視線 <i>\"Maria no Shisen\"</i>)</li><li>Chapter 207: \"Walking Out\" (歩みだすもの <i>\"Ayumi dasu mono\"</i>)</li><li>Chapter 208: \"We are Living Lives of Doubt (迷い生きる僕らは <i>\"Mayoi Ikiru Bokura wa\"</i>)</li><li>Chapter 209: \"Searching for A.W. (Allen Walker) Fellow Travellers\" (A.W.（アレン・ウォーカー）をたずねて・同行者 <i>\"A.W (Aren Wōkā) wo Tazunete Dōkōsha\"</i>)</li><li>Chapter 210: \"Searching for A.W. (Allen Walker) The Reason\" (A.W.（アレン・ウォーカー）をたずねて・理由 <i>\"A.W (Aren Wōkā) wo Tazunete Riyū\"</i>)</li><li>Chapter 211: \"Searching for A.W. (Allen Walker) Reunion\" (A・W（アレン・ウォーカー）をたずねて・再会 <i>\"A.W. (Aren Wōkā) wo Tazunete Saikai\"</i>)</li><li>Chapter 212: \"Searching for A.W. (Allen Walker) Calling out to you\" ((A.W.（アレン・ウォーカー）をたずねて・君を呼ぶ <i>\"A.W (Aren Wōkā) wo Tazunete Kimi wo yobu\"</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 346704,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2479041-23_cropped.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2479041-23_cropped.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2479041-23_cropped.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2479041-23_cropped.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2479041-23_cropped.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2479041-23_cropped.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2479041-23_cropped.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2479041-23_cropped.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2479041-23_cropped.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Walking Out",
-            "site_detail_url": "https://comicvine.gamespot.com/dgray-man-23-walking-out/4000-346704/",
-            "store_date": "2012-04-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42260/",
-                "id": 42260,
-                "name": "D.Gray-man",
-                "site_detail_url": "https://comicvine.gamespot.com/dgray-man/4050-42260/"
-            }
-        }
-    ],
-    "2012-04-09|2012-04-15": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-267817/",
-            "cover_date": "2012-04-10",
-            "date_added": "2011-04-10 14:27:20",
-            "date_last_updated": "2013-04-10 20:59:20",
-            "deck": null,
-            "description": "<p><em>Guided to the retreat by his students, Dr. Ramzi meets his counterpart in Madame Deneuve, a former gem-bearer who has developed the retreat as a haven for gem-bearers and others with special abilities. Here, like Ramzi's foundation the gem-bearers are encouraged to develop their gifts in peaceful surroundings. But something sinister is lurking and evil is revealed as Blackwolf and the Sphinx rear their ugly heads.</em></p>",
-            "has_staff_review": false,
-            "id": 267817,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1765141-the_99_issue_23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1765141-the_99_issue_23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1765141-the_99_issue_23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1765141-the_99_issue_23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1765141-the_99_issue_23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1765141-the_99_issue_23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1765141-the_99_issue_23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1765141-the_99_issue_23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/1765141-the_99_issue_23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Different Paths: Part Two",
-            "site_detail_url": "https://comicvine.gamespot.com/the-99-23-different-paths-part-two/4000-267817/",
-            "store_date": "2012-04-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-22548/",
-                "id": 22548,
-                "name": "The 99",
-                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-22548/"
             }
         },
         {
@@ -831,42 +705,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-431877/",
-            "cover_date": "2012-05-01",
-            "date_added": "2013-11-03 02:21:21",
-            "date_last_updated": "2013-11-03 02:29:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 431877,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419724-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419724-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419724-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419724-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419724-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419724-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419724-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419724-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3419724-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk-23/4000-431877/",
-            "store_date": "2012-04-10",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68871/",
-                "id": 68871,
-                "name": "Comic Megamilk",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk/4050-68871/"
-            }
-        }
-    ],
-    "2012-04-16|2012-04-22": [],
-    "2012-04-23|2012-04-29": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-333577/",
             "cover_date": "2012-06-01",
             "date_added": "2012-04-25 14:20:57",
@@ -933,182 +771,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438452/",
-            "cover_date": "2012-04-23",
-            "date_added": "2013-12-23 16:58:43",
-            "date_last_updated": "2013-12-23 17:05:08",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 438452,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3522817-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3522817-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3522817-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3522817-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3522817-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3522817-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3522817-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3522817-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3522817-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Volume 23",
-            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-23-volume-23/4000-438452/",
-            "store_date": "2012-04-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
-                "id": 44126,
-                "name": "Giant Killing",
-                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
-            }
-        }
-    ],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [],
-    "2012-05-14|2012-05-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-375178/",
-            "cover_date": "2012-05-14",
-            "date_added": "2012-12-25 22:47:54",
-            "date_last_updated": "2015-03-20 01:23:10",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 375178,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2771421-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2771421-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2771421-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2771421-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2771421-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2771421-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2771421-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2771421-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2771421-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Vol. 23",
-            "site_detail_url": "https://comicvine.gamespot.com/hey-riki-23-vol-23/4000-375178/",
-            "store_date": "2012-05-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55091/",
-                "id": 55091,
-                "name": "Hey! Riki",
-                "site_detail_url": "https://comicvine.gamespot.com/hey-riki/4050-55091/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561504/",
-            "cover_date": "2012-05-18",
-            "date_added": "2016-11-27 11:02:55",
-            "date_last_updated": "2016-11-27 11:20:01",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 561504,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5555902-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5555902-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5555902-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5555902-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5555902-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5555902-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5555902-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5555902-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5555902-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Vol. 23",
-            "site_detail_url": "https://comicvine.gamespot.com/kanojo-no-carrera-23-vol-23/4000-561504/",
-            "store_date": "2012-05-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95944/",
-                "id": 95944,
-                "name": "Kanojo no Carrera",
-                "site_detail_url": "https://comicvine.gamespot.com/kanojo-no-carrera/4050-95944/"
-            }
-        }
-    ],
-    "2012-05-21|2012-05-27": [],
-    "2012-05-28|2012-06-03": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425758/",
-            "cover_date": "2012-07-01",
-            "date_added": "2013-09-14 19:43:04",
-            "date_last_updated": "2013-09-14 19:49:17",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 425758,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311437-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311437-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311437-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311437-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311437-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311437-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311437-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311437-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3311437-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/bug-bug-idol-23/4000-425758/",
-            "store_date": "2012-05-30",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67390/",
-                "id": 67390,
-                "name": "Bug Bug Idol",
-                "site_detail_url": "https://comicvine.gamespot.com/bug-bug-idol/4050-67390/"
-            }
-        }
-    ],
-    "2012-06-04|2012-06-10": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467468/",
-            "cover_date": "2012-06-30",
-            "date_added": "2014-10-03 04:41:28",
-            "date_last_updated": "2014-10-03 05:24:48",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Ride.191: Takusareta 4-nin (託された４人)</li><li>Ride.192: Naruko! Shinkocchou!! (鳴子！真骨頂‼)</li><li>Ride.193: Gokaichou!! (御開帳‼)</li><li>Ride.194: Iji (意地)</li><li>Ride.195: Yari Togeta Otoko (やり遂げた男)</li><li>Ride.196: Ace Imaizumi! (エース　今泉！)</li><li>Ride.197: Shinka (進化)</li><li>Ride.198: Kakusei (覚醒)</li><li>Ride.199: Shuunen no Otoko (執念の男)</li></ul>",
-            "has_staff_review": false,
-            "id": 467468,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4136114-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4136114-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4136114-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4136114-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4136114-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4136114-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4136114-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4136114-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4136114-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Vol. 23",
-            "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal-23-vol-23/4000-467468/",
-            "store_date": "2012-06-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77394/",
-                "id": 77394,
-                "name": "Yowamushi Pedal",
-                "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal/4050-77394/"
-            }
-        }
-    ],
-    "2012-06-11|2012-06-17": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-340415/",
             "cover_date": "2012-06-01",
             "date_added": "2012-06-12 08:04:28",
@@ -1139,15 +801,13 @@
                 "name": "The Sixth Gun",
                 "site_detail_url": "https://comicvine.gamespot.com/the-sixth-gun/4050-33090/"
             }
-        }
-    ],
-    "2012-06-18|2012-06-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-342211/",
             "cover_date": "2012-06-20",
             "date_added": "2012-06-20 17:23:42",
-            "date_last_updated": "2012-06-22 09:49:17",
+            "date_last_updated": "2018-11-15 20:08:13",
             "deck": null,
             "description": "<p><i>The battle-hardened Osaka Gantz team has fought with courage and fury to wipe out most of the lower-level (but highly lethal) alien invaders. Now firing on all cylinders, the OGs set out to go toe-to-toe with the insanely powerful boss-class offworlders, including the elusive, shape-shifting \"100 Point\" boss, a creature that can appear as beautiful as it is deadly. The Tokyo Gantz squad can do little more than watch as the Osaka fighters soon realize that the constantly changing forms of the boss monster may be more than even they can handle!</i></p>",
             "has_staff_review": false,
@@ -1177,180 +837,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481344/",
-            "cover_date": "2012-06-18",
-            "date_added": "2015-02-28 17:10:58",
-            "date_last_updated": "2015-02-28 17:32:12",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-346704/",
+            "cover_date": "2012-04-04",
+            "date_added": "2012-07-19 13:49:53",
+            "date_last_updated": "2013-12-23 11:33:52",
             "deck": null,
-            "description": null,
+            "description": "<p><b>Proper Japanese Title</b>: <i>Ayumi dasu mono</i> (歩みだすもの)</p><h2>Chapter Titles</h2><ul><li>Chapter 206: \"Maria's Eyes\" (マリアの視線 <i>\"Maria no Shisen\"</i>)</li><li>Chapter 207: \"Walking Out\" (歩みだすもの <i>\"Ayumi dasu mono\"</i>)</li><li>Chapter 208: \"We are Living Lives of Doubt (迷い生きる僕らは <i>\"Mayoi Ikiru Bokura wa\"</i>)</li><li>Chapter 209: \"Searching for A.W. (Allen Walker) Fellow Travellers\" (A.W.（アレン・ウォーカー）をたずねて・同行者 <i>\"A.W (Aren Wōkā) wo Tazunete Dōkōsha\"</i>)</li><li>Chapter 210: \"Searching for A.W. (Allen Walker) The Reason\" (A.W.（アレン・ウォーカー）をたずねて・理由 <i>\"A.W (Aren Wōkā) wo Tazunete Riyū\"</i>)</li><li>Chapter 211: \"Searching for A.W. (Allen Walker) Reunion\" (A・W（アレン・ウォーカー）をたずねて・再会 <i>\"A.W. (Aren Wōkā) wo Tazunete Saikai\"</i>)</li><li>Chapter 212: \"Searching for A.W. (Allen Walker) Calling out to you\" ((A.W.（アレン・ウォーカー）をたずねて・君を呼ぶ <i>\"A.W (Aren Wōkā) wo Tazunete Kimi wo yobu\"</i>)</li></ul>",
             "has_staff_review": false,
-            "id": 481344,
+            "id": 346704,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4421724-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4421724-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4421724-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4421724-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4421724-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4421724-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4421724-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4421724-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4421724-23.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2479041-23_cropped.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2479041-23_cropped.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2479041-23_cropped.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2479041-23_cropped.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2479041-23_cropped.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2479041-23_cropped.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2479041-23_cropped.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2479041-23_cropped.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2479041-23_cropped.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "23",
-            "name": "Vol. 23",
-            "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman-23-vol-23/4000-481344/",
-            "store_date": "2012-06-18",
+            "name": "Walking Out",
+            "site_detail_url": "https://comicvine.gamespot.com/dgray-man-23-walking-out/4000-346704/",
+            "store_date": "2012-04-04",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80408/",
-                "id": 80408,
-                "name": "Kyou Kara Hitman",
-                "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman/4050-80408/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42260/",
+                "id": 42260,
+                "name": "D.Gray-man",
+                "site_detail_url": "https://comicvine.gamespot.com/dgray-man/4050-42260/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-586787/",
-            "cover_date": "2012-06-18",
-            "date_added": "2017-03-12 06:48:56",
-            "date_last_updated": "2018-01-29 02:43:29",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 586787,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5744477-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5744477-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5744477-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5744477-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5744477-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5744477-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5744477-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5744477-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5744477-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Vol. 23",
-            "site_detail_url": "https://comicvine.gamespot.com/tenpai-gaiden-23-vol-23/4000-586787/",
-            "store_date": "2012-06-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99741/",
-                "id": 99741,
-                "name": "Tenpai Gaiden",
-                "site_detail_url": "https://comicvine.gamespot.com/tenpai-gaiden/4050-99741/"
-            }
-        }
-    ],
-    "2012-06-25|2012-07-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425781/",
-            "cover_date": "2012-06-01",
-            "date_added": "2013-09-14 20:44:53",
-            "date_last_updated": "2013-09-14 21:28:53",
-            "deck": null,
-            "description": "<p><em>Guided to the retreat by his students, Dr. Ramzi meets his counterpart in Madame Deneuve, a former gem-bearer who has developed the retreat as a haven for gem-bearers and others with special abilities. Here, like Ramzi's foundation the gem-bearers are encouraged to develop their gifts in peaceful surroundings. But something sinister is lurking and evil is revealed as Blackwolf and the Sphinx rear their ugly heads.</em></p>",
-            "has_staff_review": false,
-            "id": 425781,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311561-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311561-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311561-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311561-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311561-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311561-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311561-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311561-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3311561-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-99-23/4000-425781/",
-            "store_date": "2012-06-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67392/",
-                "id": 67392,
-                "name": "THE 99",
-                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-67392/"
-            }
-        }
-    ],
-    "2012-07-02|2012-07-08": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474429/",
-            "cover_date": "2012-08-31",
-            "date_added": "2014-12-20 09:16:28",
-            "date_last_updated": "2014-12-20 10:07:46",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 474429,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285669-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285669-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285669-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285669-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285669-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285669-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285669-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285669-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4285669-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-23/4000-474429/",
-            "store_date": "2012-07-06",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
-                "id": 78993,
-                "name": "good! Afternoon",
-                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
-            }
-        }
-    ],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [],
-    "2012-07-23|2012-07-29": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-426498/",
-            "cover_date": "2012-09-01",
-            "date_added": "2013-09-21 22:45:50",
-            "date_last_updated": "2013-09-21 22:56:31",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 426498,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3327602-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3327602-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3327602-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3327602-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3327602-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3327602-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3327602-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3327602-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3327602-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/canopri-comic-23/4000-426498/",
-            "store_date": "2012-07-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-52747/",
-                "id": 52747,
-                "name": "Canopri Comic",
-                "site_detail_url": "https://comicvine.gamespot.com/canopri-comic/4050-52747/"
-            }
-        }
-    ],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-349869/",
@@ -1383,10 +900,7 @@
                 "name": "Slam Dunk",
                 "site_detail_url": "https://comicvine.gamespot.com/slam-dunk/4050-30975/"
             }
-        }
-    ],
-    "2012-08-13|2012-08-19": [],
-    "2012-08-20|2012-08-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-352647/",
@@ -1424,81 +938,7 @@
                 "name": "Venom",
                 "site_detail_url": "https://comicvine.gamespot.com/venom/4050-39301/"
             }
-        }
-    ],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-449272/",
-            "cover_date": "2012-09-01",
-            "date_added": "2014-03-28 06:52:59",
-            "date_last_updated": "2014-03-28 07:23:29",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 449272,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3724305-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3724305-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3724305-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3724305-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3724305-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3724305-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3724305-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3724305-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3724305-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/bamboo-mag-23/4000-449272/",
-            "store_date": "2012-09-05",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72678/",
-                "id": 72678,
-                "name": "Bamboo Mag",
-                "site_detail_url": "https://comicvine.gamespot.com/bamboo-mag/4050-72678/"
-            }
-        }
-    ],
-    "2012-09-10|2012-09-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422637/",
-            "cover_date": "2012-09-01",
-            "date_added": "2013-08-20 07:17:17",
-            "date_last_updated": "2014-12-30 14:19:51",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 212: Smile</li><li>Chapter 213: For Fun</li><li>Chapter 214: Turning Point</li><li>Chapter 215: Recursion</li><li>Chapter 216: One Point Breakthrough</li><li>Chapter 217: Acceptance</li><li>Chapter 218: Important Battle</li><li>Chapter 219: Point of Improvement</li><li>Chapter 220: Pin-Point</li><li>Chapter 221: Critical Point</li></ul>",
-            "has_staff_review": false,
-            "id": 422637,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3253523-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3253523-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3253523-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3253523-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3253523-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3253523-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3253523-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3253523-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3253523-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Vol. 23",
-            "site_detail_url": "https://comicvine.gamespot.com/baby-steps-23-vol-23/4000-422637/",
-            "store_date": "2012-09-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50225/",
-                "id": 50225,
-                "name": "Baby Steps",
-                "site_detail_url": "https://comicvine.gamespot.com/baby-steps/4050-50225/"
-            }
-        }
-    ],
-    "2012-09-17|2012-09-23": [],
-    "2012-09-24|2012-09-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-358902/",
@@ -1564,9 +1004,7 @@
                 "name": "Graphic Classics",
                 "site_detail_url": "https://comicvine.gamespot.com/graphic-classics/4050-40054/"
             }
-        }
-    ],
-    "2012-10-01|2012-10-07": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-359889/",
@@ -1600,76 +1038,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/life-with-archie/4050-34674/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-397672/",
-            "cover_date": "2012-10-31",
-            "date_added": "2013-04-16 08:52:47",
-            "date_last_updated": "2018-01-08 11:45:23",
-            "deck": null,
-            "description": "<p><strong>Proper Japanese Title</strong>: 九州妖怪大合戦</p><h2>Chapter Titles</h2><ul><li>Chapter 194: Archipelago Tremors (列島震撼 <i>Rettō Shinkan</i>)</li><li>Chapter 195: That Story, Once More... (もう1度、あの話を <i>Mō Ichido, Ano Hanashi o</i>)</li><li>Chapter 196: Tsuchigumo's Past (土蜘蛛の過去 <i>Tsuchigumo no Kako</i>)</li><li>Chapter 197: Local War (局地戦 <i>Kyokuchi-sen</i>)</li><li>Chapter 198: Yura and Rikuo (ゆらとリクオ <i>Yura to Rikuo</i>)</li><li>Chapter 199: Proof of Strength (強さの証明 <i>Tsuyosa no Shōmei</i>)</li><li>Chapter 200: Those Who Shoulder the New Darkness (新たな闇を担う者 <i>Aratana Yami o Ninau Mono</i>)</li><li>Chapter 201: Spiral Barrier (螺旋結界 <i>Rasen Kekkai</i>)</li><li>Chapter 202: The Lord of Kyoto (京の主 <i>Kyō no Nushi</i>)</li></ul>",
-            "has_staff_review": false,
-            "id": 397672,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2986741-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2986741-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2986741-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2986741-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2986741-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2986741-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2986741-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2986741-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2986741-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Kyūshū Yōkai Daikessen",
-            "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago-23-kyushu-yokai-daikessen/4000-397672/",
-            "store_date": "2012-10-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60036/",
-                "id": 60036,
-                "name": "Nurarihyon no Mago",
-                "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago/4050-60036/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-518807/",
-            "cover_date": "2012-10-31",
-            "date_added": "2016-03-08 02:35:57",
-            "date_last_updated": "2016-03-13 17:02:10",
-            "deck": null,
-            "description": "<p><em>It's a bird! It's a plane! No, it's a Digital Exclusive! Join Riverdale's teen heroes as they thwart the forces of evil. Can Pureheart battle both The Reptile and Evilheart at once?! Will The Rampaging Rebound bounce all over Captain Hero? And Superteen has her work cut out for her when The Consumer comes along to gobble up Riverdale High! Will our heroes triumph? Tune in to find out!</em></p>",
-            "has_staff_review": false,
-            "id": 518807,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5092667-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5092667-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5092667-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5092667-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5092667-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5092667-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5092667-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5092667-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5092667-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Archie's Super Teens",
-            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-23-archies-super-teens/4000-518807/",
-            "store_date": "2012-10-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
-                "id": 86278,
-                "name": "PEP Digital",
-                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
-            }
-        }
-    ],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [],
-    "2012-10-22|2012-10-28": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-363156/",
@@ -1707,9 +1075,7 @@
                 "name": "FF",
                 "site_detail_url": "https://comicvine.gamespot.com/ff/4050-39453/"
             }
-        }
-    ],
-    "2012-10-29|2012-11-04": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-364173/",
@@ -1742,9 +1108,7 @@
                 "name": "Lady Death",
                 "site_detail_url": "https://comicvine.gamespot.com/lady-death/4050-37096/"
             }
-        }
-    ],
-    "2012-11-05|2012-11-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-366412/",
@@ -1777,9 +1141,7 @@
                 "name": "Legends of the Dark Knight",
                 "site_detail_url": "https://comicvine.gamespot.com/legends-of-the-dark-knight/4050-49552/"
             }
-        }
-    ],
-    "2012-11-12|2012-11-18": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-367717/",
@@ -1845,9 +1207,7 @@
                 "name": "Grimm Fairy Tales: Myths & Legends",
                 "site_detail_url": "https://comicvine.gamespot.com/grimm-fairy-tales-myths-legends/4050-38514/"
             }
-        }
-    ],
-    "2012-11-19|2012-11-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369656/",
@@ -1880,9 +1240,7 @@
                 "name": "Smallville: Season Eleven",
                 "site_detail_url": "https://comicvine.gamespot.com/smallville-season-eleven/4050-47896/"
             }
-        }
-    ],
-    "2012-11-26|2012-12-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370334/",
@@ -1915,9 +1273,7 @@
                 "name": "Morning Glories",
                 "site_detail_url": "https://comicvine.gamespot.com/morning-glories/4050-34852/"
             }
-        }
-    ],
-    "2012-12-03|2012-12-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-371243/",
@@ -1953,41 +1309,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-388405/",
-            "cover_date": "2012-12-01",
-            "date_added": "2013-02-24 14:54:55",
-            "date_last_updated": "2014-12-06 05:37:54",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: <i>Shinen no Tsume to Kiba</i> (深淵の爪と牙)</p><h2>Chapter Titles</h2><ul><li><span>Chapter 126: \"</span><span>Claw and Fangs of the Abyss VI\" (深淵の爪と牙 Ⅶ</span> <i>\"Shinen no Tsume to Kiba VII\"</i><span>)</span></li><li><span>Chapter 127: \"</span><span>Claw and Fangs of the Abyss VII\" (深淵の爪と牙 Ⅷ</span> <i>\"Shinen no Tsume to Kiba VIII\"</i><span>)</span></li><li><span>Chapter 128: \"</span><span>Warrior's Mark I\" (戦士の刻印 Ⅰ</span> <i>\"Senshi no Kokuin I\"</i><span>)</span></li><li><span>Chapter 129:</span> <span>\"Warrior's Mark II\" (戦士の刻印 Ⅱ</span> <i>\"Senshi no Kokuin II\"</i><span>)</span></li><li><span>Chapter 130:</span> <span>\"Warrior's Mark III\" (戦士の刻印 Ⅲ</span> <i>\"Senshi no Kokuin III\"</i><span>)</span></li><li><span>Chapter 131:</span> <span>\"Warrior's Mark IV\" (戦士の刻印 Ⅳ</span> <i>\"Senshi no Kokuin IV\"</i><span>)</span></li></ul>",
-            "has_staff_review": false,
-            "id": 388405,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2891596-23.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2891596-23.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2891596-23.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2891596-23.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2891596-23.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2891596-23.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2891596-23.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2891596-23.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2891596-23.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Senshi no Kokuin",
-            "site_detail_url": "https://comicvine.gamespot.com/claymore-23-senshi-no-kokuin/4000-388405/",
-            "store_date": "2012-12-04",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42233/",
-                "id": 42233,
-                "name": "Claymore",
-                "site_detail_url": "https://comicvine.gamespot.com/claymore/4050-42233/"
-            }
-        }
-    ],
-    "2012-12-10|2012-12-16": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-372341/",
             "cover_date": "2012-12-01",
             "date_added": "2012-12-10 20:55:30",
@@ -2019,41 +1340,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/artifacts/4050-32864/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-446197/",
-            "cover_date": "2012-12-13",
-            "date_added": "2014-02-22 05:12:07",
-            "date_last_updated": "2014-02-23 12:13:33",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 446197,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3659090-1372254477-SfLR7.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3659090-1372254477-SfLR7.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3659090-1372254477-SfLR7.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3659090-1372254477-SfLR7.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3659090-1372254477-SfLR7.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3659090-1372254477-SfLR7.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3659090-1372254477-SfLR7.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3659090-1372254477-SfLR7.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3659090-1372254477-SfLR7.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "23",
-            "name": "Il Predatore",
-            "site_detail_url": "https://comicvine.gamespot.com/speciale-nathan-never-23-il-predatore/4000-446197/",
-            "store_date": "2012-12-13",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40473/",
-                "id": 40473,
-                "name": "Speciale Nathan Never",
-                "site_detail_url": "https://comicvine.gamespot.com/speciale-nathan-never/4050-40473/"
-            }
-        }
-    ],
-    "2012-12-17|2012-12-23": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373672/",
@@ -2089,6 +1375,72 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-375178/",
+            "cover_date": "2012-05-14",
+            "date_added": "2012-12-25 22:47:54",
+            "date_last_updated": "2015-03-20 01:23:10",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 375178,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2771421-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2771421-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2771421-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2771421-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2771421-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2771421-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2771421-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2771421-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2771421-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Vol. 23",
+            "site_detail_url": "https://comicvine.gamespot.com/hey-riki-23-vol-23/4000-375178/",
+            "store_date": "2012-05-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-55091/",
+                "id": 55091,
+                "name": "Hey! Riki",
+                "site_detail_url": "https://comicvine.gamespot.com/hey-riki/4050-55091/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-388405/",
+            "cover_date": "2012-12-01",
+            "date_added": "2013-02-24 14:54:55",
+            "date_last_updated": "2014-12-06 05:37:54",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: <i>Shinen no Tsume to Kiba</i> (深淵の爪と牙)</p><h2>Chapter Titles</h2><ul><li><span>Chapter 126: \"</span><span>Claw and Fangs of the Abyss VI\" (深淵の爪と牙 Ⅶ</span> <i>\"Shinen no Tsume to Kiba VII\"</i><span>)</span></li><li><span>Chapter 127: \"</span><span>Claw and Fangs of the Abyss VII\" (深淵の爪と牙 Ⅷ</span> <i>\"Shinen no Tsume to Kiba VIII\"</i><span>)</span></li><li><span>Chapter 128: \"</span><span>Warrior's Mark I\" (戦士の刻印 Ⅰ</span> <i>\"Senshi no Kokuin I\"</i><span>)</span></li><li><span>Chapter 129:</span> <span>\"Warrior's Mark II\" (戦士の刻印 Ⅱ</span> <i>\"Senshi no Kokuin II\"</i><span>)</span></li><li><span>Chapter 130:</span> <span>\"Warrior's Mark III\" (戦士の刻印 Ⅲ</span> <i>\"Senshi no Kokuin III\"</i><span>)</span></li><li><span>Chapter 131:</span> <span>\"Warrior's Mark IV\" (戦士の刻印 Ⅳ</span> <i>\"Senshi no Kokuin IV\"</i><span>)</span></li></ul>",
+            "has_staff_review": false,
+            "id": 388405,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2891596-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2891596-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2891596-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2891596-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2891596-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2891596-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2891596-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2891596-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2891596-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Senshi no Kokuin",
+            "site_detail_url": "https://comicvine.gamespot.com/claymore-23-senshi-no-kokuin/4000-388405/",
+            "store_date": "2012-12-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42233/",
+                "id": 42233,
+                "name": "Claymore",
+                "site_detail_url": "https://comicvine.gamespot.com/claymore/4050-42233/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-390018/",
             "cover_date": "2012-12-01",
             "date_added": "2013-03-03 00:38:57",
@@ -2118,6 +1470,567 @@
                 "id": 22462,
                 "name": "Soul Eater",
                 "site_detail_url": "https://comicvine.gamespot.com/soul-eater/4050-22462/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-392931/",
+            "cover_date": "2012-03-31",
+            "date_added": "2013-03-14 20:50:56",
+            "date_last_updated": "2017-12-28 00:45:59",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: オクルコトバ <em>(Okuru Kotoba)</em></p><h2><span>Chapters Titles</span></h2><ul><li>Chapter 199: The Sister Who is Worried About Her Brother Who is Worried About His Sister Worries Her Friends, Part 2 (妹の悩みに悩む兄に悩む妹とその仲間達中編, <i>Imōto no nayami ni nayamu ani ni nayamu imōto to sono nakamatachi chūhen</i>)</li><li>Chapter 200: The Sister Who is Worried About Her Brother Who is Worried About His Sister Worries Her Friends, Part 3 (妹の悩みに悩む兄に悩む妹とその仲間達後編, <i>Imōto no nayami ni nayamu ani ni nayamu imōto to sono nakamatachi kōhen</i>)</li><li>Chapter 201: Tsukkomi Prohibition Battle (ツッコミ禁止バトル, <i>Tsukkomi kinshi batoru</i>)</li><li>Chapter 202: The Gallant Chronicle of the 3rd Years' Farewell Ceremony, Part 1 (3年生を送る会奮戦記　前編, <i>Sannensei o okurukai funsenki zenpen</i>)</li><li>Chapter 203: The Gallant Chronicle of the 3rd Years' Farewell Ceremony, Part 2 (3年生を送る会奮戦記　後編, <i>Sannensei o okurukai funsenki kōhen</i>)</li><li>Chapter 204: Words Given to You: A Farewell Address (オクルコトバ　送辞, <i>Okuru kotoba sōji</i>)</li><li>Chapter 205: Words Given to You: The Response (オクルコトバ　答辞, <i>Okuru kotoba tōji</i>)</li><li>Chapter 206: The Topic is a Super High-Schooler (話題のスーパー高校生, <i>Wadai no sūpaa kōkōsei</i>)</li><li>Chapter 207: Demons' Demonstration (ﾃﾞﾓﾝｽﾞ･ﾃﾞﾓﾝｽﾄﾚｰｼｮﾝ, <i>Demonzu demonsutoreeshon</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 392931,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2929122-10426_v23_front.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2929122-10426_v23_front.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2929122-10426_v23_front.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2929122-10426_v23_front.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2929122-10426_v23_front.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2929122-10426_v23_front.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2929122-10426_v23_front.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2929122-10426_v23_front.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2929122-10426_v23_front.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Okuru Kotoba",
+            "site_detail_url": "https://comicvine.gamespot.com/sket-dance-23-okuru-kotoba/4000-392931/",
+            "store_date": "2012-03-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43866/",
+                "id": 43866,
+                "name": "Sket Dance",
+                "site_detail_url": "https://comicvine.gamespot.com/sket-dance/4050-43866/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-397672/",
+            "cover_date": "2012-10-31",
+            "date_added": "2013-04-16 08:52:47",
+            "date_last_updated": "2018-01-08 11:45:23",
+            "deck": null,
+            "description": "<p><strong>Proper Japanese Title</strong>: 九州妖怪大合戦</p><h2>Chapter Titles</h2><ul><li>Chapter 194: Archipelago Tremors (列島震撼 <i>Rettō Shinkan</i>)</li><li>Chapter 195: That Story, Once More... (もう1度、あの話を <i>Mō Ichido, Ano Hanashi o</i>)</li><li>Chapter 196: Tsuchigumo's Past (土蜘蛛の過去 <i>Tsuchigumo no Kako</i>)</li><li>Chapter 197: Local War (局地戦 <i>Kyokuchi-sen</i>)</li><li>Chapter 198: Yura and Rikuo (ゆらとリクオ <i>Yura to Rikuo</i>)</li><li>Chapter 199: Proof of Strength (強さの証明 <i>Tsuyosa no Shōmei</i>)</li><li>Chapter 200: Those Who Shoulder the New Darkness (新たな闇を担う者 <i>Aratana Yami o Ninau Mono</i>)</li><li>Chapter 201: Spiral Barrier (螺旋結界 <i>Rasen Kekkai</i>)</li><li>Chapter 202: The Lord of Kyoto (京の主 <i>Kyō no Nushi</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 397672,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2986741-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2986741-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2986741-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2986741-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2986741-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2986741-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2986741-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2986741-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2986741-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Kyūshū Yōkai Daikessen",
+            "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago-23-kyushu-yokai-daikessen/4000-397672/",
+            "store_date": "2012-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60036/",
+                "id": 60036,
+                "name": "Nurarihyon no Mago",
+                "site_detail_url": "https://comicvine.gamespot.com/nurarihyon-no-mago/4050-60036/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422637/",
+            "cover_date": "2012-09-01",
+            "date_added": "2013-08-20 07:17:17",
+            "date_last_updated": "2014-12-30 14:19:51",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 212: Smile</li><li>Chapter 213: For Fun</li><li>Chapter 214: Turning Point</li><li>Chapter 215: Recursion</li><li>Chapter 216: One Point Breakthrough</li><li>Chapter 217: Acceptance</li><li>Chapter 218: Important Battle</li><li>Chapter 219: Point of Improvement</li><li>Chapter 220: Pin-Point</li><li>Chapter 221: Critical Point</li></ul>",
+            "has_staff_review": false,
+            "id": 422637,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3253523-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3253523-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3253523-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3253523-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3253523-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3253523-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3253523-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3253523-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3253523-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Vol. 23",
+            "site_detail_url": "https://comicvine.gamespot.com/baby-steps-23-vol-23/4000-422637/",
+            "store_date": "2012-09-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50225/",
+                "id": 50225,
+                "name": "Baby Steps",
+                "site_detail_url": "https://comicvine.gamespot.com/baby-steps/4050-50225/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425758/",
+            "cover_date": "2012-07-01",
+            "date_added": "2013-09-14 19:43:04",
+            "date_last_updated": "2013-09-14 19:49:17",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 425758,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311437-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311437-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311437-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311437-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311437-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311437-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311437-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311437-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3311437-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/bug-bug-idol-23/4000-425758/",
+            "store_date": "2012-05-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67390/",
+                "id": 67390,
+                "name": "Bug Bug Idol",
+                "site_detail_url": "https://comicvine.gamespot.com/bug-bug-idol/4050-67390/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-425781/",
+            "cover_date": "2012-06-01",
+            "date_added": "2013-09-14 20:44:53",
+            "date_last_updated": "2013-09-14 21:28:53",
+            "deck": null,
+            "description": "<p><em>Guided to the retreat by his students, Dr. Ramzi meets his counterpart in Madame Deneuve, a former gem-bearer who has developed the retreat as a haven for gem-bearers and others with special abilities. Here, like Ramzi's foundation the gem-bearers are encouraged to develop their gifts in peaceful surroundings. But something sinister is lurking and evil is revealed as Blackwolf and the Sphinx rear their ugly heads.</em></p>",
+            "has_staff_review": false,
+            "id": 425781,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3311561-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3311561-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3311561-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3311561-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3311561-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3311561-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3311561-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3311561-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3311561-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-99-23/4000-425781/",
+            "store_date": "2012-06-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67392/",
+                "id": 67392,
+                "name": "THE 99",
+                "site_detail_url": "https://comicvine.gamespot.com/the-99/4050-67392/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-426498/",
+            "cover_date": "2012-09-01",
+            "date_added": "2013-09-21 22:45:50",
+            "date_last_updated": "2013-09-21 22:56:31",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 426498,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3327602-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3327602-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3327602-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3327602-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3327602-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3327602-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3327602-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3327602-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3327602-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/canopri-comic-23/4000-426498/",
+            "store_date": "2012-07-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-52747/",
+                "id": 52747,
+                "name": "Canopri Comic",
+                "site_detail_url": "https://comicvine.gamespot.com/canopri-comic/4050-52747/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-431877/",
+            "cover_date": "2012-05-01",
+            "date_added": "2013-11-03 02:21:21",
+            "date_last_updated": "2013-11-03 02:29:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 431877,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3419724-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3419724-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3419724-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3419724-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3419724-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3419724-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3419724-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3419724-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3419724-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk-23/4000-431877/",
+            "store_date": "2012-04-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68871/",
+                "id": 68871,
+                "name": "Comic Megamilk",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-megamilk/4050-68871/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-438452/",
+            "cover_date": "2012-04-23",
+            "date_added": "2013-12-23 16:58:43",
+            "date_last_updated": "2013-12-23 17:05:08",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 438452,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3522817-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3522817-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3522817-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3522817-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3522817-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3522817-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3522817-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3522817-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3522817-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Volume 23",
+            "site_detail_url": "https://comicvine.gamespot.com/giant-killing-23-volume-23/4000-438452/",
+            "store_date": "2012-04-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44126/",
+                "id": 44126,
+                "name": "Giant Killing",
+                "site_detail_url": "https://comicvine.gamespot.com/giant-killing/4050-44126/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-446197/",
+            "cover_date": "2012-12-13",
+            "date_added": "2014-02-22 05:12:07",
+            "date_last_updated": "2014-02-23 12:13:33",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 446197,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3659090-1372254477-SfLR7.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3659090-1372254477-SfLR7.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3659090-1372254477-SfLR7.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3659090-1372254477-SfLR7.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3659090-1372254477-SfLR7.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3659090-1372254477-SfLR7.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3659090-1372254477-SfLR7.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3659090-1372254477-SfLR7.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3659090-1372254477-SfLR7.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Il Predatore",
+            "site_detail_url": "https://comicvine.gamespot.com/speciale-nathan-never-23-il-predatore/4000-446197/",
+            "store_date": "2012-12-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40473/",
+                "id": 40473,
+                "name": "Speciale Nathan Never",
+                "site_detail_url": "https://comicvine.gamespot.com/speciale-nathan-never/4050-40473/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-449272/",
+            "cover_date": "2012-09-01",
+            "date_added": "2014-03-28 06:52:59",
+            "date_last_updated": "2014-03-28 07:23:29",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 449272,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3724305-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3724305-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3724305-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3724305-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3724305-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3724305-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3724305-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3724305-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3724305-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/bamboo-mag-23/4000-449272/",
+            "store_date": "2012-09-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72678/",
+                "id": 72678,
+                "name": "Bamboo Mag",
+                "site_detail_url": "https://comicvine.gamespot.com/bamboo-mag/4050-72678/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467468/",
+            "cover_date": "2012-06-30",
+            "date_added": "2014-10-03 04:41:28",
+            "date_last_updated": "2014-10-03 05:24:48",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Ride.191: Takusareta 4-nin (託された４人)</li><li>Ride.192: Naruko! Shinkocchou!! (鳴子！真骨頂‼)</li><li>Ride.193: Gokaichou!! (御開帳‼)</li><li>Ride.194: Iji (意地)</li><li>Ride.195: Yari Togeta Otoko (やり遂げた男)</li><li>Ride.196: Ace Imaizumi! (エース　今泉！)</li><li>Ride.197: Shinka (進化)</li><li>Ride.198: Kakusei (覚醒)</li><li>Ride.199: Shuunen no Otoko (執念の男)</li></ul>",
+            "has_staff_review": false,
+            "id": 467468,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4136114-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4136114-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4136114-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4136114-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4136114-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4136114-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4136114-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4136114-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4136114-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Vol. 23",
+            "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal-23-vol-23/4000-467468/",
+            "store_date": "2012-06-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77394/",
+                "id": 77394,
+                "name": "Yowamushi Pedal",
+                "site_detail_url": "https://comicvine.gamespot.com/yowamushi-pedal/4050-77394/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-474429/",
+            "cover_date": "2012-08-31",
+            "date_added": "2014-12-20 09:16:28",
+            "date_last_updated": "2014-12-20 10:07:46",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 474429,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4285669-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4285669-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4285669-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4285669-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4285669-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4285669-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4285669-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4285669-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4285669-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/good-afternoon-23/4000-474429/",
+            "store_date": "2012-07-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-78993/",
+                "id": 78993,
+                "name": "good! Afternoon",
+                "site_detail_url": "https://comicvine.gamespot.com/good-afternoon/4050-78993/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-481344/",
+            "cover_date": "2012-06-18",
+            "date_added": "2015-02-28 17:10:58",
+            "date_last_updated": "2015-02-28 17:32:12",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 481344,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4421724-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4421724-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4421724-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4421724-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4421724-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4421724-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4421724-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4421724-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4421724-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Vol. 23",
+            "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman-23-vol-23/4000-481344/",
+            "store_date": "2012-06-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80408/",
+                "id": 80408,
+                "name": "Kyou Kara Hitman",
+                "site_detail_url": "https://comicvine.gamespot.com/kyou-kara-hitman/4050-80408/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-491319/",
+            "cover_date": "2012-03-23",
+            "date_added": "2015-06-06 14:05:44",
+            "date_last_updated": "2015-07-24 23:31:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 491319,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4610137-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4610137-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4610137-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4610137-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4610137-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4610137-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4610137-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4610137-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4610137-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Volume 23",
+            "site_detail_url": "https://comicvine.gamespot.com/keroro-gunsou-23-volume-23/4000-491319/",
+            "store_date": "2012-03-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77496/",
+                "id": 77496,
+                "name": "Keroro Gunsou",
+                "site_detail_url": "https://comicvine.gamespot.com/keroro-gunsou/4050-77496/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-518807/",
+            "cover_date": "2012-10-31",
+            "date_added": "2016-03-08 02:35:57",
+            "date_last_updated": "2016-03-13 17:02:10",
+            "deck": null,
+            "description": "<p><em>It's a bird! It's a plane! No, it's a Digital Exclusive! Join Riverdale's teen heroes as they thwart the forces of evil. Can Pureheart battle both The Reptile and Evilheart at once?! Will The Rampaging Rebound bounce all over Captain Hero? And Superteen has her work cut out for her when The Consumer comes along to gobble up Riverdale High! Will our heroes triumph? Tune in to find out!</em></p>",
+            "has_staff_review": false,
+            "id": 518807,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5092667-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5092667-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5092667-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5092667-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5092667-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5092667-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5092667-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5092667-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5092667-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Archie's Super Teens",
+            "site_detail_url": "https://comicvine.gamespot.com/pep-digital-23-archies-super-teens/4000-518807/",
+            "store_date": "2012-10-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-86278/",
+                "id": 86278,
+                "name": "PEP Digital",
+                "site_detail_url": "https://comicvine.gamespot.com/pep-digital/4050-86278/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-561504/",
+            "cover_date": "2012-05-18",
+            "date_added": "2016-11-27 11:02:55",
+            "date_last_updated": "2016-11-27 11:20:01",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 561504,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5555902-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5555902-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5555902-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5555902-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5555902-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5555902-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5555902-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5555902-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5555902-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Vol. 23",
+            "site_detail_url": "https://comicvine.gamespot.com/kanojo-no-carrera-23-vol-23/4000-561504/",
+            "store_date": "2012-05-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95944/",
+                "id": 95944,
+                "name": "Kanojo no Carrera",
+                "site_detail_url": "https://comicvine.gamespot.com/kanojo-no-carrera/4050-95944/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-586787/",
+            "cover_date": "2012-06-18",
+            "date_added": "2017-03-12 06:48:56",
+            "date_last_updated": "2018-01-29 02:43:29",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 586787,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5744477-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5744477-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5744477-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5744477-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5744477-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5744477-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5744477-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5744477-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5744477-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Vol. 23",
+            "site_detail_url": "https://comicvine.gamespot.com/tenpai-gaiden-23-vol-23/4000-586787/",
+            "store_date": "2012-06-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99741/",
+                "id": 99741,
+                "name": "Tenpai Gaiden",
+                "site_detail_url": "https://comicvine.gamespot.com/tenpai-gaiden/4050-99741/"
             }
         }
     ]

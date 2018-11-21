@@ -1,40 +1,5 @@
 {
-    "2017-12-25|2017-12-31": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649354/",
-            "cover_date": "2018-01-31",
-            "date_added": "2017-12-26 00:00:23",
-            "date_last_updated": "2017-12-26 01:34:27",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 649354,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6203510-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6203510-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6203510-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6203510-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6203510-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6203510-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6203510-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6203510-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6203510-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "La Jeunesse de Picsou 5",
-            "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou-41-la-jeunesse-de-picsou-5/4000-649354/",
-            "store_date": "2017-12-27",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68505/",
-                "id": 68505,
-                "name": "Les Trésors de Picsou",
-                "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou/4050-68505/"
-            }
-        }
-    ],
-    "2017-01-02|2017-01-08": [
+    "2017-01-01|2017-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-575552/",
@@ -67,15 +32,7 @@
                 "name": "Boys Over Flowers Season 2",
                 "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2/4050-81328/"
             }
-        }
-    ],
-    "2017-01-09|2017-01-15": [],
-    "2017-01-16|2017-01-22": [],
-    "2017-01-23|2017-01-29": [],
-    "2017-01-30|2017-02-05": [],
-    "2017-02-06|2017-02-12": [],
-    "2017-02-13|2017-02-19": [],
-    "2017-02-20|2017-02-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-582485/",
@@ -108,9 +65,7 @@
                 "name": "Astro City",
                 "site_detail_url": "https://comicvine.gamespot.com/astro-city/4050-62857/"
             }
-        }
-    ],
-    "2017-02-27|2017-03-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-583892/",
@@ -146,45 +101,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600544/",
-            "cover_date": "2017-03-31",
-            "date_added": "2017-06-07 08:16:30",
-            "date_last_updated": "2017-06-08 15:21:37",
-            "deck": null,
-            "description": "<p><em>Chapter 30</em></p><p><em>Kayla tries to talk Pat out of his depression. Ally and Suzanne visit her mom while Pat joins Alpha Phoenix.</em></p>",
-            "has_staff_review": false,
-            "id": 600544,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887003-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887003-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887003-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887003-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887003-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887003-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887003-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887003-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5887003-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Chapter 30: When I Fall Part 1",
-            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-41-chapter-30-when-i-fall-part-1/4000-600544/",
-            "store_date": "2017-03-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
-                "id": 70796,
-                "name": "Sorcery 101",
-                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
-            }
-        }
-    ],
-    "2017-03-06|2017-03-12": [],
-    "2017-03-13|2017-03-19": [],
-    "2017-03-20|2017-03-26": [],
-    "2017-03-27|2017-04-02": [],
-    "2017-04-03|2017-04-09": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-590390/",
             "cover_date": "2017-05-31",
             "date_added": "2017-04-01 08:49:50",
@@ -215,19 +131,7 @@
                 "name": "Comic Mugen Tensei",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-mugen-tensei/4050-89106/"
             }
-        }
-    ],
-    "2017-04-10|2017-04-16": [],
-    "2017-04-17|2017-04-23": [],
-    "2017-04-24|2017-04-30": [],
-    "2017-05-01|2017-05-07": [],
-    "2017-05-08|2017-05-14": [],
-    "2017-05-15|2017-05-21": [],
-    "2017-05-22|2017-05-28": [],
-    "2017-05-29|2017-06-04": [],
-    "2017-06-05|2017-06-11": [],
-    "2017-06-12|2017-06-18": [],
-    "2017-06-19|2017-06-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600329/",
@@ -260,17 +164,40 @@
                 "name": "Sake no Hosomichi",
                 "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi/4050-99339/"
             }
-        }
-    ],
-    "2017-06-26|2017-07-02": [],
-    "2017-07-03|2017-07-09": [],
-    "2017-07-10|2017-07-16": [],
-    "2017-07-17|2017-07-23": [],
-    "2017-07-24|2017-07-30": [],
-    "2017-07-31|2017-08-06": [],
-    "2017-08-07|2017-08-13": [],
-    "2017-08-14|2017-08-20": [],
-    "2017-08-21|2017-08-27": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600544/",
+            "cover_date": "2017-03-31",
+            "date_added": "2017-06-07 08:16:30",
+            "date_last_updated": "2017-06-08 15:21:37",
+            "deck": null,
+            "description": "<p><em>Chapter 30</em></p><p><em>Kayla tries to talk Pat out of his depression. Ally and Suzanne visit her mom while Pat joins Alpha Phoenix.</em></p>",
+            "has_staff_review": false,
+            "id": 600544,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887003-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887003-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887003-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887003-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887003-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887003-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887003-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887003-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5887003-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Chapter 30: When I Fall Part 1",
+            "site_detail_url": "https://comicvine.gamespot.com/sorcery-101-41-chapter-30-when-i-fall-part-1/4000-600544/",
+            "store_date": "2017-03-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70796/",
+                "id": 70796,
+                "name": "Sorcery 101",
+                "site_detail_url": "https://comicvine.gamespot.com/sorcery-101/4050-70796/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-616212/",
@@ -303,9 +230,7 @@
                 "name": "Lumberjanes",
                 "site_detail_url": "https://comicvine.gamespot.com/lumberjanes/4050-72941/"
             }
-        }
-    ],
-    "2017-08-28|2017-09-03": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-621074/",
@@ -338,54 +263,7 @@
                 "name": "Dengeki G's Comic",
                 "site_detail_url": "https://comicvine.gamespot.com/dengeki-gs-comic/4050-98478/"
             }
-        }
-    ],
-    "2017-09-04|2017-09-10": [],
-    "2017-09-11|2017-09-17": [],
-    "2017-09-18|2017-09-24": [],
-    "2017-09-25|2017-10-01": [],
-    "2017-10-02|2017-10-08": [],
-    "2017-10-09|2017-10-15": [],
-    "2017-10-16|2017-10-22": [],
-    "2017-10-23|2017-10-29": [],
-    "2017-10-30|2017-11-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641297/",
-            "cover_date": "2017-10-30",
-            "date_added": "2017-11-21 15:14:30",
-            "date_last_updated": "2017-11-26 10:23:16",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 641297,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6155379-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6155379-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6155379-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6155379-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6155379-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6155379-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6155379-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6155379-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6155379-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "Vol. 41",
-            "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijima-kun-41-vol-41/4000-641297/",
-            "store_date": "2017-10-30",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93691/",
-                "id": 93691,
-                "name": "Yamikin Ushijima-kun",
-                "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijimakun/4050-93691/"
-            }
-        }
-    ],
-    "2017-11-06|2017-11-12": [],
-    "2017-11-13|2017-11-19": [],
-    "2017-11-20|2017-11-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-640438/",
@@ -418,10 +296,73 @@
                 "name": "Zombie Tramp",
                 "site_detail_url": "https://comicvine.gamespot.com/zombie-tramp/4050-75908/"
             }
-        }
-    ],
-    "2017-11-27|2017-12-03": [],
-    "2017-12-04|2017-12-10": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641297/",
+            "cover_date": "2017-10-30",
+            "date_added": "2017-11-21 15:14:30",
+            "date_last_updated": "2017-11-26 10:23:16",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 641297,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6155379-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6155379-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6155379-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6155379-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6155379-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6155379-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6155379-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6155379-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6155379-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "Vol. 41",
+            "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijima-kun-41-vol-41/4000-641297/",
+            "store_date": "2017-10-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93691/",
+                "id": 93691,
+                "name": "Yamikin Ushijima-kun",
+                "site_detail_url": "https://comicvine.gamespot.com/yamikin-ushijimakun/4050-93691/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649354/",
+            "cover_date": "2018-01-31",
+            "date_added": "2017-12-26 00:00:23",
+            "date_last_updated": "2017-12-26 01:34:27",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 649354,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6203510-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6203510-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6203510-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6203510-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6203510-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6203510-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6203510-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6203510-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6203510-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "La Jeunesse de Picsou 5",
+            "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou-41-la-jeunesse-de-picsou-5/4000-649354/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68505/",
+                "id": 68505,
+                "name": "Les Trésors de Picsou",
+                "site_detail_url": "https://comicvine.gamespot.com/les-tresors-de-picsou/4050-68505/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657537/",
@@ -453,43 +394,6 @@
                 "id": 108375,
                 "name": "ITAN",
                 "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
-            }
-        }
-    ],
-    "2017-12-11|2017-12-17": [],
-    "2017-12-18|2017-12-24": [],
-    "2016-12-26|2017-01-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571708/",
-            "cover_date": "2016-12-31",
-            "date_added": "2016-12-27 02:30:44",
-            "date_last_updated": "2017-02-23 06:37:59",
-            "deck": null,
-            "description": "<p><em>“THE WAR FOR PHANG,” Part Five.</em></p><p><em>Alana and Marko get their war on.</em></p><p><strong>Note</strong>: Image Comics and the creative team behind Saga weren't happy with the quality (too dark) of the initial print for the Dec. 28 release and ordered all retailers to destroy their already received copies. Saga #41 would then be re-released a week later (Jan. 4, 2017).</p><figure data-ref-id=\"1300-5626717\" data-img-src=\"https://static4.comicvine.com/uploads/original/11/115351/5626717-saga41-cover-printerror.jpg\" data-size=\"medium\" data-align=\"left\" data-ratio=\"0.76190476190476\" data-width=\"1050\" data-embed-type=\"image\" style=\"width: 1050px\"><a class=\"fluid-height\" style=\"padding-bottom:76.2%\" href=\"https://static4.comicvine.com/uploads/original/11/115351/5626717-saga41-cover-printerror.jpg\" data-ref-id=\"1300-5626717\"><img alt=\"Dec. 28th vs. Jan. 4th release\" src=\"https://static.comicvine.com/uploads/scale_medium/11/115351/5626717-saga41-cover-printerror.jpg\" srcset=\"https://static.comicvine.com/uploads/original/11/115351/5626717-saga41-cover-printerror.jpg 1050w, https://static.comicvine.com/uploads/scale_super/11/115351/5626717-saga41-cover-printerror.jpg 960w, https://static.comicvine.com/uploads/scale_medium/11/115351/5626717-saga41-cover-printerror.jpg 480w\" sizes=\"(max-width: 480px) 100vw, 480px\" data-width=\"480\"></a><figcaption>Dec. 28th vs. Jan. 4th release</figcaption></figure><p> </p>",
-            "has_staff_review": false,
-            "id": 571708,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614032-41.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614032-41.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614032-41.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614032-41.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614032-41.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614032-41.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614032-41.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614032-41.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5614032-41.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "41",
-            "name": "The War For Phang Part Five",
-            "site_detail_url": "https://comicvine.gamespot.com/saga-41-the-war-for-phang-part-five/4000-571708/",
-            "store_date": "2016-12-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46568/",
-                "id": 46568,
-                "name": "Saga",
-                "site_detail_url": "https://comicvine.gamespot.com/saga/4050-46568/"
             }
         }
     ]

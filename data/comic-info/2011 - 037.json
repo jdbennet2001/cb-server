@@ -1,112 +1,5 @@
 {
-    "2011-12-26|2012-01-01": [],
-    "2011-01-03|2011-01-09": [],
-    "2011-01-10|2011-01-16": [],
-    "2011-01-17|2011-01-23": [],
-    "2011-01-24|2011-01-30": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-407925/",
-            "cover_date": "2011-01-01",
-            "date_added": "2013-06-01 22:57:03",
-            "date_last_updated": "2013-06-01 23:19:51",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 407925,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082263-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082263-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082263-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082263-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082263-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082263-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082263-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082263-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3082263-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": "Vol. 37",
-            "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry-37-vol-37/4000-407925/",
-            "store_date": "2011-01-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62749/",
-                "id": 62749,
-                "name": "Addicted to Curry",
-                "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry/4050-62749/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408617/",
-            "cover_date": "2011-01-03",
-            "date_added": "2013-06-02 23:37:41",
-            "date_last_updated": "2013-06-03 00:02:31",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408617,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084573-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084573-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084573-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084573-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084573-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084573-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084573-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084573-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3084573-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": "Vol. 37",
-            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-37-vol-37/4000-408617/",
-            "store_date": "2011-01-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
-                "id": 62827,
-                "name": "Gin Tama",
-                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
-            }
-        }
-    ],
-    "2011-01-31|2011-02-06": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-288281/",
-            "cover_date": "2011-02-28",
-            "date_added": "2011-08-23 05:26:04",
-            "date_last_updated": "2017-06-03 03:38:20",
-            "deck": null,
-            "description": "<p><i>Clumsy, naive, spacey--just the qualities you want in a goddess tasked with delivering an important magical program to Belldandy. And Chrono, the newest goddess to appear in the OMG! saga, possesses these qualities admirably!</i></p>",
-            "has_staff_review": false,
-            "id": 288281,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5880147-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5880147-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5880147-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5880147-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5880147-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5880147-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5880147-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5880147-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5880147-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": "Volume 37",
-            "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess-37-volume-37/4000-288281/",
-            "store_date": "2011-02-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-27627/",
-                "id": 27627,
-                "name": "Oh My Goddess!",
-                "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess/4050-27627/"
-            }
-        }
-    ],
-    "2011-02-07|2011-02-13": [
+    "2011-01-01|2011-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-261309/",
@@ -139,9 +32,7 @@
                 "name": "Northlanders",
                 "site_detail_url": "https://comicvine.gamespot.com/northlanders/4050-20035/"
             }
-        }
-    ],
-    "2011-02-14|2011-02-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-263120/",
@@ -174,11 +65,7 @@
                 "name": "Tiny Titans",
                 "site_detail_url": "https://comicvine.gamespot.com/tiny-titans/4050-20512/"
             }
-        }
-    ],
-    "2011-02-21|2011-02-27": [],
-    "2011-02-28|2011-03-06": [],
-    "2011-03-07|2011-03-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-265488/",
@@ -214,149 +101,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416714/",
-            "cover_date": "2011-03-06",
-            "date_added": "2013-07-06 07:35:02",
-            "date_last_updated": "2013-07-06 08:01:58",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416714,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3155871-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3155871-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3155871-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3155871-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3155871-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3155871-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3155871-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3155871-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3155871-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": "Vol. 37",
-            "site_detail_url": "https://comicvine.gamespot.com/q-e-d-37-vol-37/4000-416714/",
-            "store_date": "2011-03-08",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65005/",
-                "id": 65005,
-                "name": "Q.E.D.",
-                "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
-            }
-        }
-    ],
-    "2011-03-14|2011-03-20": [],
-    "2011-03-21|2011-03-27": [],
-    "2011-03-28|2011-04-03": [],
-    "2011-04-04|2011-04-10": [],
-    "2011-04-11|2011-04-17": [],
-    "2011-04-18|2011-04-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-292186/",
-            "cover_date": null,
-            "date_added": "2011-09-11 01:14:48",
-            "date_last_updated": "2013-06-09 02:17:39",
-            "deck": null,
-            "description": "<p>Translates <a href=\"/thor-son-of-asgard/4050-21670/\" data-ref-id=\"4050-21670\">Thor: Son of Asgard</a> #1-12.</p>",
-            "has_staff_review": false,
-            "id": 292186,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2002272-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2002272-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2002272-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2002272-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2002272-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2002272-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2002272-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2002272-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2002272-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": "Thor: Sohn von Asgard",
-            "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition-37-thor-sohn-von-asgard/4000-292186/",
-            "store_date": "2011-04-19",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42742/",
-                "id": 42742,
-                "name": "Marvel Monster Edition",
-                "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition/4050-42742/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439540/",
-            "cover_date": "2011-06-01",
-            "date_added": "2013-12-28 04:37:26",
-            "date_last_updated": "2013-12-29 00:55:48",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 439540,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532044-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532044-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532044-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532044-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532044-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532044-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532044-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532044-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3532044-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-37/4000-439540/",
-            "store_date": "2011-04-21",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
-                "id": 70468,
-                "name": "Comic Penguin Celeb",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
-            }
-        }
-    ],
-    "2011-04-25|2011-05-01": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497268/",
-            "cover_date": "2011-05-11",
-            "date_added": "2015-08-09 06:59:27",
-            "date_last_updated": "2015-10-27 14:44:28",
-            "deck": null,
-            "description": "<p> <em>The Raptor is in Manhattan and hunting for Ben Reilly! The trouble is, Ben is dead and that means Peter Parker is now the target! Also, Kaine returns! 'Nuff said! </em></p><p>By Marc Guggenheim and Marco Chechetto.</p><p><em>Plus: classic action as Spidey battles a new and deadlier-than-ever Scorpion! </em></p><p>By David Michelinie and Todd McFarlane.</p><p>Includes material reprinted from Amazing Spider-Man #608-609 and Amazing Spider-Man #318.</p>",
-            "has_staff_review": false,
-            "id": 497268,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4735809-6198214327-22611.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4735809-6198214327-22611.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4735809-6198214327-22611.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4735809-6198214327-22611.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4735809-6198214327-22611.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4735809-6198214327-22611.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4735809-6198214327-22611.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4735809-6198214327-22611.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4735809-6198214327-22611.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-37/4000-497268/",
-            "store_date": "2011-04-28",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
-                "id": 33937,
-                "name": "The Astonishing Spider-Man",
-                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
-            }
-        }
-    ],
-    "2011-05-02|2011-05-08": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269485/",
             "cover_date": "2011-07-01",
             "date_added": "2011-05-04 09:04:35",
@@ -387,9 +131,7 @@
                 "name": "House of Mystery",
                 "site_detail_url": "https://comicvine.gamespot.com/house-of-mystery/4050-21513/"
             }
-        }
-    ],
-    "2011-05-09|2011-05-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-269779/",
@@ -422,44 +164,7 @@
                 "name": "Astonishing X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/astonishing-x-men/4050-10746/"
             }
-        }
-    ],
-    "2011-05-16|2011-05-22": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-310472/",
-            "cover_date": "2011-05-01",
-            "date_added": "2012-01-09 23:16:57",
-            "date_last_updated": "2014-09-05 06:13:06",
-            "deck": null,
-            "description": "<p><i>Yura et Makoto vont expérimenter une nouvelle méthode, le “Slow Sex”, consistant à prendre son temps pour savourer le corps de l’autre, en échangeant des caresses jusqu’à l’extase. La méthode semble particulièrement efficace…</i></p><h2>Titres de Chapitre</h2><ul><li>Chapitre 346 et 347 - Conseils pour pratiquer le Slow Sex</li><li>Chapitre 348 - Monsieur S et madame</li><li>Chapitre 349 et 350 - Agence matrimoniale pour Suzuka</li><li>Chapitre 351 - Maquillage interdit</li><li>Chapitre 352 - L’argent de poche de Makoto</li><li>Chapitre 353 - Amour impossible</li><li>Chapitre 354 - Le moniteur du club de fitness</li><li>Chapitre 355 - Les tribulations de Yura</li></ul>",
-            "has_staff_review": false,
-            "id": 310472,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4079823-37.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4079823-37.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4079823-37.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4079823-37.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4079823-37.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4079823-37.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4079823-37.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4079823-37.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4079823-37.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "37",
-            "name": "Tome 37",
-            "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story-37-tome-37/4000-310472/",
-            "store_date": "2011-05-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45084/",
-                "id": 45084,
-                "name": "Step Up Love Story",
-                "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
-            }
-        }
-    ],
-    "2011-05-23|2011-05-29": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-271625/",
@@ -492,16 +197,7 @@
                 "name": "Deadpool",
                 "site_detail_url": "https://comicvine.gamespot.com/deadpool/4050-22955/"
             }
-        }
-    ],
-    "2011-05-30|2011-06-05": [],
-    "2011-06-06|2011-06-12": [],
-    "2011-06-13|2011-06-19": [],
-    "2011-06-20|2011-06-26": [],
-    "2011-06-27|2011-07-03": [],
-    "2011-07-04|2011-07-10": [],
-    "2011-07-11|2011-07-17": [],
-    "2011-07-18|2011-07-24": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-279981/",
@@ -567,16 +263,73 @@
                 "name": "Hulk",
                 "site_detail_url": "https://comicvine.gamespot.com/hulk/4050-20291/"
             }
-        }
-    ],
-    "2011-07-25|2011-07-31": [],
-    "2011-08-01|2011-08-07": [],
-    "2011-08-08|2011-08-14": [],
-    "2011-08-15|2011-08-21": [],
-    "2011-08-22|2011-08-28": [],
-    "2011-08-29|2011-09-04": [],
-    "2011-09-05|2011-09-11": [],
-    "2011-09-12|2011-09-18": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-288281/",
+            "cover_date": "2011-02-28",
+            "date_added": "2011-08-23 05:26:04",
+            "date_last_updated": "2017-06-03 03:38:20",
+            "deck": null,
+            "description": "<p><i>Clumsy, naive, spacey--just the qualities you want in a goddess tasked with delivering an important magical program to Belldandy. And Chrono, the newest goddess to appear in the OMG! saga, possesses these qualities admirably!</i></p>",
+            "has_staff_review": false,
+            "id": 288281,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5880147-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5880147-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5880147-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5880147-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5880147-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5880147-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5880147-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5880147-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5880147-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Volume 37",
+            "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess-37-volume-37/4000-288281/",
+            "store_date": "2011-02-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-27627/",
+                "id": 27627,
+                "name": "Oh My Goddess!",
+                "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess/4050-27627/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-292186/",
+            "cover_date": null,
+            "date_added": "2011-09-11 01:14:48",
+            "date_last_updated": "2013-06-09 02:17:39",
+            "deck": null,
+            "description": "<p>Translates <a href=\"/thor-son-of-asgard/4050-21670/\" data-ref-id=\"4050-21670\">Thor: Son of Asgard</a> #1-12.</p>",
+            "has_staff_review": false,
+            "id": 292186,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2002272-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2002272-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2002272-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2002272-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2002272-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2002272-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2002272-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2002272-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2002272-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Thor: Sohn von Asgard",
+            "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition-37-thor-sohn-von-asgard/4000-292186/",
+            "store_date": "2011-04-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42742/",
+                "id": 42742,
+                "name": "Marvel Monster Edition",
+                "site_detail_url": "https://comicvine.gamespot.com/marvel-monster-edition/4050-42742/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-292608/",
@@ -609,12 +362,7 @@
                 "name": "The Walking Dead Weekly",
                 "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-weekly/4050-38234/"
             }
-        }
-    ],
-    "2011-09-19|2011-09-25": [],
-    "2011-09-26|2011-10-02": [],
-    "2011-10-03|2011-10-09": [],
-    "2011-10-10|2011-10-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-294008/",
@@ -647,16 +395,7 @@
                 "name": "Eyeshield 21",
                 "site_detail_url": "https://comicvine.gamespot.com/eyeshield-21/4050-25070/"
             }
-        }
-    ],
-    "2011-10-17|2011-10-23": [],
-    "2011-10-24|2011-10-30": [],
-    "2011-10-31|2011-11-06": [],
-    "2011-11-07|2011-11-13": [],
-    "2011-11-14|2011-11-20": [],
-    "2011-11-21|2011-11-27": [],
-    "2011-11-28|2011-12-04": [],
-    "2011-12-05|2011-12-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-305663/",
@@ -689,7 +428,204 @@
                 "name": "Bleach",
                 "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-310472/",
+            "cover_date": "2011-05-01",
+            "date_added": "2012-01-09 23:16:57",
+            "date_last_updated": "2014-09-05 06:13:06",
+            "deck": null,
+            "description": "<p><i>Yura et Makoto vont expérimenter une nouvelle méthode, le “Slow Sex”, consistant à prendre son temps pour savourer le corps de l’autre, en échangeant des caresses jusqu’à l’extase. La méthode semble particulièrement efficace…</i></p><h2>Titres de Chapitre</h2><ul><li>Chapitre 346 et 347 - Conseils pour pratiquer le Slow Sex</li><li>Chapitre 348 - Monsieur S et madame</li><li>Chapitre 349 et 350 - Agence matrimoniale pour Suzuka</li><li>Chapitre 351 - Maquillage interdit</li><li>Chapitre 352 - L’argent de poche de Makoto</li><li>Chapitre 353 - Amour impossible</li><li>Chapitre 354 - Le moniteur du club de fitness</li><li>Chapitre 355 - Les tribulations de Yura</li></ul>",
+            "has_staff_review": false,
+            "id": 310472,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4079823-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4079823-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4079823-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4079823-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4079823-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4079823-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4079823-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4079823-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4079823-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Tome 37",
+            "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story-37-tome-37/4000-310472/",
+            "store_date": "2011-05-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-45084/",
+                "id": 45084,
+                "name": "Step Up Love Story",
+                "site_detail_url": "https://comicvine.gamespot.com/step-up-love-story/4050-45084/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-407925/",
+            "cover_date": "2011-01-01",
+            "date_added": "2013-06-01 22:57:03",
+            "date_last_updated": "2013-06-01 23:19:51",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 407925,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082263-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082263-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082263-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082263-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082263-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082263-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082263-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082263-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3082263-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Vol. 37",
+            "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry-37-vol-37/4000-407925/",
+            "store_date": "2011-01-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62749/",
+                "id": 62749,
+                "name": "Addicted to Curry",
+                "site_detail_url": "https://comicvine.gamespot.com/addicted-to-curry/4050-62749/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408617/",
+            "cover_date": "2011-01-03",
+            "date_added": "2013-06-02 23:37:41",
+            "date_last_updated": "2013-06-03 00:02:31",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408617,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084573-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084573-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084573-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084573-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084573-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084573-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084573-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084573-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3084573-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Vol. 37",
+            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-37-vol-37/4000-408617/",
+            "store_date": "2011-01-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
+                "id": 62827,
+                "name": "Gin Tama",
+                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416714/",
+            "cover_date": "2011-03-06",
+            "date_added": "2013-07-06 07:35:02",
+            "date_last_updated": "2013-07-06 08:01:58",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416714,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3155871-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3155871-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3155871-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3155871-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3155871-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3155871-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3155871-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3155871-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3155871-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Vol. 37",
+            "site_detail_url": "https://comicvine.gamespot.com/q-e-d-37-vol-37/4000-416714/",
+            "store_date": "2011-03-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65005/",
+                "id": 65005,
+                "name": "Q.E.D.",
+                "site_detail_url": "https://comicvine.gamespot.com/q-e-d/4050-65005/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-439540/",
+            "cover_date": "2011-06-01",
+            "date_added": "2013-12-28 04:37:26",
+            "date_last_updated": "2013-12-29 00:55:48",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 439540,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3532044-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3532044-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3532044-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3532044-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3532044-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3532044-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3532044-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3532044-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3532044-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb-37/4000-439540/",
+            "store_date": "2011-04-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70468/",
+                "id": 70468,
+                "name": "Comic Penguin Celeb",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-penguin-celeb/4050-70468/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-497268/",
+            "cover_date": "2011-05-11",
+            "date_added": "2015-08-09 06:59:27",
+            "date_last_updated": "2015-10-27 14:44:28",
+            "deck": null,
+            "description": "<p> <em>The Raptor is in Manhattan and hunting for Ben Reilly! The trouble is, Ben is dead and that means Peter Parker is now the target! Also, Kaine returns! 'Nuff said! </em></p><p>By Marc Guggenheim and Marco Chechetto.</p><p><em>Plus: classic action as Spidey battles a new and deadlier-than-ever Scorpion! </em></p><p>By David Michelinie and Todd McFarlane.</p><p>Includes material reprinted from Amazing Spider-Man #608-609 and Amazing Spider-Man #318.</p>",
+            "has_staff_review": false,
+            "id": 497268,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4735809-6198214327-22611.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4735809-6198214327-22611.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4735809-6198214327-22611.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4735809-6198214327-22611.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4735809-6198214327-22611.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4735809-6198214327-22611.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4735809-6198214327-22611.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4735809-6198214327-22611.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4735809-6198214327-22611.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-37/4000-497268/",
+            "store_date": "2011-04-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-33937/",
+                "id": 33937,
+                "name": "The Astonishing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man/4050-33937/"
+            }
         }
-    ],
-    "2011-12-12|2011-12-18": []
+    ]
 }

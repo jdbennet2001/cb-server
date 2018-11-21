@@ -1,8 +1,5 @@
 {
-    "2012-12-24|2012-12-30": [],
-    "2012-12-31|2013-01-06": [],
-    "2012-01-02|2012-01-08": [],
-    "2012-01-09|2012-01-15": [
+    "2012-01-01|2012-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-310930/",
@@ -36,162 +33,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/dc-universe-presents/4050-37673/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-407975/",
-            "cover_date": "2012-01-02",
-            "date_added": "2013-06-01 23:40:23",
-            "date_last_updated": "2013-06-02 00:26:18",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 407975,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082349-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082349-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082349-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082349-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082349-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082349-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082349-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082349-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3082349-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Vol. 43",
-            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-43-vol-43/4000-407975/",
-            "store_date": "2012-01-13",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62750/",
-                "id": 62750,
-                "name": "Ah! My Goddess",
-                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-62750/"
-            }
-        }
-    ],
-    "2012-01-16|2012-01-22": [],
-    "2012-01-23|2012-01-29": [],
-    "2012-01-30|2012-02-05": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370134/",
-            "cover_date": "2012-02-03",
-            "date_added": "2012-11-25 03:06:49",
-            "date_last_updated": "2016-06-24 14:22:57",
-            "deck": null,
-            "description": "<p><b>Proper Japanese Title</b>: ストレートパーマに悪い奴はいない</p><h2>Chapter Titles</h2><ul><li>Lesson 371. \"Millioner Madao\" (マダオドッグミリオネア <i>Madao Doggu Mirionea</i>)</li><li>Lesson 372. \"Nobody with a Straight Perm is a Bad Guy\" (ストレートパーマに悪い奴はいない <i>Sutorēto Pāma ni Warui Yatsu wa Inai</i>)</li><li>Lesson 373. \"Nobody with a Straight Perm is a Bad Guy; 2\" (続ストレートパーマに悪い奴はいない <i>Zoku: Sutorēto Pāma ni Warui Yatsu wa Inai</i>)</li><li>Lesson 374. \"Gold or Silver\"</li><li>Lesson 375. \"Kin-san's Kin****\" (金さんの金○)</li><li>Lesson 376. \"Writing \"Friend\" and Reading it as \"Enemy\"\" (「友」と書いて「てき」と読む)</li><li>Lesson 377. \"Writing \"Enemy\" and Reading it as \"Friend\"\" (「敵」と書いて「とも」と読む)</li><li>Lesson 378. \"Steel Memories\" (鋼の記憶)</li><li>Lesson 379. \"A Protagonist Is\" (主人公とは)</li><li>Lesson 380. \"A Man's Sword\" (男の剣)</li></ul>",
-            "has_staff_review": false,
-            "id": 370134,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2720571-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2720571-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2720571-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2720571-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2720571-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2720571-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2720571-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2720571-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/2720571-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Nobody With A Straight Perm Is A Bad Guy",
-            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-43-nobody-with-a-straight-perm-is-a-bad-g/4000-370134/",
-            "store_date": "2012-02-03",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42491/",
-                "id": 42491,
-                "name": "Gintama",
-                "site_detail_url": "https://comicvine.gamespot.com/gintama/4050-42491/"
-            }
-        }
-    ],
-    "2012-02-06|2012-02-12": [],
-    "2012-02-13|2012-02-19": [],
-    "2012-02-20|2012-02-26": [],
-    "2012-02-27|2012-03-04": [],
-    "2012-03-05|2012-03-11": [],
-    "2012-03-12|2012-03-18": [],
-    "2012-03-19|2012-03-25": [],
-    "2012-03-26|2012-04-01": [],
-    "2012-04-02|2012-04-08": [],
-    "2012-04-09|2012-04-15": [],
-    "2012-04-16|2012-04-22": [],
-    "2012-04-23|2012-04-29": [],
-    "2012-04-30|2012-05-06": [],
-    "2012-05-07|2012-05-13": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416313/",
-            "cover_date": "2012-05-05",
-            "date_added": "2013-07-05 00:11:30",
-            "date_last_updated": "2013-07-05 00:38:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 416313,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153087-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153087-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153087-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153087-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153087-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153087-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153087-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153087-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3153087-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Vol. 43",
-            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-43-vol-43/4000-416313/",
-            "store_date": "2012-05-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64975/",
-                "id": 64975,
-                "name": "Kenichi: The Mightiest Disciple",
-                "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple/4050-64975/"
-            }
-        }
-    ],
-    "2012-05-14|2012-05-20": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452737/",
-            "cover_date": "2012-05-31",
-            "date_added": "2014-05-11 15:13:13",
-            "date_last_updated": "2014-05-11 15:27:05",
-            "deck": null,
-            "description": "<p><em>Christopher Golden and Tom Sniegoski, writers of the videogame <strong>Buffy: Chaos Bleeds</strong>, bring the story straight to comics in this look into the twisted world of the game. The barriers between alternate realities have begun to erode around Sunnydale, and Buffy and the gang face nightmare versions of friends and allies, as well as enemies thought long dead. Featuring the return of the vampiric Gorch clan, Sid the Dummy, Faith and more!</em></p><p>Reprints <a href=\"/buffy-the-vampire-slayer-chaos-bleeds/4050-21457/\" data-ref-id=\"4050-21457\">Buffy the Vampire Slayer: Chaos Bleeds</a>.</p>",
-            "has_staff_review": false,
-            "id": 452737,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3815695-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3815695-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3815695-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3815695-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3815695-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3815695-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3815695-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3815695-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3815695-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Chaos Bleeds",
-            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-43-chaos-bleeds/4000-452737/",
-            "store_date": "2012-05-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
-                "id": 56135,
-                "name": "Buffy the Vampire Slayer Classic",
-                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
-            }
-        }
-    ],
-    "2012-05-21|2012-05-27": [],
-    "2012-05-28|2012-06-03": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-337506/",
@@ -257,47 +98,7 @@
                 "name": "Next Men: Aftermath",
                 "site_detail_url": "https://comicvine.gamespot.com/next-men-aftermath/4050-45783/"
             }
-        }
-    ],
-    "2012-06-04|2012-06-10": [],
-    "2012-06-11|2012-06-17": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408623/",
-            "cover_date": "2012-06-03",
-            "date_added": "2013-06-02 23:37:54",
-            "date_last_updated": "2013-06-03 00:02:34",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 408623,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084580-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084580-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084580-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084580-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084580-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084580-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084580-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084580-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3084580-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Vol. 43",
-            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-43-vol-43/4000-408623/",
-            "store_date": "2012-06-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
-                "id": 62827,
-                "name": "Gin Tama",
-                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
-            }
-        }
-    ],
-    "2012-06-18|2012-06-24": [],
-    "2012-06-25|2012-07-01": [],
-    "2012-07-02|2012-07-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-344207/",
@@ -330,10 +131,7 @@
                 "name": "Bleach",
                 "site_detail_url": "https://comicvine.gamespot.com/bleach/4050-34586/"
             }
-        }
-    ],
-    "2012-07-09|2012-07-15": [],
-    "2012-07-16|2012-07-22": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-346294/",
@@ -366,12 +164,7 @@
                 "name": "Case Closed",
                 "site_detail_url": "https://comicvine.gamespot.com/case-closed/4050-34391/"
             }
-        }
-    ],
-    "2012-07-23|2012-07-29": [],
-    "2012-07-30|2012-08-05": [],
-    "2012-08-06|2012-08-12": [],
-    "2012-08-13|2012-08-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-351908/",
@@ -404,20 +197,13 @@
                 "name": "Sonic Universe",
                 "site_detail_url": "https://comicvine.gamespot.com/sonic-universe/4050-25981/"
             }
-        }
-    ],
-    "2012-08-20|2012-08-26": [],
-    "2012-08-27|2012-09-02": [],
-    "2012-09-03|2012-09-09": [],
-    "2012-09-10|2012-09-16": [],
-    "2012-09-17|2012-09-23": [],
-    "2012-09-24|2012-09-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-357675/",
             "cover_date": "2012-09-01",
             "date_added": "2012-09-18 01:53:44",
-            "date_last_updated": "2014-01-26 10:58:02",
+            "date_last_updated": "2018-11-15 05:26:26",
             "deck": null,
             "description": "<p><i>'SLEEPING PARTNERS' Part Two Behind a wraparound cover by PROPHET and KING CITY's Brandon Graham, Hip Flask and Vanity Case enjoy a cup of tea and sympathy, and Miki meets Apostrophe.</i></p>",
             "has_staff_review": false,
@@ -444,84 +230,7 @@
                 "name": "Elephantmen",
                 "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
             }
-        }
-    ],
-    "2012-10-01|2012-10-07": [],
-    "2012-10-08|2012-10-14": [],
-    "2012-10-15|2012-10-21": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560787/",
-            "cover_date": "2012-10-17",
-            "date_added": "2016-11-27 02:02:36",
-            "date_last_updated": "2018-08-24 22:36:12",
-            "deck": " ",
-            "description": null,
-            "has_staff_review": false,
-            "id": 560787,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554317-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554317-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554317-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554317-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554317-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554317-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554317-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554317-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5554317-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": "Vol. 43",
-            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-43-vol-43/4000-560787/",
-            "store_date": "2012-10-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
-                "id": 95919,
-                "name": "Q.E.D. - Shoumei Shuuryou",
-                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
-            }
-        }
-    ],
-    "2012-10-22|2012-10-28": [],
-    "2012-10-29|2012-11-04": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422863/",
-            "cover_date": "2012-11-01",
-            "date_added": "2013-08-21 21:20:39",
-            "date_last_updated": "2017-08-12 01:06:00",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 422863,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002875-43.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002875-43.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002875-43.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002875-43.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002875-43.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002875-43.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002875-43.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002875-43.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6002875-43.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "43",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-43/4000-422863/",
-            "store_date": "2012-11-02",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
-                "id": 67886,
-                "name": "Comic Magnum",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
-            }
-        }
-    ],
-    "2012-11-05|2012-11-11": [],
-    "2012-11-12|2012-11-18": [],
-    "2012-11-19|2012-11-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-369065/",
@@ -587,12 +296,40 @@
                 "name": "The Unwritten",
                 "site_detail_url": "https://comicvine.gamespot.com/the-unwritten/4050-2626/"
             }
-        }
-    ],
-    "2012-11-26|2012-12-02": [],
-    "2012-12-03|2012-12-09": [],
-    "2012-12-10|2012-12-16": [],
-    "2012-12-17|2012-12-23": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-370134/",
+            "cover_date": "2012-02-03",
+            "date_added": "2012-11-25 03:06:49",
+            "date_last_updated": "2016-06-24 14:22:57",
+            "deck": null,
+            "description": "<p><b>Proper Japanese Title</b>: ストレートパーマに悪い奴はいない</p><h2>Chapter Titles</h2><ul><li>Lesson 371. \"Millioner Madao\" (マダオドッグミリオネア <i>Madao Doggu Mirionea</i>)</li><li>Lesson 372. \"Nobody with a Straight Perm is a Bad Guy\" (ストレートパーマに悪い奴はいない <i>Sutorēto Pāma ni Warui Yatsu wa Inai</i>)</li><li>Lesson 373. \"Nobody with a Straight Perm is a Bad Guy; 2\" (続ストレートパーマに悪い奴はいない <i>Zoku: Sutorēto Pāma ni Warui Yatsu wa Inai</i>)</li><li>Lesson 374. \"Gold or Silver\"</li><li>Lesson 375. \"Kin-san's Kin****\" (金さんの金○)</li><li>Lesson 376. \"Writing \"Friend\" and Reading it as \"Enemy\"\" (「友」と書いて「てき」と読む)</li><li>Lesson 377. \"Writing \"Enemy\" and Reading it as \"Friend\"\" (「敵」と書いて「とも」と読む)</li><li>Lesson 378. \"Steel Memories\" (鋼の記憶)</li><li>Lesson 379. \"A Protagonist Is\" (主人公とは)</li><li>Lesson 380. \"A Man's Sword\" (男の剣)</li></ul>",
+            "has_staff_review": false,
+            "id": 370134,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2720571-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2720571-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2720571-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2720571-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2720571-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2720571-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2720571-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2720571-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2720571-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Nobody With A Straight Perm Is A Bad Guy",
+            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-43-nobody-with-a-straight-perm-is-a-bad-g/4000-370134/",
+            "store_date": "2012-02-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-42491/",
+                "id": 42491,
+                "name": "Gintama",
+                "site_detail_url": "https://comicvine.gamespot.com/gintama/4050-42491/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-373287/",
@@ -624,6 +361,204 @@
                 "id": 27627,
                 "name": "Oh My Goddess!",
                 "site_detail_url": "https://comicvine.gamespot.com/oh-my-goddess/4050-27627/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-407975/",
+            "cover_date": "2012-01-02",
+            "date_added": "2013-06-01 23:40:23",
+            "date_last_updated": "2013-06-02 00:26:18",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 407975,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3082349-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3082349-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3082349-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3082349-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3082349-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3082349-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3082349-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3082349-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3082349-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess-43-vol-43/4000-407975/",
+            "store_date": "2012-01-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62750/",
+                "id": 62750,
+                "name": "Ah! My Goddess",
+                "site_detail_url": "https://comicvine.gamespot.com/ah-my-goddess/4050-62750/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-408623/",
+            "cover_date": "2012-06-03",
+            "date_added": "2013-06-02 23:37:54",
+            "date_last_updated": "2013-06-03 00:02:34",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 408623,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3084580-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3084580-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3084580-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3084580-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3084580-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3084580-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3084580-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3084580-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3084580-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/gin-tama-43-vol-43/4000-408623/",
+            "store_date": "2012-06-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62827/",
+                "id": 62827,
+                "name": "Gin Tama",
+                "site_detail_url": "https://comicvine.gamespot.com/gin-tama/4050-62827/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416313/",
+            "cover_date": "2012-05-05",
+            "date_added": "2013-07-05 00:11:30",
+            "date_last_updated": "2013-07-05 00:38:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416313,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153087-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153087-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153087-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153087-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153087-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153087-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153087-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153087-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3153087-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple-43-vol-43/4000-416313/",
+            "store_date": "2012-05-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64975/",
+                "id": 64975,
+                "name": "Kenichi: The Mightiest Disciple",
+                "site_detail_url": "https://comicvine.gamespot.com/kenichi-the-mightiest-disciple/4050-64975/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-422863/",
+            "cover_date": "2012-11-01",
+            "date_added": "2013-08-21 21:20:39",
+            "date_last_updated": "2017-08-12 01:06:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 422863,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6002875-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6002875-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6002875-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6002875-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6002875-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6002875-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6002875-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6002875-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6002875-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-magnum-43/4000-422863/",
+            "store_date": "2012-11-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67886/",
+                "id": 67886,
+                "name": "Comic Magnum",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-magnum/4050-67886/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452737/",
+            "cover_date": "2012-05-31",
+            "date_added": "2014-05-11 15:13:13",
+            "date_last_updated": "2014-05-11 15:27:05",
+            "deck": null,
+            "description": "<p><em>Christopher Golden and Tom Sniegoski, writers of the videogame <strong>Buffy: Chaos Bleeds</strong>, bring the story straight to comics in this look into the twisted world of the game. The barriers between alternate realities have begun to erode around Sunnydale, and Buffy and the gang face nightmare versions of friends and allies, as well as enemies thought long dead. Featuring the return of the vampiric Gorch clan, Sid the Dummy, Faith and more!</em></p><p>Reprints <a href=\"/buffy-the-vampire-slayer-chaos-bleeds/4050-21457/\" data-ref-id=\"4050-21457\">Buffy the Vampire Slayer: Chaos Bleeds</a>.</p>",
+            "has_staff_review": false,
+            "id": 452737,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3815695-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3815695-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3815695-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3815695-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3815695-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3815695-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3815695-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3815695-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3815695-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Chaos Bleeds",
+            "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic-43-chaos-bleeds/4000-452737/",
+            "store_date": "2012-05-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-56135/",
+                "id": 56135,
+                "name": "Buffy the Vampire Slayer Classic",
+                "site_detail_url": "https://comicvine.gamespot.com/buffy-the-vampire-slayer-classic/4050-56135/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560787/",
+            "cover_date": "2012-10-17",
+            "date_added": "2016-11-27 02:02:36",
+            "date_last_updated": "2018-08-24 22:36:12",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 560787,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5554317-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5554317-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5554317-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5554317-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5554317-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5554317-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5554317-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5554317-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5554317-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou-43-vol-43/4000-560787/",
+            "store_date": "2012-10-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95919/",
+                "id": 95919,
+                "name": "Q.E.D. - Shoumei Shuuryou",
+                "site_detail_url": "https://comicvine.gamespot.com/qed-shoumei-shuuryou/4050-95919/"
             }
         }
     ]

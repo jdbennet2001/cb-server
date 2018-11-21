@@ -1,74 +1,5 @@
 {
-    "2014-12-22|2014-12-28": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-479182/",
-            "cover_date": "2014-12-26",
-            "date_added": "2015-02-09 04:15:44",
-            "date_last_updated": "2015-02-09 05:00:25",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 479182,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4382020-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4382020-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4382020-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4382020-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4382020-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4382020-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4382020-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4382020-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4382020-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Volume 21",
-            "site_detail_url": "https://comicvine.gamespot.com/taju-jinkaku-tantei-saiko-21-volume-21/4000-479182/",
-            "store_date": "2014-12-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40395/",
-                "id": 40395,
-                "name": "Tajū-Jinkaku Tantei Saiko",
-                "site_detail_url": "https://comicvine.gamespot.com/taju-jinkaku-tantei-saiko/4050-40395/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490201/",
-            "cover_date": "2014-12-31",
-            "date_added": "2015-05-30 04:07:23",
-            "date_last_updated": "2015-05-30 04:15:18",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 490201,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4593721-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4593721-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4593721-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4593721-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4593721-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4593721-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4593721-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4593721-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4593721-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/magnum-x-21-vol-21/4000-490201/",
-            "store_date": "2014-12-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-82317/",
-                "id": 82317,
-                "name": "Magnum X",
-                "site_detail_url": "https://comicvine.gamespot.com/magnum-x/4050-82317/"
-            }
-        }
-    ],
-    "2014-12-29|2015-01-04": [],
-    "2014-01-06|2014-01-12": [
+    "2014-01-01|2014-12-30": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-441432/",
@@ -101,9 +32,7 @@
                 "name": "The Shadow",
                 "site_detail_url": "https://comicvine.gamespot.com/the-shadow/4050-48063/"
             }
-        }
-    ],
-    "2014-01-13|2014-01-19": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-442161/",
@@ -136,9 +65,7 @@
                 "name": "All-New X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/all-new-x-men/4050-53919/"
             }
-        }
-    ],
-    "2014-01-20|2014-01-26": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-442909/",
@@ -242,9 +169,7 @@
                 "name": "Ultimate Marvel",
                 "site_detail_url": "https://comicvine.gamespot.com/ultimate-marvel/4050-51794/"
             }
-        }
-    ],
-    "2014-01-27|2014-02-02": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-443989/",
@@ -343,9 +268,7 @@
                 "name": "Wolverine e gli X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/wolverine-e-gli-x-men/4050-49986/"
             }
-        }
-    ],
-    "2014-02-03|2014-02-09": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-444531/",
@@ -378,9 +301,7 @@
                 "name": "Iron Man",
                 "site_detail_url": "https://comicvine.gamespot.com/iron-man/4050-53725/"
             }
-        }
-    ],
-    "2014-02-10|2014-02-16": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-445172/",
@@ -482,177 +403,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-447920/",
-            "cover_date": "2014-03-31",
-            "date_added": "2014-03-17 09:48:51",
-            "date_last_updated": "2014-11-05 16:53:58",
-            "deck": null,
-            "description": "<p>Translates \"The 900\", \"Birth of a Family\" and \"Through a Blue Lens\" from <a href=\"/detective-comics-19-the-900-birth-of-a-family-bird/4000-395672/\" data-ref-id=\"4000-395672\">Detective Comics #19</a>.</p>",
-            "has_staff_review": false,
-            "id": 447920,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3701749-3898850886-BATMA.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3701749-3898850886-BATMA.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3701749-3898850886-BATMA.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3701749-3898850886-BATMA.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3701749-3898850886-BATMA.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3701749-3898850886-BATMA.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3701749-3898850886-BATMA.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3701749-3898850886-BATMA.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3701749-3898850886-BATMA.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-21/4000-447920/",
-            "store_date": "2014-02-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60760/",
-                "id": 60760,
-                "name": "Batman",
-                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-60760/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-475336/",
-            "cover_date": "2014-03-31",
-            "date_added": "2015-01-02 11:23:27",
-            "date_last_updated": "2015-11-02 13:10:41",
-            "deck": null,
-            "description": "<p> German Edition of <a href=\"/action-comics-20-hybrid-part-2-world-of-krypton-pa/4000-400116/\" data-ref-id=\"4000-400116\">Action Comics #20</a> and <a href=\"/supergirl-21-be-careful-what-you-wish-for/4000-411792/\" data-ref-id=\"4000-411792\">Supergirl #21</a></p>",
-            "has_staff_review": false,
-            "id": 475336,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Hybrid, Teil 2; Gib acht, was du dir wünschst",
-            "site_detail_url": "https://comicvine.gamespot.com/superman-21-hybrid-teil-2-gib-acht-was-du-dir-wuns/4000-475336/",
-            "store_date": "2014-02-11",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60404/",
-                "id": 60404,
-                "name": "Superman",
-                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-60404/"
-            }
-        }
-    ],
-    "2014-02-17|2014-02-23": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-573878/",
-            "cover_date": "2014-02-18",
-            "date_added": "2016-12-31 22:10:29",
-            "date_last_updated": "2017-02-19 00:26:24",
-            "deck": null,
-            "description": "<p>Chapter 195 - 203.</p>",
-            "has_staff_review": false,
-            "id": 573878,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5623954-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5623954-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5623954-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5623954-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5623954-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5623954-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5623954-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5623954-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5623954-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Volume 21",
-            "site_detail_url": "https://comicvine.gamespot.com/king-golf-21-volume-21/4000-573878/",
-            "store_date": "2014-02-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97599/",
-                "id": 97599,
-                "name": "King Golf",
-                "site_detail_url": "https://comicvine.gamespot.com/king-golf/4050-97599/"
-            }
-        }
-    ],
-    "2014-02-24|2014-03-02": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-503336/",
-            "cover_date": "2014-03-31",
-            "date_added": "2015-10-18 08:54:27",
-            "date_last_updated": "2015-10-18 08:58:39",
-            "deck": null,
-            "description": "<p> Translates Batman: The Dark Knight #21 &amp; Nightwing #19.</p>",
-            "has_staff_review": false,
-            "id": 503336,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4861768-0086813555-BATMA.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4861768-0086813555-BATMA.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4861768-0086813555-BATMA.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4861768-0086813555-BATMA.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4861768-0086813555-BATMA.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4861768-0086813555-BATMA.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4861768-0086813555-BATMA.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4861768-0086813555-BATMA.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4861768-0086813555-BATMA.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/batman-the-dark-knight-21/4000-503336/",
-            "store_date": "2014-02-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61513/",
-                "id": 61513,
-                "name": "Batman: The Dark Knight",
-                "site_detail_url": "https://comicvine.gamespot.com/batman-the-dark-knight/4050-61513/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-505792/",
-            "cover_date": "2014-03-31",
-            "date_added": "2015-11-13 03:21:06",
-            "date_last_updated": "2018-06-13 13:46:06",
-            "deck": null,
-            "description": "<p>Translates Justice League #22, Justice League of America #6 &amp; Teen Titans #19.</p>",
-            "has_staff_review": false,
-            "id": 505792,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4906840-0077201145-JUSTI.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4906840-0077201145-JUSTI.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4906840-0077201145-JUSTI.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4906840-0077201145-JUSTI.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4906840-0077201145-JUSTI.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4906840-0077201145-JUSTI.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4906840-0077201145-JUSTI.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4906840-0077201145-JUSTI.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4906840-0077201145-JUSTI.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/justice-league-21/4000-505792/",
-            "store_date": "2014-02-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61598/",
-                "id": 61598,
-                "name": "Justice League",
-                "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-61598/"
-            }
-        }
-    ],
-    "2014-03-03|2014-03-09": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-446947/",
             "cover_date": "2014-05-31",
             "date_added": "2014-03-03 20:47:01",
@@ -721,10 +471,40 @@
                 "name": "Pokémon Adventures",
                 "site_detail_url": "https://comicvine.gamespot.com/pokemon-adventures/4050-30148/"
             }
-        }
-    ],
-    "2014-03-10|2014-03-16": [],
-    "2014-03-17|2014-03-23": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-447920/",
+            "cover_date": "2014-03-31",
+            "date_added": "2014-03-17 09:48:51",
+            "date_last_updated": "2014-11-05 16:53:58",
+            "deck": null,
+            "description": "<p>Translates \"The 900\", \"Birth of a Family\" and \"Through a Blue Lens\" from <a href=\"/detective-comics-19-the-900-birth-of-a-family-bird/4000-395672/\" data-ref-id=\"4000-395672\">Detective Comics #19</a>.</p>",
+            "has_staff_review": false,
+            "id": 447920,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3701749-3898850886-BATMA.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3701749-3898850886-BATMA.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3701749-3898850886-BATMA.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3701749-3898850886-BATMA.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3701749-3898850886-BATMA.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3701749-3898850886-BATMA.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3701749-3898850886-BATMA.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3701749-3898850886-BATMA.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3701749-3898850886-BATMA.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-21/4000-447920/",
+            "store_date": "2014-02-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60760/",
+                "id": 60760,
+                "name": "Batman",
+                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-60760/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-448059/",
@@ -790,9 +570,7 @@
                 "name": "Marvel World",
                 "site_detail_url": "https://comicvine.gamespot.com/marvel-world/4050-55161/"
             }
-        }
-    ],
-    "2014-03-24|2014-03-30": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-448921/",
@@ -894,74 +672,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450347/",
-            "cover_date": "2014-06-30",
-            "date_added": "2014-04-11 17:14:43",
-            "date_last_updated": "2014-04-11 17:15:34",
-            "deck": null,
-            "description": "<p><em>Each issue of Marvel Previews is a comic book-sized, 120-page, full-color guide and preview to all of Marvel's upcoming releases - it's your #1 source for advanced information on Marvel Comics! This April issue features items scheduled to ship in June 2014 and beyond.</em></p>",
-            "has_staff_review": false,
-            "id": 450347,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3756280-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3756280-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3756280-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3756280-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3756280-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3756280-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3756280-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3756280-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3756280-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/marvel-previews-21/4000-450347/",
-            "store_date": "2014-03-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51341/",
-                "id": 51341,
-                "name": "Marvel Previews",
-                "site_detail_url": "https://comicvine.gamespot.com/marvel-previews/4050-51341/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-472576/",
-            "cover_date": "2014-03-25",
-            "date_added": "2014-12-06 14:17:44",
-            "date_last_updated": "2016-09-09 10:08:44",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 472576,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4261089-21.png",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4261089-21.png",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4261089-21.png",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4261089-21.png",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4261089-21.png",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4261089-21.png",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4261089-21.png",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4261089-21.png",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4261089-21.png",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-21/4000-472576/",
-            "store_date": "2014-03-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-75004/",
-                "id": 75004,
-                "name": "Kimi ni Todoke",
-                "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke/4050-75004/"
-            }
-        }
-    ],
-    "2014-03-31|2014-04-06": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-449658/",
             "cover_date": "2014-04-30",
             "date_added": "2014-04-01 00:10:37",
@@ -992,9 +702,7 @@
                 "name": "Toriko",
                 "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-39219/"
             }
-        }
-    ],
-    "2014-04-07|2014-04-13": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450062/",
@@ -1030,6 +738,39 @@
         },
         {
             "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450347/",
+            "cover_date": "2014-06-30",
+            "date_added": "2014-04-11 17:14:43",
+            "date_last_updated": "2014-04-11 17:15:34",
+            "deck": null,
+            "description": "<p><em>Each issue of Marvel Previews is a comic book-sized, 120-page, full-color guide and preview to all of Marvel's upcoming releases - it's your #1 source for advanced information on Marvel Comics! This April issue features items scheduled to ship in June 2014 and beyond.</em></p>",
+            "has_staff_review": false,
+            "id": 450347,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3756280-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3756280-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3756280-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3756280-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3756280-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3756280-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3756280-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3756280-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3756280-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/marvel-previews-21/4000-450347/",
+            "store_date": "2014-03-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51341/",
+                "id": 51341,
+                "name": "Marvel Previews",
+                "site_detail_url": "https://comicvine.gamespot.com/marvel-previews/4050-51341/"
+            }
+        },
+        {
+            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450428/",
             "cover_date": "2014-04-07",
             "date_added": "2014-04-13 00:52:00",
@@ -1060,9 +801,7 @@
                 "name": "Disenchanted",
                 "site_detail_url": "https://comicvine.gamespot.com/disenchanted/4050-68702/"
             }
-        }
-    ],
-    "2014-04-14|2014-04-20": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-450555/",
@@ -1136,74 +875,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457089/",
-            "cover_date": "2014-04-30",
-            "date_added": "2014-06-20 07:51:55",
-            "date_last_updated": "2014-10-24 16:10:12",
-            "deck": null,
-            "description": "<h2>Chapter Titles</h2><ul><li>Night 199: After the War</li><li>Night 200: Manly Tears</li><li>Night 201: The Invitation Letter to Balbadd</li><li>Night 202: Alibaba's Household</li><li>Night 203: Madly in Love</li><li>Night 204: Sinbad and Yunan</li><li>Night 205: What is a King Vessel?</li><li>Night 206: An Evening at an Old Friend’s House</li><li>Night 207: At Kassim's Grave</li><li>Night 208: The Man Called Ren Koumei</li></ul>",
-            "has_staff_review": false,
-            "id": 457089,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4177673-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4177673-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4177673-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4177673-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4177673-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4177673-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4177673-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4177673-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4177673-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Volume 21",
-            "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic-21-volume-21/4000-457089/",
-            "store_date": "2014-04-18",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44417/",
-                "id": 44417,
-                "name": "Magi: The Labyrinth of Magic",
-                "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic/4050-44417/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-586074/",
-            "cover_date": "2014-04-17",
-            "date_added": "2017-03-11 04:51:05",
-            "date_last_updated": "2017-08-28 03:38:35",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 586074,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5742124-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5742124-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5742124-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5742124-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5742124-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5742124-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5742124-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5742124-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5742124-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/sora-no-platanus-21-vol-21/4000-586074/",
-            "store_date": "2014-04-17",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99625/",
-                "id": 99625,
-                "name": "Sora no Platanus",
-                "site_detail_url": "https://comicvine.gamespot.com/sora-no-platanus/4050-99625/"
-            }
-        }
-    ],
-    "2014-04-21|2014-04-27": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-451066/",
             "cover_date": "2014-04-30",
             "date_added": "2014-04-22 00:01:49",
@@ -1270,41 +941,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554204/",
-            "cover_date": "2014-04-23",
-            "date_added": "2016-10-18 12:06:01",
-            "date_last_updated": "2017-04-13 18:43:11",
-            "deck": null,
-            "description": "<p>Chapter 220 - 230.</p>",
-            "has_staff_review": false,
-            "id": 554204,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5490853-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5490853-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5490853-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5490853-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5490853-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5490853-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5490853-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5490853-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5490853-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/k2-21-vol-21/4000-554204/",
-            "store_date": "2014-04-23",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93414/",
-                "id": 93414,
-                "name": "K2",
-                "site_detail_url": "https://comicvine.gamespot.com/k-2/4050-93414/"
-            }
-        }
-    ],
-    "2014-04-28|2014-05-04": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-451833/",
             "cover_date": "2014-04-30",
             "date_added": "2014-04-29 00:35:46",
@@ -1335,9 +971,7 @@
                 "name": "Crypt of Horror",
                 "site_detail_url": "https://comicvine.gamespot.com/crypt-of-horror/4050-21413/"
             }
-        }
-    ],
-    "2014-05-05|2014-05-11": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-452385/",
@@ -1370,44 +1004,7 @@
                 "name": "The Complete Peanuts",
                 "site_detail_url": "https://comicvine.gamespot.com/the-complete-peanuts/4050-20938/"
             }
-        }
-    ],
-    "2014-05-12|2014-05-18": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457088/",
-            "cover_date": "2014-05-31",
-            "date_added": "2014-06-20 06:49:53",
-            "date_last_updated": "2014-06-20 07:38:32",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 457088,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3905996-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3905996-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3905996-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3905996-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3905996-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3905996-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3905996-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3905996-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3905996-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Volume 21",
-            "site_detail_url": "https://comicvine.gamespot.com/kyokai-no-rinne-21-volume-21/4000-457088/",
-            "store_date": "2014-05-16",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-58844/",
-                "id": 58844,
-                "name": "Kyokai no Rinne",
-                "site_detail_url": "https://comicvine.gamespot.com/kyokai-no-rinne/4050-58844/"
-            }
-        }
-    ],
-    "2014-05-19|2014-05-25": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-453422/",
@@ -1473,9 +1070,7 @@
                 "name": "Batman Beyond 2.0",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-beyond-2-0/4050-66022/"
             }
-        }
-    ],
-    "2014-05-26|2014-06-01": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-454134/",
@@ -1574,9 +1169,7 @@
                 "name": "Justice League Beyond 2.0",
                 "site_detail_url": "https://comicvine.gamespot.com/justice-league-beyond-2-0/4050-66176/"
             }
-        }
-    ],
-    "2014-06-02|2014-06-08": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-455485/",
@@ -1675,9 +1268,7 @@
                 "name": "Mayor Grom",
                 "site_detail_url": "https://comicvine.gamespot.com/mayor-grom/4050-53590/"
             }
-        }
-    ],
-    "2014-06-09|2014-06-15": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456011/",
@@ -1713,41 +1304,6 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456872/",
-            "cover_date": "2014-06-15",
-            "date_added": "2014-06-19 11:03:29",
-            "date_last_updated": "2017-03-12 03:39:21",
-            "deck": null,
-            "description": "<p> ...</p>",
-            "has_staff_review": false,
-            "id": 456872,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491277-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491277-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491277-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491277-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491277-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491277-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491277-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491277-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5491277-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Зверь во мне. Часть 1",
-            "site_detail_url": "https://comicvine.gamespot.com/inok-21-zvier-vo-mnie-chast-1/4000-456872/",
-            "store_date": "2014-06-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53591/",
-                "id": 53591,
-                "name": "Inok",
-                "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
-            }
-        }
-    ],
-    "2014-06-16|2014-06-22": [
-        {
-            "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456591/",
             "cover_date": "2014-06-30",
             "date_added": "2014-06-17 00:05:24",
@@ -1777,6 +1333,39 @@
                 "id": 46365,
                 "name": "The Manhattan Projects",
                 "site_detail_url": "https://comicvine.gamespot.com/the-manhattan-projects/4050-46365/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-456872/",
+            "cover_date": "2014-06-15",
+            "date_added": "2014-06-19 11:03:29",
+            "date_last_updated": "2017-03-12 03:39:21",
+            "deck": null,
+            "description": "<p> ...</p>",
+            "has_staff_review": false,
+            "id": 456872,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5491277-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5491277-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5491277-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5491277-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5491277-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5491277-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5491277-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5491277-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5491277-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Зверь во мне. Часть 1",
+            "site_detail_url": "https://comicvine.gamespot.com/inok-21-zvier-vo-mnie-chast-1/4000-456872/",
+            "store_date": "2014-06-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-53591/",
+                "id": 53591,
+                "name": "Inok",
+                "site_detail_url": "https://comicvine.gamespot.com/inok/4050-53591/"
             }
         },
         {
@@ -1811,9 +1400,73 @@
                 "name": "Krasnaya Furiya",
                 "site_detail_url": "https://comicvine.gamespot.com/krasnaya-furiya/4050-53592/"
             }
-        }
-    ],
-    "2014-06-23|2014-06-29": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457088/",
+            "cover_date": "2014-05-31",
+            "date_added": "2014-06-20 06:49:53",
+            "date_last_updated": "2014-06-20 07:38:32",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 457088,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3905996-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3905996-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3905996-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3905996-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3905996-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3905996-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3905996-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3905996-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3905996-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Volume 21",
+            "site_detail_url": "https://comicvine.gamespot.com/kyokai-no-rinne-21-volume-21/4000-457088/",
+            "store_date": "2014-05-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-58844/",
+                "id": 58844,
+                "name": "Kyokai no Rinne",
+                "site_detail_url": "https://comicvine.gamespot.com/kyokai-no-rinne/4050-58844/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457089/",
+            "cover_date": "2014-04-30",
+            "date_added": "2014-06-20 07:51:55",
+            "date_last_updated": "2014-10-24 16:10:12",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Night 199: After the War</li><li>Night 200: Manly Tears</li><li>Night 201: The Invitation Letter to Balbadd</li><li>Night 202: Alibaba's Household</li><li>Night 203: Madly in Love</li><li>Night 204: Sinbad and Yunan</li><li>Night 205: What is a King Vessel?</li><li>Night 206: An Evening at an Old Friend’s House</li><li>Night 207: At Kassim's Grave</li><li>Night 208: The Man Called Ren Koumei</li></ul>",
+            "has_staff_review": false,
+            "id": 457089,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4177673-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4177673-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4177673-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4177673-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4177673-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4177673-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4177673-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4177673-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4177673-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Volume 21",
+            "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic-21-volume-21/4000-457089/",
+            "store_date": "2014-04-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44417/",
+                "id": 44417,
+                "name": "Magi: The Labyrinth of Magic",
+                "site_detail_url": "https://comicvine.gamespot.com/magi-the-labyrinth-of-magic/4050-44417/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457592/",
@@ -1953,72 +1606,37 @@
         },
         {
             "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-547867/",
-            "cover_date": "2014-06-23",
-            "date_added": "2016-09-01 19:45:14",
-            "date_last_updated": "2016-09-01 21:42:35",
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457826/",
+            "cover_date": null,
+            "date_added": "2014-06-24 23:40:05",
+            "date_last_updated": "2014-06-24 23:40:47",
             "deck": null,
             "description": null,
             "has_staff_review": false,
-            "id": 547867,
+            "id": 457826,
             "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5413877-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5413877-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5413877-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5413877-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5413877-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5413877-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5413877-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5413877-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5413877-21.jpg",
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3916608-9225055761-The%252.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3916608-9225055761-The%252.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3916608-9225055761-The%252.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3916608-9225055761-The%252.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3916608-9225055761-The%252.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3916608-9225055761-The%252.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3916608-9225055761-The%252.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3916608-9225055761-The%252.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3916608-9225055761-The%252.jpg",
                 "image_tags": "All Images"
             },
             "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/sun-ken-rock-21-vol-21/4000-547867/",
-            "store_date": "2014-06-23",
+            "name": "Krieg (Teil 2)",
+            "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-21-krieg-teil-2/4000-457826/",
+            "store_date": "2014-08-25",
             "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93782/",
-                "id": 93782,
-                "name": "Sun-Ken Rock",
-                "site_detail_url": "https://comicvine.gamespot.com/sunken-rock/4050-93782/"
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44425/",
+                "id": 44425,
+                "name": "The Walking Dead",
+                "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead/4050-44425/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-570419/",
-            "cover_date": "2014-06-25",
-            "date_added": "2016-12-24 07:11:24",
-            "date_last_updated": "2017-08-11 08:16:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 570419,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5608823-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5608823-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5608823-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5608823-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5608823-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5608823-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5608823-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5608823-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5608823-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/haimiya-yokochou-tenmatsuki-21-vol-21/4000-570419/",
-            "store_date": "2014-06-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97225/",
-                "id": 97225,
-                "name": "Haimiya Yokochou Tenmatsuki",
-                "site_detail_url": "https://comicvine.gamespot.com/haimiya-yokochou-tenmatsuki/4050-97225/"
-            }
-        }
-    ],
-    "2014-06-30|2014-07-06": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-458568/",
@@ -2052,75 +1670,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/the-phantom-stranger/4050-51843/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486962/",
-            "cover_date": "2014-07-31",
-            "date_added": "2015-04-24 02:05:09",
-            "date_last_updated": "2015-04-25 02:34:07",
-            "deck": null,
-            "description": "<p>This issue contains the following stories:</p><ul><li>Judge Dredd - True Believers</li><li>Tales of Mega City One - Fear and Loathing</li><li>Armitage - Descent</li><li>Judge Dredd - Day Shift</li><li>Judge Dredd - Fantastic Voyage</li><li>Judge Dredd - The Mega-City Missing</li><li>Judge Dredd - Hanks Tale</li><li>LowLife - ReAssignment tby</li><li>Tales of Mega-City One - Citi- Def- Life on the Block</li></ul>",
-            "has_staff_review": false,
-            "id": 486962,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4526786-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4526786-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4526786-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4526786-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4526786-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4526786-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4526786-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4526786-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4526786-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/zarjaz-21/4000-486962/",
-            "store_date": "2014-07-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-27568/",
-                "id": 27568,
-                "name": "Zarjaz",
-                "site_detail_url": "https://comicvine.gamespot.com/zarjaz/4050-27568/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524585/",
-            "cover_date": "2014-07-31",
-            "date_added": "2016-04-11 12:25:55",
-            "date_last_updated": "2016-05-05 11:39:59",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524585,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146286-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146286-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146286-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146286-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146286-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146286-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146286-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146286-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146286-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/gamaran-21-vol-21/4000-524585/",
-            "store_date": "2014-07-01",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64972/",
-                "id": 64972,
-                "name": "Gamaran",
-                "site_detail_url": "https://comicvine.gamespot.com/gamaran/4050-64972/"
-            }
-        }
-    ],
-    "2014-07-07|2014-07-13": [],
-    "2014-07-14|2014-07-20": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-459679/",
@@ -2252,9 +1801,7 @@
                 "name": "Crossed: Wish You Were Here",
                 "site_detail_url": "https://comicvine.gamespot.com/crossed-wish-you-were-here/4050-70149/"
             }
-        }
-    ],
-    "2014-07-21|2014-07-27": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-460345/",
@@ -2321,41 +1868,6 @@
                 "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead/4050-30345/"
             }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521146/",
-            "cover_date": "2014-09-30",
-            "date_added": "2016-03-21 01:53:09",
-            "date_last_updated": "2016-03-21 01:53:46",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 521146,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108594-wwwww.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108594-wwwww.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108594-wwwww.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108594-wwwww.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108594-wwwww.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108594-wwwww.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108594-wwwww.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108594-wwwww.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5108594-wwwww.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-21/4000-521146/",
-            "store_date": "2014-07-26",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
-                "id": 89126,
-                "name": "Comic X-Eros",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
-            }
-        }
-    ],
-    "2014-07-28|2014-08-03": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-460969/",
@@ -2492,9 +2004,7 @@
                 "name": "The Crusaders",
                 "site_detail_url": "https://comicvine.gamespot.com/the-crusaders/4050-18607/"
             }
-        }
-    ],
-    "2014-08-04|2014-08-10": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-461747/",
@@ -2526,110 +2036,6 @@
                 "id": 42976,
                 "name": "George R.R. Martin's A Game of Thrones",
                 "site_detail_url": "https://comicvine.gamespot.com/george-rr-martins-a-game-of-thrones/4050-42976/"
-            }
-        },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657517/",
-            "cover_date": "2014-08-31",
-            "date_added": "2018-02-03 03:02:38",
-            "date_last_updated": "2018-02-09 21:59:38",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 657517,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261165-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261165-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261165-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261165-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261165-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261165-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261165-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261165-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/6261165-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": null,
-            "site_detail_url": "https://comicvine.gamespot.com/itan-21/4000-657517/",
-            "store_date": "2014-08-07",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
-                "id": 108375,
-                "name": "ITAN",
-                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
-            }
-        }
-    ],
-    "2014-08-11|2014-08-17": [],
-    "2014-08-18|2014-08-24": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559310/",
-            "cover_date": "2014-08-31",
-            "date_added": "2016-11-26 05:36:15",
-            "date_last_updated": "2017-04-15 17:59:39",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 559310,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551124-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551124-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551124-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551124-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551124-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551124-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551124-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551124-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5551124-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Bataille finale à Noël !!",
-            "site_detail_url": "https://comicvine.gamespot.com/beelzebub-21-bataille-finale-a-noel/4000-559310/",
-            "store_date": "2014-08-20",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95883/",
-                "id": 95883,
-                "name": "Beelzebub",
-                "site_detail_url": "https://comicvine.gamespot.com/beelzebub/4050-95883/"
-            }
-        }
-    ],
-    "2014-08-25|2014-08-31": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457826/",
-            "cover_date": null,
-            "date_added": "2014-06-24 23:40:05",
-            "date_last_updated": "2014-06-24 23:40:47",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 457826,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3916608-9225055761-The%252.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3916608-9225055761-The%252.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3916608-9225055761-The%252.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3916608-9225055761-The%252.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3916608-9225055761-The%252.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3916608-9225055761-The%252.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3916608-9225055761-The%252.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3916608-9225055761-The%252.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/3916608-9225055761-The%252.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Krieg (Teil 2)",
-            "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead-21-krieg-teil-2/4000-457826/",
-            "store_date": "2014-08-25",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-44425/",
-                "id": 44425,
-                "name": "The Walking Dead",
-                "site_detail_url": "https://comicvine.gamespot.com/the-walking-dead/4050-44425/"
             }
         },
         {
@@ -2707,11 +2113,7 @@
                 "name": "Batman Eternal",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-eternal/4050-72915/"
             }
-        }
-    ],
-    "2014-09-01|2014-09-07": [],
-    "2014-09-08|2014-09-14": [],
-    "2014-09-15|2014-09-21": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-465847/",
@@ -2810,9 +2212,7 @@
                 "name": "AKB49: Renai Kinshi Jourei",
                 "site_detail_url": "https://comicvine.gamespot.com/akb49-renai-kinshi-jourei/4050-50020/"
             }
-        }
-    ],
-    "2014-09-22|2014-09-28": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-466275/",
@@ -2845,9 +2245,7 @@
                 "name": "The New 52: Futures End",
                 "site_detail_url": "https://comicvine.gamespot.com/the-new-52-futures-end/4050-73528/"
             }
-        }
-    ],
-    "2014-09-29|2014-10-05": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-467082/",
@@ -2946,114 +2344,7 @@
                 "name": "Infinite Crisis: Fight For the Multiverse",
                 "site_detail_url": "https://comicvine.gamespot.com/infinite-crisis-fight-for-the-multiverse/4050-74090/"
             }
-        }
-    ],
-    "2014-10-06|2014-10-12": [],
-    "2014-10-13|2014-10-19": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-479070/",
-            "cover_date": "2014-10-31",
-            "date_added": "2015-02-07 01:34:01",
-            "date_last_updated": "2015-02-07 01:38:17",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 479070,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4378100-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4378100-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4378100-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4378100-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4378100-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4378100-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4378100-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4378100-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4378100-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Guerre totale",
-            "site_detail_url": "https://comicvine.gamespot.com/walking-dead-21-guerre-totale/4000-479070/",
-            "store_date": "2014-10-15",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50564/",
-                "id": 50564,
-                "name": "Walking Dead",
-                "site_detail_url": "https://comicvine.gamespot.com/walking-dead/4050-50564/"
-            }
-        }
-    ],
-    "2014-10-20|2014-10-26": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-472617/",
-            "cover_date": "2014-12-31",
-            "date_added": "2014-12-06 23:13:04",
-            "date_last_updated": "2014-12-06 23:13:57",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 472617,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4261976-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4261976-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4261976-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4261976-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4261976-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4261976-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4261976-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4261976-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4261976-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/comic-milf-21-vol-21/4000-472617/",
-            "store_date": "2014-10-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68872/",
-                "id": 68872,
-                "name": "Comic MILF",
-                "site_detail_url": "https://comicvine.gamespot.com/comic-milf/4050-68872/"
-            }
         },
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490561/",
-            "cover_date": "2014-10-31",
-            "date_added": "2015-05-30 23:17:54",
-            "date_last_updated": "2015-05-31 02:00:48",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 490561,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4595693-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4595693-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4595693-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4595693-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4595693-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4595693-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4595693-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4595693-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/4595693-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Olé !",
-            "site_detail_url": "https://comicvine.gamespot.com/les-blondes-21-ole/4000-490561/",
-            "store_date": "2014-10-22",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70319/",
-                "id": 70319,
-                "name": "Les Blondes",
-                "site_detail_url": "https://comicvine.gamespot.com/les-blondes/4050-70319/"
-            }
-        }
-    ],
-    "2014-10-27|2014-11-02": [],
-    "2014-11-03|2014-11-09": [
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-469498/",
@@ -3086,44 +2377,7 @@
                 "name": "X-Men",
                 "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-62383/"
             }
-        }
-    ],
-    "2014-11-10|2014-11-16": [
-        {
-            "aliases": null,
-            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524695/",
-            "cover_date": "2014-11-30",
-            "date_added": "2016-04-11 13:04:09",
-            "date_last_updated": "2016-05-05 12:25:19",
-            "deck": null,
-            "description": null,
-            "has_staff_review": false,
-            "id": 524695,
-            "image": {
-                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146459-21.jpg",
-                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146459-21.jpg",
-                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146459-21.jpg",
-                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146459-21.jpg",
-                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146459-21.jpg",
-                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146459-21.jpg",
-                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146459-21.jpg",
-                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146459-21.jpg",
-                "original_url": "https://comicvine.gamespot.com/api/image/original/5146459-21.jpg",
-                "image_tags": "All Images"
-            },
-            "issue_number": "21",
-            "name": "Vol. 21",
-            "site_detail_url": "https://comicvine.gamespot.com/until-death-do-us-part-21-vol-21/4000-524695/",
-            "store_date": "2014-11-14",
-            "volume": {
-                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69048/",
-                "id": 69048,
-                "name": "Until Death Do Us Part",
-                "site_detail_url": "https://comicvine.gamespot.com/until-death-do-us-part/4050-69048/"
-            }
-        }
-    ],
-    "2014-11-17|2014-11-23": [
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-470428/",
@@ -3194,11 +2448,40 @@
                 "name": "Batman: The Jiro Kuwata Batmanga",
                 "site_detail_url": "https://comicvine.gamespot.com/batman-the-jiro-kuwata-batmanga/4050-75410/"
             }
-        }
-    ],
-    "2014-11-24|2014-11-30": [],
-    "2014-12-01|2014-12-07": [],
-    "2014-12-08|2014-12-14": [
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-472576/",
+            "cover_date": "2014-03-25",
+            "date_added": "2014-12-06 14:17:44",
+            "date_last_updated": "2016-09-09 10:08:44",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 472576,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4261089-21.png",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4261089-21.png",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4261089-21.png",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4261089-21.png",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4261089-21.png",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4261089-21.png",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4261089-21.png",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4261089-21.png",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4261089-21.png",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke-21/4000-472576/",
+            "store_date": "2014-03-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-75004/",
+                "id": 75004,
+                "name": "Kimi ni Todoke",
+                "site_detail_url": "https://comicvine.gamespot.com/kimi-ni-todoke/4050-75004/"
+            }
+        },
         {
             "aliases": null,
             "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-472603/",
@@ -3231,7 +2514,699 @@
                 "name": "Comic Anthurium",
                 "site_detail_url": "https://comicvine.gamespot.com/comic-anthurium/4050-67387/"
             }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-472617/",
+            "cover_date": "2014-12-31",
+            "date_added": "2014-12-06 23:13:04",
+            "date_last_updated": "2014-12-06 23:13:57",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 472617,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4261976-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4261976-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4261976-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4261976-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4261976-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4261976-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4261976-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4261976-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4261976-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/comic-milf-21-vol-21/4000-472617/",
+            "store_date": "2014-10-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68872/",
+                "id": 68872,
+                "name": "Comic MILF",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-milf/4050-68872/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-475336/",
+            "cover_date": "2014-03-31",
+            "date_added": "2015-01-02 11:23:27",
+            "date_last_updated": "2015-11-02 13:10:41",
+            "deck": null,
+            "description": "<p> German Edition of <a href=\"/action-comics-20-hybrid-part-2-world-of-krypton-pa/4000-400116/\" data-ref-id=\"4000-400116\">Action Comics #20</a> and <a href=\"/supergirl-21-be-careful-what-you-wish-for/4000-411792/\" data-ref-id=\"4000-411792\">Supergirl #21</a></p>",
+            "has_staff_review": false,
+            "id": 475336,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4307120-superman%20-%20das%20neue%20dc-universum%20v2012%20021%20%282014%29%20pagecover.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Hybrid, Teil 2; Gib acht, was du dir wünschst",
+            "site_detail_url": "https://comicvine.gamespot.com/superman-21-hybrid-teil-2-gib-acht-was-du-dir-wuns/4000-475336/",
+            "store_date": "2014-02-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-60404/",
+                "id": 60404,
+                "name": "Superman",
+                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-60404/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-479070/",
+            "cover_date": "2014-10-31",
+            "date_added": "2015-02-07 01:34:01",
+            "date_last_updated": "2015-02-07 01:38:17",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 479070,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4378100-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4378100-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4378100-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4378100-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4378100-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4378100-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4378100-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4378100-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4378100-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Guerre totale",
+            "site_detail_url": "https://comicvine.gamespot.com/walking-dead-21-guerre-totale/4000-479070/",
+            "store_date": "2014-10-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50564/",
+                "id": 50564,
+                "name": "Walking Dead",
+                "site_detail_url": "https://comicvine.gamespot.com/walking-dead/4050-50564/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-479182/",
+            "cover_date": "2014-12-26",
+            "date_added": "2015-02-09 04:15:44",
+            "date_last_updated": "2015-02-09 05:00:25",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 479182,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4382020-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4382020-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4382020-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4382020-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4382020-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4382020-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4382020-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4382020-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4382020-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Volume 21",
+            "site_detail_url": "https://comicvine.gamespot.com/taju-jinkaku-tantei-saiko-21-volume-21/4000-479182/",
+            "store_date": "2014-12-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-40395/",
+                "id": 40395,
+                "name": "Tajū-Jinkaku Tantei Saiko",
+                "site_detail_url": "https://comicvine.gamespot.com/taju-jinkaku-tantei-saiko/4050-40395/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-486962/",
+            "cover_date": "2014-07-31",
+            "date_added": "2015-04-24 02:05:09",
+            "date_last_updated": "2015-04-25 02:34:07",
+            "deck": null,
+            "description": "<p>This issue contains the following stories:</p><ul><li>Judge Dredd - True Believers</li><li>Tales of Mega City One - Fear and Loathing</li><li>Armitage - Descent</li><li>Judge Dredd - Day Shift</li><li>Judge Dredd - Fantastic Voyage</li><li>Judge Dredd - The Mega-City Missing</li><li>Judge Dredd - Hanks Tale</li><li>LowLife - ReAssignment tby</li><li>Tales of Mega-City One - Citi- Def- Life on the Block</li></ul>",
+            "has_staff_review": false,
+            "id": 486962,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4526786-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4526786-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4526786-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4526786-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4526786-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4526786-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4526786-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4526786-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4526786-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/zarjaz-21/4000-486962/",
+            "store_date": "2014-07-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-27568/",
+                "id": 27568,
+                "name": "Zarjaz",
+                "site_detail_url": "https://comicvine.gamespot.com/zarjaz/4050-27568/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490201/",
+            "cover_date": "2014-12-31",
+            "date_added": "2015-05-30 04:07:23",
+            "date_last_updated": "2015-05-30 04:15:18",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 490201,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4593721-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4593721-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4593721-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4593721-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4593721-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4593721-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4593721-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4593721-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4593721-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/magnum-x-21-vol-21/4000-490201/",
+            "store_date": "2014-12-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-82317/",
+                "id": 82317,
+                "name": "Magnum X",
+                "site_detail_url": "https://comicvine.gamespot.com/magnum-x/4050-82317/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-490561/",
+            "cover_date": "2014-10-31",
+            "date_added": "2015-05-30 23:17:54",
+            "date_last_updated": "2015-05-31 02:00:48",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 490561,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4595693-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4595693-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4595693-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4595693-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4595693-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4595693-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4595693-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4595693-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4595693-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Olé !",
+            "site_detail_url": "https://comicvine.gamespot.com/les-blondes-21-ole/4000-490561/",
+            "store_date": "2014-10-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-70319/",
+                "id": 70319,
+                "name": "Les Blondes",
+                "site_detail_url": "https://comicvine.gamespot.com/les-blondes/4050-70319/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-503336/",
+            "cover_date": "2014-03-31",
+            "date_added": "2015-10-18 08:54:27",
+            "date_last_updated": "2015-10-18 08:58:39",
+            "deck": null,
+            "description": "<p> Translates Batman: The Dark Knight #21 &amp; Nightwing #19.</p>",
+            "has_staff_review": false,
+            "id": 503336,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4861768-0086813555-BATMA.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4861768-0086813555-BATMA.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4861768-0086813555-BATMA.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4861768-0086813555-BATMA.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4861768-0086813555-BATMA.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4861768-0086813555-BATMA.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4861768-0086813555-BATMA.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4861768-0086813555-BATMA.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4861768-0086813555-BATMA.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/batman-the-dark-knight-21/4000-503336/",
+            "store_date": "2014-02-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61513/",
+                "id": 61513,
+                "name": "Batman: The Dark Knight",
+                "site_detail_url": "https://comicvine.gamespot.com/batman-the-dark-knight/4050-61513/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-505792/",
+            "cover_date": "2014-03-31",
+            "date_added": "2015-11-13 03:21:06",
+            "date_last_updated": "2018-06-13 13:46:06",
+            "deck": null,
+            "description": "<p>Translates Justice League #22, Justice League of America #6 &amp; Teen Titans #19.</p>",
+            "has_staff_review": false,
+            "id": 505792,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4906840-0077201145-JUSTI.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4906840-0077201145-JUSTI.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4906840-0077201145-JUSTI.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4906840-0077201145-JUSTI.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4906840-0077201145-JUSTI.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4906840-0077201145-JUSTI.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4906840-0077201145-JUSTI.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4906840-0077201145-JUSTI.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4906840-0077201145-JUSTI.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/justice-league-21/4000-505792/",
+            "store_date": "2014-02-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-61598/",
+                "id": 61598,
+                "name": "Justice League",
+                "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-61598/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-521146/",
+            "cover_date": "2014-09-30",
+            "date_added": "2016-03-21 01:53:09",
+            "date_last_updated": "2016-03-21 01:53:46",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 521146,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5108594-wwwww.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5108594-wwwww.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5108594-wwwww.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5108594-wwwww.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5108594-wwwww.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5108594-wwwww.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5108594-wwwww.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5108594-wwwww.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5108594-wwwww.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-21/4000-521146/",
+            "store_date": "2014-07-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
+                "id": 89126,
+                "name": "Comic X-Eros",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524563/",
+            "cover_date": "2014-01-31",
+            "date_added": "2016-04-11 12:25:00",
+            "date_last_updated": "2016-05-05 11:30:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524563,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146252-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146252-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146252-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146252-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146252-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146252-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146252-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146252-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146252-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/cage-of-eden-21-vol-21/4000-524563/",
+            "store_date": "2014-01-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-62807/",
+                "id": 62807,
+                "name": "Cage of Eden",
+                "site_detail_url": "https://comicvine.gamespot.com/cage-of-eden/4050-62807/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524585/",
+            "cover_date": "2014-07-31",
+            "date_added": "2016-04-11 12:25:55",
+            "date_last_updated": "2016-05-05 11:39:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524585,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146286-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146286-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146286-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146286-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146286-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146286-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146286-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146286-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146286-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/gamaran-21-vol-21/4000-524585/",
+            "store_date": "2014-07-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64972/",
+                "id": 64972,
+                "name": "Gamaran",
+                "site_detail_url": "https://comicvine.gamespot.com/gamaran/4050-64972/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-524695/",
+            "cover_date": "2014-11-30",
+            "date_added": "2016-04-11 13:04:09",
+            "date_last_updated": "2016-05-05 12:25:19",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 524695,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5146459-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5146459-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5146459-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5146459-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5146459-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5146459-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5146459-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5146459-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5146459-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/until-death-do-us-part-21-vol-21/4000-524695/",
+            "store_date": "2014-11-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69048/",
+                "id": 69048,
+                "name": "Until Death Do Us Part",
+                "site_detail_url": "https://comicvine.gamespot.com/until-death-do-us-part/4050-69048/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-547867/",
+            "cover_date": "2014-06-23",
+            "date_added": "2016-09-01 19:45:14",
+            "date_last_updated": "2016-09-01 21:42:35",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 547867,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5413877-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5413877-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5413877-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5413877-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5413877-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5413877-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5413877-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5413877-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5413877-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/sun-ken-rock-21-vol-21/4000-547867/",
+            "store_date": "2014-06-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93782/",
+                "id": 93782,
+                "name": "Sun-Ken Rock",
+                "site_detail_url": "https://comicvine.gamespot.com/sunken-rock/4050-93782/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-554204/",
+            "cover_date": "2014-04-23",
+            "date_added": "2016-10-18 12:06:01",
+            "date_last_updated": "2017-04-13 18:43:11",
+            "deck": null,
+            "description": "<p>Chapter 220 - 230.</p>",
+            "has_staff_review": false,
+            "id": 554204,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5490853-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5490853-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5490853-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5490853-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5490853-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5490853-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5490853-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5490853-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5490853-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/k2-21-vol-21/4000-554204/",
+            "store_date": "2014-04-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93414/",
+                "id": 93414,
+                "name": "K2",
+                "site_detail_url": "https://comicvine.gamespot.com/k-2/4050-93414/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-559310/",
+            "cover_date": "2014-08-31",
+            "date_added": "2016-11-26 05:36:15",
+            "date_last_updated": "2017-04-15 17:59:39",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 559310,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5551124-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5551124-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5551124-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5551124-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5551124-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5551124-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5551124-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5551124-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5551124-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Bataille finale à Noël !!",
+            "site_detail_url": "https://comicvine.gamespot.com/beelzebub-21-bataille-finale-a-noel/4000-559310/",
+            "store_date": "2014-08-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95883/",
+                "id": 95883,
+                "name": "Beelzebub",
+                "site_detail_url": "https://comicvine.gamespot.com/beelzebub/4050-95883/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-570419/",
+            "cover_date": "2014-06-25",
+            "date_added": "2016-12-24 07:11:24",
+            "date_last_updated": "2017-08-11 08:16:59",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 570419,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5608823-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5608823-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5608823-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5608823-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5608823-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5608823-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5608823-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5608823-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5608823-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/haimiya-yokochou-tenmatsuki-21-vol-21/4000-570419/",
+            "store_date": "2014-06-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97225/",
+                "id": 97225,
+                "name": "Haimiya Yokochou Tenmatsuki",
+                "site_detail_url": "https://comicvine.gamespot.com/haimiya-yokochou-tenmatsuki/4050-97225/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-573878/",
+            "cover_date": "2014-02-18",
+            "date_added": "2016-12-31 22:10:29",
+            "date_last_updated": "2017-02-19 00:26:24",
+            "deck": null,
+            "description": "<p>Chapter 195 - 203.</p>",
+            "has_staff_review": false,
+            "id": 573878,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5623954-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5623954-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5623954-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5623954-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5623954-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5623954-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5623954-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5623954-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5623954-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Volume 21",
+            "site_detail_url": "https://comicvine.gamespot.com/king-golf-21-volume-21/4000-573878/",
+            "store_date": "2014-02-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-97599/",
+                "id": 97599,
+                "name": "King Golf",
+                "site_detail_url": "https://comicvine.gamespot.com/king-golf/4050-97599/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-586074/",
+            "cover_date": "2014-04-17",
+            "date_added": "2017-03-11 04:51:05",
+            "date_last_updated": "2017-08-28 03:38:35",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 586074,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5742124-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5742124-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5742124-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5742124-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5742124-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5742124-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5742124-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5742124-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5742124-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Vol. 21",
+            "site_detail_url": "https://comicvine.gamespot.com/sora-no-platanus-21-vol-21/4000-586074/",
+            "store_date": "2014-04-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99625/",
+                "id": 99625,
+                "name": "Sora no Platanus",
+                "site_detail_url": "https://comicvine.gamespot.com/sora-no-platanus/4050-99625/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-657517/",
+            "cover_date": "2014-08-31",
+            "date_added": "2018-02-03 03:02:38",
+            "date_last_updated": "2018-02-09 21:59:38",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 657517,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6261165-21.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6261165-21.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6261165-21.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6261165-21.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6261165-21.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6261165-21.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6261165-21.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6261165-21.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6261165-21.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/itan-21/4000-657517/",
+            "store_date": "2014-08-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-108375/",
+                "id": 108375,
+                "name": "ITAN",
+                "site_detail_url": "https://comicvine.gamespot.com/i-t-a-n/4050-108375/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-688590/",
+            "cover_date": "2014-07-30",
+            "date_added": "2018-10-14 13:29:12",
+            "date_last_updated": "2018-10-14 18:49:07",
+            "deck": " ",
+            "description": "<p>UK Reprint title</p><p>Indestructible Hulk Special #1</p><p>Superior Spider-Man Team-Up #3</p><p>Scarlet Spider #21</p>",
+            "has_staff_review": false,
+            "id": 688590,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6647303-vol%204%20%2321.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6647303-vol%204%20%2321.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6647303-vol%204%20%2321.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6647303-vol%204%20%2321.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6647303-vol%204%20%2321.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6647303-vol%204%20%2321.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6647303-vol%204%20%2321.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6647303-vol%204%20%2321.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6647303-vol%204%20%2321.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "21",
+            "name": "Alien Anarchy!",
+            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-21-alien-anarchy/4000-688590/",
+            "store_date": "2014-07-17",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-68249/",
+                "id": 68249,
+                "name": "The Astonishing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spiderman/4050-68249/"
+            }
         }
-    ],
-    "2014-12-15|2014-12-21": []
+    ]
 }
