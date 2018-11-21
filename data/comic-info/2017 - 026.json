@@ -2599,5 +2599,40 @@
             }
         }
     ],
-    "2017-12-18|2017-12-24": []
+    "2017-12-18|2017-12-24": [],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571687/",
+            "cover_date": "2017-02-28",
+            "date_added": "2016-12-27 02:29:36",
+            "date_last_updated": "2017-06-07 19:07:43",
+            "deck": null,
+            "description": "<p><em>With one of our rebel crew captured and imprisoned...</em></p><p><em>...we turn once more to the journals of Ben Kenobi...</em></p><p><em>...and a legendary adventure of Jedi Master...Yoda!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Stuart Immonen</td><td>1</td></tr><tr><td>Var</td><td>Sketch Variant Cover</td><td>Stuart Immonen</td><td>2</td></tr><tr><td>Var</td><td>Action Figure Variant Cover</td><td>John Tyler Christopher</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 571687,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614014-26.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614014-26.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614014-26.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614014-26.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614014-26.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614014-26.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614014-26.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614014-26.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614014-26.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "26",
+            "name": "Book VI, Part I: Yoda's Secret War",
+            "site_detail_url": "https://comicvine.gamespot.com/star-wars-26-book-vi-part-i-yodas-secret-war/4000-571687/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79398/",
+                "id": 79398,
+                "name": "Star Wars",
+                "site_detail_url": "https://comicvine.gamespot.com/star-wars/4050-79398/"
+            }
+        }
+    ]
 }

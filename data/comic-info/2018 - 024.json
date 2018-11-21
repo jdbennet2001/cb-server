@@ -2095,5 +2095,41 @@
     ],
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-650358/",
+            "cover_date": "2017-12-25",
+            "date_added": "2017-12-31 03:43:26",
+            "date_last_updated": "2017-12-31 03:47:12",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 650358,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6210316-24.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6210316-24.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6210316-24.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6210316-24.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6210316-24.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6210316-24.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6210316-24.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6210316-24.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6210316-24.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "24",
+            "name": "Vol. 24",
+            "site_detail_url": "https://comicvine.gamespot.com/donketsu-24-vol-24/4000-650358/",
+            "store_date": "2017-12-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96941/",
+                "id": 96941,
+                "name": "Donketsu",
+                "site_detail_url": "https://comicvine.gamespot.com/donketsu/4050-96941/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

@@ -3449,5 +3449,108 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649702/",
+            "cover_date": "2017-12-27",
+            "date_added": "2017-12-26 17:16:26",
+            "date_last_updated": "2017-12-30 20:52:03",
+            "deck": null,
+            "description": "<p><em>Barda rides out in search of rebel news radio station The Frequency, where she hopes to enlist Lois Lane and Jimmy Olsen in bringing down the Garden.</em></p>",
+            "has_staff_review": false,
+            "id": 649702,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204709-17.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204709-17.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204709-17.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204709-17.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204709-17.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204709-17.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204709-17.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204709-17.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204709-17.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "17",
+            "name": "The Frequency",
+            "site_detail_url": "https://comicvine.gamespot.com/gotham-city-garage-17-the-frequency/4000-649702/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-103516/",
+                "id": 103516,
+                "name": "Gotham City Garage",
+                "site_detail_url": "https://comicvine.gamespot.com/gotham-city-garage/4050-103516/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649707/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:16:34",
+            "date_last_updated": "2017-12-26 21:20:10",
+            "deck": null,
+            "description": "<p><em>“The Bardo Score” part two! Things never end well for John Constantine, and his investigation into Cats Molloy’s death is no exception. He couldn’t save Pirate Jenny, either, and he barely escaped a deadly confrontation of his own. So why has San Francisco put a big smile on his face?</em></p><p><em>Includes a code for a free digital download of this issue.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Jesús Merino &amp; Carrie Strachan</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Yasmine Putri</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 649707,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204713-17.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204713-17.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204713-17.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204713-17.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204713-17.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204713-17.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204713-17.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204713-17.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204713-17.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "17",
+            "name": "The Bardo Score Part 2: The American Buddha",
+            "site_detail_url": "https://comicvine.gamespot.com/the-hellblazer-17-the-bardo-score-part-2-the-ameri/4000-649707/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93381/",
+                "id": 93381,
+                "name": "The Hellblazer",
+                "site_detail_url": "https://comicvine.gamespot.com/the-hellblazer/4050-93381/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-691877/",
+            "cover_date": "2018-11-13",
+            "date_added": "2018-11-13 01:33:31",
+            "date_last_updated": "2018-11-13 02:12:23",
+            "deck": " ",
+            "description": "<p><em>As Wismerhill struggles to get his empire up and running, a terrible threat looms over the future of humanity. The great Ophidian tribe has decided to wipe the new arrivals off the face of Terra Secunda. Countless reptilian legions advance, wreaking havoc on outlying settlements. Wismerhill will soon have no choice but to defend his empire.</em></p>",
+            "has_staff_review": false,
+            "id": 691877,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6684595-17.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6684595-17.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6684595-17.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6684595-17.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6684595-17.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6684595-17.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6684595-17.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6684595-17.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6684595-17.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "17",
+            "name": "Ophidian Wars",
+            "site_detail_url": "https://comicvine.gamespot.com/the-black-moon-chronicles-17-ophidian-wars/4000-691877/",
+            "store_date": "2018-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99886/",
+                "id": 99886,
+                "name": "The Black Moon Chronicles",
+                "site_detail_url": "https://comicvine.gamespot.com/the-black-moon-chronicles/4050-99886/"
+            }
+        }
+    ]
 }

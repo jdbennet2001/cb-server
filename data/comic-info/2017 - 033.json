@@ -1458,5 +1458,73 @@
                 "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies/4050-29951/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571716/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:31:08",
+            "date_last_updated": "2016-12-27 23:28:42",
+            "deck": null,
+            "description": "<p><em>Barney is officially a Lumberjane and it has come time for him to say goodbye to his friends at the Scouting Lads...but will a simple day ever stay simple in these woods?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Kat Leyh</td><td>1</td></tr><tr><td>Var</td><td>1:20 Variant Cover</td><td>Alexandra Glenn-Collins</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 571716,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614040-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614040-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614040-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614040-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614040-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614040-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614040-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614040-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614040-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": "Chapter Thirty-Three: Might As Wheel",
+            "site_detail_url": "https://comicvine.gamespot.com/lumberjanes-33-chapter-thirty-three-might-as-wheel/4000-571716/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72941/",
+                "id": 72941,
+                "name": "Lumberjanes",
+                "site_detail_url": "https://comicvine.gamespot.com/lumberjanes/4050-72941/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-579032/",
+            "cover_date": "2017-02-28",
+            "date_added": "2017-01-29 02:28:08",
+            "date_last_updated": "2017-01-29 07:09:01",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 579032,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5674448-33.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5674448-33.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5674448-33.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5674448-33.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5674448-33.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5674448-33.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5674448-33.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5674448-33.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5674448-33.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "33",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/dengeki-gs-comic-33/4000-579032/",
+            "store_date": "2016-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98478/",
+                "id": 98478,
+                "name": "Dengeki G's Comic",
+                "site_detail_url": "https://comicvine.gamespot.com/dengeki-gs-comic/4050-98478/"
+            }
+        }
     ]
 }

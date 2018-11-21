@@ -1156,5 +1156,74 @@
     "2018-10-22|2018-10-28": [],
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649356/",
+            "cover_date": "2017-12-26",
+            "date_added": "2017-12-26 00:00:28",
+            "date_last_updated": "2018-02-10 12:40:23",
+            "deck": null,
+            "description": "<p><em>Not even the combined power of the Justice League Task Force and the Titans seems to enough to take down Zod. But a vengeful Batman has a secret weapon. </em></p>",
+            "has_staff_review": false,
+            "id": 649356,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6203512-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6203512-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6203512-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6203512-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6203512-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6203512-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6203512-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6203512-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6203512-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Zod Unleashed",
+            "site_detail_url": "https://comicvine.gamespot.com/injustice-2-38-zod-unleashed/4000-649356/",
+            "store_date": "2017-12-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-100663/",
+                "id": 100663,
+                "name": "Injustice 2",
+                "site_detail_url": "https://comicvine.gamespot.com/injustice-2/4050-100663/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-653467/",
+            "cover_date": "2017-12-31",
+            "date_added": "2018-01-14 06:49:03",
+            "date_last_updated": "2018-01-21 18:53:43",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 653467,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6230735-38.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6230735-38.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6230735-38.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6230735-38.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6230735-38.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6230735-38.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6230735-38.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6230735-38.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6230735-38.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "38",
+            "name": "Вольная птица, ч.2",
+            "site_detail_url": "https://comicvine.gamespot.com/meteora-38-volnaia-ptitsa-ch2/4000-653467/",
+            "store_date": "2017-12-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-79737/",
+                "id": 79737,
+                "name": "Meteora",
+                "site_detail_url": "https://comicvine.gamespot.com/meteora/4050-79737/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

@@ -524,5 +524,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/comic-milf/4050-68872/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571845/",
+            "cover_date": "2016-12-27",
+            "date_added": "2016-12-27 10:51:19",
+            "date_last_updated": "2017-01-08 12:44:23",
+            "deck": null,
+            "description": "<p><em>Oto finds out that Konoe, the vice president on Momonozono Academy's student council, was the mastermind behind all the attacks on Eitoku students. And he did it all for Tenma's sake! But when Oto tries to tell Tenma the truth, he doesn't believe her! She runs off only to run into Kaguragi!</em></p>",
+            "has_staff_review": false,
+            "id": 571845,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614458-40.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614458-40.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614458-40.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614458-40.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614458-40.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614458-40.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614458-40.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614458-40.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614458-40.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "40",
+            "name": "Chapter 40",
+            "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2-40-chapter-40/4000-571845/",
+            "store_date": "2016-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81328/",
+                "id": 81328,
+                "name": "Boys Over Flowers Season 2",
+                "site_detail_url": "https://comicvine.gamespot.com/boys-over-flowers-season-2/4050-81328/"
+            }
+        }
     ]
 }

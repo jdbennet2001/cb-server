@@ -3027,5 +3027,73 @@
                 "site_detail_url": "https://comicvine.gamespot.com/akatsuki-no-yona/4050-83291/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571702/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:30:23",
+            "date_last_updated": "2016-12-27 22:09:09",
+            "deck": null,
+            "description": "<p><em>Once Upon a Time in Tokyo, there was a girl named Saya…</em></p>",
+            "has_staff_review": false,
+            "id": 571702,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614026-25.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614026-25.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614026-25.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614026-25.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614026-25.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614026-25.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614026-25.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614026-25.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614026-25.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "25",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/deadly-class-25/4000-571702/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71032/",
+                "id": 71032,
+                "name": "Deadly Class",
+                "site_detail_url": "https://comicvine.gamespot.com/deadly-class/4050-71032/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571711/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:30:52",
+            "date_last_updated": "2017-11-05 07:50:40",
+            "deck": null,
+            "description": "<p><em>SPECIAL TWENTY-FIFTH ANNIVERSARY BRUNCH-RELATED CROSSOVER EVENT! A story twenty-five issues in the making! Kate Kristopher comes face-to-face with the force behind every single moment in SHUTTER thus far for a showdown unlike any other, including: the creation of the universe! The end of the universe! An explanation for all existence threatens to wipe out everything that ever was and only Kate can stop it!</em></p><p><em>But why doesn't she want to?</em></p><p><em>PLUS: A brunch twenty-five years in the making! Kick off 2017's Image Comics’ 25th anniversary as founding heroes including (but not limited to!) SAVAGE DRAGON, WITCHBLADE, GLORY, and SHADOWHAWK unite with INVINCIBLE and the cast of SHUTTER for what may prove to be the most delicious crossover event of all time! Don't you dare miss the terrifying biscuits-and-gravy secret no one will see coming!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Leila del Duca &amp; Owen Gieni</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Brandon Graham</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 571711,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614035-25.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614035-25.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614035-25.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614035-25.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614035-25.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614035-25.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614035-25.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614035-25.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614035-25.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "25",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/shutter-25/4000-571711/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72938/",
+                "id": 72938,
+                "name": "Shutter",
+                "site_detail_url": "https://comicvine.gamespot.com/shutter/4050-72938/"
+            }
+        }
     ]
 }

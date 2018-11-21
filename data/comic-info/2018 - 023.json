@@ -2191,5 +2191,74 @@
                 "site_detail_url": "https://comicvine.gamespot.com/red-eyes/4050-99161/"
             }
         }
-    ]
+    ],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-643087/",
+            "cover_date": "2017-11-30",
+            "date_added": "2017-11-28 18:42:19",
+            "date_last_updated": "2018-03-01 07:15:15",
+            "deck": null,
+            "description": "<p><em><strong>The adventures of this iconic square-jawed detective fighting a menagerie of grotesque villains remains one of the highlights in the history, of not just comics, but crime fiction in general. This series is ripe to introduce the strip to crime prose readers who haven't previously ventured into comics.</strong> Tracy is on the trail of the aptly named Mr. Bribery and his equally grotesque sister, Ugly Christine, in a story that also features a substance-abusing witch doctor and a shelf of shrunken heads. Meanwhile, newlyweds Junior and Moon Maid enter the story, and Dick Tracy's troubles are compounded when he comes face to face with master criminal Haf-and-Haf, one side of whose face is hideously disfigured. Included are all strips from December 27, 1965 to July 2, 1967.</em></p>",
+            "has_staff_review": false,
+            "id": 643087,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6165011-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6165011-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6165011-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6165011-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6165011-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6165011-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6165011-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6165011-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6165011-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": "Volume 23: 1966-1967",
+            "site_detail_url": "https://comicvine.gamespot.com/the-complete-chester-goulds-dick-tracy-23-volume-2/4000-643087/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-35391/",
+                "id": 35391,
+                "name": "The Complete Chester Gould's Dick Tracy",
+                "site_detail_url": "https://comicvine.gamespot.com/the-complete-chester-goulds-dick-tracy/4050-35391/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-650035/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-28 23:18:31",
+            "date_last_updated": "2018-01-28 10:18:29",
+            "deck": null,
+            "description": "<p><em>The penultimate issue in the ultimate Elfquest series! His forces decimated by Cutter's fierce warrior tribe, the fanatical human commander presses on, risking all to destroy the elves in their forest lair. Lives are lost on both sides. To stop the bloodshed, Cutter's adopted human daughter Shuna risks more than even she realizes. Should she fail, the price will be war everlasting among the native humans, the elves, and the Djunsland invaders. Must Wolfrider chief Cutter, having fulfilled his bond with High One Timmain, now witness the utter destruction of all that has brought him to this fateful moment?</em></p><p><em>A <strong>New York Times</strong> best-selling series!</em></p>",
+            "has_staff_review": false,
+            "id": 650035,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6207488-23.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6207488-23.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6207488-23.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6207488-23.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6207488-23.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6207488-23.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6207488-23.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6207488-23.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6207488-23.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "23",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/elfquest-the-final-quest-23/4000-650035/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71060/",
+                "id": 71060,
+                "name": "ElfQuest: The Final Quest",
+                "site_detail_url": "https://comicvine.gamespot.com/elfquest-the-final-quest/4050-71060/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

@@ -1355,5 +1355,74 @@
         }
     ],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649716/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:16:48",
+            "date_last_updated": "2018-04-30 16:38:57",
+            "deck": null,
+            "description": "<p><em>“The Secret History of Task Force X” finale! With the future of the entire world hanging in the balance, the Suicide Squad must find a way to send the unstoppable Red Wave beast into the sun and destroy it once and for all…the only problem…one of their own needs to go with it. Can anyone in this gang of scum and villainy overcome their self-serving nature and make the ultimate sacrifice for the good of mankind? Find out in the stunning finale to this game-changing story arc! </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Eddy Barrows</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Whilce Portacio &amp; Alex Sinclair</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 649716,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204723-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204723-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204723-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204723-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204723-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204723-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204723-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204723-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204723-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "The Secret History of Task Force X Finale; King For A Day Finale",
+            "site_detail_url": "https://comicvine.gamespot.com/suicide-squad-32-the-secret-history-of-task-force-/4000-649716/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93205/",
+                "id": 93205,
+                "name": "Suicide Squad",
+                "site_detail_url": "https://comicvine.gamespot.com/suicide-squad/4050-93205/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649767/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-26 17:18:18",
+            "date_last_updated": "2017-12-27 08:12:58",
+            "deck": null,
+            "description": "<p><em>“INVASION,” Part One</em></p><p><em>The town of Rome, West Virginia has always been a hotbed of demonic activity...but with Kyle Barnes gathering allies to oppose them, the forces of darkness must also rally their forces for the coming WAR!</em></p>",
+            "has_staff_review": false,
+            "id": 649767,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204769-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204769-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204769-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204769-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204769-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204769-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204769-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204769-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204769-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Invasion Part 1 of 5",
+            "site_detail_url": "https://comicvine.gamespot.com/outcast-by-kirkman-and-azaceta-32-invasion-part-1-/4000-649767/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-75114/",
+                "id": 75114,
+                "name": "Outcast by Kirkman & Azaceta",
+                "site_detail_url": "https://comicvine.gamespot.com/outcast-by-kirkman-azaceta/4050-75114/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

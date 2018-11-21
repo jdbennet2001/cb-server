@@ -1291,5 +1291,41 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-650643/",
+            "cover_date": "2017-12-25",
+            "date_added": "2018-01-01 00:02:17",
+            "date_last_updated": "2018-01-01 03:10:16",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 650643,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6211614-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6211614-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6211614-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6211614-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6211614-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6211614-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6211614-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6211614-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6211614-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Vol. 29",
+            "site_detail_url": "https://comicvine.gamespot.com/roto-no-monshou-monshou-wo-tsugu-monotachi-e-29-vo/4000-650643/",
+            "store_date": "2017-12-25",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99197/",
+                "id": 99197,
+                "name": "Roto no Monshou - Monshou wo Tsugu Monotachi e",
+                "site_detail_url": "https://comicvine.gamespot.com/roto-no-monshou-monshou-wo-tsugu-monotachi-e/4050-99197/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

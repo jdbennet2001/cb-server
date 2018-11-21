@@ -1323,5 +1323,41 @@
                 "site_detail_url": "https://comicvine.gamespot.com/days/4050-80230/"
             }
         }
-    ]
+    ],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-674902/",
+            "cover_date": "2017-12-01",
+            "date_added": "2018-06-25 22:58:52",
+            "date_last_updated": "2018-06-26 13:22:24",
+            "deck": " ",
+            "description": null,
+            "has_staff_review": false,
+            "id": 674902,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6487108-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6487108-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6487108-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6487108-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6487108-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6487108-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6487108-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6487108-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6487108-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "Vol. 30",
+            "site_detail_url": "https://comicvine.gamespot.com/jour-sister-30-vol-30/4000-674902/",
+            "store_date": "2017-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-111858/",
+                "id": 111858,
+                "name": "Jour Sister",
+                "site_detail_url": "https://comicvine.gamespot.com/jour-sister/4050-111858/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

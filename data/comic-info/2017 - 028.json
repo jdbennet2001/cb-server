@@ -2332,5 +2332,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/kowashiya-gen/4050-108391/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571598/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-26 17:59:17",
+            "date_last_updated": "2016-12-26 20:40:15",
+            "deck": null,
+            "description": "<p><em>The year is 2025, the older brother decides to trust himself just one last time. It’s the start of an adventure that aims for Mars via JAXA in the town of Tsukuba! The official Space Brothers manga is ready to launch! Two brothers looked to the starry skies as children and made a promise. And now, in the year 2025, the younger brother, Hibito, is carrying out his promise. He is an astronaut who has been selected as a crew member for mankind’s first longterm base on the moon. Meanwhile, the older brother, Mutta, has just been fired from his job and is unemployed. A text message from Hibito sends him applying to be an astronaut and shooting for the stars!</em></p>",
+            "has_staff_review": false,
+            "id": 571598,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5613423-28.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5613423-28.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5613423-28.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5613423-28.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5613423-28.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5613423-28.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5613423-28.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5613423-28.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5613423-28.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "28",
+            "name": "Volume 28",
+            "site_detail_url": "https://comicvine.gamespot.com/space-brothers-28-volume-28/4000-571598/",
+            "store_date": "2016-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85812/",
+                "id": 85812,
+                "name": "Space Brothers",
+                "site_detail_url": "https://comicvine.gamespot.com/space-brothers/4050-85812/"
+            }
+        }
     ]
 }

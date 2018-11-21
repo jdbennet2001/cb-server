@@ -1356,5 +1356,41 @@
     ],
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-650030/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-28 23:18:20",
+            "date_last_updated": "2017-12-29 00:44:49",
+            "deck": null,
+            "description": "<p><em>Higher Learning, Part 2 of 4</em></p><p><em>Accepting Tech Locke's proposal, Paige sees what life is like on the other side while Morgan and the campus heroes work on a plan to rescue her. Can our heroes retrieve Paige safely? Or has her allegiances changed for the worst?</em></p>",
+            "has_staff_review": false,
+            "id": 650030,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6207480-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6207480-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6207480-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6207480-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6207480-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6207480-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6207480-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6207480-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6207480-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "Higher Learning, Part 2 of 4",
+            "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies-34-higher-l/4000-650030/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-29951/",
+                "id": 29951,
+                "name": "Chaos Campus: Sorority Girls Vs. Zombies",
+                "site_detail_url": "https://comicvine.gamespot.com/chaos-campus-sorority-girls-vs-zombies/4050-29951/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

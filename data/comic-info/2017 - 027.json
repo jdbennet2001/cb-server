@@ -2432,5 +2432,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/spider-gwen/4050-85311/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-600551/",
+            "cover_date": "2016-12-31",
+            "date_added": "2017-06-07 08:16:41",
+            "date_last_updated": "2017-06-09 04:15:56",
+            "deck": null,
+            "description": "<p><em>THE DOLL Part Six.</em></p><p><em>Captivated by Paris, Saunders slowly forgets about Isabelle and Terminus. He also suspects that Sorel's experiments are in fact a sophisticated fraud.</em></p>",
+            "has_staff_review": false,
+            "id": 600551,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5887012-27.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5887012-27.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5887012-27.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5887012-27.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5887012-27.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5887012-27.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5887012-27.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5887012-27.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5887012-27.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "27",
+            "name": "The Doll Part 6 of 9",
+            "site_detail_url": "https://comicvine.gamespot.com/the-terminus-project-27-the-doll-part-6-of-9/4000-600551/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-76178/",
+                "id": 76178,
+                "name": "The Terminus Project",
+                "site_detail_url": "https://comicvine.gamespot.com/the-terminus-project/4050-76178/"
+            }
+        }
     ]
 }

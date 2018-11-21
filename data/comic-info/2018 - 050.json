@@ -686,5 +686,41 @@
         }
     ],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649800/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-26 17:19:20",
+            "date_last_updated": "2017-12-28 03:21:47",
+            "deck": null,
+            "description": "<p><em>America's longest-running magazine of classic comics now has twice as many pages of strips as the earlier version, on better paper, includes 8 pages of full-color comic strips, and features <strong>Tarzan</strong> by Russ Manning, <strong>Rick O'Shay</strong> by Stan Lynde, <strong>Flash Gordon</strong> by Harry Harrison, <strong>Gasoline Alley</strong> by Dick Moores, <strong>Alley Oop</strong> by V.T. Hamlin, <strong>Steve Canyon</strong> by Milton Caniff, and <strong>Casey Ruggles</strong> by Warren Tufts! Plus more classic stories in black &amp; white, including Lee Falk's <strong>The Phantom</strong> and <strong>Krazy Kat </strong>by George Herriman!</em></p>",
+            "has_staff_review": false,
+            "id": 649800,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204799-50.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204799-50.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204799-50.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204799-50.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204799-50.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204799-50.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204799-50.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204799-50.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204799-50.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "50",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comics-revue-presents-50/4000-649800/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-71701/",
+                "id": 71701,
+                "name": "Comics Revue Presents",
+                "site_detail_url": "https://comicvine.gamespot.com/comics-revue-presents/4050-71701/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

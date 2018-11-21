@@ -2357,5 +2357,74 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [],
+    "2018-11-19|2018-11-25": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-692382/",
+            "cover_date": "2018-11-19",
+            "date_added": "2018-11-19 21:22:02",
+            "date_last_updated": "2018-11-19 21:23:07",
+            "deck": " ",
+            "description": "<h4><em>Lah’saa est morte et la pluie a lavé le sang de ses innombrables victimes... Mais les terres les plus sacrées des Sylvains ont été souillées et la menace n’a jamais été si grande.</em></h4><p><em>Bëloenn, le maître des Écorces irascible, veille sur les arbres anciens. Il vit en ermite jusqu’au jour où Laëdyss, une chasseuse dont le clan a été massacré, vient lui demander son aide. Partout sur les Terres d’Arran, les créatures des bois deviennent folles et attaquent les elfes Sylvains... L’origine du mal plonge ses racines au plus profond de la forêt de Duhann, dans le sanctuaire de la reine Ora, gardienne du cristal vert...</em></p>",
+            "has_staff_review": false,
+            "id": 692382,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6693988-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6693988-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6693988-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6693988-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6693988-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6693988-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6693988-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6693988-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6693988-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Le Gardien des racines",
+            "site_detail_url": "https://comicvine.gamespot.com/elfes-22-le-gardien-des-racines/4000-692382/",
+            "store_date": "2018-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-74463/",
+                "id": 74463,
+                "name": "Elfes",
+                "site_detail_url": "https://comicvine.gamespot.com/elfes/4050-74463/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-692492/",
+            "cover_date": "2018-11-20",
+            "date_added": "2018-11-20 15:05:55",
+            "date_last_updated": "2018-11-20 15:29:14",
+            "deck": " ",
+            "description": "<p><em>When Onion gets lost in the Temple, Steven chases off after him to make sure he doesn't get hurt.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Missy Pena</td><td>1</td></tr><tr><td>Sub</td><td>Preorder Cover</td><td>Lanna Souvanny</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 692492,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6694833-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6694833-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6694833-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6694833-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6694833-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6694833-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6694833-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6694833-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6694833-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/steven-universe-ongoing-22/4000-692492/",
+            "store_date": "2018-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-98763/",
+                "id": 98763,
+                "name": "Steven Universe Ongoing",
+                "site_detail_url": "https://comicvine.gamespot.com/steven-universe-ongoing/4050-98763/"
+            }
+        }
+    ]
 }

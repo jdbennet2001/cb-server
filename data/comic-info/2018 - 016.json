@@ -3814,5 +3814,41 @@
                 "site_detail_url": "https://comicvine.gamespot.com/triage-x/4050-53360/"
             }
         }
-    ]
+    ],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649695/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:16:15",
+            "date_last_updated": "2018-01-21 20:34:26",
+            "deck": null,
+            "description": "<p><em>“Road Trip” part three! The mystery in the desert begins to unravel with the appearance of the man known as Stopwatch. He’s the mastermind behind the deadly Short Timers and the source of all the time disruptions which have been tearing apart reality. How is Jaime going to defeat him while trying to keep his identity secret from his girlfriend, Naomi?</em></p><p><em>Includes a code for a free digital download of this issue.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Thony Silas</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Tyler Kirkham &amp; Tomeu Morey</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 649695,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204700-16.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204700-16.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204700-16.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204700-16.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204700-16.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204700-16.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204700-16.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204700-16.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204700-16.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "16",
+            "name": "Road To Nowhere Part 3",
+            "site_detail_url": "https://comicvine.gamespot.com/blue-beetle-16-road-to-nowhere-part-3/4000-649695/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-94410/",
+                "id": 94410,
+                "name": "Blue Beetle",
+                "site_detail_url": "https://comicvine.gamespot.com/blue-beetle/4050-94410/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

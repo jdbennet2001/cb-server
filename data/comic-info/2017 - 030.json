@@ -2032,5 +2032,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/uncanny-avengers/4050-85318/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571703/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:30:28",
+            "date_last_updated": "2017-03-01 13:49:48",
+            "deck": null,
+            "description": "<p><em>NEW STORY ARC</em></p><p><em>The final year of the apocalypse begins! Armies rage! Nations at War! A family fights to be reunited.</em></p>",
+            "has_staff_review": false,
+            "id": 571703,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614027-30.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614027-30.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614027-30.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614027-30.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614027-30.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614027-30.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614027-30.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614027-30.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614027-30.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "30",
+            "name": "The Machine City Must Fall",
+            "site_detail_url": "https://comicvine.gamespot.com/east-of-west-30-the-machine-city-must-fall/4000-571703/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59366/",
+                "id": 59366,
+                "name": "East of West",
+                "site_detail_url": "https://comicvine.gamespot.com/east-of-west/4050-59366/"
+            }
+        }
     ]
 }

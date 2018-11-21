@@ -424,5 +424,40 @@
     "2017-11-27|2017-12-03": [],
     "2017-12-04|2017-12-10": [],
     "2017-12-11|2017-12-17": [],
-    "2017-12-18|2017-12-24": []
+    "2017-12-18|2017-12-24": [],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-569999/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-22 17:28:30",
+            "date_last_updated": "2017-05-23 08:31:33",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 569999,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5606427-43.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5606427-43.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5606427-43.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5606427-43.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5606427-43.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5606427-43.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5606427-43.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5606427-43.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5606427-43.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "43",
+            "name": "Vol. 43",
+            "site_detail_url": "https://comicvine.gamespot.com/toriko-43-vol-43/4000-569999/",
+            "store_date": "2016-12-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-54809/",
+                "id": 54809,
+                "name": "Toriko",
+                "site_detail_url": "https://comicvine.gamespot.com/toriko/4050-54809/"
+            }
+        }
+    ]
 }

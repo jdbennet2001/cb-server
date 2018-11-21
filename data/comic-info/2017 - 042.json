@@ -389,5 +389,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/zombie-tramp/4050-75908/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-572486/",
+            "cover_date": "2016-12-29",
+            "date_added": "2016-12-28 22:13:57",
+            "date_last_updated": "2016-12-29 06:12:32",
+            "deck": null,
+            "description": "<p><em>Harley Quinn’s decided to try a new career as a ghost-busting detective-and when she swings that giant mallet, Scooby and the gang can’t tell her no. But Mistah J wants her back!</em></p>",
+            "has_staff_review": false,
+            "id": 572486,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5617609-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5617609-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5617609-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5617609-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5617609-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5617609-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5617609-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5617609-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5617609-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Chapter Forty-Two",
+            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-team-up-42-chapter-forty-two/4000-572486/",
+            "store_date": "2016-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69510/",
+                "id": 69510,
+                "name": "Scooby-Doo! Team-Up",
+                "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-team-up/4050-69510/"
+            }
+        }
     ]
 }

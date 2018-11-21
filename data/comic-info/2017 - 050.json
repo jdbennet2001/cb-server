@@ -525,5 +525,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/zettai-karen-children/4050-45292/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-588062/",
+            "cover_date": "2017-02-28",
+            "date_added": "2017-03-18 15:28:03",
+            "date_last_updated": "2017-03-19 11:35:39",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 588062,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5756073-50.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5756073-50.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5756073-50.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5756073-50.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5756073-50.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5756073-50.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5756073-50.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5756073-50.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5756073-50.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "50",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-x-eros-50/4000-588062/",
+            "store_date": "2016-12-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-89126/",
+                "id": 89126,
+                "name": "Comic X-Eros",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-xeros/4050-89126/"
+            }
+        }
     ]
 }

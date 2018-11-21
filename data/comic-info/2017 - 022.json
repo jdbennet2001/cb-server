@@ -3592,5 +3592,40 @@
                 "site_detail_url": "https://comicvine.gamespot.com/mighty-morphin-power-rangers/4050-87332/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-570000/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-22 17:30:11",
+            "date_last_updated": "2017-07-12 14:27:59",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Chapter 182: Birth of a New Elite Ten</li><li>Chapter 183: A New Approach</li><li>Chapter 184: Debt</li><li>Chapter 185: Rematch With a Rival</li><li>Chapter 186: Walking the Tightrope of Deliciousness</li><li>Chapter 187: Burst Forth, Mincemeat Katsu!</li><li>Chapter 188: The First Round</li><li>Chapter 189: The Second Round</li><li>Chapter 190: For Someone's Sake</li></ul>",
+            "has_staff_review": false,
+            "id": 570000,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5606430-22.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5606430-22.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5606430-22.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5606430-22.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5606430-22.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5606430-22.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5606430-22.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5606430-22.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5606430-22.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "22",
+            "name": "Vol. 22",
+            "site_detail_url": "https://comicvine.gamespot.com/shokugeki-no-soma-22-vol-22/4000-570000/",
+            "store_date": "2016-12-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77359/",
+                "id": 77359,
+                "name": "Shokugeki no Soma",
+                "site_detail_url": "https://comicvine.gamespot.com/shokugeki-no-soma/4050-77359/"
+            }
+        }
     ]
 }

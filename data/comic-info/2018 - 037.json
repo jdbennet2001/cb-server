@@ -1087,5 +1087,74 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649701/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:16:25",
+            "date_last_updated": "2017-12-27 22:56:02",
+            "deck": null,
+            "description": "<p><em>“A Cold Day in Hell” part two! The new crime lord of Central City has been revealed…and it’s worse than The Flash ever imagined! Betrayed by a former friend and trapped in Iron Heights prison with no escape in sight—will The Flash be too late to save his city from disaster?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Barry Kitson &amp; Hi-Fi</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Howard Porter &amp; Hi-Fi</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 649701,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204706-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204706-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204706-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204706-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204706-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204706-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204706-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204706-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204706-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "A Cold Day In Hell Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/the-flash-37-a-cold-day-in-hell-part-two/4000-649701/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91750/",
+                "id": 91750,
+                "name": "The Flash",
+                "site_detail_url": "https://comicvine.gamespot.com/the-flash/4050-91750/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649719/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:16:53",
+            "date_last_updated": "2017-12-27 10:51:40",
+            "deck": null,
+            "description": "<p><em>“CHILDREN OF THE GODS” part five! As a fevered battle with Darkseid rages between Wonder Woman and the dark god, the Amazon warrior must choose between saving the lives that hang in the balance and ending the threat before her forever. </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Bryan Hitch &amp; Alex Sinclair</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Jenny Frison</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 649719,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204726-37.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204726-37.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204726-37.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204726-37.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204726-37.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204726-37.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204726-37.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204726-37.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204726-37.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "37",
+            "name": "Children of the Gods Conclusion",
+            "site_detail_url": "https://comicvine.gamespot.com/wonder-woman-37-children-of-the-gods-conclusion/4000-649719/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91774/",
+                "id": 91774,
+                "name": "Wonder Woman",
+                "site_detail_url": "https://comicvine.gamespot.com/wonder-woman/4050-91774/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

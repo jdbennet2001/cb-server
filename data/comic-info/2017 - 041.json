@@ -457,5 +457,40 @@
         }
     ],
     "2017-12-11|2017-12-17": [],
-    "2017-12-18|2017-12-24": []
+    "2017-12-18|2017-12-24": [],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571708/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:30:44",
+            "date_last_updated": "2017-02-23 06:37:59",
+            "deck": null,
+            "description": "<p><em>“THE WAR FOR PHANG,” Part Five.</em></p><p><em>Alana and Marko get their war on.</em></p><p><strong>Note</strong>: Image Comics and the creative team behind Saga weren't happy with the quality (too dark) of the initial print for the Dec. 28 release and ordered all retailers to destroy their already received copies. Saga #41 would then be re-released a week later (Jan. 4, 2017).</p><figure data-ref-id=\"1300-5626717\" data-img-src=\"https://static4.comicvine.com/uploads/original/11/115351/5626717-saga41-cover-printerror.jpg\" data-size=\"medium\" data-align=\"left\" data-ratio=\"0.76190476190476\" data-width=\"1050\" data-embed-type=\"image\" style=\"width: 1050px\"><a class=\"fluid-height\" style=\"padding-bottom:76.2%\" href=\"https://static4.comicvine.com/uploads/original/11/115351/5626717-saga41-cover-printerror.jpg\" data-ref-id=\"1300-5626717\"><img alt=\"Dec. 28th vs. Jan. 4th release\" src=\"https://static.comicvine.com/uploads/scale_medium/11/115351/5626717-saga41-cover-printerror.jpg\" srcset=\"https://static.comicvine.com/uploads/original/11/115351/5626717-saga41-cover-printerror.jpg 1050w, https://static.comicvine.com/uploads/scale_super/11/115351/5626717-saga41-cover-printerror.jpg 960w, https://static.comicvine.com/uploads/scale_medium/11/115351/5626717-saga41-cover-printerror.jpg 480w\" sizes=\"(max-width: 480px) 100vw, 480px\" data-width=\"480\"></a><figcaption>Dec. 28th vs. Jan. 4th release</figcaption></figure><p> </p>",
+            "has_staff_review": false,
+            "id": 571708,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614032-41.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614032-41.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614032-41.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614032-41.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614032-41.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614032-41.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614032-41.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614032-41.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614032-41.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "41",
+            "name": "The War For Phang Part Five",
+            "site_detail_url": "https://comicvine.gamespot.com/saga-41-the-war-for-phang-part-five/4000-571708/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-46568/",
+                "id": 46568,
+                "name": "Saga",
+                "site_detail_url": "https://comicvine.gamespot.com/saga/4050-46568/"
+            }
+        }
+    ]
 }

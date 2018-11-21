@@ -5025,5 +5025,74 @@
                 "site_detail_url": "https://comicvine.gamespot.com/allnew-xmen/4050-86334/"
             }
         }
+    ],
+    "2015-12-21|2015-12-27": [],
+    "2015-12-28|2016-01-03": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-568562/",
+            "cover_date": "2015-12-28",
+            "date_added": "2016-12-17 08:02:45",
+            "date_last_updated": "2017-08-11 08:07:41",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 568562,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5596178-16.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5596178-16.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5596178-16.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5596178-16.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5596178-16.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5596178-16.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5596178-16.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5596178-16.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5596178-16.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "16",
+            "name": "Vol. 16",
+            "site_detail_url": "https://comicvine.gamespot.com/donketsu-16-vol-16/4000-568562/",
+            "store_date": "2015-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96941/",
+                "id": 96941,
+                "name": "Donketsu",
+                "site_detail_url": "https://comicvine.gamespot.com/donketsu/4050-96941/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-575644/",
+            "cover_date": "2016-01-31",
+            "date_added": "2017-01-08 19:53:49",
+            "date_last_updated": "2017-01-08 20:00:40",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 575644,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5638370-18%20days%20v2015%20%2316%20%2810-2016%29%20-%20page%201.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "16",
+            "name": "The Sword Of Abhimanyu",
+            "site_detail_url": "https://comicvine.gamespot.com/18-days-the-mahabharata-16-the-sword-of-abhimanyu/4000-575644/",
+            "store_date": "2016-01-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95768/",
+                "id": 95768,
+                "name": "18 Days",
+                "site_detail_url": "https://comicvine.gamespot.com/18-days/4050-95768/"
+            }
+        }
     ]
 }

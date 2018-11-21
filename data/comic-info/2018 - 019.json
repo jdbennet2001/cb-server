@@ -2851,5 +2851,74 @@
         }
     ],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649391/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-26 00:01:41",
+            "date_last_updated": "2017-12-26 13:59:44",
+            "deck": null,
+            "description": "<p><em>The second set of the Miyagi Prefecture qualifier tournament continues as Tsukishima and Nishinoya lead the defense against Shiratorizawa! The game heats up in a tense back-and-forth—both teams refusing to give way to the other. Which team will manage to get a break point and pull away from the stalemate first?!</em></p>",
+            "has_staff_review": false,
+            "id": 649391,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6203549-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6203549-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6203549-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6203549-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6203549-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6203549-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6203549-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6203549-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6203549-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "Moon's Halo",
+            "site_detail_url": "https://comicvine.gamespot.com/haikyu-19-moons-halo/4000-649391/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92005/",
+                "id": 92005,
+                "name": "Haikyu!!",
+                "site_detail_url": "https://comicvine.gamespot.com/haikyu/4050-92005/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-650028/",
+            "cover_date": "2017-12-29",
+            "date_added": "2017-12-28 23:18:15",
+            "date_last_updated": "2018-03-24 23:23:46",
+            "deck": null,
+            "description": "<p><em>Before anyone can come to terms with what their enemy has revealed, the team and their temporary allies must cheat death by finding a way through the collapsing maze.</em></p>",
+            "has_staff_review": false,
+            "id": 650028,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6207478-19.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6207478-19.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6207478-19.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6207478-19.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6207478-19.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6207478-19.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6207478-19.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6207478-19.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6207478-19.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "19",
+            "name": "War Bonds Part 7",
+            "site_detail_url": "https://comicvine.gamespot.com/bombshells-united-19-war-bonds-part-7/4000-650028/",
+            "store_date": "2017-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-103689/",
+                "id": 103689,
+                "name": "Bombshells: United",
+                "site_detail_url": "https://comicvine.gamespot.com/bombshells-united/4050-103689/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

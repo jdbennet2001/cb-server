@@ -1558,5 +1558,75 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649743/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:17:32",
+            "date_last_updated": "2018-03-30 11:00:39",
+            "deck": null,
+            "description": "<p><em>Spider-Man Versus Deadpool Part 3</em></p><p><em>The first arc of the new era of SM/DP climaxes with our heroes facing THE CHAMELEON!</em></p><p><em>The mimicry villain's plan is more than just changing HIS appearance. It takes Chameleon from his level of petty crook and puts him shoulder to shoulder with the world's most terrifying super villains!</em></p><p><em>Spider-Man and Deadpool do their darnedest to take down the elusive villain, but it's hard to punch someone when he could look like anyone!</em></p>",
+            "has_staff_review": false,
+            "id": 649743,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204749-25.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204749-25.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204749-25.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204749-25.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204749-25.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204749-25.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204749-25.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204749-25.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204749-25.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "25",
+            "name": "Arms Race Part 3",
+            "site_detail_url": "https://comicvine.gamespot.com/spider-mandeadpool-25-arms-race-part-3/4000-649743/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-87182/",
+                "id": 87182,
+                "name": "Spider-Man/Deadpool",
+                "site_detail_url": "https://comicvine.gamespot.com/spider-man-deadpool/4050-87182/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-692368/",
+            "cover_date": "2018-10-01",
+            "date_added": "2018-11-19 13:11:32",
+            "date_last_updated": "2018-11-19 14:30:56",
+            "deck": " ",
+            "description": "<p><em><strong>END OF THE ROAD!</strong> The battle is over. Heroes have fallen. Worlds have died. Now Optimus Prime faces his final ordeal—as past, present, and future collide. Who will stand with him? And when it’s all over, who will carry the mantle of “Prime?”</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Kei Zama (a) &amp; Josh Burcham (c)</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Casey W. Coller (a) &amp; John-Paul Bove</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Andrew Griffith</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 692368,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6693340-25a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6693340-25a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6693340-25a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6693340-25a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6693340-25a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6693340-25a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6693340-25a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6693340-25a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6693340-25a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "25",
+            "name": "Post",
+            "site_detail_url": "https://comicvine.gamespot.com/optimus-prime-25-post/4000-692368/",
+            "store_date": "2018-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96201/",
+                "id": 96201,
+                "name": "Optimus Prime",
+                "site_detail_url": "https://comicvine.gamespot.com/optimus-prime/4050-96201/"
+            }
+        }
+    ]
 }

@@ -1287,5 +1287,41 @@
         }
     ],
     "2018-11-05|2018-11-11": [],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649705/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-26 17:16:31",
+            "date_last_updated": "2017-12-30 16:02:27",
+            "deck": null,
+            "description": "<p><em>“TWILIGHT OF THE GUARDIANS” part three! The Green Lanterns go for a full-on attack on their enemies, but the Controllers are ready with their own team of killers, armed with weapons that can reduce even a Power-Ring wearing Lantern to goo. </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Francis Manapul</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Barry Kitson &amp; Hi-Fi</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 649705,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6204711-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6204711-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6204711-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6204711-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6204711-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6204711-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6204711-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6204711-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6204711-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "Twilight of the Guardians Part Three: The Four Corpsmen",
+            "site_detail_url": "https://comicvine.gamespot.com/hal-jordan-and-the-green-lantern-corps-35-twilight/4000-649705/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92557/",
+                "id": 92557,
+                "name": "Hal Jordan and the Green Lantern Corps",
+                "site_detail_url": "https://comicvine.gamespot.com/hal-jordan-and-the-green-lantern-corps/4050-92557/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": []
 }

@@ -4488,5 +4488,73 @@
                 "site_detail_url": "https://comicvine.gamespot.com/terra-formars/4050-76102/"
             }
         }
+    ],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-563634/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-05 13:19:30",
+            "date_last_updated": "2016-12-26 15:27:10",
+            "deck": null,
+            "description": "<p><em>The Survey Corps’s quest for the truth of the world inside the Walls has brought them back to Titan-infested Shiganshina District, a mere stone’s throw from Eren’s childhood home. They have come to execute Erwin’s final gambit, reclaiming Wall Maria and the secrets of humanity’s past. But the Colossus Titan, the Armored Titan, and the Beast Titan have been waiting for them, and saving humanity will require the most difficult sacrifice the Corps has ever had to make …</em></p><h2>Contents</h2><ul><li>Episode 79: Perfect Game</li><li>Episode 80: The Unknown Soldier</li><li>Episode 81: Promise</li><li>Episode 82: Hero</li></ul><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Hajime Isayama</td><td>1</td></tr><tr><td>LE</td><td>Special Edition Cover</td><td>David Mack</td><td>Missing</td></tr></tbody></table><p><strong>Note</strong>: A special edition is also available that comes with a DVD of the A Sudden Visitor: The Tormenting Curse of Puberty OAV episode.</p>",
+            "has_staff_review": false,
+            "id": 563634,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5571425-20.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5571425-20.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5571425-20.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5571425-20.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5571425-20.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5571425-20.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5571425-20.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5571425-20.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5571425-20.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "20",
+            "name": "Facing Annihilation",
+            "site_detail_url": "https://comicvine.gamespot.com/attack-on-titan-20-facing-annihilation/4000-563634/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-49866/",
+                "id": 49866,
+                "name": "Attack on Titan",
+                "site_detail_url": "https://comicvine.gamespot.com/attack-on-titan/4050-49866/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-570001/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-22 17:31:38",
+            "date_last_updated": "2017-02-25 05:36:13",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 570001,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5606431-20.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5606431-20.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5606431-20.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5606431-20.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5606431-20.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5606431-20.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5606431-20.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5606431-20.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5606431-20.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "20",
+            "name": "Vol. 20",
+            "site_detail_url": "https://comicvine.gamespot.com/saiki-kusuo-no-ps-nan-20-vol-20/4000-570001/",
+            "store_date": "2016-12-31",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-77360/",
+                "id": 77360,
+                "name": "Saiki Kusuo no Ψ Nan",
+                "site_detail_url": "https://comicvine.gamespot.com/saiki-kusuo-no-ps-nan/4050-77360/"
+            }
+        }
     ]
 }

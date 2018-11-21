@@ -1230,5 +1230,40 @@
             }
         }
     ],
-    "2017-12-18|2017-12-24": []
+    "2017-12-18|2017-12-24": [],
+    "2016-12-26|2017-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-571710/",
+            "cover_date": "2016-12-31",
+            "date_added": "2016-12-27 02:30:49",
+            "date_last_updated": "2017-03-19 16:58:11",
+            "deck": null,
+            "description": "<p><em>A change is gonna come.</em></p>",
+            "has_staff_review": false,
+            "id": 571710,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5614034-34.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5614034-34.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5614034-34.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5614034-34.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5614034-34.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5614034-34.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5614034-34.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5614034-34.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5614034-34.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "34",
+            "name": "The Show Must Go On",
+            "site_detail_url": "https://comicvine.gamespot.com/sex-34-the-show-must-go-on/4000-571710/",
+            "store_date": "2016-12-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-58439/",
+                "id": 58439,
+                "name": "Sex",
+                "site_detail_url": "https://comicvine.gamespot.com/sex/4050-58439/"
+            }
+        }
+    ]
 }
