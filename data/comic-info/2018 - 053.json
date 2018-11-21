@@ -616,5 +616,41 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [],
+    "2018-11-19|2018-11-25": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-692534/",
+            "cover_date": "2019-01-01",
+            "date_added": "2018-11-21 02:30:30",
+            "date_last_updated": "2018-11-21 10:12:25",
+            "deck": " ",
+            "description": "<p><em>Who is Dick Grayson? That’s the question haunting him after the devastating injury he suffered in Batman #55. Now, as he continues to struggle physically and emotionally, how can he stand against the terrifying “fear germ” unleashed by the Scarecrow?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Chris Mooneyham &amp; Nick Filardi</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Yasmine Putri</td><td>Missing</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 692534,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6695418-53.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6695418-53.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6695418-53.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6695418-53.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6695418-53.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6695418-53.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6695418-53.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6695418-53.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6695418-53.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "53",
+            "name": "Knight Terrors Part Four: Badge of Honor",
+            "site_detail_url": "https://comicvine.gamespot.com/nightwing-53-knight-terrors-part-four-badge-of-hon/4000-692534/",
+            "store_date": "2018-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92569/",
+                "id": 92569,
+                "name": "Nightwing",
+                "site_detail_url": "https://comicvine.gamespot.com/nightwing/4050-92569/"
+            }
+        }
+    ]
 }

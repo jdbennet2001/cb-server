@@ -59,8 +59,11 @@ class Filing extends React.Component {
       return self.setState({unfiled})
     }).then( () =>{
         return self.next();      
-    }).then( () =>{
-      updateIndex(self.state.unfiled);
+    })
+
+    window.bus.once('downloadMetadata', () =>{
+      let issues = self.state.unfiled;
+       updateIndex(issues);
     })
   
     //Use an internal message bus to communicate between components
@@ -221,7 +224,11 @@ function doDownloadIndex(title, year, issue){
     }`
     const variables = {issue, year};
 
-    return request(endpoint, mutation, variables);
+    return request(endpoint, mutation, variables).then(data =>{
+      return Promise.resolve(data);
+    }, err =>{
+      return Promise.resolve(err);
+    })
 }
 
 

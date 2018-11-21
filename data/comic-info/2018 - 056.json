@@ -516,5 +516,75 @@
             }
         }
     ],
-    "2018-11-12|2018-11-18": []
+    "2018-11-12|2018-11-18": [],
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-650607/",
+            "cover_date": "2017-12-27",
+            "date_added": "2018-01-01 00:01:03",
+            "date_last_updated": "2018-01-01 02:46:44",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 650607,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6211578-56.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6211578-56.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6211578-56.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6211578-56.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6211578-56.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6211578-56.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6211578-56.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6211578-56.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6211578-56.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "56",
+            "name": "Vol. 56",
+            "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta-56-vol-56/4000-650607/",
+            "store_date": "2017-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93693/",
+                "id": 93693,
+                "name": "Mogura no Uta",
+                "site_detail_url": "https://comicvine.gamespot.com/mogura-no-uta/4050-93693/"
+            }
+        }
+    ],
+    "2018-11-19|2018-11-25": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-692489/",
+            "cover_date": "2018-11-20",
+            "date_added": "2018-11-20 15:05:52",
+            "date_last_updated": "2018-11-20 15:20:21",
+            "deck": " ",
+            "description": "<p><em>An ancient Greek goddess has kidnapped Ripley, believing her to be the source of ultimate magic power! It's up to the 'Janes, Ripley, and some magic kitties to stop her from leeching all the magic from the forest.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Kat Leyh</td><td>1</td></tr><tr><td>Sub</td><td>Preorder Cover</td><td>Maarta Laiho</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 692489,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6694828-56.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6694828-56.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6694828-56.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6694828-56.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6694828-56.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6694828-56.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6694828-56.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6694828-56.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6694828-56.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "56",
+            "name": "Chapter Fifty-Six: Follow Your Art",
+            "site_detail_url": "https://comicvine.gamespot.com/lumberjanes-56-chapter-fifty-six-follow-your-art/4000-692489/",
+            "store_date": "2018-11-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72941/",
+                "id": 72941,
+                "name": "Lumberjanes",
+                "site_detail_url": "https://comicvine.gamespot.com/lumberjanes/4050-72941/"
+            }
+        }
+    ]
 }

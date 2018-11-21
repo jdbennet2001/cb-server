@@ -80,5 +80,75 @@
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
     "2018-11-12|2018-11-18": [],
-    "2018-11-19|2018-11-25": []
+    "2018-11-19|2018-11-25": [],
+    "2018-01-01|2018-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-662705/",
+            "cover_date": "2018-05-31",
+            "date_added": "2018-03-13 14:35:28",
+            "date_last_updated": "2018-03-14 06:38:06",
+            "deck": null,
+            "description": "<p><em>“The General”! Superman’s journey through time has crashed to a halt, and at the end of the line General Sam Lane stands face to face for the first time with his grandson, Jon. Buckle up, because the most awkward super-family reunion in history is about to begin!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Brett Booth, Norm Rapmund &amp; Andrew Dalhouse</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Kaare Kyle Andrews</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 662705,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6327248-999.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6327248-999.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6327248-999.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6327248-999.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6327248-999.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6327248-999.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6327248-999.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6327248-999.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6327248-999.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "999",
+            "name": "What Would Superman Do?",
+            "site_detail_url": "https://comicvine.gamespot.com/action-comics-999-what-would-superman-do/4000-662705/",
+            "store_date": "2018-03-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91078/",
+                "id": 91078,
+                "name": "Action Comics",
+                "site_detail_url": "https://comicvine.gamespot.com/action-comics/4050-91078/"
+            }
+        }
+    ],
+    "2017-06-01|2018-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-662705/",
+            "cover_date": "2018-05-31",
+            "date_added": "2018-03-13 14:35:28",
+            "date_last_updated": "2018-03-14 06:38:06",
+            "deck": null,
+            "description": "<p><em>“The General”! Superman’s journey through time has crashed to a halt, and at the end of the line General Sam Lane stands face to face for the first time with his grandson, Jon. Buckle up, because the most awkward super-family reunion in history is about to begin!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Brett Booth, Norm Rapmund &amp; Andrew Dalhouse</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Kaare Kyle Andrews</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 662705,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6327248-999.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6327248-999.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6327248-999.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6327248-999.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6327248-999.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6327248-999.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6327248-999.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6327248-999.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6327248-999.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "999",
+            "name": "What Would Superman Do?",
+            "site_detail_url": "https://comicvine.gamespot.com/action-comics-999-what-would-superman-do/4000-662705/",
+            "store_date": "2018-03-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91078/",
+                "id": 91078,
+                "name": "Action Comics",
+                "site_detail_url": "https://comicvine.gamespot.com/action-comics/4050-91078/"
+            }
+        }
+    ]
 }

@@ -46,5 +46,41 @@
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
     "2018-11-12|2018-11-18": [],
-    "2018-11-19|2018-11-25": []
+    "2018-11-19|2018-11-25": [],
+    "2018-01-01|2018-12-30": [],
+    "2017-06-01|2018-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-646149/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-12 09:21:43",
+            "date_last_updated": "2018-01-21 20:06:49",
+            "deck": null,
+            "description": "<p><em>“BOOSTER SHOT” part one! As Superman struggles to cope with Mr. Oz’s true identity, the Man of Steel turns to the only “hero” he knows who can prove once and for all if Oz’s story is true: Booster Gold! But a massive power doesn’t want our heroes venturing through time, and will do anything it can to sabotage their journey!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Dan Jurgens, Trevor Scott &amp; Hi-Fi</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Francis Manapul</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 646149,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6191129-993.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6191129-993.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6191129-993.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6191129-993.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6191129-993.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6191129-993.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6191129-993.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6191129-993.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6191129-993.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "993",
+            "name": "Booster Shot Part I",
+            "site_detail_url": "https://comicvine.gamespot.com/action-comics-993-booster-shot-part-i/4000-646149/",
+            "store_date": "2017-12-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91078/",
+                "id": 91078,
+                "name": "Action Comics",
+                "site_detail_url": "https://comicvine.gamespot.com/action-comics/4050-91078/"
+            }
+        }
+    ]
 }

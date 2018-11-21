@@ -80,5 +80,75 @@
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
     "2018-11-12|2018-11-18": [],
-    "2018-11-19|2018-11-25": []
+    "2018-11-19|2018-11-25": [],
+    "2018-01-01|2018-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-652590/",
+            "cover_date": "2018-03-31",
+            "date_added": "2018-01-09 14:34:51",
+            "date_last_updated": "2018-01-10 22:19:23",
+            "deck": null,
+            "description": "<p><em>“Booster Shot” part three! Time is broken, and Superman and Booster Gold are in over their heads trying to repair it! Meanwhile, Lois Lane confronts her estranged father—and Sam Lane now stands face to face with his grandson Jon for the first time. As Clark struggles to reconcile the truth of his own father, can Lois Lane do the same?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Dan Jurgens, Trevor Scott &amp; Hi-Fi</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Dustin Nguyen</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 652590,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6224083-995.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6224083-995.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6224083-995.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6224083-995.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6224083-995.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6224083-995.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6224083-995.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6224083-995.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6224083-995.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "995",
+            "name": "Booster Shot Part III",
+            "site_detail_url": "https://comicvine.gamespot.com/action-comics-995-booster-shot-part-iii/4000-652590/",
+            "store_date": "2018-01-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91078/",
+                "id": 91078,
+                "name": "Action Comics",
+                "site_detail_url": "https://comicvine.gamespot.com/action-comics/4050-91078/"
+            }
+        }
+    ],
+    "2017-06-01|2018-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-652590/",
+            "cover_date": "2018-03-31",
+            "date_added": "2018-01-09 14:34:51",
+            "date_last_updated": "2018-01-10 22:19:23",
+            "deck": null,
+            "description": "<p><em>“Booster Shot” part three! Time is broken, and Superman and Booster Gold are in over their heads trying to repair it! Meanwhile, Lois Lane confronts her estranged father—and Sam Lane now stands face to face with his grandson Jon for the first time. As Clark struggles to reconcile the truth of his own father, can Lois Lane do the same?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Dan Jurgens, Trevor Scott &amp; Hi-Fi</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Dustin Nguyen</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 652590,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6224083-995.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6224083-995.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6224083-995.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6224083-995.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6224083-995.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6224083-995.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6224083-995.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6224083-995.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6224083-995.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "995",
+            "name": "Booster Shot Part III",
+            "site_detail_url": "https://comicvine.gamespot.com/action-comics-995-booster-shot-part-iii/4000-652590/",
+            "store_date": "2018-01-10",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91078/",
+                "id": 91078,
+                "name": "Action Comics",
+                "site_detail_url": "https://comicvine.gamespot.com/action-comics/4050-91078/"
+            }
+        }
+    ]
 }
