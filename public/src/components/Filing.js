@@ -8,6 +8,7 @@ import SuggestionArea from './SuggestionArea';
 import Header         from './Header';
 
 import Archive        from '../utils/archive';
+import { request }    from 'graphql-request'
 
 /*
  Comic book filing:
@@ -51,7 +52,17 @@ class Filing extends React.Component {
 
     //Load state from disk
     get_comics().then(comics =>{
-      let state = {unfiled: comics.data.unfiled_comics, issue:{} };
+
+      //Filter out comics that can't be unfiled
+      let unfiled = comics.data.unfiled_comics;
+      unfiled = _.filter(unfiled, unfiled_item =>{
+        let archive  = new Archive(unfiled_item);
+        let {title, year, number} = archive;
+        return (year < 2020 && year > 2015) && (number < 50);
+      })
+
+      let state = {unfiled, issue: {}}
+
       self.setState(state);
       self.next();
     })
@@ -89,14 +100,29 @@ class Filing extends React.Component {
     let state = this.state;
     let {unfiled} = state;
     let unfiled_item = unfiled.pop();
-    let {name, location} = unfiled_item;
+    let {name, location,size} = unfiled_item;
     let archive  = new Archive(unfiled_item);
     let {title, year, number} = archive;
 
-    let issue = {name, location, title, year, number};
+    let issue = {name, location, title, year, number, size};
         state = {unfiled, issue, target: undefined};
 
     this.setState(state);
+  }
+
+  importComic(args){
+    debugger;
+    let self = this;
+    let {target} = this.state;
+    let {location:source} = this.state.issue;
+    if ( _.isEmpty(source) || _.isEmpty(target)){
+      return;     //Sanity check code...
+    }
+    doImport(source, target).then(done =>{
+      self.next();
+    }, err=>{
+      alert(`${err.message}`);
+    })
   }
 
   target(args){
@@ -116,6 +142,8 @@ class Filing extends React.Component {
     let {issue, target, unfiled} = this.state;
 
     let next   = this.next.bind(this);
+    let importComic = this.importComic.bind(this);
+
     let onChangeTarget   = this.onChangeTarget.bind(this);
 
     if ( _.isEmpty(issue)){
@@ -139,7 +167,7 @@ class Filing extends React.Component {
               <input type="text" onChange={onChangeTarget} key={target} name="target" value={target}/>
           </div>
           <div className='button' onClick={next}>Skip</div>
-          <div className='button' onClick={next}>File</div>
+          <div className='button' onClick={importComic}>File</div>
         </div>
 
       </div>
@@ -158,10 +186,23 @@ function get_comics(){
           'Accept': 'application/json',
         },
         body: JSON.stringify(
-          {query: "{ unfiled_comics{name location} }"}
+          {query: "{ unfiled_comics{name location, size} }"}
         )
       })
       .then(r => r.json());
 }
+
+function doImport(from, to){
+
+	const endpoint = '/graphql';
+	const mutation = `mutation importIssue($from:String, $to:String) {
+			import(from:$from, to:$to)
+	}`
+
+	const variables = {from, to};
+
+	return request(endpoint, mutation, variables);
+}
+
 
 export default Filing;

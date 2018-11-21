@@ -5,11 +5,11 @@
   "scripts": {
     "debug-batch": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk batch/",
     "test-batch": "TEST_DIR=logs mocha -t 0 batch/",
-    "debug": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk api/",
-    "test-api": "TEST_DIR=logs mocha -t 0 api/"
+    "debug": "TEST_DIR=logs mocha -t 0 --inspect --debug-brk dev/",
+    "test-dev": "TEST_DIR=logs mocha -t 0 dev/"
 
   },
-  "apiDependencies": {},
+  "devDependencies": {},
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^5.2.0"

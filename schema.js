@@ -26,6 +26,7 @@ type Suggestion {
  type File {
     name : String
     location : String
+    size: String
  }
 
  #Information about a given Volume (identified by the id)
@@ -36,14 +37,20 @@ type Suggestion {
    directory: String
  }
 
-
-
   type Query {
     unfiled_comics: [File],
     suggestion(name: String, issue_number:Int, year:Int): [Suggestion],
     volume(id:String): Volume
   }
+
+  type Mutation {
+    import(from: String, to:String): String
+  }
 `
+
+
+
+
 
 const resolvers = {
 
@@ -57,6 +64,7 @@ module.exports.schema = makeExecutableSchema({
 let {waiting}     = require('./lib/waiting');
 let {suggestions} = require('./lib/import/suggestions');
 let {volume_info} = require('./lib/import/volume');
+let {importComic} = require('./lib/import/importComic');
 
 //Scan the import directory to generate a list of all unfiled comics
 module.exports.root = {
@@ -71,6 +79,10 @@ module.exports.root = {
 
   volume: ({id}) => {
     return volume_info(id);
+  },
+
+  import: ({from, to}) => {
+	   return importComic(from, to);
   }
 
 };

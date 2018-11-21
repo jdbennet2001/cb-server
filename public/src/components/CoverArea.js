@@ -1,7 +1,7 @@
-const React 	= require('react');
-const append_query 	= require('append-query')
-
-const _       = require('lodash');
+const React 	       = require('react');
+const append_query 	  = require('append-query')
+const _               = require('lodash');
+const byteSize        = require('byte-size')
 
 import './CoverArea.css'
 
@@ -29,8 +29,10 @@ class CoverArea extends React.Component {
 
   render() {
 
-	  let {location, name, year, number, title} = this.state;
-    
+	  let {location, name, year, number, title, size} = this.state;
+
+    let {value, unit} = byteSize(size)
+
   	let cover = append_query( `/page`, {archive: location, number: 0} );
 
     let update = this.update.bind(this);
@@ -49,6 +51,9 @@ class CoverArea extends React.Component {
     		<div className='row'>
     			<label> Year:  </label> <input type="text" onChange={update} onBlur={blur} name="year" value={year}/>
     		</div>
+        <div className='row'>
+          <div className='size'> {value} {unit}</div>
+        </div>
     	</div>
 
     </div>

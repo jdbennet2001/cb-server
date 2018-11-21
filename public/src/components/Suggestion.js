@@ -31,6 +31,7 @@ class Suggestion extends React.Component {
         basename = (issue_number) ? `${basename} #${_.padStart(issue_number, 3, '0')}` : basename;
         basename = (store_date) ? `${basename} (${store_date})` : basename;
         basename = (summary) ? `${basename} - ${summary}` : basename;
+        basename = `${basename}.cbr`;
 
     getSeriesLocation(id).then(data =>{
       let {directory,name, publisher, start_year} = data.volume

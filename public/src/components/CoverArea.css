@@ -10,10 +10,15 @@
 	padding: 5px;
 }
 
+.coverArea .row .size{
+		font-size: medium;
+		margin-left: 55px;
+}
+
 .coverArea label{
 	width: 50px;
 	display: inline-block;
-	
+
 }
 
 .coverArea input{

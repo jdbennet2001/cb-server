@@ -1,4 +1,5 @@
 const React   = require('react');
+const _       = require('lodash');
 
 import { request } from 'graphql-request'
 
@@ -74,7 +75,7 @@ function getSuggestions(name, issue_number, year){
 
 	}`
 
-	const variables = {name, issue_number, year};
+	const variables = {name: _.trim(name), issue_number: _.toNumber(issue_number), year: _.toNumber(year)};
 
 	return request(endpoint, query, variables);
 }
