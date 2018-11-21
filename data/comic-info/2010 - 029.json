@@ -1,0 +1,71 @@
+{
+    "2010-12-20|2010-12-26": [],
+    "2010-12-27|2011-01-02": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-259074/",
+            "cover_date": "2010-12-01",
+            "date_added": "2011-01-25 19:57:00",
+            "date_last_updated": "2016-05-01 11:01:26",
+            "deck": null,
+            "description": "<p><em>Thanks to their associations with the Elephantmen, it seems that neither Vanity nor Miki are as safe as they thought they were.</em></p>",
+            "has_staff_review": false,
+            "id": 259074,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1636041-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1636041-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1636041-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1636041-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1636041-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1636041-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1636041-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1636041-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1636041-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Worse Things",
+            "site_detail_url": "https://comicvine.gamespot.com/elephantmen-29-worse-things/4000-259074/",
+            "store_date": "2010-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-20056/",
+                "id": 20056,
+                "name": "Elephantmen",
+                "site_detail_url": "https://comicvine.gamespot.com/elephantmen/4050-20056/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-542323/",
+            "cover_date": "2010-12-29",
+            "date_added": "2016-07-31 22:13:00",
+            "date_last_updated": "2016-07-31 22:36:57",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 542323,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5353445-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5353445-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5353445-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5353445-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5353445-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5353445-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5353445-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5353445-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5353445-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Vol. 29",
+            "site_detail_url": "https://comicvine.gamespot.com/osama-no-shitateya-sarto-finito-29-vol-29/4000-542323/",
+            "store_date": "2010-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92689/",
+                "id": 92689,
+                "name": "Ōsama no Shitateya: Sarto Finito",
+                "site_detail_url": "https://comicvine.gamespot.com/osama-no-shitateya-sarto-finito/4050-92689/"
+            }
+        }
+    ]
+}

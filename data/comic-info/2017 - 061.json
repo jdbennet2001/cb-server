@@ -1,0 +1,37 @@
+{
+    "2017-12-25|2017-12-31": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-649344/",
+            "cover_date": "2017-12-29",
+            "date_added": "2017-12-26 00:00:01",
+            "date_last_updated": "2017-12-26 01:08:32",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 649344,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6203607-61.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6203607-61.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6203607-61.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6203607-61.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6203607-61.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6203607-61.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6203607-61.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6203607-61.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6203607-61.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "61",
+            "name": "Vol. 61",
+            "site_detail_url": "https://comicvine.gamespot.com/kinnikuman-61-vol-61/4000-649344/",
+            "store_date": "2017-12-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-88523/",
+                "id": 88523,
+                "name": "Kinnikuman",
+                "site_detail_url": "https://comicvine.gamespot.com/kinnikuman/4050-88523/"
+            }
+        }
+    ]
+}

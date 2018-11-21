@@ -1,0 +1,37 @@
+{
+    "2011-12-26|2012-01-01": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-457064/",
+            "cover_date": "2011-12-31",
+            "date_added": "2014-06-20 06:48:47",
+            "date_last_updated": "2014-06-20 07:28:15",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 457064,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3905970-51.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3905970-51.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3905970-51.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3905970-51.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3905970-51.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3905970-51.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3905970-51.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3905970-51.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3905970-51.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "51",
+            "name": "Vol. 51",
+            "site_detail_url": "https://comicvine.gamespot.com/kariage-kun-51-vol-51/4000-457064/",
+            "store_date": "2011-12-27",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41778/",
+                "id": 41778,
+                "name": "Kariage-kun",
+                "site_detail_url": "https://comicvine.gamespot.com/kariage-kun/4050-41778/"
+            }
+        }
+    ]
+}
