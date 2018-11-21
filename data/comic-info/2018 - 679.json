@@ -1,0 +1,49 @@
+{
+    "2017-12-25|2017-12-31": [],
+    "2018-01-01|2018-01-07": [],
+    "2018-01-08|2018-01-14": [],
+    "2018-01-15|2018-01-21": [],
+    "2018-01-22|2018-01-28": [],
+    "2018-01-29|2018-02-04": [],
+    "2018-02-05|2018-02-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-658716/",
+            "cover_date": "2018-04-30",
+            "date_added": "2018-02-06 14:46:37",
+            "date_last_updated": "2018-03-09 20:42:38",
+            "deck": null,
+            "description": "<p><em>NO SURRENDER Part 5</em></p><p><em>THE AVENGERS WEEKLY EPIC CONTINUES!</em></p><p><em>Who is the Challenger? What is at stake in his grudge match with the Grandmaster? And when the two of them clash, can the Earth survive the destruction they unleash?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Mark Brooks</td><td>1</td></tr><tr><td>Var</td><td>Connecting Variant Cover</td><td>Nick Bradshaw &amp; Jim Campbell</td><td>3</td></tr><tr><td>Var</td><td>Hulk Variant Cover</td><td>Ramon K. Perez</td><td>4</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Kim Jacinto</td><td>2</td></tr></tbody></table><p> </p><p> </p>",
+            "has_staff_review": false,
+            "id": 658716,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6267126-679.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6267126-679.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6267126-679.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6267126-679.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6267126-679.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6267126-679.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6267126-679.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6267126-679.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6267126-679.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "679",
+            "name": "No Surrender Part 5",
+            "site_detail_url": "https://comicvine.gamespot.com/avengers-679-no-surrender-part-5/4000-658716/",
+            "store_date": "2018-02-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95402/",
+                "id": 95402,
+                "name": "Avengers",
+                "site_detail_url": "https://comicvine.gamespot.com/avengers/4050-95402/"
+            }
+        }
+    ],
+    "2018-02-12|2018-02-18": [],
+    "2018-02-19|2018-02-25": [],
+    "2018-02-26|2018-03-04": [],
+    "2018-03-05|2018-03-11": [],
+    "2018-03-12|2018-03-18": [],
+    "2018-03-19|2018-03-25": []
+}

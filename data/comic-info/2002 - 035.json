@@ -1,0 +1,37 @@
+{
+    "2002-01-01|2002-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-98147/",
+            "cover_date": "2002-06-01",
+            "date_added": "2008-06-06 11:17:35",
+            "date_last_updated": "2015-04-23 14:10:30",
+            "deck": null,
+            "description": "<p><i>\"The Counterfifth Detective\" Part 5 of 6. Private Eye Milo Garret's world is falling apart around him as he learns more about the mysterious circumstances that stole his face. As he pieces together the shards of his broken life, he may find that Agent Graves has more to do with what happened to him rather than just the opportunity to settle the score.</i></p>",
+            "has_staff_review": false,
+            "id": 98147,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2201675-035.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2201675-035.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2201675-035.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2201675-035.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2201675-035.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2201675-035.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2201675-035.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2201675-035.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2201675-035.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "The Counterfifth Detective, Part 5",
+            "site_detail_url": "https://comicvine.gamespot.com/100-bullets-35-the-counterfifth-detective-part-5/4000-98147/",
+            "store_date": "2002-04-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-6306/",
+                "id": 6306,
+                "name": "100 Bullets",
+                "site_detail_url": "https://comicvine.gamespot.com/100-bullets/4050-6306/"
+            }
+        }
+    ]
+}

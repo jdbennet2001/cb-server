@@ -23,6 +23,13 @@
 .header .spacer{
 	flex: 1 1 auto;
 	align-self: auto;
+	 white-space: nowrap; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-left: 15px;
+    font-style: italic;
+    font-weight: normal;
+    font-size: medium;
 }
 
 .header .count{

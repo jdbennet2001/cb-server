@@ -1,0 +1,70 @@
+{
+    "2002-01-01|2002-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-528114/",
+            "cover_date": "2002-08-02",
+            "date_added": "2016-05-01 01:56:37",
+            "date_last_updated": "2018-05-25 02:32:54",
+            "deck": null,
+            "description": "<h2>Chapter Titles</h2><ul><li>Battle 251: The Sky-Splitting Battle Cry!! (空を裂く鬨の声！！ <i>Sora wo Saku Toki no Koe!!</i>)</li><li>Battle 252: The Duel Colosseum In The Sky!! (天空決闘闘戯場！！ <i>Tenkū Kettō Togi-Ba!!</i>)</li><li>Battle 253: God in Hand!! (神を手に！！ <i>Kami wo te ni!!</i>)</li><li>Battle 254: The Secret to Calling God!! (神を呼ぶ秘策！！ <i>Kami wo Yobu Hisaku!!</i>)</li><li>Battle 255: Intercept!! Obelisk!! (迎撃！！オベリスク！！ <i>Geigeki!! Oberisuku!!</i>)</li><li>Battle 256: Osiris vs Obelisk!! (神オシリスVSバーサス神オベリスク！！ <i>Oshirisu bāsasu Oberisuku!!</i>)</li><li>Battle 257: Fated Memories!! (宿命の記憶！！ <i>Shukumei no Kioku!!</i>)</li><li>Battle 258: The Servant That God Answers!! (神を超えたしもべ！！ <i>Kami wo Koeta Shimo Be!!</i>)</li><li>Battle 259: Glass Deck!! (ガラスのデッキ！！ <i>Garasu no Dekki!!</i>)</li></ul>",
+            "has_staff_review": false,
+            "id": 528114,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5183586-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5183586-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5183586-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5183586-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5183586-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5183586-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5183586-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5183586-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5183586-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Vol. 29",
+            "site_detail_url": "https://comicvine.gamespot.com/yu-gi-oh-29-vol-29/4000-528114/",
+            "store_date": "2002-08-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-90035/",
+                "id": 90035,
+                "name": "Yu-Gi-Oh!",
+                "site_detail_url": "https://comicvine.gamespot.com/yu-gi-oh/4050-90035/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-568692/",
+            "cover_date": "2002-05-15",
+            "date_added": "2016-12-17 10:08:23",
+            "date_last_updated": "2017-02-11 19:55:23",
+            "deck": null,
+            "description": "<p>Chapter 249 - 256.</p>",
+            "has_staff_review": false,
+            "id": 568692,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5596428-29.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5596428-29.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5596428-29.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5596428-29.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5596428-29.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5596428-29.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5596428-29.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5596428-29.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5596428-29.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "29",
+            "name": "Vol. 29",
+            "site_detail_url": "https://comicvine.gamespot.com/dreams-29-vol-29/4000-568692/",
+            "store_date": "2002-05-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96956/",
+                "id": 96956,
+                "name": "Dreams",
+                "site_detail_url": "https://comicvine.gamespot.com/dreams/4050-96956/"
+            }
+        }
+    ]
+}

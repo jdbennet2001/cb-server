@@ -1,0 +1,70 @@
+{
+    "2005-01-01|2005-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-300326/",
+            "cover_date": "2005-02-18",
+            "date_added": "2011-10-28 14:34:14",
+            "date_last_updated": "2013-06-18 12:26:11",
+            "deck": null,
+            "description": "<p>Translates <a href=\"/x-men-unlimited/4050-5066/\" data-ref-id=\"4050-5066\">X-Men Unlimited</a> #47 and <a href=\"//www.comicvine.com/new-x-men/4050-9121/\" data-ref-id=\"4050-9121\">New X-Men</a> #151-154.</p>",
+            "has_staff_review": false,
+            "id": 300326,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2061107-50.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2061107-50.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2061107-50.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2061107-50.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2061107-50.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2061107-50.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2061107-50.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2061107-50.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2061107-50.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "50",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/x-men-50/4000-300326/",
+            "store_date": "2005-02-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-43672/",
+                "id": 43672,
+                "name": "X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/x-men/4050-43672/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-560622/",
+            "cover_date": "2005-08-16",
+            "date_added": "2016-11-27 00:05:30",
+            "date_last_updated": "2017-12-31 06:31:28",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 560622,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5553981-50.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5553981-50.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5553981-50.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5553981-50.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5553981-50.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5553981-50.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5553981-50.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5553981-50.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5553981-50.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "50",
+            "name": "Vol. 50",
+            "site_detail_url": "https://comicvine.gamespot.com/ouke-no-monshou-50-vol-50/4000-560622/",
+            "store_date": "2005-08-16",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-95917/",
+                "id": 95917,
+                "name": "Ouke no Monshou",
+                "site_detail_url": "https://comicvine.gamespot.com/ouke-no-monshou/4050-95917/"
+            }
+        }
+    ]
+}

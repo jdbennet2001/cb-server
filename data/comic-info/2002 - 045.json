@@ -1,0 +1,37 @@
+{
+    "2002-01-01|2002-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-567603/",
+            "cover_date": "2002-09-04",
+            "date_added": "2016-12-16 04:06:04",
+            "date_last_updated": "2017-08-13 11:57:52",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 567603,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5593411-45.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5593411-45.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5593411-45.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5593411-45.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5593411-45.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5593411-45.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5593411-45.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5593411-45.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5593411-45.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "45",
+            "name": "Vol. 45",
+            "site_detail_url": "https://comicvine.gamespot.com/be-bop-high-school-45-vol-45/4000-567603/",
+            "store_date": "2002-09-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96785/",
+                "id": 96785,
+                "name": "Be-Bop High School",
+                "site_detail_url": "https://comicvine.gamespot.com/bebop-high-school/4050-96785/"
+            }
+        }
+    ]
+}

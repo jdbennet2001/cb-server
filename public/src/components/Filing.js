@@ -1,5 +1,6 @@
-const React 	= require('react');
-const _       = require('lodash');
+const React 	      = require('react');
+const _             = require('lodash');
+const sequential    = require('promise-sequential');
 
 import './Filing.css'
 
@@ -49,24 +50,18 @@ class Filing extends React.Component {
   componentDidMount(){
 
     let self = this;
+    let updateIndex = updateIndexTables.bind(this);
 
     //Load state from disk
     get_comics().then(comics =>{
-
-      //Filter out comics that can't be unfiled
-      let unfiled = comics.data.unfiled_comics;
-      unfiled = _.filter(unfiled, unfiled_item =>{
-        let archive  = new Archive(unfiled_item);
-        let {title, year, number} = archive;
-        return (year < 2020 && year > 2015) && (number < 50);
-      })
-
-      let state = {unfiled, issue: {}}
-
-      self.setState(state);
-      self.next();
+      let {unfiled_comics:unfiled} = comics;
+      return self.setState({unfiled})
+    }).then( () =>{
+        return self.next();      
+    }).then( () =>{
+      updateIndex(self.state.unfiled);
     })
-
+  
     //Use an internal message bus to communicate between components
     // -- Redux would be a better choice, but this is a learning excercise --
     window.bus.on('next', () =>{
@@ -111,7 +106,7 @@ class Filing extends React.Component {
   }
 
   importComic(args){
-    debugger;
+
     let self = this;
     let {target} = this.state;
     let {location:source} = this.state.issue;
@@ -139,7 +134,7 @@ class Filing extends React.Component {
 
   render() {
 
-    let {issue, target, unfiled} = this.state;
+    let {issue, target, unfiled, queued} = this.state;
 
     let next   = this.next.bind(this);
     let importComic = this.importComic.bind(this);
@@ -154,7 +149,7 @@ class Filing extends React.Component {
 
     return <div className='filing'>
 
-        <Header className='controlArea' count={_.size(unfiled)}>
+        <Header className='controlArea' count={`${_.size(unfiled)}`}>
         </Header>
 
         <div key={key} className='contentArea'>
@@ -174,22 +169,35 @@ class Filing extends React.Component {
   }
 }
 
+function updateIndexTables(issues){
+
+  let updates = _.reduce(issues, function(promise_chain, issue, count){
+
+    return promise_chain.then( data =>{
+
+      let archive  = new Archive(issue);
+      let {title, year, number} = archive;
+      window.bus.emit('message', `Indexing: ${title} - ${year} - ${number}, (Item #${_.padStart(count, 3, '0')})`);
+      return doDownloadIndex(title, year, number);
+    })
+  
+  }, Promise.resolve() );
+  
+  return updates.then( () =>{
+      window.bus.emit('message', ``);    
+  })
+
+}
+
+
 /*
  Get all queued comics from the download directory
  */
 function get_comics(){
 
-  return fetch('/graphql', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Accept': 'application/json',
-        },
-        body: JSON.stringify(
-          {query: "{ unfiled_comics{name location, size} }"}
-        )
-      })
-      .then(r => r.json());
+  const endpoint = '/graphql';
+  const query = `{ unfiled_comics{name location, size} }`
+  return request(endpoint,query);
 }
 
 function doImport(from, to){
@@ -198,11 +206,23 @@ function doImport(from, to){
 	const mutation = `mutation importIssue($from:String, $to:String) {
 			import(from:$from, to:$to)
 	}`
-
 	const variables = {from, to};
 
 	return request(endpoint, mutation, variables);
 }
+
+function doDownloadIndex(title, year, issue){
+
+
+    const endpoint = '/graphql';
+    const mutation = `mutation downloadIndex($year:Int, $issue:Int) {
+        download_index(year:$year, issue:$issue)
+    }`
+    const variables = {issue, year};
+
+    return request(endpoint, mutation, variables);
+}
+
 
 
 export default Filing;

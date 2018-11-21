@@ -1,0 +1,48 @@
+{
+    "2017-12-25|2017-12-31": [],
+    "2018-01-01|2018-01-07": [],
+    "2018-01-08|2018-01-14": [],
+    "2018-01-15|2018-01-21": [],
+    "2018-01-22|2018-01-28": [],
+    "2018-01-29|2018-02-04": [],
+    "2018-02-05|2018-02-11": [],
+    "2018-02-12|2018-02-18": [],
+    "2018-02-19|2018-02-25": [],
+    "2018-02-26|2018-03-04": [],
+    "2018-03-05|2018-03-11": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-662080/",
+            "cover_date": "2018-05-31",
+            "date_added": "2018-03-06 20:44:21",
+            "date_last_updated": "2018-06-18 08:52:39",
+            "deck": null,
+            "description": "<p><em>GO DOWN SWINGING Part 1</em></p><p><em>The Green Goblin is back - and scarier than ever! Dan Slott has saved his most harrowing Spider-Man story for last as he and Stuart Immonen kick off the AMAZING SPIDER-MAN story ten years in the making. Osborn got his crazy back and has a plan that'll make all his past plans look like child's play. Peter Parker and the people he loves (ALL of them) are in deep trouble. And who or what is the RED GOBLIN?! The only way Spider-Man survives is to GO DOWN SWINGING!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Alex Ross</td><td>1</td></tr><tr><td>Var</td><td>Connecting Variant Cover</td><td>Humberto Ramos &amp; Edgar Delgado</td><td>4</td></tr><tr><td>Var</td><td>Design Variant Cover (The Red Goblin)</td><td>Ed McGuinness</td><td>5</td></tr><tr><td>Var</td><td>The Mighty Thor Variant Cover</td><td>Clayton Crain</td><td>6</td></tr><tr><td>Var</td><td>Remastered Variant Cover</td><td>Ross Andru, Mike Esposito, Morry Hollowell &amp; Michael Kelleher</td><td>7</td></tr><tr><td>Var</td><td>Remastered Black &amp; White Variant Cover</td><td>Ross Andru</td><td>8</td></tr><tr><td>Var</td><td>Young Guns Variant Cover</td><td>Aaron Kuder &amp; Jason Keith</td><td>9</td></tr><tr><td>RE</td><td>ComicXposure Exclusive Variant Cover</td><td>?</td><td>2</td></tr><tr><td>2nd</td><td>Second Printing Cover</td><td>Alex Ross</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 662080,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6315440-797.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6315440-797.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6315440-797.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6315440-797.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6315440-797.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6315440-797.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6315440-797.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6315440-797.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6315440-797.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "797",
+            "name": "Go Down Swinging Part 1: The Loose Thread",
+            "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spider-man-797-go-down-swinging-part-1/4000-662080/",
+            "store_date": "2018-03-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-85076/",
+                "id": 85076,
+                "name": "The Amazing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-amazing-spiderman/4050-85076/"
+            }
+        }
+    ],
+    "2018-03-12|2018-03-18": []
+}

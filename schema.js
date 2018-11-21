@@ -45,6 +45,7 @@ type Suggestion {
 
   type Mutation {
     import(from: String, to:String): String
+    download_index(issue:Int, year:Int): Int
   }
 `
 
@@ -65,8 +66,8 @@ let {waiting}     = require('./lib/waiting');
 let {suggestions} = require('./lib/import/suggestions');
 let {volume_info} = require('./lib/import/volume');
 let {importComic} = require('./lib/import/importComic');
+let {data}        = require('./lib/import/metadata');
 
-//Scan the import directory to generate a list of all unfiled comics
 module.exports.root = {
 
   suggestion:( {name, issue_number, year}) => {
@@ -83,6 +84,10 @@ module.exports.root = {
 
   import: ({from, to}) => {
 	   return importComic(from, to);
+  },
+
+  download_index:({issue, year}) =>{
+    return data(issue, year);
   }
 
 };

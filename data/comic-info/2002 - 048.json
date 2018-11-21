@@ -1,0 +1,37 @@
+{
+    "2002-01-01|2002-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-436552/",
+            "cover_date": "2003-02-01",
+            "date_added": "2013-12-13 00:13:01",
+            "date_last_updated": "2013-12-13 00:27:36",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 436552,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3499929-048.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3499929-048.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3499929-048.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3499929-048.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3499929-048.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3499929-048.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3499929-048.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3499929-048.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3499929-048.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/angel-club-48/4000-436552/",
+            "store_date": "2002-12-30",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-67883/",
+                "id": 67883,
+                "name": "ANGEL Club",
+                "site_detail_url": "https://comicvine.gamespot.com/angel-club/4050-67883/"
+            }
+        }
+    ]
+}
