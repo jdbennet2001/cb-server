@@ -1,4 +1,6 @@
 const _               = require('lodash');
+const nconf 	        = require('nconf');
+const source_dir      = nconf.get('source_dir');
 const { makeExecutableSchema } = require("graphql-tools");
 
 let schemaText =`
@@ -54,6 +56,7 @@ type Suggestion {
     queueImport(from: String, to:String): String
     import( from: String, to: String): String
     download_index(issue:Int, year:Int): Int
+    indexCatalog:String
   }
 `
 
@@ -79,6 +82,7 @@ let {
   getImportQueue
 }                  = require('./lib/import/importComic');
 let {data}         = require('./lib/import/metadata');
+let {index}        = require('./lib/library');
 
 
 module.exports.root = {
@@ -109,6 +113,10 @@ module.exports.root = {
 
   getImportQueue: () =>{
     return getImportQueue();
+  },
+  indexCatalog: () =>{
+    return index(source_dir);
   }
+
 
 };
