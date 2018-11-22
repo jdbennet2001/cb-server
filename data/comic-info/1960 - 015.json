@@ -1,0 +1,37 @@
+{
+    "1959-06-01|1960-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-454456/",
+            "cover_date": "1960-01-30",
+            "date_added": "2014-05-30 02:53:47",
+            "date_last_updated": "2014-06-27 04:17:17",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 454456,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3857004-0015.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3857004-0015.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3857004-0015.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3857004-0015.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3857004-0015.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3857004-0015.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3857004-0015.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3857004-0015.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3857004-0015.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "15",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/hotspur-15/4000-454456/",
+            "store_date": "1960-01-28",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-37429/",
+                "id": 37429,
+                "name": "Hotspur",
+                "site_detail_url": "https://comicvine.gamespot.com/hotspur/4050-37429/"
+            }
+        }
+    ]
+}

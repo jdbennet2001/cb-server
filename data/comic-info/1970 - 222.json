@@ -1,0 +1,37 @@
+{
+    "1969-06-01|1970-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-289903/",
+            "cover_date": "1969-09-27",
+            "date_added": "2011-08-28 08:54:08",
+            "date_last_updated": "2013-07-27 23:23:33",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 289903,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1984086-222.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1984086-222.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1984086-222.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1984086-222.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1984086-222.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1984086-222.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1984086-222.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1984086-222.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1984086-222.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "222",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/laugh-comics-222/4000-289903/",
+            "store_date": "1969-07-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-1101/",
+                "id": 1101,
+                "name": "Laugh Comics",
+                "site_detail_url": "https://comicvine.gamespot.com/laugh-comics/4050-1101/"
+            }
+        }
+    ]
+}

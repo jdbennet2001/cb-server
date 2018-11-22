@@ -1,0 +1,37 @@
+{
+    "1970-06-01|1971-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278919/",
+            "cover_date": "1971-03-31",
+            "date_added": "2011-07-14 09:58:56",
+            "date_last_updated": "2013-05-31 13:05:03",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278919,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1907562-116.gif",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1907562-116.gif",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1907562-116.gif",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1907562-116.gif",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1907562-116.gif",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1907562-116.gif",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1907562-116.gif",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1907562-116.gif",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1907562-116.gif",
+                "image_tags": "All Images"
+            },
+            "issue_number": "116",
+            "name": "De Bronzen Sleutel",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-116-de-bronzen-sleutel/4000-278919/",
+            "store_date": "1971-02-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

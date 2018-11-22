@@ -1,0 +1,37 @@
+{
+    "1969-06-01|1970-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-11079/",
+            "cover_date": "1970-11-30",
+            "date_added": "2008-06-06 11:09:13",
+            "date_last_updated": "2016-09-17 17:50:38",
+            "deck": null,
+            "description": "<p>The ten eyed man is born!</p>",
+            "has_staff_review": false,
+            "id": 11079,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/10064-796-11079-1-batman.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/10064-796-11079-1-batman.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/10064-796-11079-1-batman.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/10064-796-11079-1-batman.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/10064-796-11079-1-batman.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/10064-796-11079-1-batman.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/10064-796-11079-1-batman.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/10064-796-11079-1-batman.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/10064-796-11079-1-batman.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "226",
+            "name": "The Man With Ten Eyes!",
+            "site_detail_url": "https://comicvine.gamespot.com/batman-226-the-man-with-ten-eyes/4000-11079/",
+            "store_date": "1970-09-03",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-796/",
+                "id": 796,
+                "name": "Batman",
+                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-796/"
+            }
+        }
+    ]
+}

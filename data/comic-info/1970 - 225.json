@@ -1,0 +1,37 @@
+{
+    "1969-06-01|1970-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-11084/",
+            "cover_date": "1970-11-30",
+            "date_added": "2008-06-06 11:10:13",
+            "date_last_updated": "2016-07-28 04:34:49",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 11084,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/10069-1472-11084-1-our-army-at-war.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/10069-1472-11084-1-our-army-at-war.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/10069-1472-11084-1-our-army-at-war.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/10069-1472-11084-1-our-army-at-war.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/10069-1472-11084-1-our-army-at-war.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/10069-1472-11084-1-our-army-at-war.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/10069-1472-11084-1-our-army-at-war.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/10069-1472-11084-1-our-army-at-war.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/10069-1472-11084-1-our-army-at-war.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "225",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/our-army-at-war-225/4000-11084/",
+            "store_date": "1970-09-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-1472/",
+                "id": 1472,
+                "name": "Our Army at War",
+                "site_detail_url": "https://comicvine.gamespot.com/our-army-at-war/4050-1472/"
+            }
+        }
+    ]
+}

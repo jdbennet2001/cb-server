@@ -1,0 +1,37 @@
+{
+    "1970-06-01|1971-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278774/",
+            "cover_date": "1970-12-31",
+            "date_added": "2011-07-13 10:54:18",
+            "date_last_updated": "2016-11-15 10:56:55",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278774,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3079129-01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3079129-01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3079129-01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3079129-01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3079129-01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3079129-01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3079129-01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3079129-01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3079129-01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "109",
+            "name": "De Wolkeneters",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-109-de-wolkeneters/4000-278774/",
+            "store_date": "1970-11-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

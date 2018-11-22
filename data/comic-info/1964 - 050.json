@@ -1,0 +1,37 @@
+{
+    "1963-06-01|1964-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-402861/",
+            "cover_date": "1964-12-31",
+            "date_added": "2013-05-15 12:49:25",
+            "date_last_updated": "2015-10-18 11:05:46",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 402861,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3045468-image-01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3045468-image-01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3045468-image-01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3045468-image-01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3045468-image-01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3045468-image-01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3045468-image-01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3045468-image-01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3045468-image-01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "50",
+            "name": "Sjeik El-Rojenbiet",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-50-sjeik-el-rojenbiet/4000-402861/",
+            "store_date": "1964-01-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

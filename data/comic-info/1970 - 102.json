@@ -1,0 +1,70 @@
+{
+    "1969-06-01|1970-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-244320/",
+            "cover_date": "1969-09-25",
+            "date_added": "2010-11-15 17:35:11",
+            "date_last_updated": "2013-07-25 21:58:22",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 244320,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1513845-102.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1513845-102.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1513845-102.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1513845-102.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1513845-102.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1513845-102.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1513845-102.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1513845-102.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1513845-102.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "102",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/romantic-story-102/4000-244320/",
+            "store_date": "1969-06-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-36691/",
+                "id": 36691,
+                "name": "Romantic Story",
+                "site_detail_url": "https://comicvine.gamespot.com/romantic-story/4050-36691/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278766/",
+            "cover_date": "1970-01-18",
+            "date_added": "2011-07-13 10:39:56",
+            "date_last_updated": "2013-05-18 05:05:41",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278766,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3052299-01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3052299-01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3052299-01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3052299-01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3052299-01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3052299-01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3052299-01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3052299-01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3052299-01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "102",
+            "name": "De Dromendiefstal",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-102-de-dromendiefstal/4000-278766/",
+            "store_date": "1970-01-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "2017-12-25|2017-12-31": [],
+    "2018-01-01|2018-01-07": [],
+    "2018-01-08|2018-01-14": [],
+    "2018-01-15|2018-01-21": [],
+    "2018-01-22|2018-01-28": [],
+    "2018-01-29|2018-02-04": [],
+    "2018-02-05|2018-02-11": [],
+    "2018-02-12|2018-02-18": [],
+    "2018-02-19|2018-02-25": [],
+    "2018-02-26|2018-03-04": [],
+    "2018-03-05|2018-03-11": [],
+    "2018-03-12|2018-03-18": [],
+    "2018-03-19|2018-03-25": [],
+    "2018-03-26|2018-04-01": [],
+    "2018-04-02|2018-04-08": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-665746/",
+            "cover_date": "2018-05-31",
+            "date_added": "2018-04-10 02:45:54",
+            "date_last_updated": "2018-04-10 02:58:54",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 665746,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6373996-109.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6373996-109.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6373996-109.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6373996-109.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6373996-109.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6373996-109.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6373996-109.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6373996-109.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6373996-109.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "100",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk-100/4000-665746/",
+            "store_date": "2018-04-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-51911/",
+                "id": 51911,
+                "name": "COMIC Hotmilk",
+                "site_detail_url": "https://comicvine.gamespot.com/comic-hotmilk/4050-51911/"
+            }
+        }
+    ],
+    "2018-04-09|2018-04-15": [],
+    "2018-04-16|2018-04-22": [],
+    "2018-04-23|2018-04-29": [],
+    "2018-04-30|2018-05-06": [],
+    "2018-05-07|2018-05-13": [],
+    "2018-05-14|2018-05-20": [],
+    "2018-05-21|2018-05-27": [],
+    "2018-05-28|2018-06-03": [],
+    "2018-06-04|2018-06-10": [],
+    "2018-06-11|2018-06-17": [],
+    "2018-06-18|2018-06-24": [],
+    "2018-06-25|2018-07-01": []
+}

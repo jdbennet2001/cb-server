@@ -1,0 +1,70 @@
+{
+    "1967-06-01|1968-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278598/",
+            "cover_date": "1968-02-29",
+            "date_added": "2011-07-12 10:28:57",
+            "date_last_updated": "2015-10-18 11:15:23",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278598,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3050572-sew080001001.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3050572-sew080001001.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3050572-sew080001001.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3050572-sew080001001.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3050572-sew080001001.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3050572-sew080001001.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3050572-sew080001001.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3050572-sew080001001.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3050572-sew080001001.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "80",
+            "name": "De Brullende Berg",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-80-de-brullende-berg/4000-278598/",
+            "store_date": "1968-02-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-662638/",
+            "cover_date": "1968-07-27",
+            "date_added": "2018-03-12 19:37:06",
+            "date_last_updated": "2018-03-12 19:39:20",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 662638,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6325971-pow80.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6325971-pow80.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6325971-pow80.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6325971-pow80.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6325971-pow80.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6325971-pow80.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6325971-pow80.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6325971-pow80.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6325971-pow80.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "80",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/pow-80/4000-662638/",
+            "store_date": "1968-07-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-37060/",
+                "id": 37060,
+                "name": "Pow!",
+                "site_detail_url": "https://comicvine.gamespot.com/pow/4050-37060/"
+            }
+        }
+    ]
+}

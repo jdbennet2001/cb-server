@@ -1,0 +1,37 @@
+{
+    "1965-06-01|1966-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403352/",
+            "cover_date": "1966-01-16",
+            "date_added": "2013-05-16 14:43:10",
+            "date_last_updated": "2013-05-16 14:58:23",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 403352,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3048285-scan10000.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3048285-scan10000.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3048285-scan10000.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3048285-scan10000.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3048285-scan10000.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3048285-scan10000.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3048285-scan10000.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3048285-scan10000.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3048285-scan10000.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "64",
+            "name": "De Snorrende Snor",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-64-de-snorrende-snor/4000-403352/",
+            "store_date": "1966-01-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

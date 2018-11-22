@@ -1,0 +1,37 @@
+{
+    "1969-06-01|1970-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278762/",
+            "cover_date": "1969-10-31",
+            "date_added": "2011-07-13 10:10:08",
+            "date_last_updated": "2015-10-18 10:57:03",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278762,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1906100-100.gif",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1906100-100.gif",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1906100-100.gif",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1906100-100.gif",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1906100-100.gif",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1906100-100.gif",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1906100-100.gif",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1906100-100.gif",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1906100-100.gif",
+                "image_tags": "All Images"
+            },
+            "issue_number": "100",
+            "name": "Het Gouden Paard",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-100-het-gouden-paard/4000-278762/",
+            "store_date": "1969-10-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

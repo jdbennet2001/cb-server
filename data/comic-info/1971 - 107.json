@@ -1,0 +1,37 @@
+{
+    "1970-06-01|1971-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278772/",
+            "cover_date": "1970-09-29",
+            "date_added": "2011-07-13 10:49:58",
+            "date_last_updated": "2013-05-29 05:38:26",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278772,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3074532-image%200001.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3074532-image%200001.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3074532-image%200001.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3074532-image%200001.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3074532-image%200001.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3074532-image%200001.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3074532-image%200001.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3074532-image%200001.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3074532-image%200001.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "107",
+            "name": "De Sprietatoom",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-107-de-sprietatoom/4000-278772/",
+            "store_date": "1970-09-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "1968-06-01|1969-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-204087/",
+            "cover_date": "1969-09-27",
+            "date_added": "2010-04-04 19:15:15",
+            "date_last_updated": "2013-07-27 23:25:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 204087,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/1175935-89.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/1175935-89.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/1175935-89.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/1175935-89.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/1175935-89.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/1175935-89.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/1175935-89.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/1175935-89.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/1175935-89.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "89",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/life-with-archie-89/4000-204087/",
+            "store_date": "1969-07-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-11009/",
+                "id": 11009,
+                "name": "Life With Archie",
+                "site_detail_url": "https://comicvine.gamespot.com/life-with-archie/4050-11009/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278608/",
+            "cover_date": "1969-01-31",
+            "date_added": "2011-07-12 10:47:49",
+            "date_last_updated": "2015-10-18 11:20:28",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278608,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3051028-00%20%C3%9Falou.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3051028-00%20%C3%9Falou.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3051028-00%20%C3%9Falou.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3051028-00%20%C3%9Falou.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3051028-00%20%C3%9Falou.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3051028-00%20%C3%9Falou.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3051028-00%20%C3%9Falou.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3051028-00%20%C3%9Falou.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3051028-00%20%C3%9Falou.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "89",
+            "name": "De Dolle Musketiers",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-89-de-dolle-musketiers/4000-278608/",
+            "store_date": "1969-01-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

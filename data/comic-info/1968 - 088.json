@@ -1,0 +1,37 @@
+{
+    "1967-06-01|1968-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-9641/",
+            "cover_date": "1967-10-01",
+            "date_added": "2008-06-06 11:11:48",
+            "date_last_updated": "2016-04-26 14:05:03",
+            "deck": null,
+            "description": "<p><em>Prepare for the dangers of the Ravage of Ronthor!</em></p><p>Improper Copyright Notice on this issue.</p>",
+            "has_staff_review": false,
+            "id": 9641,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4445368-88.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4445368-88.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4445368-88.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4445368-88.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4445368-88.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4445368-88.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4445368-88.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4445368-88.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4445368-88.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "88",
+            "name": "The Ravage Of Ronthor!",
+            "site_detail_url": "https://comicvine.gamespot.com/captain-atom-88-the-ravage-of-ronthor/4000-9641/",
+            "store_date": "1967-08-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-2220/",
+                "id": 2220,
+                "name": "Captain Atom",
+                "site_detail_url": "https://comicvine.gamespot.com/captain-atom/4050-2220/"
+            }
+        }
+    ]
+}

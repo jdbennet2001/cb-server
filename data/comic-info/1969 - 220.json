@@ -1,0 +1,37 @@
+{
+    "1968-06-01|1969-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-10388/",
+            "cover_date": "1969-10-25",
+            "date_added": "2008-06-06 11:09:58",
+            "date_last_updated": "2013-07-25 00:22:04",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 10388,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/9415-1328-10388-1-strange-adventures.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/9415-1328-10388-1-strange-adventures.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/9415-1328-10388-1-strange-adventures.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/9415-1328-10388-1-strange-adventures.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/9415-1328-10388-1-strange-adventures.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/9415-1328-10388-1-strange-adventures.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/9415-1328-10388-1-strange-adventures.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/9415-1328-10388-1-strange-adventures.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/9415-1328-10388-1-strange-adventures.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "220",
+            "name": "The Beast from the Runaway World",
+            "site_detail_url": "https://comicvine.gamespot.com/strange-adventures-220-the-beast-from-the-runaway-/4000-10388/",
+            "store_date": "1969-07-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-1328/",
+                "id": 1328,
+                "name": "Strange Adventures",
+                "site_detail_url": "https://comicvine.gamespot.com/strange-adventures/4050-1328/"
+            }
+        }
+    ]
+}

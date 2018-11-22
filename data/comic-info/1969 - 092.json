@@ -1,0 +1,70 @@
+{
+    "1968-06-01|1969-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-148821/",
+            "cover_date": "1969-09-28",
+            "date_added": "2008-12-26 19:20:15",
+            "date_last_updated": "2013-07-28 00:46:00",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 148821,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/657650-92.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/657650-92.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/657650-92.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/657650-92.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/657650-92.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/657650-92.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/657650-92.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/657650-92.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/657650-92.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "92",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/hot-stuff-the-little-devil-92/4000-148821/",
+            "store_date": "1969-06-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-2124/",
+                "id": 2124,
+                "name": "Hot Stuff The Little Devil",
+                "site_detail_url": "https://comicvine.gamespot.com/hot-stuff-the-little-devil/4050-2124/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278754/",
+            "cover_date": "1969-04-30",
+            "date_added": "2011-07-13 09:57:30",
+            "date_last_updated": "2015-10-18 11:21:57",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278754,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3051373-01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3051373-01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3051373-01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3051373-01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3051373-01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3051373-01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3051373-01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3051373-01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3051373-01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "92",
+            "name": "De Briesende Bruid",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-92-de-briesende-bruid/4000-278754/",
+            "store_date": "1969-04-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

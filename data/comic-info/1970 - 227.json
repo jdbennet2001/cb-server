@@ -1,0 +1,37 @@
+{
+    "1969-06-01|1970-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-11087/",
+            "cover_date": "1970-12-31",
+            "date_added": "2008-06-06 11:09:58",
+            "date_last_updated": "2016-11-26 06:23:55",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 11087,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/10072-1328-11087-1-strange-adventures.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/10072-1328-11087-1-strange-adventures.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/10072-1328-11087-1-strange-adventures.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/10072-1328-11087-1-strange-adventures.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/10072-1328-11087-1-strange-adventures.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/10072-1328-11087-1-strange-adventures.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/10072-1328-11087-1-strange-adventures.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/10072-1328-11087-1-strange-adventures.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/10072-1328-11087-1-strange-adventures.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "227",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/strange-adventures-227/4000-11087/",
+            "store_date": "1970-09-24",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-1328/",
+                "id": 1328,
+                "name": "Strange Adventures",
+                "site_detail_url": "https://comicvine.gamespot.com/strange-adventures/4050-1328/"
+            }
+        }
+    ]
+}

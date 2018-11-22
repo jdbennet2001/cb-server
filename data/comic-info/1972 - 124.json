@@ -1,0 +1,70 @@
+{
+    "1971-06-01|1972-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-124613/",
+            "cover_date": "1972-07-31",
+            "date_added": "2008-06-06 11:23:00",
+            "date_last_updated": "2017-09-28 10:42:51",
+            "deck": null,
+            "description": "<ol><li>Cover by Bob Oksner.</li><li>\"<em>The Hunters</em>\" written by Cary Bates, penciled by John Rosenberger and inked by Vince Colletta. (Lois Lane, Superman vs. The 100) The Hunters division of the 100 makes Superman think Lois is a jungle woman.</li><li>\"<em>Murder by Motor</em>\" written by Cary Bates, penciled by Don Heck and inked by Henry Scarpelli. (Rose and Thorn)</li></ol><p>\"Lois Lane! Prove you are our queen... kill him!\"</p><p> </p>",
+            "has_staff_review": false,
+            "id": 124613,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/4178396-ll124.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/4178396-ll124.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/4178396-ll124.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/4178396-ll124.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/4178396-ll124.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/4178396-ll124.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/4178396-ll124.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/4178396-ll124.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/4178396-ll124.jpg",
+                "image_tags": "All Images,Covers"
+            },
+            "issue_number": "124",
+            "name": "The Hunters / Murder by Motor",
+            "site_detail_url": "https://comicvine.gamespot.com/superman-s-girl-friend-lois-lane-124-the-hunters-m/4000-124613/",
+            "store_date": "1972-05-23",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-19245/",
+                "id": 19245,
+                "name": "Superman's Girl Friend, Lois Lane",
+                "site_detail_url": "https://comicvine.gamespot.com/supermans-girl-friend-lois-lane/4050-19245/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-278931/",
+            "cover_date": "1971-08-01",
+            "date_added": "2011-07-14 10:45:08",
+            "date_last_updated": "2013-06-01 13:08:06",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 278931,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3081266-01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3081266-01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3081266-01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3081266-01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3081266-01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3081266-01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3081266-01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3081266-01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3081266-01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "124",
+            "name": "Het Vliegende Bed",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-124-het-vliegende-bed/4000-278931/",
+            "store_date": "1971-08-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}

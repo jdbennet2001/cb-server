@@ -1,0 +1,70 @@
+{
+    "1964-06-01|1965-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-8332/",
+            "cover_date": "1966-03-01",
+            "date_added": "2008-06-06 11:11:48",
+            "date_last_updated": "2014-01-23 08:14:18",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 8332,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/7552-2219-8332-1-blue-beetle.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/7552-2219-8332-1-blue-beetle.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/7552-2219-8332-1-blue-beetle.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/7552-2219-8332-1-blue-beetle.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/7552-2219-8332-1-blue-beetle.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/7552-2219-8332-1-blue-beetle.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/7552-2219-8332-1-blue-beetle.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/7552-2219-8332-1-blue-beetle.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/7552-2219-8332-1-blue-beetle.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "54",
+            "name": "The Eye of Horus",
+            "site_detail_url": "https://comicvine.gamespot.com/blue-beetle-54-the-eye-of-horus/4000-8332/",
+            "store_date": "1965-12-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-2219/",
+                "id": 2219,
+                "name": "Blue Beetle",
+                "site_detail_url": "https://comicvine.gamespot.com/blue-beetle/4050-2219/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-403297/",
+            "cover_date": "1965-12-31",
+            "date_added": "2013-05-16 12:09:40",
+            "date_last_updated": "2015-10-18 11:06:52",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 403297,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3048017-image-01.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3048017-image-01.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3048017-image-01.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3048017-image-01.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3048017-image-01.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3048017-image-01.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3048017-image-01.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3048017-image-01.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3048017-image-01.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "54",
+            "name": "De Koddige Kater",
+            "site_detail_url": "https://comicvine.gamespot.com/suske-wiske-54-de-koddige-kater/4000-403297/",
+            "store_date": "1965-01-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-41217/",
+                "id": 41217,
+                "name": "Suske en Wiske",
+                "site_detail_url": "https://comicvine.gamespot.com/suske-en-wiske/4050-41217/"
+            }
+        }
+    ]
+}
