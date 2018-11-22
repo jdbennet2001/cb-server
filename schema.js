@@ -29,6 +29,12 @@ type Suggestion {
     size: String
  }
 
+ type ImportEntry{
+    from: String
+    to: String
+    length: Int
+ }
+
  #Information about a given Volume (identified by the id)
  type Volume{
    name: String
@@ -40,11 +46,13 @@ type Suggestion {
   type Query {
     unfiled_comics: [File],
     suggestion(name: String, issue_number:Int, year:Int): [Suggestion],
-    volume(id:String): Volume
+    volume(id:String): Volume,
+    getImportQueue: [ImportEntry]
   }
 
   type Mutation {
-    import(from: String, to:String): String
+    queueImport(from: String, to:String): String
+    import( from: String, to: String): String
     download_index(issue:Int, year:Int): Int
   }
 `
@@ -65,8 +73,13 @@ module.exports.schema = makeExecutableSchema({
 let {waiting}     = require('./lib/waiting');
 let {suggestions} = require('./lib/import/suggestions');
 let {volume_info} = require('./lib/import/volume');
-let {importComic} = require('./lib/import/importComic');
-let {data}        = require('./lib/import/metadata');
+let {
+  queueComic,
+  importComic,
+  getImportQueue
+}                  = require('./lib/import/importComic');
+let {data}         = require('./lib/import/metadata');
+
 
 module.exports.root = {
 
@@ -82,12 +95,20 @@ module.exports.root = {
     return volume_info(id);
   },
 
-  import: ({from, to}) => {
-	   return importComic(from, to);
+  queueImport: ({from, to}) => {
+	   return queueComic(from, to);
+  },
+
+  import: ({from, to}) =>{
+    return importComic(from, to);
   },
 
   download_index:({issue, year}) =>{
     return data(issue, year);
+  },
+
+  getImportQueue: () =>{
+    return getImportQueue();
   }
 
 };
