@@ -1,0 +1,37 @@
+{
+    "2000-06-01|2001-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416375/",
+            "cover_date": "2001-01-05",
+            "date_added": "2013-07-05 02:51:21",
+            "date_last_updated": "2013-07-05 04:02:11",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416375,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153313-056.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153313-056.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153313-056.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153313-056.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153313-056.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153313-056.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153313-056.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153313-056.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3153313-056.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "56",
+            "name": "Vol. 56",
+            "site_detail_url": "https://comicvine.gamespot.com/kochikame-56-vol-56/4000-416375/",
+            "store_date": "2001-01-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64976/",
+                "id": 64976,
+                "name": "Kochikame",
+                "site_detail_url": "https://comicvine.gamespot.com/kochikame/4050-64976/"
+            }
+        }
+    ]
+}

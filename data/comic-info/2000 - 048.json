@@ -1,0 +1,70 @@
+{
+    "1999-06-01|2000-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-397329/",
+            "cover_date": "1999-12-14",
+            "date_added": "2013-04-14 13:15:16",
+            "date_last_updated": "2013-04-14 13:17:51",
+            "deck": "Contains : Uncanny X-Men (1981) #356-357",
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 397329,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2982391-fabulosos-x-men-48_10.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2982391-fabulosos-x-men-48_10.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2982391-fabulosos-x-men-48_10.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2982391-fabulosos-x-men-48_10.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2982391-fabulosos-x-men-48_10.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2982391-fabulosos-x-men-48_10.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2982391-fabulosos-x-men-48_10.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2982391-fabulosos-x-men-48_10.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2982391-fabulosos-x-men-48_10.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men-48/4000-397329/",
+            "store_date": "1999-12-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59622/",
+                "id": 59622,
+                "name": "Os Fabulosos X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men/4050-59622/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416367/",
+            "cover_date": "2000-05-05",
+            "date_added": "2013-07-05 02:42:54",
+            "date_last_updated": "2013-07-05 04:02:07",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416367,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3153293-048.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3153293-048.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3153293-048.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3153293-048.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3153293-048.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3153293-048.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3153293-048.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3153293-048.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3153293-048.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "48",
+            "name": "Vol. 48",
+            "site_detail_url": "https://comicvine.gamespot.com/kochikame-48-vol-48/4000-416367/",
+            "store_date": "2000-05-05",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-64976/",
+                "id": 64976,
+                "name": "Kochikame",
+                "site_detail_url": "https://comicvine.gamespot.com/kochikame/4050-64976/"
+            }
+        }
+    ]
+}

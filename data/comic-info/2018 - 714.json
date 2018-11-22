@@ -1,0 +1,37 @@
+{
+    "2017-06-01|2018-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-663572/",
+            "cover_date": "2018-05-31",
+            "date_added": "2018-03-21 01:16:28",
+            "date_last_updated": "2018-04-18 08:31:34",
+            "deck": null,
+            "description": "<p><em>WORLD WAR HULK II BEGINS!</em></p><p><em>Following his apocalyptic adventure on Planet Hulk, Amadeus Cho returns to Earth - but the raging monster inside of him has been unchained, leading to dire consequences for anybody who crosses the Formerly Awesome Hulk's path!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Mike Deodato, Jr. &amp; Morry Hollowell</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Geoff Shaw &amp; Frank D'Armata</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 663572,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6339842-714.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6339842-714.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6339842-714.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6339842-714.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6339842-714.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6339842-714.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6339842-714.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6339842-714.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6339842-714.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "714",
+            "name": "World War Hulk II Part I",
+            "site_detail_url": "https://comicvine.gamespot.com/incredible-hulk-714-world-war-hulk-ii-part-i/4000-663572/",
+            "store_date": "2018-03-21",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-105325/",
+                "id": 105325,
+                "name": "Incredible Hulk",
+                "site_detail_url": "https://comicvine.gamespot.com/incredible-hulk/4050-105325/"
+            }
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "1997-06-01|1998-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396243/",
+            "cover_date": "1998-03-07",
+            "date_added": "2013-04-07 07:23:08",
+            "date_last_updated": "2013-04-07 07:29:32",
+            "deck": "Contains : X-Men Vs Brood: Day of Wrath (1996) #01",
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 396243,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2967552-fabulosos-x-men-27_10.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2967552-fabulosos-x-men-27_10.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2967552-fabulosos-x-men-27_10.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2967552-fabulosos-x-men-27_10.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2967552-fabulosos-x-men-27_10.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2967552-fabulosos-x-men-27_10.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2967552-fabulosos-x-men-27_10.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2967552-fabulosos-x-men-27_10.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2967552-fabulosos-x-men-27_10.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "27",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men-27/4000-396243/",
+            "store_date": "1998-03-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59622/",
+                "id": 59622,
+                "name": "Os Fabulosos X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men/4050-59622/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-416746/",
+            "cover_date": "1997-07-06",
+            "date_added": "2013-07-06 09:34:28",
+            "date_last_updated": "2013-07-06 09:44:25",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 416746,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/3156036-27.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/3156036-27.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/3156036-27.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/3156036-27.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/3156036-27.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/3156036-27.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/3156036-27.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/3156036-27.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/3156036-27.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "27",
+            "name": "Vol. 27",
+            "site_detail_url": "https://comicvine.gamespot.com/yawara-27-vol-27/4000-416746/",
+            "store_date": "1997-07-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-65006/",
+                "id": 65006,
+                "name": "Yawara!",
+                "site_detail_url": "https://comicvine.gamespot.com/yawara/4050-65006/"
+            }
+        }
+    ]
+}

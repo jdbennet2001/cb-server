@@ -1,0 +1,70 @@
+{
+    "1998-06-01|1999-12-30": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-396251/",
+            "cover_date": "1998-11-07",
+            "date_added": "2013-04-07 08:39:09",
+            "date_last_updated": "2013-04-07 08:45:18",
+            "deck": "Contains : X-Men (1991) #57 , Uncanny X-Men (1981) #337",
+            "description": "  ",
+            "has_staff_review": false,
+            "id": 396251,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/2967685-fabulosos-x-men-35_10.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/2967685-fabulosos-x-men-35_10.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/2967685-fabulosos-x-men-35_10.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/2967685-fabulosos-x-men-35_10.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/2967685-fabulosos-x-men-35_10.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/2967685-fabulosos-x-men-35_10.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/2967685-fabulosos-x-men-35_10.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/2967685-fabulosos-x-men-35_10.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/2967685-fabulosos-x-men-35_10.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men-35/4000-396251/",
+            "store_date": "1998-11-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59622/",
+                "id": 59622,
+                "name": "Os Fabulosos X-Men",
+                "site_detail_url": "https://comicvine.gamespot.com/os-fabulosos-x-men/4050-59622/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-567593/",
+            "cover_date": "1998-09-02",
+            "date_added": "2016-12-16 04:05:38",
+            "date_last_updated": "2017-08-13 11:56:35",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 567593,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/5593401-35.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/5593401-35.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/5593401-35.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/5593401-35.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/5593401-35.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/5593401-35.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/5593401-35.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/5593401-35.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/5593401-35.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "35",
+            "name": "Vol. 35",
+            "site_detail_url": "https://comicvine.gamespot.com/be-bop-high-school-35-vol-35/4000-567593/",
+            "store_date": "1998-09-02",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-96785/",
+                "id": 96785,
+                "name": "Be-Bop High School",
+                "site_detail_url": "https://comicvine.gamespot.com/bebop-high-school/4050-96785/"
+            }
+        }
+    ]
+}
