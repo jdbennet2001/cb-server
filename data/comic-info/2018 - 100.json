@@ -80,5 +80,51 @@
     "2018-10-29|2018-11-04": [],
     "2018-11-05|2018-11-11": [],
     "2018-11-12|2018-11-18": [],
-    "2018-11-19|2018-11-25": []
+    "2018-11-19|2018-11-25": [],
+    "2017-10-02|2017-10-08": [],
+    "2017-10-09|2017-10-15": [],
+    "2017-10-16|2017-10-22": [],
+    "2017-10-23|2017-10-29": [],
+    "2017-10-30|2017-11-05": [],
+    "2017-11-06|2017-11-12": [],
+    "2017-11-13|2017-11-19": [],
+    "2017-11-20|2017-11-26": [],
+    "2017-11-27|2017-12-03": [],
+    "2017-12-04|2017-12-10": [],
+    "2017-12-11|2017-12-17": [],
+    "2017-12-18|2017-12-24": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-647956/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-19 16:56:31",
+            "date_last_updated": "2017-12-25 10:05:19",
+            "deck": null,
+            "description": "<p><em>RED LEDGER Part 1 (OF 5)</em></p><p><em>SPRINGING FROM THE PAGES OF SECRET EMPIRE!</em></p><p><em>THE BLACK WIDOW is dead...but someone is killing her enemies. With a broken heart and a bloody trail to follow, HAWKEYE is looking for answers. And the only person alive who may have them is Natasha Romanoff's OTHER ex-boyfriend, THE WINTER SOLDIER. Can they trust each other long enough to unravel the web of mysteries that Black Widow left behind?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Marco Checchetto</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Andrea Sorrentino</td><td>Missing</td></tr><tr><td>Var</td><td>Legacy Headshot Variant Cover</td><td>Mike McKone</td><td>2</td></tr><tr><td>Var</td><td>Trading Card Variant Cover</td><td>John Tyler Christopher</td><td>3-5</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 647956,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6195224-100.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6195224-100.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6195224-100.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6195224-100.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6195224-100.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6195224-100.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6195224-100.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6195224-100.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6195224-100.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "100",
+            "name": "Red Ledger Part 1 (of 5)",
+            "site_detail_url": "https://comicvine.gamespot.com/tales-of-suspense-100-red-ledger-part-1-of-5/4000-647956/",
+            "store_date": "2017-12-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-107169/",
+                "id": 107169,
+                "name": "Tales of Suspense",
+                "site_detail_url": "https://comicvine.gamespot.com/tales-of-suspense/4050-107169/"
+            }
+        }
+    ]
 }

@@ -1847,5 +1847,84 @@
                 "site_detail_url": "https://comicvine.gamespot.com/aquaman/4050-91738/"
             }
         }
+    ],
+    "2017-10-02|2017-10-08": [],
+    "2017-10-09|2017-10-15": [],
+    "2017-10-16|2017-10-22": [],
+    "2017-10-23|2017-10-29": [],
+    "2017-10-30|2017-11-05": [],
+    "2017-11-06|2017-11-12": [],
+    "2017-11-13|2017-11-19": [],
+    "2017-11-20|2017-11-26": [],
+    "2017-11-27|2017-12-03": [],
+    "2017-12-04|2017-12-10": [],
+    "2017-12-11|2017-12-17": [],
+    "2017-12-18|2017-12-24": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-644769/",
+            "cover_date": "2017-12-18",
+            "date_added": "2017-12-05 14:17:45",
+            "date_last_updated": "2017-12-09 02:36:34",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 644769,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6175087-42.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6175087-42.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6175087-42.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6175087-42.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6175087-42.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6175087-42.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6175087-42.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6175087-42.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6175087-42.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Vol. 42",
+            "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi-42-vol-42/4000-644769/",
+            "store_date": "2017-12-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-99339/",
+                "id": 99339,
+                "name": "Sake no Hosomichi",
+                "site_detail_url": "https://comicvine.gamespot.com/sake-no-hosomichi/4050-99339/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-647749/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-18 18:09:38",
+            "date_last_updated": "2018-04-10 21:42:46",
+            "deck": null,
+            "description": "<p><em>Janey returns to Madame George’s abandoned brothel. And what may seem like a dusty trip down memory lane instead turns into a real house of horrors for our Zombie Queen.</em></p><p><em>Features 3 regular and risqué variants, including two covers from series creator Dan Mendoza (<strong>DollFace</strong>)!!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Regular Cover</td><td>Celor</td><td>1</td></tr><tr><td>B</td><td>Risqué Cover, Limited to 2500</td><td>Celor</td><td>2</td></tr><tr><td>C</td><td>Variant Cover, Limited to 2000</td><td>Dan Mendoza</td><td>3</td></tr><tr><td>D</td><td>Risqué Variant Cover, Limited to 2500</td><td>Dan Mendoza</td><td>4</td></tr><tr><td>E</td><td>Artist Variant Cover, Limited to 2000</td><td>Mark Whitaker</td><td>5</td></tr><tr><td>F</td><td>Artist Risqué Variant Cover, Limited to 2500</td><td>Mark Whitaker</td><td>6</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 647749,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6194277-42a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6194277-42a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6194277-42a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6194277-42a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6194277-42a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6194277-42a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6194277-42a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6194277-42a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6194277-42a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "42",
+            "name": "Back To the Brothel Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/zombie-tramp-42-back-to-the-brothel-part-two/4000-647749/",
+            "store_date": "2017-12-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-75908/",
+                "id": 75908,
+                "name": "Zombie Tramp",
+                "site_detail_url": "https://comicvine.gamespot.com/zombie-tramp/4050-75908/"
+            }
+        }
     ]
 }

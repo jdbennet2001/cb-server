@@ -1424,5 +1424,820 @@
             }
         }
     ],
-    "2018-11-19|2018-11-25": []
+    "2018-11-19|2018-11-25": [],
+    "2017-10-02|2017-10-08": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-626247/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-10-03 09:41:52",
+            "date_last_updated": "2017-10-04 22:50:32",
+            "deck": null,
+            "description": "<p><em>“THE WAR OF JOKES AND RIDDLES” finale! This is the finale everyone will be talking about for years to come! In BATMAN #24, we gave you the question; in BATMAN #32, you get the answer. As the Riddler and The Joker desperately fight for supremacy in Gotham City, Batman reveals how far he had to go to end the war. Now, knowing Batman’s greatest sin, Catwoman must make her decision: Will she marry Batman? </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Mikel Janin</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Olivier Coipel &amp; Dave Stewart</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 626247,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6080831-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6080831-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6080831-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6080831-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6080831-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6080831-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6080831-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6080831-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6080831-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "The War of Jokes & Riddles Conclusion",
+            "site_detail_url": "https://comicvine.gamespot.com/batman-32-the-war-of-jokes-and-riddles-conclusion/4000-626247/",
+            "store_date": "2017-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91273/",
+                "id": 91273,
+                "name": "Batman",
+                "site_detail_url": "https://comicvine.gamespot.com/batman/4050-91273/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-626255/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-10-03 09:42:06",
+            "date_last_updated": "2018-09-30 12:23:30",
+            "deck": null,
+            "description": "<p><em><a href=\"/dark-nights/4045-59509/\" data-ref-id=\"4045-59509\">DARK NIGHTS: METAL</a> tie-in! “GOTHAM RESISTANCE” finale! The Gotham Resistance has fought its way through lands of fire, poison, destruction and fear, but no one was ready for the craziest showdown of all: Green Arrow and Black Canary, whose eternal lovers’ quarrel goes medieval as the team marches into the hellish, mind-bending world of The Man Who Laughs to uncover the secret to defeating the hordes of the Dark Multiverse! </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Stjepan Šejić</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Mike Grell</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 626255,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6081270-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6081270-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6081270-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6081270-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6081270-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6081270-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6081270-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6081270-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6081270-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Gotham Resistance Finale",
+            "site_detail_url": "https://comicvine.gamespot.com/green-arrow-32-gotham-resistance-finale/4000-626255/",
+            "store_date": "2017-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91284/",
+                "id": 91284,
+                "name": "Green Arrow",
+                "site_detail_url": "https://comicvine.gamespot.com/green-arrow/4050-91284/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-626257/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-10-03 09:42:09",
+            "date_last_updated": "2017-12-24 22:59:34",
+            "deck": null,
+            "description": "<p><em>“HOUSE PARTY”! Their trip through space and time complete, Simon Baz and Jessica Cruz find themselves back home on Earth, but new family strife makes the duo wonder if the threats of the cosmos were less taxing than dealing with your siblings.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Riccardo Federici &amp; Tomeu Morey</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Brandon Peterson</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 626257,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6080838-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6080838-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6080838-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6080838-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6080838-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6080838-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6080838-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6080838-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6080838-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "House Party",
+            "site_detail_url": "https://comicvine.gamespot.com/green-lanterns-32-house-party/4000-626257/",
+            "store_date": "2017-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91285/",
+                "id": 91285,
+                "name": "Green Lanterns",
+                "site_detail_url": "https://comicvine.gamespot.com/green-lanterns/4050-91285/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-626268/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-10-03 09:42:30",
+            "date_last_updated": "2017-10-04 02:41:30",
+            "deck": null,
+            "description": "<p><em><strong>“BREAKING POINT” Part 2</strong></em></p><p><em>Deathstroke has come to Metropolis… and he’s got his sights set on Superman. Slade Wilson gives the Man of Steel an impossible choice: maintain his ideals and let the love of his life die, or save Lois Lane and become a killer himself. Will Deathstoke push Superman to his <strong>breaking point</strong>?</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Tyler Kirkham &amp; Arif Prianto</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Jonboy Meyers</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 626268,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6080846-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6080846-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6080846-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6080846-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6080846-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6080846-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6080846-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6080846-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6080846-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Breaking Point Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/superman-32-breaking-point-part-two/4000-626268/",
+            "store_date": "2017-10-04",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91298/",
+                "id": 91298,
+                "name": "Superman",
+                "site_detail_url": "https://comicvine.gamespot.com/superman/4050-91298/"
+            }
+        }
+    ],
+    "2017-10-09|2017-10-15": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-628551/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-10-10 18:12:06",
+            "date_last_updated": "2017-10-14 22:23:01",
+            "deck": null,
+            "description": "<p><em>“Welcome to Iron Heights.” It’s Barry Allen’s first day on the job at Iron Heights Penitentiary, and it does NOT go very well as Warden Wolfe proves to be an even more demanding boss than Director Singh at the CCPD Crime Lab! And to top it all off, a ghost from Flash’s past comes back to haunt him!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Kelley Jones &amp; Michelle Madsen</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Howard Porter &amp; Hi-Fi</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 628551,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6093476-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6093476-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6093476-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6093476-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6093476-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6093476-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6093476-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6093476-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6093476-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Welcome To Iron Heights",
+            "site_detail_url": "https://comicvine.gamespot.com/the-flash-32-welcome-to-iron-heights/4000-628551/",
+            "store_date": "2017-10-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91750/",
+                "id": 91750,
+                "name": "The Flash",
+                "site_detail_url": "https://comicvine.gamespot.com/the-flash/4050-91750/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-628572/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-10-10 18:12:45",
+            "date_last_updated": "2017-12-13 10:14:40",
+            "deck": null,
+            "description": "<p><em>“CHILDREN OF THE GODS” part two! Wonder Woman must find out who is targeting Zeus’ children before their sights are set on her! What kind of monster has the power to murder a demigod?! </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Bryan Hitch &amp; Alex Sinclair</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Jenny Frison</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 628572,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6093496-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6093496-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6093496-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6093496-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6093496-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6093496-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6093496-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6093496-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6093496-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Children of the Gods Part 2",
+            "site_detail_url": "https://comicvine.gamespot.com/wonder-woman-32-children-of-the-gods-part-2/4000-628572/",
+            "store_date": "2017-10-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-91774/",
+                "id": 91774,
+                "name": "Wonder Woman",
+                "site_detail_url": "https://comicvine.gamespot.com/wonder-woman/4050-91774/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-628614/",
+            "cover_date": "2017-10-31",
+            "date_added": "2017-10-10 18:14:04",
+            "date_last_updated": "2018-04-29 16:46:25",
+            "deck": null,
+            "description": "<p><em>“EXTINCTION IS THE RULE,” Part Two</em></p><p><em>Grant spent his life rationalizing and avoiding his small, personal problems by trying to fix the grandiose ones. In his mind, this sacrifice is necessary. If he didn’t save the world, his family wouldn’t have a future. But now, even that has backfired, leading Grant to a showdown with a boundless army and himself.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Matteo Scalera &amp; Moreno DiNisio</td><td>1-2</td></tr><tr><td>B</td><td>Cover B</td><td>Mike Hawthorne &amp; Moreno DiNisio</td><td>3</td></tr><tr><td>C</td><td>The Walking Dead Tribute Variant Cover C (<a href=\"https://comicvine.gamespot.com/the-walking-dead-50-here-we-remain-pt-2/4000-132431/\" data-ref-id=\"4000-132431\">The Walking Dead #50</a>)</td><td>James Harren &amp; Moreno DiNisio</td><td>4-5</td></tr><tr><td>D</td><td>The Walking Dead Tribute Black &amp; White Variant Cover D (The Walking Dead #50)</td><td>James Harren</td><td>6</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 628614,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6093530-32a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6093530-32a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6093530-32a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6093530-32a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6093530-32a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6093530-32a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6093530-32a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6093530-32a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6093530-32a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Extinction Is the Rule Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/black-science-32-extinction-is-the-rule-part-two/4000-628614/",
+            "store_date": "2017-10-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69537/",
+                "id": 69537,
+                "name": "Black Science",
+                "site_detail_url": "https://comicvine.gamespot.com/black-science/4050-69537/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-628631/",
+            "cover_date": "2017-10-31",
+            "date_added": "2017-10-10 18:14:31",
+            "date_last_updated": "2018-04-29 16:46:09",
+            "deck": null,
+            "description": "<p><em>\"IMPERIAL PHASE II\", Part Four</em></p><p><em>It's time for a \"Wait—he's doing what? But he's...yes! No! Oh no! But then she did the—and WHATTAAATATAT? I think I'll sit down and have a cup of herbal tea\" issue.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Jamie McKelvie &amp; Matthew Wilson</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Noelle Stevenson</td><td>2</td></tr><tr><td>C</td><td>The Walking Dead Tribute Variant Cover C (<a href=\"https://comicvine.gamespot.com/the-walking-dead-150-betrayed/4000-510996/\" data-ref-id=\"4000-510996\">The Walking Dead #150</a>)</td><td>Jamie McKelvie &amp; Matthew Wilson</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 628631,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6093543-32a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6093543-32a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6093543-32a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6093543-32a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6093543-32a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6093543-32a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6093543-32a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6093543-32a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6093543-32a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "The Red Shoes; The Beep Test",
+            "site_detail_url": "https://comicvine.gamespot.com/the-wicked-the-divine-32-the-red-shoes-the-beep-te/4000-628631/",
+            "store_date": "2017-10-11",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-74863/",
+                "id": 74863,
+                "name": "The Wicked + The Divine",
+                "site_detail_url": "https://comicvine.gamespot.com/the-wicked-the-divine/4050-74863/"
+            }
+        }
+    ],
+    "2017-10-16|2017-10-22": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-629513/",
+            "cover_date": "2017-10-18",
+            "date_added": "2017-10-16 00:52:30",
+            "date_last_updated": "2017-10-22 19:34:25",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 629513,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6100959-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6100959-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6100959-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6100959-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6100959-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6100959-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6100959-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6100959-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6100959-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Volume 32",
+            "site_detail_url": "https://comicvine.gamespot.com/joju-senjin-mushibugyo-32-volume-32/4000-629513/",
+            "store_date": "2017-10-18",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-59236/",
+                "id": 59236,
+                "name": "Joju Senjin!! Mushibugyo",
+                "site_detail_url": "https://comicvine.gamespot.com/joju-senjin-mushibugyo/4050-59236/"
+            }
+        }
+    ],
+    "2017-10-23|2017-10-29": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-633335/",
+            "cover_date": "2017-11-01",
+            "date_added": "2017-10-28 11:33:53",
+            "date_last_updated": "2017-10-28 11:50:36",
+            "deck": null,
+            "description": "<p><em><strong>76 pages packed with arachnid-adventure! Only £3.99!</strong></em></p><p><em>The Osborn Identity begins! He is Spider-Man’s greatest enemy! Now, the Green Goblin is back and Spidey is gonna hunt him down no matter what!</em></p><p><em>Plus, Civil War II – The Aftermath! Ultimate Spider-Man’s life is never going to be the same again!</em></p><p><em>By Dan Slott, Stuart Immonen, Brian Michael Bendis and Sara Pichelli.</em></p><p><em>Includes material reprinted from Amazing Spider-Man #25 and Spider-Man #10.</em></p>",
+            "has_staff_review": false,
+            "id": 633335,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6119594-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6119594-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6119594-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6119594-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6119594-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6119594-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6119594-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6119594-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6119594-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spider-man-32/4000-633335/",
+            "store_date": "2017-10-26",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-93039/",
+                "id": 93039,
+                "name": "The Astonishing Spider-Man",
+                "site_detail_url": "https://comicvine.gamespot.com/the-astonishing-spiderman/4050-93039/"
+            }
+        }
+    ],
+    "2017-10-30|2017-11-05": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-634517/",
+            "cover_date": "2018-01-31",
+            "date_added": "2017-10-31 16:50:36",
+            "date_last_updated": "2017-11-15 11:58:02",
+            "deck": null,
+            "description": "<p><em>A METAL tie-in! “BATS OUT OF HELL” part two! The Justice League have been separated by the dreaded Dark Knights and are forced into twisted Bat-Caves designed to kill them! The Batman Who Laughs and the Murder Machine experiment on Cyborg, seeing how he reacts to the horrors of the Dark Multiverse! Can the Justice League survive their worst nightmares made real?!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Ethan Van Sciver &amp; Jason Wright</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Howard Porter &amp; Hi-Fi</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 634517,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6130794-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6130794-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6130794-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6130794-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6130794-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6130794-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6130794-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6130794-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6130794-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Bats Out of Hell, Part Two: Countdown To Extinction",
+            "site_detail_url": "https://comicvine.gamespot.com/justice-league-32-bats-out-of-hell-part-two-countd/4000-634517/",
+            "store_date": "2017-11-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92373/",
+                "id": 92373,
+                "name": "Justice League",
+                "site_detail_url": "https://comicvine.gamespot.com/justice-league/4050-92373/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-634519/",
+            "cover_date": "2018-01-31",
+            "date_added": "2017-10-31 16:50:40",
+            "date_last_updated": "2017-12-20 14:30:05",
+            "deck": null,
+            "description": "<p><em>“Raptor’s Revenge” part three! Nightwing and Blockbuster are forced into becoming allies as Raptor’s plans grow more sinister--and more brazen! The last thing Dick Grayson was expecting was for Raptor to walk right up to him at his day job at the Marcus Casino...and the villain's first gamble? The lives of everyone in Blüdhaven! </em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Javier Fernandez &amp; Chris Sotomayor</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Yasmine Putri</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 634519,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6130796-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6130796-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6130796-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6130796-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6130796-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6130796-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6130796-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6130796-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6130796-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Raptor's Revenge Part Three",
+            "site_detail_url": "https://comicvine.gamespot.com/nightwing-32-raptors-revenge-part-three/4000-634519/",
+            "store_date": "2017-11-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92569/",
+                "id": 92569,
+                "name": "Nightwing",
+                "site_detail_url": "https://comicvine.gamespot.com/nightwing/4050-92569/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-634566/",
+            "cover_date": "2017-11-30",
+            "date_added": "2017-10-31 16:52:33",
+            "date_last_updated": "2017-11-01 17:09:31",
+            "deck": null,
+            "description": "<p><em>McGraw puts faith in his and Daisy’s “unique understanding” while trying to deal with the fact he is a low-down, double-dealing dirty cheat whose name is now mud in the influential Spanish community.</em></p>",
+            "has_staff_review": false,
+            "id": 634566,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6125134-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6125134-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6125134-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6125134-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6125134-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6125134-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6125134-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6125134-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6125134-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/giant-days-32/4000-634566/",
+            "store_date": "2017-11-01",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80753/",
+                "id": 80753,
+                "name": "Giant Days",
+                "site_detail_url": "https://comicvine.gamespot.com/giant-days/4050-80753/"
+            }
+        }
+    ],
+    "2017-11-06|2017-11-12": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-636345/",
+            "cover_date": "2018-01-31",
+            "date_added": "2017-11-08 03:40:49",
+            "date_last_updated": "2018-04-03 21:09:59",
+            "deck": null,
+            "description": "<p><em>A METAL tie-in! “BATS OUT OF HELL” part three! The Dawnbreaker descends on Coast City, ready to suck its light away before moving on to the rest of our world. Backed up by the power of the Justice League, Hal Jordan stands ready to stop the perverted Lantern—until the Batman Who Laughs steps out of the shadows.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Ethan Van Sciver &amp; Jason Wright</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Barry Kitson &amp; Hi-Fi</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 636345,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6135161-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6135161-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6135161-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6135161-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6135161-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6135161-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6135161-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6135161-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6135161-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Bats Out of Hell Part Three: None More Black",
+            "site_detail_url": "https://comicvine.gamespot.com/hal-jordan-and-the-green-lantern-corps-32-bats-out/4000-636345/",
+            "store_date": "2017-11-08",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92557/",
+                "id": 92557,
+                "name": "Hal Jordan and the Green Lantern Corps",
+                "site_detail_url": "https://comicvine.gamespot.com/hal-jordan-and-the-green-lantern-corps/4050-92557/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-637071/",
+            "cover_date": "2017-11-30",
+            "date_added": "2017-11-09 22:54:02",
+            "date_last_updated": "2017-11-09 22:57:07",
+            "deck": null,
+            "description": "<p> Translates Star Wars #32 &amp; Star Wars: Doctor Aphra #8.</p>",
+            "has_staff_review": false,
+            "id": 637071,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6137782-6047677326-porta.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6137782-6047677326-porta.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6137782-6047677326-porta.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6137782-6047677326-porta.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6137782-6047677326-porta.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6137782-6047677326-porta.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6137782-6047677326-porta.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6137782-6047677326-porta.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6137782-6047677326-porta.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "La Ciudadela de los Gritos 3 de 3",
+            "site_detail_url": "https://comicvine.gamespot.com/star-wars-32-la-ciudadela-de-los-gritos-3-de-3/4000-637071/",
+            "store_date": "2017-11-07",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-105662/",
+                "id": 105662,
+                "name": "Star Wars",
+                "site_detail_url": "https://comicvine.gamespot.com/star-wars/4050-105662/"
+            }
+        }
+    ],
+    "2017-11-13|2017-11-19": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-638212/",
+            "cover_date": "2017-11-14",
+            "date_added": "2017-11-13 23:15:22",
+            "date_last_updated": "2018-02-10 15:20:52",
+            "deck": null,
+            "description": "<p><em>A powerless Flash travels to Australia to try make amends for an incident that happened early in Superman's reign.</em></p>",
+            "has_staff_review": false,
+            "id": 638212,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6143873-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6143873-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6143873-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6143873-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6143873-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6143873-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6143873-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6143873-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6143873-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Step Forward",
+            "site_detail_url": "https://comicvine.gamespot.com/injustice-2-32-step-forward/4000-638212/",
+            "store_date": "2017-11-14",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-100663/",
+                "id": 100663,
+                "name": "Injustice 2",
+                "site_detail_url": "https://comicvine.gamespot.com/injustice-2/4050-100663/"
+            }
+        }
+    ],
+    "2017-11-20|2017-11-26": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641249/",
+            "cover_date": "2017-11-22",
+            "date_added": "2017-11-21 15:12:59",
+            "date_last_updated": "2017-11-26 09:16:41",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 641249,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6155319-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6155319-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6155319-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6155319-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6155319-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6155319-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6155319-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6155319-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6155319-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vol. 32",
+            "site_detail_url": "https://comicvine.gamespot.com/uchuu-kyoudai-32-vol-32/4000-641249/",
+            "store_date": "2017-11-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80409/",
+                "id": 80409,
+                "name": "Uchuu Kyoudai",
+                "site_detail_url": "https://comicvine.gamespot.com/uchuu-kyoudai/4050-80409/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641382/",
+            "cover_date": "2018-01-31",
+            "date_added": "2017-11-21 17:01:56",
+            "date_last_updated": "2017-12-01 21:06:15",
+            "deck": null,
+            "description": "<p><em>\"Vote Harley\" conclusion! One of the people Harley loves most in this world is dead, and the Mayor is to blame! Revenge won't make Harley feel better...but that doesn't mean she won't take it!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Amanda Conner &amp; Paul Mounts</td><td>1</td></tr><tr><td>Var</td><td>Variant Cover</td><td>Frank Cho &amp; Sabine Rich</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 641382,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6160150-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6160150-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6160150-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6160150-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6160150-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6160150-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6160150-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6160150-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6160150-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Vote Harley Finale: Off The Leash",
+            "site_detail_url": "https://comicvine.gamespot.com/harley-quinn-32-vote-harley-finale-off-the-leash/4000-641382/",
+            "store_date": "2017-11-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-92750/",
+                "id": 92750,
+                "name": "Harley Quinn",
+                "site_detail_url": "https://comicvine.gamespot.com/harley-quinn/4050-92750/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-641390/",
+            "cover_date": "2018-01-31",
+            "date_added": "2017-11-21 17:02:09",
+            "date_last_updated": "2017-12-25 07:37:04",
+            "deck": null,
+            "description": "<p><em>Atom Ant knows that good things come in small packages. But Scooby and the gang know that “ghoul” things come in big packages—and they’ll prove it when they join forces with the minuscule marvel to tackle a mad scientist’s giant monsters!</em></p>",
+            "has_staff_review": false,
+            "id": 641390,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6155586-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6155586-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6155586-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6155586-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6155586-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6155586-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6155586-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6155586-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6155586-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Don't Bug Me!",
+            "site_detail_url": "https://comicvine.gamespot.com/scooby-doo-team-up-32-dont-bug-me/4000-641390/",
+            "store_date": "2017-11-22",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69374/",
+                "id": 69374,
+                "name": "Scooby-Doo Team-Up",
+                "site_detail_url": "https://comicvine.gamespot.com/scoobydoo-teamup/4050-69374/"
+            }
+        }
+    ],
+    "2017-11-27|2017-12-03": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-643076/",
+            "cover_date": "2017-11-30",
+            "date_added": "2017-11-28 18:42:00",
+            "date_last_updated": "2018-04-29 16:46:46",
+            "deck": null,
+            "description": "<p><em>Magdalene and Sacagawea take a young woman under their wing, as there is more to survival than confronting monsters in the wild.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Matthew Roberts &amp; Owen Gieni</td><td>1</td></tr><tr><td>B</td><td>The Walking Dead Tribute Variant Cover B (<a href=\"https://comicvine.gamespot.com/the-walking-dead-19-the-hearts-desire-pt-1/4000-106801/\" data-ref-id=\"4000-106801\">The Walking Dead #19</a>)</td><td>Matthew Roberts &amp; Owen Gieni</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 643076,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6164999-32a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6164999-32a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6164999-32a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6164999-32a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6164999-32a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6164999-32a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6164999-32a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6164999-32a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6164999-32a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": null,
+            "site_detail_url": "https://comicvine.gamespot.com/manifest-destiny-32/4000-643076/",
+            "store_date": "2017-11-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-69138/",
+                "id": 69138,
+                "name": "Manifest Destiny",
+                "site_detail_url": "https://comicvine.gamespot.com/manifest-destiny/4050-69138/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-643105/",
+            "cover_date": "2017-11-30",
+            "date_added": "2017-11-28 18:42:48",
+            "date_last_updated": "2018-07-16 12:18:21",
+            "deck": null,
+            "description": "<p><em><strong>“Whom the Gods Would Destroy!”</strong> When Magica De Spell uses a stolen magic wand to turn the Beagle Boys into super-powerful Greek gods, Scrooge McDuck thinks they’ve found his Achilles heel!</em></p><h2>Contents</h2><ul><li>Whom the Gods Would Destroy! (from Swedish Kalle Ankas Pocket 434, 2014)</li></ul><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>Massimo Fecchi (a) &amp; Marco Colletti (c)</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Giorgio Cavazzano (a) &amp; Andrea Cagol (c)</td><td>2</td></tr><tr><td>RI</td><td>1:10 Retailer Incentive Cover</td><td>Marco Mazarello (a) &amp; Ronda Pattison (c)</td><td>3</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 643105,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6165033-32a.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6165033-32a.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6165033-32a.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6165033-32a.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6165033-32a.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6165033-32a.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6165033-32a.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6165033-32a.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6165033-32a.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Whom the Gods Would Destroy!",
+            "site_detail_url": "https://comicvine.gamespot.com/uncle-scrooge-32-whom-the-gods-would-destroy/4000-643105/",
+            "store_date": "2017-11-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81497/",
+                "id": 81497,
+                "name": "Uncle Scrooge",
+                "site_detail_url": "https://comicvine.gamespot.com/uncle-scrooge/4050-81497/"
+            }
+        },
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-643118/",
+            "cover_date": "2017-11-30",
+            "date_added": "2017-11-28 18:43:14",
+            "date_last_updated": "2017-11-30 03:31:27",
+            "deck": null,
+            "description": "<p><em>Special guest issue written by Pamela Ribon (SLAM!, Moana) and illustrated by Erica Hayes (Rick and Morty™ storyboard artist)! Picking up after the events of “Raising Gazorpazorp,” Summer is in possession of a brand-new pink spaceship. After triggering the ship’s AI, Summer grows closer and closer with the ship, embarking on amazing adventures together. But there’s such a thing as too close…</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>A</td><td>Cover A</td><td>CJ Cannon &amp; Rian Sygh</td><td>1</td></tr><tr><td>B</td><td>Cover B</td><td>Terry Blas</td><td>2</td></tr><tr><td>RE</td><td>Unknown Retailer Variant Cover</td><td>Emmett Helen</td><td>Missing</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 643118,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6165051-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6165051-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6165051-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6165051-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6165051-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6165051-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6165051-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6165051-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6165051-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Summer's Eve",
+            "site_detail_url": "https://comicvine.gamespot.com/rick-and-morty-32-summers-eve/4000-643118/",
+            "store_date": "2017-11-29",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-81059/",
+                "id": 81059,
+                "name": "Rick and Morty",
+                "site_detail_url": "https://comicvine.gamespot.com/rick-and-morty/4050-81059/"
+            }
+        }
+    ],
+    "2017-12-04|2017-12-10": [],
+    "2017-12-11|2017-12-17": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-647021/",
+            "cover_date": "2017-12-31",
+            "date_added": "2017-12-15 06:36:32",
+            "date_last_updated": "2017-12-15 07:12:41",
+            "deck": null,
+            "description": "<p><em>The enemy leading the tempest, part seven.</em></p><p><em>Years ago, Tessa used part of her essence to save the life of Mystic Halo's daughter, Julia. A small portion of her power, but enough to make her a target. Plus, the competition between the Voice from the Pit and Balthazaar comes to an end.</em></p>",
+            "has_staff_review": false,
+            "id": 647021,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6189019-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6189019-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6189019-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6189019-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6189019-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6189019-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6189019-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6189019-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6189019-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "The Enemy Leading the Tempest, Part Seven",
+            "site_detail_url": "https://comicvine.gamespot.com/manifest-32-the-enemy-leading-the-tempest-part-sev/4000-647021/",
+            "store_date": "2017-12-13",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-84373/",
+                "id": 84373,
+                "name": "Manifest",
+                "site_detail_url": "https://comicvine.gamespot.com/manifest/4050-84373/"
+            }
+        }
+    ],
+    "2017-12-18|2017-12-24": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-647951/",
+            "cover_date": "2018-02-28",
+            "date_added": "2017-12-19 16:56:23",
+            "date_last_updated": "2017-12-25 10:40:20",
+            "deck": null,
+            "description": "<p><em>SCARLET SAMURAI Part 2</em></p><p><em>It's LOGAN versus ninja after ninja after ninja when the HAND attack!</em></p><p><em>Their new leader has it in for our hero, and the SCARLET SAMURAI is willing to do anything to be the cause of Logan's end.</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Mike Deodato &amp; Frank Martin</td><td>1</td></tr><tr><td>Var</td><td>Phoenix Variant Cover</td><td>Chris Burnham &amp; Jason Keith</td><td>Missing</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 647951,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6195420-32.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6195420-32.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6195420-32.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6195420-32.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6195420-32.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6195420-32.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6195420-32.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6195420-32.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6195420-32.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "32",
+            "name": "Scarlet Samurai Part Two",
+            "site_detail_url": "https://comicvine.gamespot.com/old-man-logan-32-scarlet-samurai-part-two/4000-647951/",
+            "store_date": "2017-12-20",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-87624/",
+                "id": 87624,
+                "name": "Old Man Logan",
+                "site_detail_url": "https://comicvine.gamespot.com/old-man-logan/4050-87624/"
+            }
+        }
+    ]
 }

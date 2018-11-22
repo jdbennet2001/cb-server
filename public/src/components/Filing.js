@@ -1,6 +1,7 @@
 const React 	      = require('react');
 const _             = require('lodash');
 const sequential    = require('promise-sequential');
+const basename      = require('basename');
 
 import './Filing.css'
 
@@ -90,6 +91,14 @@ class Filing extends React.Component {
       let state = self.state;
           state = _.assign(state, {target});
       self.setState(state);
+    })
+
+    window.bus.once('fileComics', () =>{
+      get_import_queue().then(data =>{
+        file_comics(data.getImportQueue);
+      }, err => {
+        alert(`${err.message}`)
+      })
 
     })
 
@@ -194,6 +203,25 @@ function updateIndexTables(issues){
 }
 
 
+function file_comics(issues){
+
+  debugger;
+
+    let updates = _.reduce(issues, function(promise_chain, issue, count){
+
+    return promise_chain.then( data =>{
+      let {from} = issue;
+      window.bus.emit('message', `${_.padStart(count, 3, '0')} - Filing: ${basename(from)}`);
+      return doFile(issue);
+    })
+  
+  }, Promise.resolve() );
+  
+  return updates.then( () =>{
+      window.bus.emit('message', ``);    
+  })
+}
+
 /*
  Get all queued comics from the download directory
  */
@@ -204,15 +232,32 @@ function get_comics(){
   return request(endpoint,query);
 }
 
+function get_import_queue(){
+  const endpoint = '/graphql';
+  const query = `{getImportQueue{from to length } }`;
+  return request(endpoint,query);
+}
+
 function doImport(from, to){
 
 	const endpoint = '/graphql';
 	const mutation = `mutation importIssue($from:String, $to:String) {
-			import(from:$from, to:$to)
+			queueImport(from:$from, to:$to)
 	}`
 	const variables = {from, to};
 
 	return request(endpoint, mutation, variables);
+}
+
+function doFile({from, to, length}){
+
+  const endpoint = '/graphql';
+  const mutation = `mutation importIssue($from:String, $to:String) {
+      import(from:$from, to:$to)
+  }`
+  const variables = {from, to};
+
+  return request(endpoint, mutation, variables);
 }
 
 function doDownloadIndex(title, year, issue){

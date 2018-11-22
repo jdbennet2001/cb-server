@@ -618,5 +618,85 @@
     "2018-11-05|2018-11-11": [],
     "2018-11-12|2018-11-18": [],
     "2017-12-25|2017-12-31": [],
-    "2018-11-19|2018-11-25": []
+    "2018-11-19|2018-11-25": [],
+    "2017-10-02|2017-10-08": [],
+    "2017-10-09|2017-10-15": [],
+    "2017-10-16|2017-10-22": [],
+    "2017-10-23|2017-10-29": [],
+    "2017-10-30|2017-11-05": [],
+    "2017-11-06|2017-11-12": [],
+    "2017-11-13|2017-11-19": [],
+    "2017-11-20|2017-11-26": [],
+    "2017-11-27|2017-12-03": [],
+    "2017-12-04|2017-12-10": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-677585/",
+            "cover_date": "2017-12-01",
+            "date_added": "2018-07-21 11:36:05",
+            "date_last_updated": "2018-07-21 12:14:21",
+            "deck": " ",
+            "description": "<p><em>This Is Who I Am</em></p><p><em>This Is Who I Am is a story built up of the avatars and images in the folders of a teenager's computer, This Is Who I Am is a map of the mysteries and obsessions that define us all, the outline of the events of an unforgettable summer.</em></p><p><em>The reader is invited to decode events from the names of the folders and the images shown. Was it a summer of joy, or does some other truth lurk behind each picture?</em></p><p><em>This issue of the anthology Strip For Me will only be available digitally.</em></p>",
+            "has_staff_review": false,
+            "id": 677585,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6524058-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6524058-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6524058-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6524058-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6524058-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6524058-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6524058-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6524058-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6524058-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": "This Is Who I Am",
+            "site_detail_url": "https://comicvine.gamespot.com/strip-for-me-47-this-is-who-i-am/4000-677585/",
+            "store_date": "2017-12-06",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-80381/",
+                "id": 80381,
+                "name": "Strip For Me",
+                "site_detail_url": "https://comicvine.gamespot.com/strip-for-me/4050-80381/"
+            }
+        }
+    ],
+    "2017-12-11|2017-12-17": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-644657/",
+            "cover_date": "2017-12-15",
+            "date_added": "2017-12-05 14:14:34",
+            "date_last_updated": "2017-12-09 01:22:25",
+            "deck": null,
+            "description": null,
+            "has_staff_review": false,
+            "id": 644657,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6174948-47.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6174948-47.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6174948-47.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6174948-47.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6174948-47.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6174948-47.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6174948-47.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6174948-47.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6174948-47.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "47",
+            "name": "Vol. 47",
+            "site_detail_url": "https://comicvine.gamespot.com/baby-steps-47-vol-47/4000-644657/",
+            "store_date": "2017-12-15",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-50225/",
+                "id": 50225,
+                "name": "Baby Steps",
+                "site_detail_url": "https://comicvine.gamespot.com/baby-steps/4050-50225/"
+            }
+        }
+    ],
+    "2017-12-18|2017-12-24": []
 }
