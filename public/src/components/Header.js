@@ -12,7 +12,7 @@ class Header extends React.Component {
   componentDidMount(){
     let self = this;
     window.bus.on('message', message =>{
-      self.setState({message})
+      self.setState({message: JSON.stringify(message)})
     })
   }
 

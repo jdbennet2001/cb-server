@@ -115,7 +115,11 @@ module.exports.root = {
     return getImportQueue();
   },
   indexCatalog: () =>{
-    return index(source_dir);
+     return index(source_dir).then(data=>{
+        return 'Success!'
+     }, err =>{
+       return err.message;
+     })
   }
 
 

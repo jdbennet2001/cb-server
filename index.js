@@ -1,8 +1,10 @@
-const express 	= require('express')
-const cors 		= require('cors')
-const nconf 	= require('nconf');
-const path 		= require('path');
-const _ 		= require('lodash');
+const express 		= require('express')
+const cors 				= require('cors')
+const nconf 			= require('nconf');
+const path 				= require('path');
+const _ 					= require('lodash');
+const http        = require('http');
+const socketIO    = require('socket.io');
 
 const config 	= path.join(__dirname, './config/app.json')
 nconf.file({ file: config } );
@@ -61,4 +63,18 @@ app.use('/graphql', graphqlHTTP({
 	graphiql: true,
 }));
 
-app.listen(2002, () => console.log('CORS-enabled web server listening on port 2002'))
+const server = require('http').createServer(app);
+const io = require('socket.io')(server);
+io.on('connection', (socket) => {
+
+	socket.emit('message', 'Socket connected..')
+
+	process.on('info', message =>{
+		console.log( `Info: ${message}`)
+		socket.emit('message', message)
+	});
+
+});
+server.listen(2002);
+
+// app.listen(2002, () => console.log('CORS-enabled web server listening on port 2002'))
