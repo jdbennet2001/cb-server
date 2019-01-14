@@ -65,16 +65,16 @@ app.use('/graphql', graphqlHTTP({
 
 const server = require('http').createServer(app);
 const io = require('socket.io')(server);
-io.on('connection', (socket) => {
 
-	socket.emit('message', 'Socket connected..')
+process.on('info', message =>{
+	console.log( `Info: ${message}`)
+	let sockets = _.values(io.sockets.sockets);
+	sockets.forEach(socket =>{
+		socket.emit('message', message)	
+	})
+	
+})
 
-	process.on('info', message =>{
-		console.log( `Info: ${message}`)
-		socket.emit('message', message)
-	});
-
-});
 server.listen(2002);
 
 // app.listen(2002, () => console.log('CORS-enabled web server listening on port 2002'))
