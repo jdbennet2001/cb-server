@@ -862,5 +862,43 @@
     "2017-11-27|2017-12-03": [],
     "2017-12-04|2017-12-10": [],
     "2017-12-11|2017-12-17": [],
-    "2017-12-18|2017-12-24": []
+    "2017-12-18|2017-12-24": [],
+    "2018-11-26|2018-12-02": [],
+    "2018-12-03|2018-12-09": [],
+    "2018-12-10|2018-12-16": [],
+    "2018-12-17|2018-12-23": [
+        {
+            "aliases": null,
+            "api_detail_url": "https://comicvine.gamespot.com/api/issue/4000-695565/",
+            "cover_date": "2018-12-19",
+            "date_added": "2018-12-19 06:03:56",
+            "date_last_updated": "2018-12-19 06:48:46",
+            "deck": " ",
+            "description": "<p><em>It's almost Jo's birthday, and for April that can only mean one thing: their yearly birthday movie night tradition! Now, she just has to figure out how to have movie night at camp, with no TV and no electricity! Luckily, though, there's the rest of Roanoke cabin and yeti friends to help make it happen!</em></p><h4>List of covers and their creators:</h4><table data-max-width=\"true\"><thead><tr><th scope=\"col\">Cover</th><th scope=\"col\">Name</th><th scope=\"col\">Creator(s)</th><th scope=\"col\">Sidebar Location</th></tr></thead><tbody><tr><td>Reg</td><td>Regular Cover</td><td>Kat Leyh</td><td>1</td></tr><tr><td>Sub</td><td>Preorder Cover</td><td>Naomi Franquiz</td><td>2</td></tr></tbody></table>",
+            "has_staff_review": false,
+            "id": 695565,
+            "image": {
+                "icon_url": "https://comicvine.gamespot.com/api/image/square_avatar/6730376-57.jpg",
+                "medium_url": "https://comicvine.gamespot.com/api/image/scale_medium/6730376-57.jpg",
+                "screen_url": "https://comicvine.gamespot.com/api/image/screen_medium/6730376-57.jpg",
+                "screen_large_url": "https://comicvine.gamespot.com/api/image/screen_kubrick/6730376-57.jpg",
+                "small_url": "https://comicvine.gamespot.com/api/image/scale_small/6730376-57.jpg",
+                "super_url": "https://comicvine.gamespot.com/api/image/scale_large/6730376-57.jpg",
+                "thumb_url": "https://comicvine.gamespot.com/api/image/scale_avatar/6730376-57.jpg",
+                "tiny_url": "https://comicvine.gamespot.com/api/image/square_mini/6730376-57.jpg",
+                "original_url": "https://comicvine.gamespot.com/api/image/original/6730376-57.jpg",
+                "image_tags": "All Images"
+            },
+            "issue_number": "57",
+            "name": "Chapter Fifty-Seven: The Life of the Party",
+            "site_detail_url": "https://comicvine.gamespot.com/lumberjanes-57-chapter-fifty-seven-the-life-of-the/4000-695565/",
+            "store_date": "2018-12-19",
+            "volume": {
+                "api_detail_url": "https://comicvine.gamespot.com/api/volume/4050-72941/",
+                "id": 72941,
+                "name": "Lumberjanes",
+                "site_detail_url": "https://comicvine.gamespot.com/lumberjanes/4050-72941/"
+            }
+        }
+    ]
 }
