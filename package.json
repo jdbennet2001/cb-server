@@ -46,7 +46,7 @@
     "@babel/preset-react": "^7.0.0",
     "babelify": "^10.0.0",
     "browserify-css": "^0.14.0",
-    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-react": "^7.13.0",
     "nodemon": "^1.18.4",
     "reactify": "^1.1.1",
     "watchify": "^3.11.0"
